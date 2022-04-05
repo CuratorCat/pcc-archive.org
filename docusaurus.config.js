@@ -76,19 +76,19 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'PCC Official',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Website',
+                href: 'https://www.purrnelopescountryclub.com/',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'http://discord.gg/purrnelopescountryclub',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/PurrnelopesCC',
               },
             ],
           },
@@ -96,11 +96,11 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Posts Archive',
+                href: '/posts/archive',
               },
               {
-                label: 'GitHub',
+                label: 'PCC Archive GitHub',
                 href: 'https://github.com/CuratorCat/pcc-archive.org',
               },
             ],
