@@ -1,0 +1,29 @@
+purrnelope:
+  name: Purrnelope
+  title: '#WeLoveThePurrs'
+  image_url: /img/authors/purrnelope.jpg
+  url: https://twitter.com/PurrnelopesCC
+
+carlini8:
+  name: Carlini8
+  title: carlini8.pcc.eth
+  image_url: https://metadata.ens.domains/mainnet/avatar/carlini8.pcc.eth
+  url: https://twitter.com/Carlini8N
+
+papa:
+  name: "Papa Cat (Peter)"
+  title: papa.pcc.eth
+  image_url: /img/authors/papa.jpg
+  url: https://twitter.com/Tweeteronfire78
+
+dangywing:
+  name: Dangy Wing
+  title: dangywing.pcc.eth
+  image_url: https://metadata.ens.domains/mainnet/avatar/dangywing.pcc.eth
+  url: https://twitter.com/DangyWing
+
+katie:
+  name: Katie Niepp
+  title: katie.pcc.eth 
+  image_url: https://metadata.ens.domains/mainnet/avatar/katie.pcc.eth
+  url: https://twitter.com/Hippapasta
