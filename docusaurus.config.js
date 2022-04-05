@@ -22,12 +22,20 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
+          path: 'wiki',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/CuratorCat/pcc-archive.org/tree/main/',
         },
         blog: {
+          routeBasePath: 'posts',
+          path: 'posts',
+          blogTitle: 'Posts',
+          blogDescription: 'PCC Posts Archive',
           showReadingTime: true,
+          postsPerPage: 15,
+          blogSidebarCount: 15,
           // Please change this to your repo.
           editUrl:
             'https://github.com/CuratorCat/pcc-archive.org/tree/main/',
@@ -49,29 +57,24 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/CuratorCat/pcc-archive.org',
-            label: 'GitHub',
-            position: 'right',
-          },
+          { to: '/club', label: 'The Club', position: 'left' },
+          { to: '/collections/cats', label: 'Cats', position: 'left' },
+          { to: '/collections/kittens', label: 'Kittens', position: 'left' },
+          { to: '/posts', label: 'Posts', position: 'left' },
+          { to: '/posts/tags/purr-cast', label: 'PurrCast', position: 'left' },
+          { to: '/posts/tags', label: 'Tags', position: 'left' },
+          { to: '/official-links', label: 'Official Links', position: 'left' },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'PCC-Archive.org',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'About',
+                to: '/#',
               },
             ],
           },
@@ -89,6 +92,10 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/PurrnelopesCC',
+              },
+              {
+                label: 'Official Links',
+                href: '/official-links',
               },
             ],
           },
