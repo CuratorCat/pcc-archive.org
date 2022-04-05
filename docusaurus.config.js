@@ -74,7 +74,15 @@ const config = {
             items: [
               {
                 label: 'About',
-                to: '/#',
+                to: '/about',
+              },
+              {
+                label: 'FAQ',
+                to: '/about#faq',
+              },
+              {
+                label: 'Contribute',
+                to: '/contribute',
               },
             ],
           },
