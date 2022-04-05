@@ -113,7 +113,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} PCC Archive, Inc. Built with Docusaurus.`,
+        copyright: `${new Date().getFullYear()} pcc-archive.org`,
       },
       prism: {
         theme: lightCodeTheme,
