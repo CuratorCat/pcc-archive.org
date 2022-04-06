@@ -1,6 +1,6 @@
 ---
-title: "[NFT Catcher Podcast]: INTERVIEW: Carlini | NFT OG from 2017"
-description: "[NFT Catcher Podcast]: INTERVIEW: Carlini | NFT OG from 2017"
+title: "NFT Catcher Podcast: INTERVIEW Carlini, NFT OG from 2017"
+description: "NFT Catcher Podcast: INTERVIEW Carlini, NFT OG from 2017"
 authors:
   - name: NFT Catcher Podcast
     title: "@NFTCatcherPod"

@@ -1,6 +1,6 @@
 ---
-title: "[Lucky Trader]: Purrnelope's Country Club: Roadmap 2.0 Announced"
-description: "[Lucky Trader]: Purrnelope's Country Club: Roadmap 2.0 Announced"
+title: "Lucky Trader: Purrnelope's Country Club: Roadmap 2.0 Announced"
+description: "Lucky Trader: Purrnelope's Country Club: Roadmap 2.0 Announced"
 authors:
   - name: "@LouDogSherman"
     title: "Host @LuckyTraderHQ"

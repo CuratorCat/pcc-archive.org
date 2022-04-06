@@ -1,6 +1,6 @@
 ---
-title: "[Overpriced JPEGs]: The Past & Future of NFTs with Carlini8"
-description: "[Overpriced JPEGs]: The Past & Future of NFTs with Carlini8"
+title: "Overpriced JPEGs: The Past & Future of NFTs with Carlini8"
+description: "Overpriced JPEGs: The Past & Future of NFTs with Carlini8"
 authors:
   - name: Carly Reilly
     title: host @overpricedJPEGs
