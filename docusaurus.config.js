@@ -37,7 +37,7 @@ const config = {
           blogDescription: 'PCC Posts Archive',
           showReadingTime: true,
           postsPerPage: 15,
-          blogSidebarCount: 15,
+          blogSidebarCount: 10,
           // Please change this to your repo.
           editUrl:
             'https://github.com/CuratorCat/pcc-archive.org/tree/main/',
