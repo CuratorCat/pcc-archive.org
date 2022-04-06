@@ -3,7 +3,7 @@ title: How to use NFT liquidity pools with Purrnelope's County Club
 description: How to use NFT liquidity pools with Purrnelope's County Club
 date: 5 Sep, 2021
 authors: dangywing
-tags: [Learn, YouTube]
+tags: [Learn]
 # image:
 og_url: https://www.youtube.com/watch?v=fhWYqjHurWU
 ---

@@ -3,7 +3,7 @@ title: What even is the Purrnelope's Country Club Kitty Bank?
 description: What even is the Purrnelope's Country Club Kitty Bank?
 date: Sep 24, 2021
 authors: dangywing
-tags: [Learn, YouTube]
+tags: [Learn]
 # image:
 og_url: https://youtu.be/3u_e3BaGS6o
 ---
