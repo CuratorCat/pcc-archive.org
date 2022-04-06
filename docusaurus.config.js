@@ -1,165 +1,21 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
-/** @type {import('@docusaurus/types').Config} */
+/** @type {import('@docusaurus/types')} */
 const config = {
-  title: 'PCC-Archive.org',
-  tagline: '#WeLoveThePurrs',
-  url: 'https://pcc-archive.org',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'CuratorCat', // Usually your GitHub org/user name.
-  projectName: 'pcc-archive.org', // Usually your repo name.
+  title: "PCC-Archive.org",
+  tagline: "#WeLoveThePurrs",
+  url: "https://pcc-archive.org",
+  baseUrl: "/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/favicon.ico",
+  organizationName: "CuratorCat", // Usually your GitHub org/user name.
+  projectName: "pcc-archive.org", // Usually your repo name.
 
-  presets: [
-    [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
-        docs: {
-          routeBasePath: '/',
-          path: 'wiki',
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/CuratorCat/pcc-archive.org/tree/main/',
-          showLastUpdateAuthor: true,
-          showLastUpdateTime: true,
-        },
-        blog: {
-          routeBasePath: 'posts',
-          path: 'posts',
-          blogTitle: 'Posts',
-          blogDescription: 'PCC Posts Archive',
-          showReadingTime: true,
-          postsPerPage: 15,
-          blogSidebarCount: 10,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/CuratorCat/pcc-archive.org/tree/main/',
-        },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
-      }),
-    ],
-  ],
-
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      navbar: {
-        title: 'PCC Archive',
-        logo: {
-          alt: 'PCC Archive Logo',
-          src: 'img/logo.svg',
-        },
-        items: [
-          { to: '/club', label: 'The Club', position: 'left' },
-          { to: '/collections/cats', label: 'Cats', position: 'left' },
-          { to: '/collections/kittens', label: 'Kittens', position: 'left' },
-          { to: '/posts', label: 'Posts', position: 'left' },
-          { to: '/posts/tags/purr-cast', label: 'PurrCast', position: 'left' },
-          { to: '/posts/tags', label: 'Tags', position: 'left' },
-          { to: '/official-links', label: 'Official Links', position: 'left' },
-        ],
-      },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'PCC-Archive.org',
-            items: [
-              {
-                label: 'About',
-                to: '/about',
-              },
-              {
-                label: 'FAQ',
-                to: '/about#faq',
-              },
-              {
-                label: 'Contribute',
-                to: '/contribute',
-              },
-            ],
-          },
-          {
-            title: 'PCC Official',
-            items: [
-              {
-                label: 'Website',
-                href: 'https://www.purrnelopescountryclub.com/',
-              },
-              {
-                label: 'Discord',
-                href: 'http://discord.gg/purrnelopescountryclub',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/PurrnelopesCC',
-              },
-              {
-                label: 'Official Links',
-                href: '/official-links',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Posts Archive',
-                href: '/posts/archive',
-              },
-              {
-                label: 'PCC Archive GitHub',
-                href: 'https://github.com/CuratorCat/pcc-archive.org',
-              },
-            ],
-          },
-        ],
-        copyright: `${new Date().getFullYear()} pcc-archive.org`,
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-      colorMode: {
-        defaultMode: 'light',
-        disableSwitch: false,
-        respectPrefersColorScheme: true,
-      },
-      announcementBar: {
-        id: 'announcementBar-01', // Increment on change
-        content: "PCC Archive is not the official website of <a target='_blank' rel='noopener noreferrer' href='https://purrnelopescountryclub.com/''>Purrnelope\'s Country Club</a>",
-        isCloseable: true,
-      },
-    }),
-  
-  plugins: [  
-    [require.resolve('@cmfcmf/docusaurus-search-local'), {
-      indexDocs: true,
-      indexDocSidebarParentCategories: 3,
-      indexBlog: true,
-      indexPages: true,
-      language: ["en"],
-      style: undefined,
-      lunr: {
-        tokenizerSeparator: /[\s\-]+/,
-        // https://lunrjs.com/guides/customising.html#similarity-tuning
-        b: 0.75,
-        k1: 1.2,
-        titleBoost: 5,
-        contentBoost: 1,
-        parentCategoriesBoost: 2,
-      }
-    }]
-  ],
+  presets: require("./config/presets"),
+  themeConfig: require("./config/theme"),
+  plugins: require("./config/plugin"),
 };
 
 module.exports = config;
