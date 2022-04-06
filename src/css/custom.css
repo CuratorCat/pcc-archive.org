@@ -69,3 +69,23 @@
     font-size: 2rem !important;
   }
 }
+
+/* Announcment Bar */
+div[class^="announcementBar_"] {
+  background: linear-gradient(45deg, #ffd8e2, #e2e0ff);
+  background-size: 1000% 1000%;
+  animation: announcementBarBg 3s ease infinite;
+  font-weight: 500;
+}
+
+@keyframes announcementBarBg {
+  0% {
+    background-position: 0% 90%;
+  }
+  50% {
+    background-position: 100% 10%;
+  }
+  100% {
+    background-position: 0% 90%;
+  }
+}
