@@ -67,6 +67,10 @@ module.exports = {
             href: "/posts/archive",
           },
           {
+            label: "Posts Tags",
+            href: "/posts/tags",
+          },
+          {
             label: "PCC Archive GitHub",
             href: "https://github.com/CuratorCat/pcc-archive.org",
           },
