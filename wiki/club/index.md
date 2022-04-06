@@ -5,6 +5,8 @@ sidebar_position: 10
 
 # Purrnelope's Country Club
 
+![](./assets/pcc.jpg)
+
 Founded by Carlini8 in 2021.
 
 Purrnelope has built a collection of 10,000 unique NFTs that grant you membership to her Country Club, access to Club benefits, and a chance to shape the Club's future.

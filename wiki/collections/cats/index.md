@@ -5,7 +5,7 @@ title: Cats
 
 # Purrnelope's Cats Collection
 
-![](../assets/pcc.jpg)
+![](../assets/cats-examples.png)
 [
 [Contract](https://etherscan.io/address/0x9759226b2f8ddeff81583e244ef3bd13aaa7e4a1) |
 [OpenSea](https://opensea.io/collection/purrnelopes-country-club) |
@@ -17,8 +17,6 @@ title: Cats
 Cats of Purrnelope's Country Club are 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Exclusivity is the name, fun is the game.
 
 ## What are Cats [^1]
-
-![](../assets/cats-examples.png)
 
 Purrnelope built her Country Club on the idea of building a club with a strong community feel.
 
@@ -39,7 +37,7 @@ Mint price was 0.08 ETH. Mint took 26 days: The first cat was minted on [Jul-17-
 
 ### PCC ENS Subdomains
 
-Cats owners can claim their .pcc.eth ENS Subdomains at [Claim Page](https://www.purrnelopescountryclub.com/claim/ens) of PCC Official Website.
+Cats owners can claim their [.pcc.eth ENS Subdomains](../../ens/index.md) at [Claim Page](https://www.purrnelopescountryclub.com/claim/ens) of PCC Official Website.
 
 ## Events
 
