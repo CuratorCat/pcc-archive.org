@@ -25,7 +25,9 @@ If you sell the cat owns the ENS Subdomain, you lose that ENS Subdomain as well.
 
 :::
 
-### .pcc.eth on Twitter
+### Follow `.pcc.eth` on Twitter
+
+![](./assets/twitter.pcc.eth.png)
 
 Follow `.pcc.eth` users on Twitter, use this [Twitter Search](https://twitter.com/search?q=.pcc.eth&src=typed_query&f=user).
 
@@ -51,3 +53,7 @@ If it shows on Uniswap but not OpenSea yet, its most likely (99.9%) that it’s 
 ### I still have questions!
 
 Tag Papa `peteronfire78#0016` in the PCC Discord Server or DM Papa - Papa's DMs are open to anyone in PCC Discord Server.
+
+FAQ [^1]
+
+[^1]: From PCC Discord: https://discord.com/channels/856877590592749598/921086339405991996
