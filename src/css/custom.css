@@ -4,6 +4,10 @@
  * work well for content-centric websites.
  */
 
+@import url(./tailwindcss.base.reset.css);
+@tailwind components;
+@tailwind utilities;
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #8767f2;
