@@ -14,9 +14,9 @@ title: Cats
 [Rarity](https://rarity.tools/purrnelopes-country-club)
 ]
 
-Cats of Purrnelope's Country Club are 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Exclusivity is the name, fun is the game.
-
 ## What are Cats [^1]
+
+Cats of Purrnelope's Country Club are 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Exclusivity is the name, fun is the game.
 
 Purrnelope built her Country Club on the idea of building a club with a strong community feel.
 
