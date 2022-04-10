@@ -12,6 +12,10 @@ This Kitten Basket NFT can be redeemed for a [Kitten Companion](../kittens/index
 
 Each Kitten Basket can redeem a [Purrnelope's Kitten](../kittens/index.md). Currently the all the unredeemed baskets are pulled back and the public redeem is closed.
 
+## Video
+
+[PCC Kitten Airdrop: Explained](/posts/explained/202112-kitten-airdrop)
+
 ## Events
 
 - 2021-12-20: Unredeemed baskets had been pulled back to purrnelope.pcc.eth

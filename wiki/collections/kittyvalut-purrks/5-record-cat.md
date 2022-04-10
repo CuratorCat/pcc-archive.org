@@ -12,6 +12,10 @@ This Record Cat NFT can be redeemed for a KittyVault fractional share when the c
 
 Can be redeemed to a physical record. The amount required for redeem is not comfirmed yet.
 
+## Video
+
+[Record Cat airdrop in Weekly Update: 2022 Week 4](/posts/weekly-update/2022w04)
+
 ## Meta
 
 Appeared: [Jan-31-2022 11:47:05 PM +UTC](https://etherscan.io/tx/0x18ab97b8aee2e840ec788a1b2bb6dd90cb07f19d4f154205b219422b256dbd6b)

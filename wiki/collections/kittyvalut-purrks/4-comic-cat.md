@@ -12,6 +12,10 @@ This Comic Cat NFT can be redeemed for a KittyVault fractional share when the co
 
 Can be redeemed to a physical Comic Book. The amount required for redeem is not comfirmed yet.
 
+## Video
+
+[Mysterious NFT Air Drop at Purrnelope's Country Club](/posts/explained/202201-mysterious-nft)
+
 ## Meta
 
 Appeared: [Dec-31-2021 06:23:11 PM +UTC](https://etherscan.io/tx/0x294f451402e0c930868171481a4ffb7f45352422a5b32626b509416a16d49cea)

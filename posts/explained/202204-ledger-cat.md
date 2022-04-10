@@ -15,3 +15,5 @@ og_url: https://youtu.be/GRRr2ZqqOE4
 Security is a serious business in web3. We wanted all PCC holders to be able to get a Ledger Hardware Wallet and help keep you safe! 
 
 Please listen closely to what Katie has to say!
+
+Learn more about [Ledger Cat](/collections/kittyvalut-purrks/ledger-cat)

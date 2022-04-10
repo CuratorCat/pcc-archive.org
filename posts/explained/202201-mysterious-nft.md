@@ -17,3 +17,5 @@ og_url: https://youtu.be/G47xTM__PM8
 There is a mystery afoot at the Country Club, and the only way to solve it is to claim your PCC Comic! Stay tuned to our socials for more mysteries revealed.
 
 Missed the Comic Cat Airdrop? Pick up yours on secondary here: https://opensea.io/collection/purrnelopes-kittybank-purrks
+
+Learn more about [Comic Cat](/collections/kittyvalut-purrks/comic-cat)

@@ -14,6 +14,10 @@ It can also be redeemed for a physical Purrnelope's branded Ledger Hardware Wall
 
 3 NFTs will be required to redeem Ledger Nano S. [^1]
 
+## Video
+
+[Ledger Cat: Explained!](posts/explained/202204-ledger-cat)
+
 ## Meta
 
 Appeared: [Mar-28-2022 09:54:28 PM +UTC](https://etherscan.io/tx/0x3c94ba360697a8e8e195a4394dc715d2a8612817c0f67e787067e6f31d2e965d)

@@ -14,6 +14,12 @@ Can be redeemed to a physical hoodie.
 
 10 NFTs will be required to redeem a hoodie.
 
+## Video
+
+[Purrnelope's Country Club Main Airdrop 1 - Explained!](/posts/explained/201109-airdrop-1)
+
+[Hoodie Redemption: Explained!](/posts/explained/202111-hoodie-redemption)
+
 ## Meta
 
 Appeared: [Sep-29-2021 08:59:42 PM +UTC](https://etherscan.io/tx/0x46bc5d8257426db66c8153b833da159203d0951651c9a47fb1d3a3cfd41e74b7)
