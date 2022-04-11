@@ -31,6 +31,7 @@ Purchasing a Cat gets you membership to this special Country Club, and helps unl
 Welcome to Purrnelope's Country Club
 
 ## Mint
+
 Mint price was 0.08 ETH. Mint took 26 days: The first cat was minted on [Jul-17-2021 08:00:20 PM +UTC](https://etherscan.io/tx/0x0f4f02694c8e5c6ca9f28657d9068de2bac4d740e51ddd492e31846ed47f7073). The last cat was minted on [Aug-12-2021 12:00:46 AM +UTC](https://etherscan.io/tx/0xbbef40b36f13d1ed7873800eec208f392506c83344d338bd3a48f05850d20104) along with other 16 cats.
 
 ## Utilities
@@ -38,6 +39,10 @@ Mint price was 0.08 ETH. Mint took 26 days: The first cat was minted on [Jul-17-
 ### PCC ENS Subdomains
 
 Cats owners can claim their [.pcc.eth ENS Subdomains](../../ens/index.md) at [Claim Page](https://www.purrnelopescountryclub.com/claim/ens) of PCC Official Website.
+
+### Earn $Token
+
+Cats are Tier 1 NFTs, will earn 10 $TOKENs per day per Cat.
 
 ## Events
 
