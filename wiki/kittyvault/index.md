@@ -13,7 +13,7 @@ title: Kitty Vault
 
 ## What is Kitty Vault?
 
-Kitty Vaut is the 'Gold Standard' that keeps your PCC NFTs secured.
+The Kitty Vault is a vault of NFTs that backs every PCC cat & first 8 airdrops. It is the 'Gold Standard' that keeps your PCC NFTs secured.
 
 Ownership of this vault is split between all PCC holders and all airdrops as well as the team. The whole collection will be fractionalized with [@fractional_art](https://twitter.com/fractional_art) 2.0 [^1]
 
