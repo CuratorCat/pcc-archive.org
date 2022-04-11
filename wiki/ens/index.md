@@ -13,6 +13,10 @@ All Purr holders are now eligible to claim a Purrnelope's Country Club sub-domai
 
 E.g. Carlini8's ENS Subdomain is **carlini8.pcc.eth**. And it will display the cat as the ENS Profile Picture as well. See [eth.xyz/carlini8.pcc.eth](https://eth.xyz/carlini8.pcc.eth), [opensea.io/carlini8.pcc.eth](https://opensea.io/carlini8.pcc.eth)
 
+### Video
+
+[PCC Sub Domains: Explained](/posts/explained/202112-ens-subdomains)
+
 ### Claim Your `.pcc.eth`
 
 [Claim Page](https://www.purrnelopescountryclub.com/claim/ens)
