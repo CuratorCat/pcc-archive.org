@@ -42,3 +42,4 @@ title: Offical Links
 ## Special Accounts
 
 - kittyvault.pcc.eth [OpenSea](https://opensea.io/kittyvault.pcc.eth)
+- PurrnelopeCommunityWallet.eth
