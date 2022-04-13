@@ -3,24 +3,29 @@ title: Collections
 sidebar_position: 20
 ---
 
-# NFT Collections
+import imgCats from './assets/cats-examples-s.png';
+import imgKittens from './assets/kittens-examples-s.png';
+
+# PCC Collections
 
 ## Main Collections
 
-| Collection                                 | Tier   | Etc.          |
-| ------------------------------------------ | ------ | ------------- |
-| [Purrnelope's Cats](./cats/index.md)       | Tier 1 | -             |
-| TBA                                        | Tier 2 | -             |
-| [Purrnelope's Kittens](./kittens/index.md) | Tier 3 | 1st companion |
-| TBA                                        | Tier 3 | 2nd companion |
+Cats, Kittens, TBA 1, TBA 2 are 4 main collections of PCC.
+
+|                                                          | Collection                                 | Tier   | Etc.          |
+| -------------------------------------------------------- | ------------------------------------------ | ------ | ------------- |
+| [<img src={imgCats} width="80"/>](./cats/index.md)       | [**Purrnelope's Cats**](./cats/index.md)       | Tier 1 | -             |
+| -                                                        | TBA                                        | Tier 2 | -             |
+| [<img src={imgKittens} width="80"/>](./kittens/index.md) | [**Purrnelope's Kittens**](./kittens/index.md) | Tier 3 | 1st companion |
+| -                                                        | TBA                                        | Tier 3 | 2nd companion |
 
 ### Tiers
 
-- Tier 1: will earn 10 $TOKENs per day per Tier 1 NFT.
+- Tier 1: will yield 10 $TOKENs per day per Tier 1 NFT.
 
-- Tier 2: will earn 5 $TOKENs per day per Tier 2 NFT.
+- Tier 2: will yield 5 $TOKENs per day per Tier 2 NFT.
 
-- Tier 3: will earn 1 $TOKEN per day per Tier 3 NFT.
+- Tier 3: will yield 1 $TOKEN per day per Tier 3 NFT.
 
 :::info
 

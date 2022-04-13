@@ -4,6 +4,11 @@ sidebar_position: 10
 image: ./assets/pcc.jpg
 ---
 
+import imgCats from '../collections/assets/cats-examples-s.png';
+import imgKittens from '../collections/assets/kittens-examples-s.png';
+import imgPurrks from '../collections/assets/purrks-examples-s.png';
+import imgKittyVault from '../kittyvault/assets/kittyvault-s.png';
+
 ![](./assets/pcc.jpg)
 
 Purrnelope's Country Club ([Official Website](https://purrnelopescountryclub.com/)) was founded by Carlini8 in 2021.
@@ -16,19 +21,35 @@ Cats, Kittens, TBA 1, TBA 2 are 4 main [collections](../collections/index.md) of
 
 ### Cats
 
-[Purrnelope's Cats](../collections/cats/index.md) is the the 1st main collection with 10k unique Cat NFTs that grand the memebership to the Country Club. The cats started mint on 2021-07-17. After Carlini revealed himself behind PCC project, the cats minted out on 2021-08-12. Cats are Tier 1 NFTs.
+[<img src={imgCats} width="120" style={{float:"right"}} />](../collections/cats/index.md)
+
+[**Purrnelope's Cats**](../collections/cats/index.md) is the the 1st main collection with 10k unique Cat NFTs that grand the memebership to the Country Club. Cats are Tier 1 NFTs.
+
+Cats mint started on 2021-07-17. After Carlini revealed himself behind PCC project, the cats minted out on 2021-08-12.
 
 ### Kittens
 
-[Purrnelope's Kittens](../collections/kittens/index.md) is the the 2nd main collection with 10k unique Kitten NFTs and the 1st companion to the cats. The kittens were minted by burning [Kitten Basket](../collections/kittyvalut-purrks/2-kitten-basket.md) NFTs. Kittens are Tier 3 NFTs.
+[<img src={imgKittens} width="120" style={{float:"right"}} />](../collections/kittens/index.md)
+
+[**Purrnelope's Kittens**](../collections/kittens/index.md) is the the 2nd main collection with 10k unique Kitten NFTs and the 1st companion to the cats. Kittens are Tier 3 NFTs.
+
+Kittens were minted by burning [Kitten Basket](../collections/kittyvalut-purrks/2-kitten-basket.md) NFTs.
 
 ### Purrks
 
-[Purrnelope's KittyVault Purrks](../collections/kittyvalut-purrks/index.md) are airdrop NFTs to all holders of the cats. Start from Sep 2021 to Apr 2022 of total 8 airdrops.
+[<img src={imgPurrks} width="120" style={{float:"right"}} />](../collections/kittyvalut-purrks/index.md)
+
+[**Purrnelope's KittyVault Purrks**](../collections/kittyvalut-purrks/index.md) are airdrop NFTs to all holders of the cats. 
+
+Start from Sep 2021 to Apr 2022 of total 8 airdrops.
 
 ## Kitty Vault
 
-[Purrnelope's Kitty Vault](../kittyvault/index.md) a community owned vault of NFTs that backs every PCC cat & first 8 airdrops. The whole collection will be fractionalized with @fractional_art 2.0.
+[<img src={imgKittyVault} width="150" style={{float:"right"}} />](../kittyvault/index.md)
+
+[**Purrnelope's Kitty Vault**](../kittyvault/index.md) a community owned vault of NFTs that backs every PCC cat & first 8 airdrops. 
+
+The whole collection will be fractionalized with @fractional_art 2.0.
 
 ## Token
 
