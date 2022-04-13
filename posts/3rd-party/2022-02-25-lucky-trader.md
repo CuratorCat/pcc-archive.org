@@ -12,7 +12,7 @@ tags: [Interview, Transcript]
 og_url: https://luckytrader.com/articles/purrnelopes-country-club-roadmap-2
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/V2057UnxYtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/V2057UnxYtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 <!--truncate-->
 
