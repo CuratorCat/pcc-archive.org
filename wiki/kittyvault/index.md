@@ -1,14 +1,14 @@
 ---
 sidebar_position: 50
 title: Kitty Vault
+description: Purrnelope's Kitty Vault
 ---
 
-# The Kitty Vault
-
-![](../collections/assets/kittyvault-purrks.png)
+![](./assets/kittyvault-banner.png)
 [
-[OpenSea](https://opensea.io/kittyvault.pcc.eth) | 
-[Kitty Vault Twitter](https://twitter.com/KittyVault)
+[OpenSea](https://opensea.io/kittyvault.pcc.eth) |
+[Kitty Vault Twitter](https://twitter.com/KittyVault) |
+[onCyber](https://oncyber.io/spaces/RKJMFEwiVG8f6V1aPL08)
 ]
 
 ## What is Kitty Vault?
@@ -19,10 +19,14 @@ Ownership of this vault is split between all PCC holders and all airdrops as wel
 
 ## Who lives in the Kitty Vault?
 
-CryptoPunks, CyberKongs, Bored Apes, Cool Cats, Stoner Cats, Purrs and more. See [Kitty Vault on OpenSea](https://opensea.io/kittyvault.pcc.eth).
+CryptoPunks, CyberKongs, Bored Apes, Cool Cats, Stoner Cats, Purrs and more.
 
+See [Kitty Vault on OpenSea](https://opensea.io/kittyvault.pcc.eth).
 
+#### In 3D & VR
+
+[![](./assets/oncyber.jpg)](https://oncyber.io/spaces/RKJMFEwiVG8f6V1aPL08)
+
+Browse the kitty vault in an immersive gallery on [oncyber.io](https://oncyber.io/spaces/RKJMFEwiVG8f6V1aPL08)!
 
 [^1]: Carlini8's [tweet](https://twitter.com/Carlini8N/status/1479861487380443140)
-
-
