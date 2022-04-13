@@ -1,6 +1,7 @@
 ---
 title: Purrnelope's Country Club
 sidebar_position: 10
+image: ./assets/pcc.jpg
 ---
 
 ![](./assets/pcc.jpg)
@@ -11,9 +12,17 @@ Carlini registered a legal company for PCC in the UK in Jun 2021. And other 2 co
 
 ## Collections
 
-[Purrnelope's Cats](../collections/cats/index.md) is the the 1st collection with 10k unique Cat NFTs that grand the memebership to the Country Club. The cats started mint on 2021-07-17. After Carlini revealed himself behind PCC project, the cat minted out on 2021-08-12. Cats are Tier 1 NFTs.
+Cats, Kittens, TBA 1, TBA 2 are 4 main [collections](../collections/index.md) of PCC.
 
-[Purrnelope's Kittens](../collections/kittens/index.md) is the the 2st collection with 10k unique Kitten NFTs and the 1st companion to the cats. The kittens were minted by burning [Kitten Basket](../collections/kittyvalut-purrks/2-kitten-basket.md) NFTs. Kittens are Tier 3 NFTs.
+### Cats
+
+[Purrnelope's Cats](../collections/cats/index.md) is the the 1st main collection with 10k unique Cat NFTs that grand the memebership to the Country Club. The cats started mint on 2021-07-17. After Carlini revealed himself behind PCC project, the cats minted out on 2021-08-12. Cats are Tier 1 NFTs.
+
+### Kittens
+
+[Purrnelope's Kittens](../collections/kittens/index.md) is the the 2nd main collection with 10k unique Kitten NFTs and the 1st companion to the cats. The kittens were minted by burning [Kitten Basket](../collections/kittyvalut-purrks/2-kitten-basket.md) NFTs. Kittens are Tier 3 NFTs.
+
+### Purrks
 
 [Purrnelope's KittyVault Purrks](../collections/kittyvalut-purrks/index.md) are airdrop NFTs to all holders of the cats. Start from Sep 2021 to Apr 2022 of total 8 airdrops.
 
@@ -23,7 +32,7 @@ Carlini registered a legal company for PCC in the UK in Jun 2021. And other 2 co
 
 ## Token
 
-**$TOKEN** has not been released yet. NFTs from main [collections](../collections/index.md) will be able to yield &TOKEN.
+**$TOKEN** has not been released yet. NFTs from main [collections](../collections/index.md) will be able to yield $TOKEN.
 
 ## Merch
 
