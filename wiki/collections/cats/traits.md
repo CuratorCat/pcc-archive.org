@@ -1,5 +1,6 @@
 ---
-title: PCC Cat Traits
+title: Cat Traits
+image: ../assets/cats-examples.png
 ---
 
 ### Background

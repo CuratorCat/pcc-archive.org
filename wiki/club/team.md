@@ -1,6 +1,7 @@
 ---
 title: Team
 sidebar_position: 10
+description: The PCC Team currently has 9 of full time people building the project.
 ---
 
 # PCC Team

@@ -1,7 +1,8 @@
 ---
 sidebar_position: 50
 title: Kitty Vault
-description: Purrnelope's Kitty Vault
+image: ./assets/kittyvault-banner.png
+description: "The Kitty Vault is a vault of NFTs that backs every PCC cat & first 8 airdrops. It is the 'Gold Standard' that keeps your PCC NFTs secured."
 ---
 
 ![](./assets/kittyvault-banner.png)

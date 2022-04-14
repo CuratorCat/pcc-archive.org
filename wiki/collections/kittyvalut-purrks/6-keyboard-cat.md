@@ -1,5 +1,7 @@
 ---
 title: "#6 – Keyboard Cat"
+image: ../assets/kittyvalut-purrks/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu_resize.gif
+description: This Keyboard Cat NFT can be redeemed for a KittyVault fractional share or redeem a physical keyboard.
 ---
 
 [![#6 – Keyboard Cat](../assets/kittyvalut-purrks/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu_resize.gif)](https://ipfs.io/ipfs/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu)

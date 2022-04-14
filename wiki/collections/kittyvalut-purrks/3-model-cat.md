@@ -1,5 +1,7 @@
 ---
 title: "#3 – Model Cat"
+image: ../assets/kittyvalut-purrks/QmR9DLN7swfwVA7a5hzEvWyfWyZq1fee9fnU72NmjsmdJL_resize.jpg
+description: his Model Cat NFT can be redeemed for a KittyVault fractional share or redeem a physical 3D Model Cat.
 ---
 
 [![#3 – Model Cat](../assets/kittyvalut-purrks/QmR9DLN7swfwVA7a5hzEvWyfWyZq1fee9fnU72NmjsmdJL_resize.jpg)](https://ipfs.io/ipfs/QmR9DLN7swfwVA7a5hzEvWyfWyZq1fee9fnU72NmjsmdJL)

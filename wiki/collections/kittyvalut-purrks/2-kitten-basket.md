@@ -1,5 +1,7 @@
 ---
 title: "#2 - Kitten Basket"
+image: ../assets/kittyvalut-purrks/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD_resize.jpg
+description: This Kitten Basket NFT can be redeemed for a Kitten Companion.
 ---
 
 [![#2 - Kitten Basket](../assets/kittyvalut-purrks/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD_resize.jpg)](https://ipfs.io/ipfs/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD)

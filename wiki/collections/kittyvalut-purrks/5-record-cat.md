@@ -1,5 +1,7 @@
 ---
 title: "#5 – Record Cat"
+image: ../assets/kittyvalut-purrks/QmdgFRavoNnthEeQMFUD8E4hamQjj24BRWuQpMhN8P5prp_resize.jpg
+description: This Record Cat NFT can be redeemed for a KittyVault fractional share or redeem a physical music record.
 ---
 
 [![#5 – Record Cat](../assets/kittyvalut-purrks/QmdgFRavoNnthEeQMFUD8E4hamQjj24BRWuQpMhN8P5prp_resize.jpg)](https://ipfs.io/ipfs/QmdgFRavoNnthEeQMFUD8E4hamQjj24BRWuQpMhN8P5prp)

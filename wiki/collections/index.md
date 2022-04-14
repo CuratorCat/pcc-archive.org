@@ -1,6 +1,7 @@
 ---
 title: Collections
 sidebar_position: 20
+image: ../club/assets/pcc.jpg
 ---
 
 import imgCats from './assets/cats-examples-s.png';

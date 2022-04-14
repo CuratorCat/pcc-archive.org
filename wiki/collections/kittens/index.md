@@ -1,9 +1,11 @@
 ---
 sidebar_position: 20
 title: Kittens
+image: ../assets/kittens-examples.png
+description: Purrnelope's Kittens is a collection of 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Purrnelope's Kittens are the 1st companions.
 ---
 
-# Purrnelope's Kittens Collection
+# Purrnelope's Kittens
 
 ![](../assets/kittens-examples.png)
 [
