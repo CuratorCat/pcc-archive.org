@@ -79,6 +79,8 @@ module.exports = {
     ],
     copyright: `${new Date().getFullYear()} pcc-archive.org`,
   },
+  image: 'img/pcc-archive-soc.jpg',
+  metadata: [{name: 'twitter:card', content: 'summary'}],
   prism: {
     theme: lightCodeTheme,
     darkTheme: darkCodeTheme,
