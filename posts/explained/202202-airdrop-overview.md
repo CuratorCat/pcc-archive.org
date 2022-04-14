@@ -4,7 +4,7 @@ description: "Purrnelope's Country Club Universe - Airdrop Overview"
 authors: [katie]
 tags: [Explained]
 date: 2022-02-25
-# image:
+image: ./assets/202202-airdrop-overview.jpg
 og_url: https://youtu.be/Un9q5d75-zU
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: "Hoodie Redemption: Explained!"
-description: "Hoodie Redemption: Explained!"
 authors: [katie]
 tags: [Explained]
 date: 2021-11-03
-# image:
+image: ./assets/202111-hoodie-redemption.jpg
 og_url: https://youtu.be/ou54UAYND2I
 ---
 

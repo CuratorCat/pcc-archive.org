@@ -8,7 +8,7 @@ authors:
     image_url: https://metadata.ens.domains/mainnet/avatar/loudog.pcc.eth
   - carlini8
 tags: [Interview, Transcript]
-# image:
+image: ./assets/2022-02-25-lucky-trader/photo_2022-02-25_15-48-06.jpg
 og_url: https://luckytrader.com/articles/purrnelopes-country-club-roadmap-2
 ---
 

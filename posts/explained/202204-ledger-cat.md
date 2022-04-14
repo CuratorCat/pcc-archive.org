@@ -1,10 +1,9 @@
 ---
 title: "Ledger Cat: Explained!"
-description: "Ledger Cat: Explained!"
 authors: [katie]
 tags: [Explained]
 date: 2022-04-01
-# image:
+image: ./assets/202204-ledger-cat.jpg
 og_url: https://youtu.be/GRRr2ZqqOE4
 ---
 

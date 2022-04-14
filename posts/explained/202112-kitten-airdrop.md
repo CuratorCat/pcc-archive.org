@@ -1,10 +1,10 @@
 ---
 title: "PCC Kitten Airdrop: Explained"
-description: "PCC Kitten Airdrop: Explained"
+description: "Learn mint a Kitten with Kitten Basket airdrop"
 authors: [katie]
 tags: [Explained]
 date: 2021-12-02
-# image:
+image: ./assets/202112-kitten-airdrop.jpg
 og_url: https://youtu.be/Dc2Hb1kT6hk
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Mysterious NFT Air Drop at Purrnelope's Country Club"
-description: "Mysterious NFT Air Drop at Purrnelope's Country Club"
+description: "There is a mystery afoot at the Country Club, and the only way to solve it is to claim your PCC Comic! Stay tuned to our socials for more mysteries revealed."
 authors: [katie]
 tags: [Explained]
 date: 2022-01-11
-# image:
+image: ./assets/202201-mysterious-nft.jpg
 og_url: https://youtu.be/G47xTM__PM8
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "PCC Sub Domains: Explained"
-description: "PCC Sub Domains: Explained"
+description: "Learn more about .pcc.eth ENS Sub domains"
 authors: [katie]
 tags: [Explained]
 date: 2021-12-14
-# image:
+image: ./assets/202112-ens-subdomains.jpg
 og_url: https://youtu.be/4h76jAVk8Ek
 ---
 
