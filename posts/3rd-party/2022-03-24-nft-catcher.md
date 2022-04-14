@@ -8,7 +8,7 @@ authors:
     image_url: https://pbs.twimg.com/profile_images/1423681412276920327/7xQnCPQv_400x400.jpg
   - carlini8
 tags: [Interview, Transcript]
-# image:
+image: ./assets/2022-03-24-nft-catcher/cover.jpg
 og_url: https://open.spotify.com/episode/69uIREeMvnJtBdUmMX32FL
 ---
 

@@ -8,7 +8,7 @@ authors:
     image_url: https://pbs.twimg.com/profile_images/1311131371063193602/BlLedHLD_400x400.jpg
   - carlini8
 tags: [Interview, Transcript]
-# image:
+image: ./assets/2022-03-30-overpriced-jpegs/cover.jpg
 og_url: https://youtu.be/xJERj949FSE
 ---
 
