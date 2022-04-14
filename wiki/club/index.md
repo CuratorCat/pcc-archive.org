@@ -4,9 +4,9 @@ sidebar_position: 10
 image: ./assets/pcc.jpg
 ---
 
-import imgCats from '../collections/assets/cats-examples-s.png';
-import imgKittens from '../collections/assets/kittens-examples-s.png';
-import imgPurrks from '../collections/assets/purrks-examples-s.png';
+import imgCats from '../collections/cats/assets/cats-examples-s.png';
+import imgKittens from '../collections/kittens/assets/kittens-examples-s.png';
+import imgPurrks from '../collections/kittyvault-purrks/assets/purrks-examples-s.png';
 import imgKittyVault from '../kittyvault/assets/kittyvault-s.png';
 
 ![](./assets/pcc.jpg)
@@ -33,13 +33,13 @@ Cats mint started on 2021-07-17. After Carlini revealed himself behind PCC proje
 
 [**Purrnelope's Kittens**](../collections/kittens/index.md) is the the 2nd main collection with 10k unique Kitten NFTs and the 1st companion to the cats. Kittens are Tier 3 NFTs.
 
-Kittens were minted by burning [Kitten Basket](../collections/kittyvalut-purrks/2-kitten-basket.md) NFTs.
+Kittens were minted by burning [Kitten Basket](../collections/kittyvault-purrks/2-kitten-basket.md) NFTs.
 
 ### Purrks
 
-[<img src={imgPurrks} width="120" style={{float:"right"}} />](../collections/kittyvalut-purrks/index.md)
+[<img src={imgPurrks} width="120" style={{float:"right"}} />](../collections/kittyvault-purrks/index.md)
 
-[**Purrnelope's KittyVault Purrks**](../collections/kittyvalut-purrks/index.md) are airdrop NFTs to all holders of the cats. 
+[**Purrnelope's KittyVault Purrks**](../collections/kittyvault-purrks/index.md) are airdrop NFTs to all holders of the cats. 
 
 Start from Sep 2021 to Apr 2022 of total 8 airdrops.
 
@@ -57,7 +57,7 @@ The whole collection will be fractionalized with @fractional_art 2.0.
 
 ## Merch
 
-The merchandise was planned since Roadmap V1, and the team is currently working hard on the merch. Some merch will require redeem using [Purrks](../collections/kittyvalut-purrks/index.md) NFTs to redeem, e.g. Hoodies, 3D Model, Comic Book, Music Record, Keyboard and Ledger Nano S.
+The merchandise was planned since Roadmap V1, and the team is currently working hard on the merch. Some merch will require redeem using [Purrks](../collections/kittyvault-purrks/index.md) NFTs to redeem, e.g. Hoodies, 3D Model, Comic Book, Music Record, Keyboard and Ledger Nano S.
 
 ## Games
 
@@ -85,24 +85,24 @@ At the begining, the team was calling themselves the **Cool Cats Country Club**,
 - 08-12: [Roadmap 1.0 released](/posts/2021/08/12/post/roadmap)
 - 08-14: Launched Liquidity Pools on [NFTX](https://app.nftx.org/redeem/0xe581f272706581f9dcc362df3c7934e99192c492/) and [NFT20](https://nft20.io/asset/0x54c9e17ad8016a062ffd89d1b53aaee80c0cf43d)
 - 09-24: NFT20 Pool closed.
-- 09-30: [Hoodie Cat](../collections/kittyvalut-purrks/1-hoodie-cat.md) airdropped, 1/8 [Purrks](../collections/kittyvalut-purrks/index.md) monthly airdrops
+- 09-30: [Hoodie Cat](../collections/kittyvault-purrks/1-hoodie-cat.md) airdropped, 1/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 
 ### 2021 Q4
 
 - 10-01: Carlini start 31 daily giveaways through the whole October 2021
 - 10-24: 1st Official Game Night with Papa(Peter)
-- 11-01: [Kitten Basket](../collections/kittyvalut-purrks/2-kitten-basket.md) airdropped, 2/8 [Purrks](../collections/kittyvalut-purrks/index.md) monthly airdrops
+- 11-01: [Kitten Basket](../collections/kittyvault-purrks/2-kitten-basket.md) airdropped, 2/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 - 11-15: [Kittens](../collections/kittens/index.md) mint started
-- 11-27: [Model Cat](../collections/kittyvalut-purrks/3-model-cat.md) airdropped, 3/8 [Purrks](../collections/kittyvalut-purrks/index.md) monthly airdrops
+- 11-27: [Model Cat](../collections/kittyvault-purrks/3-model-cat.md) airdropped, 3/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 - 12-05: Community Vote passed for change Secondary Market Fees on [snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/0x46cc3b68385e86388cbb2780aeb82db4bf74da55188d3e3283ebf81f2540979e)
 - 12-18: [.pcc.eth ENS Subdomain](../ens/index.md) available for all PCC holders to claim
-- 12-31: [Comic Cat](../collections/kittyvalut-purrks/4-comic-cat.md) airdropped, 4/8 [Purrks](../collections/kittyvalut-purrks/index.md) monthly airdrops
+- 12-31: [Comic Cat](../collections/kittyvault-purrks/4-comic-cat.md) airdropped, 4/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 
 ### 2022 Q1
 
-- 02-01: [Record Cat](../collections/kittyvalut-purrks/5-record-cat.md) airdropped, 5/8 [Purrks](../collections/kittyvalut-purrks/index.md) monthly airdrops
+- 02-01: [Record Cat](../collections/kittyvault-purrks/5-record-cat.md) airdropped, 5/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 - 02-01: Carlini start 28 daily giveaways through the whole Feb 2022
 - 02-25: [Roadmap 2.0 released](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch)
-- 03-02: [Keyboard Cat](../collections/kittyvalut-purrks/6-keyboard-cat.md) airdropped, 6/8 [Purrks](../collections/kittyvalut-purrks/index.md) monthly airdrops
+- 03-02: [Keyboard Cat](../collections/kittyvault-purrks/6-keyboard-cat.md) airdropped, 6/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 - 03-07: PCC Cats in Time Square
-- 03-29: [Ledger Cat](../collections/kittyvalut-purrks/7-ledger-cat.md) airdropped, 7/8 [Purrks](../collections/kittyvalut-purrks/index.md) monthly airdrops
+- 03-29: [Ledger Cat](../collections/kittyvault-purrks/7-ledger-cat.md) airdropped, 7/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops

@@ -15,4 +15,4 @@ With all these baskets being airdropped you may be forgiven for forgetting about
 
 Once we’re happy with them, we will launch the claim section of the website for those of you who wish to FLEX!
 
-Learn more about [Hoodie Cat](/collections/kittyvalut-purrks/hoodie-cat)
+Learn more about [Hoodie Cat](/collections/kittyvault-purrks/hoodie-cat)

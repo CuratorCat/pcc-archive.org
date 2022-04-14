@@ -1,10 +1,10 @@
 ---
 title: "#4 – Comic Cat"
-image: ../assets/kittyvalut-purrks/QmSqJ91ySdpN8Ev8yvdrAVNqZY1isKziDNvaMtbmY3hdVz_resize.gif
+image: ./assets/QmSqJ91ySdpN8Ev8yvdrAVNqZY1isKziDNvaMtbmY3hdVz_resize.gif
 description: This Comic Cat NFT can be redeemed for a KittyVault fractional share or redeem a physical comic book.
 ---
 
-[![#4 – Comic Cat](../assets/kittyvalut-purrks/QmSqJ91ySdpN8Ev8yvdrAVNqZY1isKziDNvaMtbmY3hdVz_resize.gif)](https://ipfs.io/ipfs/QmSqJ91ySdpN8Ev8yvdrAVNqZY1isKziDNvaMtbmY3hdVz)
+[![#4 – Comic Cat](./assets/QmSqJ91ySdpN8Ev8yvdrAVNqZY1isKziDNvaMtbmY3hdVz_resize.gif)](https://ipfs.io/ipfs/QmSqJ91ySdpN8Ev8yvdrAVNqZY1isKziDNvaMtbmY3hdVz)
 
 [[OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/3)]
 

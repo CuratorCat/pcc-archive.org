@@ -1,14 +1,14 @@
 ---
 sidebar_position: 2
 title: Cats
-image: ../assets/cats-examples.png
+image: ./assets/cats-examples.png
 description: Cats of Purrnelope's Country Club are 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Exclusivity is the name, fun is the game.
 
 ---
 
 # Purrnelope's Cats
 
-![](../assets/cats-examples.png)
+![](./assets/cats-examples.png)
 [
 [Contract](https://etherscan.io/address/0x9759226b2f8ddeff81583e244ef3bd13aaa7e4a1) |
 [OpenSea](https://opensea.io/collection/purrnelopes-country-club) |

@@ -15,4 +15,4 @@ Security is a serious business in web3. We wanted all PCC holders to be able to 
 
 Please listen closely to what Katie has to say!
 
-Learn more about [Ledger Cat](/collections/kittyvalut-purrks/ledger-cat)
+Learn more about [Ledger Cat](/collections/kittyvault-purrks/ledger-cat)

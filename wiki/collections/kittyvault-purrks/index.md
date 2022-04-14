@@ -1,11 +1,11 @@
 ---
 sidebar_position: 30
 title: KittyVault Purrks
-image: ../assets/kittyvault-purrks.png
+image: ./assets/kittyvault-purrks.png
 description: Purrnelopes KittyVault Purrks contain a shard from the KittyVault. These airdrops all go to holder's main Purrnelopes Country Club Cat. Each of the 8 airdrops represents fractional ownership of the KittyVault.
 ---
 
-![](../assets/kittyvault-purrks.png)
+![](./assets/kittyvault-purrks.png)
 [
 [Contract](https://etherscan.io/address/0xda7d42b6167f1497346d7b2336a6d7a603026db1) |
 [OpenSea](https://opensea.io/collection/purrnelopes-kittybank-purrks) |
@@ -18,7 +18,7 @@ The airdrops are ERC-1155 NFTs started Sep 2021 with the [Hoodie Cat](./1-hoodie
 
 ### Items
 
-![](../assets/kittyvalut-purrks/purrks-exampls.png)
+![](./assets/purrks-exampls.png)
 
 1. [Hoodie Cat](1-hoodie-cat.md)
 1. [Kitten Basket](2-kitten-basket.md)

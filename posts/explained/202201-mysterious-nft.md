@@ -18,4 +18,4 @@ There is a mystery afoot at the Country Club, and the only way to solve it is to
 
 Missed the Comic Cat Airdrop? Pick up yours on secondary here: https://opensea.io/collection/purrnelopes-kittybank-purrks
 
-Learn more about [Comic Cat](/collections/kittyvalut-purrks/comic-cat)
+Learn more about [Comic Cat](/collections/kittyvault-purrks/comic-cat)

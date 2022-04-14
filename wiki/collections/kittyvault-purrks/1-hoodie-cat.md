@@ -1,10 +1,10 @@
 ---
 title: "#1 - Hoodie Cat"
-image: ../assets/kittyvalut-purrks/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf_resize.gif
+image: ./assets/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf_resize.gif
 description: This Hoodie Cat NFT can be redeemed for the KittyBank fractional or redeem to a physical hoodie.
 ---
 
-[![#1 - Hoodie Cat](../assets/kittyvalut-purrks/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf_resize.gif)](https://ipfs.io/ipfs/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf)
+[![#1 - Hoodie Cat](./assets/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf_resize.gif)](https://ipfs.io/ipfs/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf)
 
 [[OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/0)]
 

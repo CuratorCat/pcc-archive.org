@@ -1,10 +1,10 @@
 ---
 title: "#7 – Ledger Cat"
-image: ../assets/kittyvalut-purrks/QmckRR7fhjQ1US7eoU1tm6qcE1BWyDxs3wa2RzaV7aYJh8_resize.jpg
+image: ./assets/QmckRR7fhjQ1US7eoU1tm6qcE1BWyDxs3wa2RzaV7aYJh8_resize.jpg
 description: This Ledger Cat NFT can be redeemed for a KittyVault fractional share or redeem a Ledger Nano S.
 ---
 
-[![#7 – Ledger Cat](../assets/kittyvalut-purrks/QmckRR7fhjQ1US7eoU1tm6qcE1BWyDxs3wa2RzaV7aYJh8_resize.jpg)](https://ipfs.io/ipfs/QmckRR7fhjQ1US7eoU1tm6qcE1BWyDxs3wa2RzaV7aYJh8)
+[![#7 – Ledger Cat(../assets/QmckRR7fhjQ1US7eoU1tm6qcE1BWyDxs3wa2RzaV7aYJh8_resize.jpg)](https://ipfs.io/ipfs/QmckRR7fhjQ1US7eoU1tm6qcE1BWyDxs3wa2RzaV7aYJh8)
 
 [[OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/6)]
 

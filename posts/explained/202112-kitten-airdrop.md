@@ -14,4 +14,4 @@ og_url: https://youtu.be/Dc2Hb1kT6hk
 
 With less than 2 weeks left to mint your kittens, its a good time to share some more information about them, and where your kittens sit in the wider PCC Universe. 
 
-Learn more about [Kitten Basket](/collections/kittyvalut-purrks/kitten-basket)
+Learn more about [Kitten Basket](/collections/kittyvault-purrks/kitten-basket)

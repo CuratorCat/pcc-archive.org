@@ -1,10 +1,10 @@
 ---
 title: "#2 - Kitten Basket"
-image: ../assets/kittyvalut-purrks/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD_resize.jpg
+image: ./assets/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD_resize.jpg
 description: This Kitten Basket NFT can be redeemed for a Kitten Companion.
 ---
 
-[![#2 - Kitten Basket](../assets/kittyvalut-purrks/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD_resize.jpg)](https://ipfs.io/ipfs/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD)
+[![#2 - Kitten Basket](./assets/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD_resize.jpg)](https://ipfs.io/ipfs/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD)
 
 [[OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/1)]
 

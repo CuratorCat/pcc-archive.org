@@ -1,10 +1,10 @@
 ---
 title: "#6 – Keyboard Cat"
-image: ../assets/kittyvalut-purrks/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu_resize.gif
+image: ./assets/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu_resize.gif
 description: This Keyboard Cat NFT can be redeemed for a KittyVault fractional share or redeem a physical keyboard.
 ---
 
-[![#6 – Keyboard Cat](../assets/kittyvalut-purrks/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu_resize.gif)](https://ipfs.io/ipfs/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu)
+[![#6 – Keyboard Cat](./assets/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu_resize.gif)](https://ipfs.io/ipfs/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu)
 
 [[OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/5)]
 

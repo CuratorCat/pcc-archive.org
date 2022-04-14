@@ -1,11 +1,11 @@
 ---
 title: Collections
 sidebar_position: 20
-image: ../club/assets/pcc.jpg
+image: ./assets/pcc.jpg
 ---
 
-import imgCats from './assets/cats-examples-s.png';
-import imgKittens from './assets/kittens-examples-s.png';
+import imgCats from './cats/assets/cats-examples-s.png';
+import imgKittens from './kittens/assets/kittens-examples-s.png';
 
 # PCC Collections
 
@@ -36,6 +36,6 @@ Details for Tiers & $TOKEN has not been released yet.
 
 ## Other Collections
 
-- [Purrnelope's KittyVault Purrks](./kittyvalut-purrks/index.md)
+- [Purrnelope's KittyVault Purrks](./kittyvault-purrks/index.md)
 
 - [Purrnelope's Gift](./gift/index.md)
