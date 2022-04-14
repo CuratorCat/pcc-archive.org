@@ -1,6 +1,7 @@
 ---
 title: ENS
 sidebar_position: 60
+image: ./assets/pcc-eth.jpg
 ---
 
 # PCC ENS
