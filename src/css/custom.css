@@ -13,18 +13,29 @@
   --ifm-color-primary-light: #8767f2;
   --ifm-color-primary-lighter: #8767f2;
   --ifm-color-primary-lightest: #8767f2;
+  --ifm-background-color: rgb(255, 255, 255);
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-background-surface-color: #ffffff;
+  --ifm-code-background-color: rgba(15, 23, 42, 0.05);
   --ifm-code-font-size: 95%;
+  --ifm-toc-border-color: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme="dark"] {
-  --ifm-color-primary: #a289f5;
-  --ifm-color-primary-dark: #a289f5;
-  --ifm-color-primary-darker: #a289f5;
-  --ifm-color-primary-darkest: #a289f5;
-  --ifm-color-primary-light: #a289f5;
-  --ifm-color-primary-lighter: #a289f5;
-  --ifm-color-primary-lightest: #a289f5;
+  --ifm-color-primary: #9b81ef;
+  --ifm-color-primary-dark: #9b81ef;
+  --ifm-color-primary-darker: #9b81ef;
+  --ifm-color-primary-darkest: #9b81ef;
+  --ifm-color-primary-light: #9b81ef;
+  --ifm-color-primary-lighter: #9b81ef;
+  --ifm-color-primary-lightest: #9b81ef;
+  --ifm-background-color: rgb(8, 8, 8) !important;
+  --ifm-navbar-background-color: rgb(18, 15, 28);
+  --ifm-background-surface-color: rgba(15, 23, 42, 1);
+  --ifm-dropdown-background-color: rgb(36, 34, 46);
+  --ifm-code-background-color: rgba(255, 255, 255, 0.15);
+  --ifm-toc-border-color: rgba(255, 255, 255, 0.1);
 }
 
 .docusaurus-highlight-code-line {
@@ -88,4 +99,38 @@ div[class^="announcementBar_"] {
   100% {
     background-position: 0% 90%;
   }
+}
+
+:root .navbar {
+  backdrop-filter: blur(8px);
+  background-color: rgba(255, 255, 255, 0.8);
+  border-bottom: var(--ifm-toc-border-color) solid 1px;
+  box-shadow: none;
+}
+:root .navbar.navbar-sidebar--show {
+  backdrop-filter: none;
+}
+
+[data-theme="dark"] .navbar {
+  backdrop-filter: blur(8px);
+  background-color: rgba(0, 0, 0, 0.7);
+}
+@-moz-document url-prefix() {
+  :root .navbar {
+    background-color: rgba(255, 255, 255, 0.95);
+  }
+  [data-theme="dark"] .navbar {
+    backdrop-filter: none;
+    background-color: rgba(0, 0, 0, 0.9);
+  }
+}
+
+.aa-DetachedSearchButton {
+  border-radius: 9999px !important;
+  border: none !important;
+  background: none !important;
+  cursor: pointer !important;
+}
+.aa-DetachedSearchButtonPlaceholder {
+  display: none;
 }
