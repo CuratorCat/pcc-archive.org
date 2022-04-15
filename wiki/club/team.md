@@ -12,7 +12,7 @@ The PCC currently consists of 8 full time members of staff and 2 part time membe
 ### Carlini8 {#carlini8}
 
 <img
-src="https://metadata.ens.domains/mainnet/avatar/carlini8.pcc.eth"
+src="/img/team/carlini8.jpg"
 width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
@@ -24,7 +24,7 @@ style={{borderRadius: "50%", float: "right"}}
 ### Jamie (Notorious C.A.T.) {#jamie}
 
 <img
-src="https://metadata.ens.domains/mainnet/avatar/jamie.pcc.eth"
+src="/img/team/jamie.jpg"
 width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
@@ -36,7 +36,7 @@ style={{borderRadius: "50%", float: "right"}}
 ### Papa Cat (Peter) {#papa}
 
 <img
-src="/img/authors/papa.jpg"
+src="/img/team/papa.jpg"
 width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
@@ -48,7 +48,7 @@ style={{borderRadius: "50%", float: "right"}}
 ### 1rregularCharlie {#charlie}
 
 <img
-src="https://pbs.twimg.com/profile_images/1392541575553687556/i2kUHxI3_400x400.jpg"
+src="/img/team/charlie.jpg"
 width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
@@ -59,7 +59,7 @@ style={{borderRadius: "50%", float: "right"}}
 ### Hodl {#hodl}
 
 <img
-src="https://metadata.ens.domains/mainnet/avatar/hodl.pcc.eth"
+src="/img/team/hodl.jpg"
 width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
@@ -71,7 +71,7 @@ style={{borderRadius: "50%", float: "right"}}
 ### Katie Niepp {#katie}
 
 <img
-src="https://metadata.ens.domains/mainnet/avatar/katie.pcc.eth"
+src="/img/team/katie.jpg"
 width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
@@ -83,7 +83,7 @@ style={{borderRadius: "50%", float: "right"}}
 ### Alamo {#alamo}
 
 <img
-src="https://metadata.ens.domains/mainnet/avatar/alamo.pcc.eth"
+src="/img/team/alamo.jpg"
 width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
@@ -95,7 +95,7 @@ style={{borderRadius: "50%", float: "right"}}
 ### Chooch74 {#chooch74}
 
 <img
-src="https://metadata.ens.domains/mainnet/avatar/chooch74.pcc.eth"
+src="/img/team/chooch74.jpg"
 width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
@@ -106,7 +106,7 @@ style={{borderRadius: "50%", float: "right"}}
 ### James {#james}
 
 <img
-src="https://metadata.ens.domains/mainnet/avatar/jamesladalia.pcc.eth"
+src="/img/team/james.jpg"
 width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
@@ -118,7 +118,7 @@ style={{borderRadius: "50%", float: "right"}}
 ### DangyWing {#dangywing}
 
 <img
-src="https://metadata.ens.domains/mainnet/avatar/dangywing.pcc.eth"
+src="/img/team/dangywing.jpg"
 width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
