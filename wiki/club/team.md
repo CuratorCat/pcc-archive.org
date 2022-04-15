@@ -1,45 +1,42 @@
 ---
 title: Team
 sidebar_position: 10
-description: The PCC Team currently has 9 of full time people building the project.
+description: The PCC currently consists of eight full time members of staff and two part time members of staff.
 ---
 
 # PCC Team
 
-The PCC Team currently has 9 of full time people building the project.
+The PCC currently consists of 8 full time members of staff and 2 part time members of staff.
 
 ### Carlini8 {#carlini8}
 
 <img
 src="https://metadata.ens.domains/mainnet/avatar/carlini8.pcc.eth"
-width="100"
+width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
 
 - `carlini8.pcc.eth`
 - **Founder of PCC**
-- Ex-CoFounder of [NFTBoxes](https://www.nftboxes.io/)
-- NFT Degenerate class of 2017
 - Twitter [@Carlini8N](https://twitter.com/Carlini8N)
 
 ### Jamie (Notorious C.A.T.) {#jamie}
 
 <img
 src="https://metadata.ens.domains/mainnet/avatar/jamie.pcc.eth"
-width="100"
+width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
 
 - `jamie.pcc.eth`
-- **Co-founder of PCC**
-- NFT Collector
+- **Finance and Merch**
 - Twitter [@Jamiethetweeter](https://twitter.com/Jamiethetweeter)
 
 ### Papa Cat (Peter) {#papa}
 
 <img
 src="/img/authors/papa.jpg"
-width="100"
+width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
 
@@ -51,18 +48,18 @@ style={{borderRadius: "50%", float: "right"}}
 
 <img
 src="https://pbs.twimg.com/profile_images/1392541575553687556/i2kUHxI3_400x400.jpg"
-width="100"
+width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
 
 - **Artist Cat. PCC in-house artist.**
 - Twitter [@SwirlyBolt](https://twitter.com/swirlybolt)
 
-### hodl.pcc.eth {#hodl}
+### Hodl {#hodl}
 
 <img
 src="https://metadata.ens.domains/mainnet/avatar/hodl.pcc.eth"
-width="100"
+width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
 
@@ -74,7 +71,7 @@ style={{borderRadius: "50%", float: "right"}}
 
 <img
 src="https://metadata.ens.domains/mainnet/avatar/katie.pcc.eth"
-width="100"
+width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
 
@@ -82,36 +79,49 @@ style={{borderRadius: "50%", float: "right"}}
 - **Art Director of PCC**
 - Twitter [@Hippapasta](https://twitter.com/Hippapasta)
 
-### Henry {#henry}
+### Alamo {#alamo}
 
 <img
-src="https://metadata.ens.domains/mainnet/avatar/kongz.pcc.eth"
-width="100"
+src="https://metadata.ens.domains/mainnet/avatar/alamo.pcc.eth"
+width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
 
-- `kongz.pcc.eth`
-- Formerly NFTYoda
-- Twitter [@HenryTheGrape](https://twitter.com/HenryTheGrape)
-
-### DangyWing {#dangywing}
-
-<img
-src="https://metadata.ens.domains/mainnet/avatar/dangywing.pcc.eth"
-width="100"
-style={{borderRadius: "50%", float: "right"}}
-/>
-
-- `dangywing.pcc.eth`
-- Twitter [@DangyWing](https://twitter.com/dangywing)
+- `alamo.pcc.eth`
+- **Project Manager**
+- Twitter [@alamo_pcc](https://twitter.com/alamo_pcc)
 
 ### Chooch74 {#chooch74}
 
 <img
 src="https://metadata.ens.domains/mainnet/avatar/chooch74.pcc.eth"
-width="100"
+width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
 
 - `chooch74.pcc.eth`
 - **Business Development & Strategy**
+
+### James {#james}
+
+<img
+src="https://metadata.ens.domains/mainnet/avatar/jamesladalia.pcc.eth"
+width="85"
+style={{borderRadius: "50%", float: "right"}}
+/>
+
+- `jamesladalia.pcc.eth`
+- **Social Media**
+- Twitter [@JamesLadalia](https://twitter.com/JamesLadalia)
+
+### DangyWing {#dangywing}
+
+<img
+src="https://metadata.ens.domains/mainnet/avatar/dangywing.pcc.eth"
+width="85"
+style={{borderRadius: "50%", float: "right"}}
+/>
+
+- `dangywing.pcc.eth`
+- **Content Writer**
+- Twitter [@DangyWing](https://twitter.com/dangywing)

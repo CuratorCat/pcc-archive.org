@@ -13,7 +13,7 @@ import imgKittyVault from '../kittyvault/assets/kittyvault-s.png';
 
 Purrnelope's Country Club ([Official Website](https://purrnelopescountryclub.com/)) was founded by Carlini8 in 2021.
 
-Carlini registered a legal company for PCC in the UK in Jun 2021. And other 2 companies for PCC are being registered. The [PCC Team](./team.md) currently has 9 of full time people building the project.
+Carlini registered a legal company for PCC in the UK in Jun 2021. And other 2 companies for PCC are being registered. The [PCC Team](./team.md) currently consists of 8 full time members of staff and 2 part time members of staff.
 
 ## Collections
 
@@ -42,6 +42,10 @@ Kittens were minted by burning [Kitten Basket](../collections/kittyvault-purrks/
 [**Purrnelope's KittyVault Purrks**](../collections/kittyvault-purrks/index.md) are airdrop NFTs to all holders of the cats. 
 
 Start from Sep 2021 to Apr 2022 of total 8 airdrops.
+
+### Gifts
+
+[**Purrnelope's Gifts**](../collections/gift/index.md) are a long term plan to reward PCC's loyal fans.
 
 ## Kitty Vault
 
