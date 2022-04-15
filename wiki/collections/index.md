@@ -13,12 +13,12 @@ import imgKittens from './kittens/assets/kittens-examples-s.png';
 
 Cats, Kittens, TBA 1, TBA 2 are 4 main collections of PCC.
 
-|                                                          | Collection                                 | Tier   | Etc.          |
-| -------------------------------------------------------- | ------------------------------------------ | ------ | ------------- |
-| [<img src={imgCats} width="80"/>](./cats/index.md)       | [**Purrnelope's Cats**](./cats/index.md)       | Tier 1 | -             |
-| -                                                        | TBA                                        | Tier 2 | -             |
-| [<img src={imgKittens} width="80"/>](./kittens/index.md) | [**Purrnelope's Kittens**](./kittens/index.md) | Tier 3 | 1st companion |
-| -                                                        | TBA                                        | Tier 3 | 2nd companion |
+|                                                           | Collection                                     | Tier   |
+| --------------------------------------------------------- | ---------------------------------------------- | ------ |
+| [<img src={imgCats} width="120"/>](./cats/index.md)       | [**Purrnelope's Cats**](./cats/index.md)       | Tier 1 |
+| -                                                         | TBA                                            | Tier 2 |
+| [<img src={imgKittens} width="120"/>](./kittens/index.md) | [**Purrnelope's Kittens**](./kittens/index.md) | Tier 3 |
+| -                                                         | TBA                                            | Tier 3 |
 
 ### Tiers
 
