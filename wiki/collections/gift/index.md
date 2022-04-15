@@ -1,7 +1,7 @@
 ---
 sidebar_position: 50
 title: Purrnelope's Gift
-image: ./assets/purrnelopes-gift.png
+image: /img/cover/pcc-gift.png
 description: Purrnelope's Gifts are a long term plan to reward PCC's loyal fans.
 ---
 

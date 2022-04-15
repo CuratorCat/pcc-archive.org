@@ -1,6 +1,6 @@
 ---
 title: Cat Traits
-image: ./assets/cats-examples.png
+image: /img/cover/pcc-cats.png
 ---
 
 ### Background

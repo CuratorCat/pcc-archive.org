@@ -1,13 +1,13 @@
 ---
 title: .pcc.eth ENS
 sidebar_position: 60
-image: ./assets/pcc-eth.jpg
+image: /img/cover/pcc-ens.jpg
 description: .pcc.eth ENS subdomains can be claimed with a PCC cat, the ENS is tied to the cat and use that cat as PFP, also points to the wallet address holding the cat.
 ---
 
 # .pcc.eth ENS Subdomains
 
-![](./assets/pcc-eth.jpg)
+![](./assets/pcc-ens.jpg)
 
 You can only have a **.pcc.eth** if you own a Purrnelopes Country Club [Cat](../collections/cats/index.md). The ENS is tied to the cat, not an additional NFT, not your wallet, the cat itself. If you sell your PCC Cat, the **.pcc.eth** goes with it.
 
@@ -22,7 +22,7 @@ ENS domains is booming, and PCC's wizard `hodl.pcc.eth` created a custom [ENS re
 
 A **.pcc.eth** ENS is your wallet address, but more readable compared to 0x09284530···sjdflk9. Carlini's address is `carlini8.pcc.eth` and Papa's address is `papa.pcc.eth`. The **.pcc.eth** ENS subdomain will point to the wallet address holding the cat which has the **.pcc.eth** name.
 
-![How .pcc.eth ENS works](./assets/pcc-eth-works.png)
+![How .pcc.eth ENS works](./assets/pcc-ens-works.png)
 
 ### ENS PFP Avatar
 

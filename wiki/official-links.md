@@ -1,7 +1,7 @@
 ---
 sidebar_position: 99
 title: PCC Offical Links
-image: ./club/assets/pcc.jpg
+image: /img/cover/pcc.jpg
 description: Official Links of Purrnelope's Country Club
 ---
 

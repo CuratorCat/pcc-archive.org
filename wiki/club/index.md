@@ -1,7 +1,7 @@
 ---
 title: Purrnelope's Country Club
 sidebar_position: 10
-image: ./assets/pcc.jpg
+image: /img/cover/pcc.jpg
 ---
 
 import imgCats from '../collections/cats/assets/cats-examples-s.png';
@@ -11,7 +11,7 @@ import imgKittyVault from '../kittyvault/assets/kittyvault-s.png';
 import imgENS from '../ens/assets/pcc-eth-s.png';
 import imgToken from './assets/token-s.png';
 
-![](./assets/pcc.jpg)
+![](/img/cover/pcc.jpg)
 
 Purrnelope's Country Club ([Official Website](https://purrnelopescountryclub.com/)) was founded by Carlini8 in 2021.
 

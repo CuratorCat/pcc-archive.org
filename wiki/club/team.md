@@ -2,7 +2,7 @@
 title: Team
 sidebar_position: 10
 description: The PCC currently consists of eight full time members of staff and two part time members of staff.
-image: ./assets/team-cover.jpg
+image: /img/cover/pcc-team.jpg
 ---
 
 # PCC Team
