@@ -9,6 +9,7 @@ import imgKittens from '../collections/kittens/assets/kittens-examples-s.png';
 import imgPurrks from '../collections/kittyvault-purrks/assets/purrks-examples-s.png';
 import imgKittyVault from '../kittyvault/assets/kittyvault-s.png';
 import imgENS from '../ens/assets/pcc-eth-s.png';
+import imgToken from './assets/token-s.png';
 
 ![](./assets/pcc.jpg)
 
@@ -64,7 +65,9 @@ The whole collection will be fractionalized with @fractional_art 2.0.
 
 ## Token
 
-**$TOKEN** has not been released yet. NFTs from main [collections](../collections/index.md) will be able to yield $TOKEN.
+<img src={imgToken} width="120" style={{float:"right"}} />
+
+**$TOKEN** has not been released yet. NFTs from main [collections](../collections/index.md) will be able to yield $TOKEN. $TOKENs will be used for purchasing packs, community governance etc.
 
 ## Merch
 
@@ -76,9 +79,15 @@ Games are planned in [Roadmap V2](/posts/2022/02/25/post/roadmap-2-0-6-months-on
 
 ## Roadmaps
 
-- [Roadmap V1](/posts/2021/08/12/post/roadmap)
+### Roadmap 1.0
 
-- [Roadmap V2](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch)
+Roadmap 1.0 was released with the project launch, and a [full roadmap posted](/posts/2021/08/12/post/roadmap) after the Cats mint completed. And Kitty Vault, 8 Purrks Airdrops, .pcc.eth ENS subdomains were not on the roadmap but the PCC Team made them happen.
+
+### Roadmap 2.0
+
+[Roadmap 2.0](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch) was released on February 25, 2022, 6 month after Roadmap 1.0.
+
+![PCC Roadmap 2.0](./assets/roadmap2.jpg)
 
 ## Fun Facts
 
