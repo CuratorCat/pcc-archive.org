@@ -1,34 +1,32 @@
 ---
-title: ENS
+title: .pcc.eth ENS
 sidebar_position: 60
 image: ./assets/pcc-eth.jpg
+description: .pcc.eth ENS subdomains can be claimed with a PCC cat, the ENS is tied to the cat and use that cat as PFP, also points to the wallet address holding the cat.
 ---
 
-# PCC ENS
+# .pcc.eth ENS Subdomains
 
-The PCC owns **purrnelopescountryclub.eth** and **pcc.eth** ENS.
+![](./assets/pcc-eth.jpg)
 
-## `.pcc.eth` ENS Subdomains
+You can only have a **.pcc.eth** if you own a Purrnelopes Country Club [Cat](../collections/cats/index.md). The ENS is tied to the cat, not an additional NFT, not your wallet, the cat itself. If you sell your PCC Cat, the **.pcc.eth** goes with it.
 
-All Purr holders are now eligible to claim a Purrnelope's Country Club sub-domain. 
+It's free for PCC Cats holders to claim on [PCC website](https://www.purrnelopescountryclub.com/claim/ens) beside the gas. As long as you hold the cat tied to it, you will have your **.pcc.eth** ENS, the PCC Team pays the annual fees for the primary **pcc.eth** ENS.
 
-E.g. Carlini8's ENS Subdomain is **carlini8.pcc.eth**. And it will display the cat as the ENS Profile Picture as well. See [eth.xyz/carlini8.pcc.eth](https://eth.xyz/carlini8.pcc.eth), [opensea.io/carlini8.pcc.eth](https://opensea.io/carlini8.pcc.eth)
+ENS domains is booming, and PCC's wizard `hodl.pcc.eth` created a custom [ENS resolver contract](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#code) that made PCC the first project links ERC-721 NFTs to ENS subdomains possible. The contract itself says *feel free to reuse* for other projects to use!
 
-### Video
 
-[PCC Sub Domains: Explained](/posts/explained/202112-ens-subdomains)
+## Features
 
-### Claim Your `.pcc.eth`
+### Wallet Address
 
-[Claim Page](https://www.purrnelopescountryclub.com/claim/ens)
+A **.pcc.eth** ENS is your wallet address, but more readable compared to 0x09284530···sjdflk9. Carlini's address is `carlini8.pcc.eth` and Papa's address is `papa.pcc.eth`. The **.pcc.eth** ENS subdomain will point to the wallet address holding the cat which has the **.pcc.eth** name.
 
-:::info
+![How .pcc.eth ENS works](./assets/pcc-eth-works.png)
 
-The .pcc.eth ENS Subdomain is owned by the cat you own, and always linked to the address owns that cat. 
+### ENS PFP Avatar
 
-If you sell the cat owns the ENS Subdomain, you lose that ENS Subdomain as well.
-
-:::
+The magic of **.pcc.eth** will use the cat has the name as ENS avatar automatically! All major standard web3 platforms like uniswap etc. will display your **.pcc.eth** name with the cat as the profile image!
 
 ### Follow `.pcc.eth` on Twitter
 
@@ -36,7 +34,18 @@ If you sell the cat owns the ENS Subdomain, you lose that ENS Subdomain as well.
 
 Follow `.pcc.eth` users on Twitter, use this [Twitter Search](https://twitter.com/search?q=.pcc.eth&src=typed_query&f=user).
 
-## Subdomain FAQ {#faq}
+### And more
+
+**.pcc.eth** is more than a name and avatar, it's Proof of Ownership, Your Wallet Address, Searchable Profile Picture, Your Community, Proof of Flex, Marketing for your Community, Integrates your Brand, Bot Integratable. Read more on [Carlini8's Tweet Thread On .pcc.eth](/posts/2022/04/14/post/carlini8-tweet-pcc-eth)
+
+
+## Learn more
+
+- [Claim .pcc.eth](https://www.purrnelopescountryclub.com/claim/ens)
+
+- Video: [PCC Sub Domains: Explained](/posts/explained/202112-ens-subdomains)
+
+## .pcc.eth ENS FAQ {#faq}
 
 ### When will I be eligible?
 
@@ -62,3 +71,6 @@ Tag Papa `peteronfire78#0016` in the PCC Discord Server or DM Papa - Papa's DMs 
 FAQ [^1]
 
 [^1]: From PCC Discord: https://discord.com/channels/856877590592749598/921086339405991996
+
+
+The PCC owns **purrnelopescountryclub.eth** and **pcc.eth** ENS.
