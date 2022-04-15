@@ -2,6 +2,7 @@
 title: Collections
 sidebar_position: 20
 image: ./assets/pcc.jpg
+description: "Cats, Kittens, KittyVault Purrks, Gifts and 2 more collections to be announced."
 ---
 
 import imgCats from './cats/assets/cats-examples-s.png';
