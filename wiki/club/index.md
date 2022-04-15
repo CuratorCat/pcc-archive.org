@@ -8,6 +8,7 @@ import imgCats from '../collections/cats/assets/cats-examples-s.png';
 import imgKittens from '../collections/kittens/assets/kittens-examples-s.png';
 import imgPurrks from '../collections/kittyvault-purrks/assets/purrks-examples-s.png';
 import imgKittyVault from '../kittyvault/assets/kittyvault-s.png';
+import imgENS from '../ens/assets/pcc-eth-s.png';
 
 ![](./assets/pcc.jpg)
 
@@ -54,6 +55,12 @@ Start from Sep 2021 to Apr 2022 of total 8 airdrops.
 [**Purrnelope's Kitty Vault**](../kittyvault/index.md) a community owned vault of NFTs that backs every PCC cat & first 8 airdrops. 
 
 The whole collection will be fractionalized with @fractional_art 2.0.
+
+## .pcc.eth ENS
+
+[<img src={imgENS} width="120" style={{float:"right"}} />](../ens/index.md)
+
+[.pcc.eth ENS subdomains](../ens/index.md) are viral on twitter. It is free for PCC Cat holders to claim. More readable for wallet address, use the cat as PFP on web3, and the brand of PCC Community.
 
 ## Token
 
