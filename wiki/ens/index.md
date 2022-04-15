@@ -70,7 +70,9 @@ Tag Papa `peteronfire78#0016` in the PCC Discord Server or DM Papa - Papa's DMs 
 
 FAQ [^1]
 
-[^1]: From PCC Discord: https://discord.com/channels/856877590592749598/921086339405991996
-
+## Other PCC ENS
 
 The PCC owns **purrnelopescountryclub.eth** and **pcc.eth** ENS.
+
+
+[^1]: From PCC Discord: https://discord.com/channels/856877590592749598/921086339405991996
