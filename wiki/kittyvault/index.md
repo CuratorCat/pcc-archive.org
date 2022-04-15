@@ -5,12 +5,12 @@ image: ./assets/kittyvault-banner.png
 description: "The Kitty Vault is a vault of NFTs that backs every PCC cat & first 8 airdrops. It is the 'Gold Standard' that keeps your PCC NFTs secured."
 ---
 
-![](./assets/kittyvault-banner.png)
-[
-[OpenSea](https://opensea.io/kittyvault.pcc.eth) |
-[Kitty Vault Twitter](https://twitter.com/KittyVault) |
+🏦
+[OpenSea](https://opensea.io/kittyvault.pcc.eth) · 
+[KittyVault Twitter](https://twitter.com/KittyVault) · 
 [onCyber](https://oncyber.io/spaces/RKJMFEwiVG8f6V1aPL08)
-]
+🏦
+![](./assets/kittyvault-banner.png)
 
 ## What is Kitty Vault?
 

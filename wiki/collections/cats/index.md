@@ -8,14 +8,14 @@ description: Cats of Purrnelope's Country Club are 10,000 randomly generated NFT
 
 # Purrnelope's Cats
 
-![](./assets/cats-examples.png)
-[
-[Contract](https://etherscan.io/address/0x9759226b2f8ddeff81583e244ef3bd13aaa7e4a1) |
-[OpenSea](https://opensea.io/collection/purrnelopes-country-club) |
-[LooksRare](https://looksrare.org/collections/0x9759226B2F8ddEFF81583e244Ef3bd13AAA7e4A1) |
-[NFTX](https://nftx.io/vault/0xe581f272706581f9dcc362df3c7934e99192c492/) |
+😺
+[Contract](https://etherscan.io/address/0x9759226b2f8ddeff81583e244ef3bd13aaa7e4a1) · 
+[OpenSea](https://opensea.io/collection/purrnelopes-country-club) · 
+[LooksRare](https://looksrare.org/collections/0x9759226B2F8ddEFF81583e244Ef3bd13AAA7e4A1) · 
+[NFTX](https://nftx.io/vault/0xe581f272706581f9dcc362df3c7934e99192c492/) · 
 [Rarity](https://rarity.tools/purrnelopes-country-club)
-]
+😺
+![](./assets/cats-examples.png)
 
 ## What are Cats [^1]
 

@@ -7,12 +7,12 @@ description: Purrnelope's Kittens is a collection of 10,000 randomly generated N
 
 # Purrnelope's Kittens
 
-![](./assets/kittens-examples.png)
-[
-[Contract](https://etherscan.io/address/0x0c6218d95735d3e12ae7c4703106e4b8e0b61010) |
-[OpenSea](https://opensea.io/collection/purrnelopes-kittens) |
+🐈
+[Contract](https://etherscan.io/address/0x0c6218d95735d3e12ae7c4703106e4b8e0b61010) · 
+[OpenSea](https://opensea.io/collection/purrnelopes-kittens) · 
 [LooksRare](https://looksrare.org/collections/0x0c6218D95735d3E12AE7C4703106E4b8e0b61010)
-]
+🐈
+![](./assets/kittens-examples.png)
 
 ## What are Kittens
 
