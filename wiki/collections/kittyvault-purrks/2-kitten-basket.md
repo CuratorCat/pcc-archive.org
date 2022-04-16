@@ -20,7 +20,7 @@ Each Kitten Basket can redeem a [Purrnelope's Kitten](../kittens/index.md). Curr
 
 ## Events
 
-- 2021-12-20: Unredeemed baskets had been pulled back to purrnelope.pcc.eth
+- 2021-12-20: Unredeemed baskets had been pulled back to purrnelope.pcc.eth [Etherscan](https://etherscan.io/tx/0x2598b855a071a7dc498c20f8768891178aa293034e44db5ac2c10c95d06acac1)
 
 ## Meta
 

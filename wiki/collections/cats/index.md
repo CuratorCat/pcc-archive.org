@@ -3,16 +3,15 @@ sidebar_position: 2
 title: Cats
 image: /img/cover/pcc-cats.png
 description: Cats of Purrnelope's Country Club are 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Exclusivity is the name, fun is the game.
-
 ---
 
 # Purrnelope's Cats
 
 😺
-[Contract](https://etherscan.io/address/0x9759226b2f8ddeff81583e244ef3bd13aaa7e4a1) · 
-[OpenSea](https://opensea.io/collection/purrnelopes-country-club) · 
-[LooksRare](https://looksrare.org/collections/0x9759226B2F8ddEFF81583e244Ef3bd13AAA7e4A1) · 
-[NFTX](https://nftx.io/vault/0xe581f272706581f9dcc362df3c7934e99192c492/) · 
+[Contract](https://etherscan.io/address/0x9759226b2f8ddeff81583e244ef3bd13aaa7e4a1) ·
+[OpenSea](https://opensea.io/collection/purrnelopes-country-club) ·
+[LooksRare](https://looksrare.org/collections/0x9759226B2F8ddEFF81583e244Ef3bd13AAA7e4A1) ·
+[NFTX](https://nftx.io/vault/0xe581f272706581f9dcc362df3c7934e99192c492/) ·
 [Rarity](https://rarity.tools/purrnelopes-country-club)
 😺
 ![](./assets/pcc-cats.png)
@@ -39,7 +38,7 @@ Mint price was 0.08 ETH. Mint took 26 days: The first cat was minted on [Jul-17-
 
 ## Utilities
 
-### PCC ENS Subdomains
+### .pcc.eth ENS Subdomains
 
 Cats owners can claim their [.pcc.eth ENS Subdomains](../../ens/index.md) at [Claim Page](https://www.purrnelopescountryclub.com/claim/ens) of PCC Official Website.
 
@@ -53,8 +52,17 @@ Cats are Tier 1 NFTs, will earn 10 $TOKENs per day per Cat.
 
 ## Meta
 
-- Meta URI: ipfs://QmPkmpS7BZU7Vcja3zk9YJyamz83n7LGsBKdnKPrBEhShR
-- Cat Image URI: ipfs://QmUfyS4W6cBRRWtWpbW1as4ziaiEHTBD9WVcn1nrEB6xPu
+#### Token Meta URI
+
+- `ipfs://QmPkmpS7BZU7Vcja3zk9YJyamz83n7LGsBKdnKPrBEhShR`
+- To view a particular Cat's meta, replace `1` with the Cat ID:
+  [ipfs.io/ipfs/QmPkmpS7BZU7Vcja3zk9YJyamz83n7LGsBKdnKPrBEhShR/1](https://ipfs.io/ipfs/QmPkmpS7BZU7Vcja3zk9YJyamz83n7LGsBKdnKPrBEhShR/1)
+
+#### Cat Image
+
+- `ipfs://QmUfyS4W6cBRRWtWpbW1as4ziaiEHTBD9WVcn1nrEB6xPu`
+- To view a particular Cat's image, replace `1` with the Cat ID:
+  [ipfs.io/ipfs/QmUfyS4W6cBRRWtWpbW1as4ziaiEHTBD9WVcn1nrEB6xPu/1.png](https://ipfs.io/ipfs/QmUfyS4W6cBRRWtWpbW1as4ziaiEHTBD9WVcn1nrEB6xPu/1.png)
 
 ## See Also
 
