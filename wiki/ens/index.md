@@ -70,7 +70,11 @@ Tag Papa `peteronfire78#0016` in the PCC Discord Server or DM Papa - Papa's DMs 
 
 FAQ [^1]
 
-## New pcc.eth
+## Stats
+
+Dune Analytics: https://dune.xyz/curatorcat/pcc-ens
+
+### .pcc.eth Named Cats{#named-cats}
 
 <iframe width="100%" height="315" src="https://dune.xyz/embeds/608635/1136329/1d177c7e-8c88-4907-bd9a-67c45e792a95" title="New pcc.eth" frameborder="0" allowtransparency="true" style={{background: "#F3F0FE", borderRadius: "12px"}}></iframe>
 
