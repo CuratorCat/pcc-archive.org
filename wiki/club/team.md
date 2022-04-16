@@ -53,6 +53,7 @@ width="85"
 style={{borderRadius: "50%", float: "right"}}
 />
 
+- `1rregularcharlie.pcc.eth`
 - **Artist Cat. PCC in-house artist.**
 - Twitter [@SwirlyBolt](https://twitter.com/swirlybolt)
 
