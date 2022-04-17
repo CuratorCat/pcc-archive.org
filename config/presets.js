@@ -26,7 +26,7 @@ module.exports = [
         editUrl: "https://github.com/CuratorCat/pcc-archive.org/tree/main/",
       },
       theme: {
-        customCss: require.resolve("../src/css/custom.css"),
+        customCss: require.resolve("../src/css/custom.scss"),
       },
     }),
   ],

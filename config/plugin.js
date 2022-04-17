@@ -1,5 +1,6 @@
 /** @type {import('@docusaurus/types').PluginConfig} */
 module.exports = [
+  'docusaurus-plugin-sass',
   [
     require.resolve("@cmfcmf/docusaurus-search-local"),
     {
