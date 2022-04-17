@@ -44,7 +44,8 @@ Follow `.pcc.eth` users on Twitter, use this [Twitter Search](https://twitter.co
 ### 1. How do I get mine?
 
 - You have to own a PCC Cat, and the cat must not tied to a .pcc.eth subdomain.
-- PCC Official Claim Page: [purrnelopescountryclub.com/claim/ens](https://www.purrnelopescountryclub.com/claim/ens).
+
+- Official PCC ENS Claim Page: [purrnelopescountryclub.com/claim/ens](https://www.purrnelopescountryclub.com/claim/ens).
 
 ### 2. Do I own that .pcc.eth ENS?
 
