@@ -15,7 +15,7 @@ It's free for PCC Cats holders to claim on [PCC website](https://www.purrnelopes
 
 ENS domains is booming, and PCC's wizard `hodl.pcc.eth` created a custom [ENS resolver contract](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#code) that made PCC the first project links ERC-721 NFTs to ENS subdomains possible. The contract itself says _feel free to reuse_ for other projects to use!
 
-<iframe width="100%" height="120" src="https://dune.xyz/embeds/318958/949996/1acb0020-e920-4e6a-8d9a-f3f66207dec3" title="pcc.eth counter" frameborder="0" allowtransparency="true" style={{background: "#F3F0FE", borderRadius: "12px"}}></iframe>
+<iframe width="100%" height="150" src="https://dune.xyz/embeds/318958/949996/1acb0020-e920-4e6a-8d9a-f3f66207dec3" title="pcc.eth counter" frameborder="0" style={{background: "#F3F0FE", borderRadius: "12px"}}></iframe>
 
 ## Features
 
@@ -39,36 +39,62 @@ Follow `.pcc.eth` users on Twitter, use this [Twitter Search](https://twitter.co
 
 **.pcc.eth** is more than a name and avatar, it's Proof of Ownership, Your Wallet Address, Searchable Profile Picture, Your Community, Proof of Flex, Marketing for your Community, Integrates your Brand, Bot Integratable. Read more on [Carlini8's Tweet Thread On .pcc.eth](/posts/2022/04/14/post/carlini8-tweet-pcc-eth)
 
+## FAQ for .pcc.eth ENS {#faq}
+
+### 1. How do I get mine?
+
+- You have to own a PCC Cat, and the cat must not haven't claimed a .pcc.eth subdomain before..
+- PCC Official Claim Page: [purrnelopescountryclub.com/claim/ens](https://www.purrnelopescountryclub.com/claim/ens).
+
+### 2. Do I own that .pcc.eth ENS?
+
+- **No, your cat owns it**.
+
+- But you own the cat, so technically you own the .pcc.eth in a way as long as you have the cat.
+
+### 3. Rules and restricitons?
+
+- **A cat can be named once**, and the name follows the cat, so if you sell your cat, you'll lose that **.pcc.eth** ENS.
+
+- **The name of the cat can not be changed or transferred** for now.
+
+- **Each wallet address can only name 1 cat in every 12 weeks** for now. It's defined by `reset_period` in the [contract](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#readContract).
+
+  If you want to name multiple cats and don't want to wait, name them using different wallet addresses, and send them back to the wallet you'd like to hold them.
+
+- **Name length or special characters?**
+
+  - Well, **only `0-1` and `a-z` are allowed**.
+
+  - **The name can be any length** e.g. `x.pcc.eth` is possible but it is already taken.
+
+### 4. How to know if a Cat has been named? {#faq-check}
+
+The correct way is to look on the blockchain. You can lookup the PCC ENS Resolver contract on [Etherscan](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#readContract):
+
+![](./assets/faq-etherscan-gettokendomains.jpg)
+
+Another quicker way is to lookup on [PCC ENS on Dune Analytics](https://dune.xyz/curatorcat/pcc-ens). Enter cat ID in the search box. But it is not always up-to-date with Dune, it's just easier and faster than Etherscan. If you want to buy a Cat with no name, use Etherscan.
+
+### 5. Does it override if I have an existing .eth domain?
+
+No. You can have as many inbound addresses as you like, so an extra subdomain does not remove or replace your .eth domain. However, if you set your subdomain.pcc.eth as your primary address, this will be the address that shows on Uniswap, OpenSea, Snapshot, etc. Your avatar will also be your Purr rather than the generic MetaMask image!
+
+### 6. Why doesn’t it show on UniSwap/OS?
+
+**You have to set your subdomain.pcc.eth as the primary name**
+
+This can be done on the [claim page](https://www.purrnelopescountryclub.com/claim/ens) once you have a cat owns a name:
+
+![](./assets/set-primary.png)
+
+If it shows on Uniswap but not OpenSea yet, its most likely (99.9%) that it’s OpenSea being slow! It will sort itself out eventually! You can also connect your wallet on https://app.ens.domains/ to see if it's working.
+
 ## Learn more
 
-- [Claim .pcc.eth](https://www.purrnelopescountryclub.com/claim/ens)
+- Claim Page: [purrnelopescountryclub.com/claim/ens](https://www.purrnelopescountryclub.com/claim/ens)
 
 - Video: [PCC Sub Domains: Explained](/posts/explained/202112-ens-subdomains)
-
-## .pcc.eth ENS FAQ {#faq}
-
-### When will I be eligible?
-
-Every Purr holder is now eligible to claim.
-
-### Does it override if I have an existing .eth domain?
-
-You can have as many inbound addresses as you like, so an extra subdomain does not remove or replace your .eth domain. Papa was `peteronfire78.eth` & Papa still is. However, if you set your subdomain.pcc.eth as your primary address, this will be the address that shows on Uniswap, Opens, Snapshot, etc. Your avatar will also be your Purr rather than the generic MetaMask image!
-
-### How do I get mine?
-
-Head to PCC website or this link here: https://www.purrnelopescountryclub.com/claim/ens
-
-### Why doesn’t it show on UniSwap/OS?
-
-If your subdomain.pcc.eth doesn’t show on Uniswap - please ensure you completed the second transaction on our website
-If it shows on Uniswap but not OpenSea yet, its most likely (99.9%) that it’s OpenSea being slow! It will sort itself out eventually!
-
-### I still have questions!
-
-Tag Papa `peteronfire78#0016` in the PCC Discord Server or DM Papa - Papa's DMs are open to anyone in PCC Discord Server.
-
-FAQ [^1]
 
 ## Stats
 
@@ -76,10 +102,8 @@ Dune Analytics: https://dune.xyz/curatorcat/pcc-ens
 
 ### .pcc.eth Named Cats{#named-cats}
 
-<iframe width="100%" height="315" src="https://dune.xyz/embeds/608635/1136329/1d177c7e-8c88-4907-bd9a-67c45e792a95" title="New pcc.eth" frameborder="0" allowtransparency="true" style={{background: "#F3F0FE", borderRadius: "12px"}}></iframe>
+<iframe width="100%" height="315" src="https://dune.xyz/embeds/608635/1136329/1d177c7e-8c88-4907-bd9a-67c45e792a95" title="New pcc.eth" frameborder="0" style={{background: "#F3F0FE", borderRadius: "12px"}}></iframe>
 
 ## Other PCC ENS
 
 The PCC owns **purrnelopescountryclub.eth** and **pcc.eth** ENS.
-
-[^1]: From PCC Discord: https://discord.com/channels/856877590592749598/921086339405991996
