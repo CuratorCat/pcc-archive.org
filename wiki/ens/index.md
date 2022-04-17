@@ -107,7 +107,7 @@ If you made spelling mistakes to a cat, and would like to rename the cat. Follow
 
 ## Remove Cat's name {#remove-name}
 
-- Rmove the name from a cat is dangerous and can not be done.
+- Rmove the name from a cat is dangerous and can not be undone.
 
 - And the name removed can not be used ever again!
 
@@ -117,7 +117,7 @@ If you made spelling mistakes to a cat, and would like to rename the cat. Follow
 
 :::warning
 
-**Rmove the name from a cat is dangerous and can not be done.**
+**Rmove the name from a cat is dangerous and can not be undone.**
 
 **And the name removed can not be used ever again!**
 
