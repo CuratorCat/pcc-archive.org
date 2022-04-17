@@ -1,15 +1,17 @@
 ---
 sidebar_position: 99
-title: Offical Links
+title: PCC Offical Links
+image: /img/cover/pcc.jpg
+description: Official Links of Purrnelope's Country Club
 ---
 
-## PCC Official Website
+## Official Website
 
 [www.purrnelopescountryclub.com](https://www.purrnelopescountryclub.com/)
 
 ## Collection & Marketplace
 
-### PCC Cats
+### Cats
 
 - Marketplaces:
   [OpenSea](https://opensea.io/collection/purrnelopes-country-club)
@@ -18,12 +20,12 @@ title: Offical Links
 - Pool: [NFTX](https://nftx.io/vault/0xe581f272706581f9dcc362df3c7934e99192c492/info/)
 - Rarity Tools: [rarity.tools](https://rarity.tools/purrnelopes-country-club)
 
-### PCC Kittens
+### Kittens
 
 - Marketplaces:
   [OpenSea](https://opensea.io/collection/purrnelopes-kittens)
 
-### PCC KittyVault Purrks
+### KittyVault Purrks
 
 - Marketplaces:
   [OpenSea](https://opensea.io/collection/purrnelopes-kittybank-purrks)
@@ -42,3 +44,4 @@ title: Offical Links
 ## Special Accounts
 
 - kittyvault.pcc.eth [OpenSea](https://opensea.io/kittyvault.pcc.eth)
+- PurrnelopeCommunityWallet.eth

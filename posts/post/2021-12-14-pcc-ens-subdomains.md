@@ -8,9 +8,11 @@ image: ./assets/1_sXqHxR0zXQp_le2gUZzzVA.png
 og_url: https://purrnelope.medium.com/pcc-ens-subdomains-5fd71cb90076
 ---
 
+![](./assets/1_sXqHxR0zXQp_le2gUZzzVA.png)
+
 <!--truncate-->
 
-![](./assets/1_sXqHxR0zXQp_le2gUZzzVA.png)Just repping my clan tags
+Just repping my clan tags
 
 Welcome back to Purrnelope’s Country Club.
 

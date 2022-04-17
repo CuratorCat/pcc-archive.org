@@ -1,6 +1,21 @@
 # PCC-ARCHIVE.ORG
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Repo for [pcc-archive.org](https://pcc-archive.org). Me, @CuratorCat started this project for the PCC Community, currently maintained by @CuratorCat.
+
+Learn more about this project at [./src/pages/about.md](./src/pages/about.md).
+
+## Content
+
+- `wiki` dir: all wikis for PCC
+- `posts` dir: web posts, media from and about PCC
+
+## Contribute
+
+Anyone is welcomed to contribute to this project. Read more at [./src/pages/contriubute.md](./src/pages/contribute.md).
+
+## Dev
+
+This project is using docusaurus.
 
 ### Installation
 
@@ -14,28 +29,12 @@ $ yarn
 $ yarn start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
 ### Build
 
 ```
 $ yarn build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+### Deploy
 
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Currently deployed using Vercel for the `main` branch in this repo.

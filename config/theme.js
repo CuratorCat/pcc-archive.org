@@ -12,8 +12,8 @@ module.exports = {
       { to: "/club", label: "The Club", position: "left" },
       { to: "/collections/cats", label: "Cats", position: "left" },
       { to: "/collections/kittens", label: "Kittens", position: "left" },
+      { to: "/ens", label: "ENS", position: "left" },
       { to: "/posts", label: "Posts", position: "left" },
-      { to: "/posts/tags/purr-cast", label: "PurrCast", position: "left" },
       { to: "/posts/tags", label: "Tags", position: "left" },
       { to: "/official-links", label: "Official Links", position: "left" },
     ],
@@ -67,6 +67,10 @@ module.exports = {
             href: "/posts/archive",
           },
           {
+            label: "Posts Tags",
+            href: "/posts/tags",
+          },
+          {
             label: "PCC Archive GitHub",
             href: "https://github.com/CuratorCat/pcc-archive.org",
           },
@@ -75,6 +79,8 @@ module.exports = {
     ],
     copyright: `${new Date().getFullYear()} pcc-archive.org`,
   },
+  image: 'img/pcc-archive-soc.jpg',
+  metadata: [{name: 'twitter:card', content: 'summary_large_image'}],
   prism: {
     theme: lightCodeTheme,
     darkTheme: darkCodeTheme,

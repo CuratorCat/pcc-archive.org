@@ -52,7 +52,7 @@ Never share your confidential information, passwords, private keys or seed phras
 
 1. GitHub: [Create New Issue](https://github.com/CuratorCat/pcc-archive.org/issues/new) in this project's repo
 
-1. Discord: tag me `CuratorCat#0191` in PCC Discord
+1. Discord: tag me `curatorcat.pcc.eth#0385` in PCC Discord
 
 1. BlockScan Chat: https://chat.blockscan.com/index?a=0xCCA7CCADbf0fBbF9ae20Bcc67f849efa87343eeE
 

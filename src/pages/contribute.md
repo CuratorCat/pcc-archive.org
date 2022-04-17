@@ -16,7 +16,7 @@ Anyone is welcomed to contribute to PCC Archive.
 
 1. **Message in Discord**
 
-  I'm `CuratorCat#0191` in PCC Discord. You can send the content to update in PCC Discord and tag my username. 
+  I'm `curatorcat.pcc.eth#0385` in PCC Discord. You can send the content to update in PCC Discord and tag my username. 
   
   My DMs are open to members in PCC Discord. But it is better to communicate publicly in the Discord Server.
 

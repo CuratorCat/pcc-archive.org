@@ -8,11 +8,11 @@ authors:
     image_url: https://pbs.twimg.com/profile_images/1311131371063193602/BlLedHLD_400x400.jpg
   - carlini8
 tags: [Interview, Transcript]
-# image:
+image: ./assets/2022-03-30-overpriced-jpegs/cover.jpg
 og_url: https://youtu.be/xJERj949FSE
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/uSZZ-GQv4sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/uSZZ-GQv4sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 <!--truncate-->
 

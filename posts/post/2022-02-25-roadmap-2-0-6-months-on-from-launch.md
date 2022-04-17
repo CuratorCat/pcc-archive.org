@@ -7,9 +7,9 @@ image: ./assets/1_7wac2FB61zawzW4CKo54Aw.png
 og_url: https://purrnelope.medium.com/roadmap-2-0-6-months-on-from-launch-d97079395e48
 ---
 
-<!--truncate-->
-
 ![](./assets/1_7wac2FB61zawzW4CKo54Aw.png)
+
+<!--truncate-->
 
 Today is a big day at the country club, and not just because I’m allowed to drop all the alpha I want! It’s Roadmap 2.0 day!
 
