@@ -38,13 +38,13 @@ The **Sponsored Contents** are removed from the transcript below for a better re
 
 Speakers: Carlini8 (76%), Carly (20%), Sponsored Contents (4%)
 
-<blockquote>
-
 :::warning
 
 Nothing on the show is meant as financial advice and please do your own research.
 
 :::
+
+### Intro
 
 **Carlini8 0:00**
 
@@ -61,6 +61,8 @@ But I'll just say this, Carlini has been in this space since very early days, he
 **Sponsored Contents 1:33**
 
 **Sponsored Contents 2:22**
+
+### NFTBoxes
 
 **Carly Reilly 3:11**
 
@@ -117,6 +119,8 @@ we could have hard coded each time and so that was as they had to fluctuate base
 **Carlini8 8:16**
 
 The arts, the artists were fixed. The issue was gas so we started kind of at the at the beginning of the NFT bull run I guess I'd say it really starts at the end of 2020 but at the start of 2021 January that was our first sale. You know we'd we'd planned I think for a fifth. We will be sending out a 50 Gwei that is short it just sat over 100 for so long in February I think it was we just had to adapt our prices because otherwise we were sending out I think at one point there was 700 boxes. So it might have been 11 items in that box who was sending out 7700 NFTs and minting them which is pretty much the whole gas cost of a profile picture project now which we had to send out and that had that had to be baked into the price that we put the boxes at so as that went up we had to adjust and it was pretty stressful to be honest because you can never really plan ETH gas at all. We were trying to have this period where there would be like a fun sort of reveal and we hadn't fully because the the project was was quick to get going it was only December when we really were like right this is happening. And the end of January was the first sale and in my head lots of things were happening that we just didn't have time to plan so the we're going to be like artists spotlights you No articles or maybe a Spaces Spaces wasn't a thing at the time, I think it's going to be a discord chat in the NFT boxes chat about the artists that was coming in and they'd give you info. And then maybe at that point, they'd reveal their piece. So they'd be like this fun, week or two, where all this information would be coming in. And that gave the possibility of guests to fly. And around the time it did, obviously, because all of those high gas times that we saw last year, it was towards the end of the move, perhaps he was trying to send a box out one of those months, and it just got just got tricky.
+
+### Subscriptions Today
 
 **Carly Reilly 10:47**
 
@@ -226,6 +230,8 @@ We are getting some people are asking more questions, but FOMO still exists peop
 
 Dutch auctions. It was like Dutch auctions starting it for like I feel like that dovetailed with.
 
+### Dutch Auctions
+
 **Carlini8 28:37**
 
 And this is this gonna set me off on a different route that we hadn't talked about before. I don't think that was the goal of this episode. I don't consider it a Dutch auction. If you are completely rugging, your best community members, when you launch a Dutch auction, those that believe in you the most are the ones who mint early they don't want to miss out they believe in you. They're your best community members, and you're completely rugging them. Normal Dutch auctions when they're done generally in the real world they use for one item. So you know, it just goes down and eventually the price is found for this one item. In the crypto world when it's used for tokens. The sale slowly goes down and you bid at certain prices. And then it wherever it ends, everyone pays that same price. So if you paid one ETH at the start and ends at naught point one you get refunded naught point nine because why should you pay more just because you believed in the project more it's ridiculous and it needs to die or we need to stop allowing that to be a thing. Because it is so much better to refund everyone to the price point A Dutch auction that goes down. I do not care if this Dutch auction starts off 1000 Ethereum In a way that's better because you're truly finding a price point. If you have it, you're supposed to start them high, right? They're supposed to start high and come down. But the FOMO gets people in. If you know that you will be refunded then the FOMO isn't really there is there in a different way you're there securely in the fact knowing that if everyone has bought at that price, it is truly it's it's proper value. We saw with the the 888 BT orbs done by I completely forget their name, the ones who did who do VOCs. Some people bought that at the ridiculous. It wasn't many, but there were people who bought that at like naught point. Sorry, 8.8 or something like that. And it ended up ended up sub one. And these people weren't refunded. They even paused the mint in during that mint yet the people who bought really high I think they were like 26 or 27. They were the people who wanted BTS work the most, yet, they are punished for that. And it's it just does not seem in any way community oriented to me, and therefore it is in no way web three.
@@ -278,6 +284,8 @@ Last question on this before I do get us off it, what is the time in the place f
 
 It will be his kind of arrogance on the team, I guess is when you know that you're going to sell out. And you you know that it is the best way to avoid a gas war. And the best way for price discovery. The issue with price discovery is if you've actually found true price discovery, then the current crop of NFT buyers aren't too happy because there isn't some kind of Evie. Plus buy there for them because the value is already there. So they're not going to be able to flip in a day. Unless there's some sort of real mechanic in there just to turn to degenerate though
 
+### Purrnelope: A Case Study
+
 **Carly Reilly 36:03**
 
 as in it wasn't you're, you're kind of guaranteed it wasn't underpriced. Yeah. If you're finding its true value, there's not opportunity. Yeah, yeah. That's interesting. Well, I'm glad we had this tangent because I think this gives folks a good sense of your brain and how deeply you think about things and how deeply community oriented you are. So this leads me to our mutual friend, Kai Turner. I was talking about the fact that you and I would be speaking and I was asking if he had anything he felt like I really need to talk to you about and he said this, which I loved about Purrnelope's is your project. We need to make the Purrnelope's case study required reading, they've done so many amazing community things. Carlini is applying the best of what he's observed in communities like crypto kitties to bring the absolute best practices. Also, the floor tanked after mint. And he brought it back through sheer commitment to the project. And he has no plan to stop anytime soon. So now the floor is up. And it's a great study of how commitment and delivery can bring the floor price back. Lots in there. Maybe let's start with is that how you experienced things in terms of floor price kind of crashing? And then perseverance to bring it back up? Was that the experience for you living through it? And then if yes, we'd love to know about how you thought about that. I think it's something that's probably relatable to a lot of projects who see their floor prices go down, and maybe they start to panic, and they would love to know what it takes to, to rebuild.
@@ -318,6 +326,8 @@ that rumor, Carlini leaves Purrnelope's rug,
 
 structuring it in a way that if I get hit by a bus or if a plane lands on my house, there is still a Purrnelope's there. There is still a team that will build there is still a team that will have you know, the kitty vault backing to keep going they will have the funds to keep building so that is always in the mind. It is we are planning for the long term or we're now trying like right now our current plans are how do we get our current salaries for for a runway in the bank which is not a big salary in this space. We are, we are very much working on love of NFT first and salary second, but how can we get that in a bank squared away just sitting there for a year or two. So that secure so we can say, look for the next two years, or maybe a year, depending on how pricings go and all of that, there'll be at least 10 people working on Purrnelope's or we have got the budget for 10 people, then, you know, colabs, and progress and website 2.0. And all the things on our roadmap, we price that in as well. So it's all about we are really planning for the long term. And this is why I said earlier, it really annoyed me when influencers minted and then split ETH between them, because how do you how do you then plan like this there is you can just leave at any point because there is no company. There is no you know, pudgy penguins. They didn't even have an empty vault, there was no vault, the vault hadn't been created to put anything in. And it was is just purely about the long game. And making sure that you know, even if something does happen to me that is a company there. And no, let's let's not start that route. But I have no plans to leave I am thinking about this project all the time. I do not want to go and do anything else. I already you know, I work from home I have I spend every morning with with my kids. I look after them. You know this is this is all within the plan. I'm already living a good life and working on something that I enjoy. So I The plan is to build this to be huge, to the point where my influence is minimal. But I still want to be there. Obviously.
 
+### Roadmaps
+
 **Carly Reilly 46:52**
 
 You mentioned to me my conversation with Zeneca. I think my very first one in which Seneca said he was not a fan of roadmaps because it didn't allow flexibility for projects or I think it was something along those lines. When you had this moment where the floor price was down and you were reassuring your community. So you had that messaging that you put out there. And then I imagine you got to work building on your roadmap, because you do actually actually have a roadmap. What is your take on roadmaps you've had sort of a distinct one around like? Well, most most things that people call roadmaps aren't really roadmaps. What what is your take on on the roadmap situation? And what was your roadmap? Call it part one for Purrnelope's?
@@ -346,6 +356,8 @@ Yeah, yeah. So it's just from games. Basically, there be certain characters that
 
 So I do see tokens being huge, a NFT yielding token, and we promise token, it's on roadmap 2.0. But we've been tweeting about it talking about in our spaces, it's on our YouTube channel. For for a very long time to the point I've already registered additional businesses about that that was completed about two months ago, purely to launch these tokens. And I was in talks with lawyers maybe five months ago. So it has been in the works for a long time, despite not being on our original roadmap. Because I feel you do have the flexibility. Unless you know, unless your roadmap is ridiculously specific. Or you're going for, you know, if you're building an exact game, that does an exact thing, it might be quite hard to move from a roadmap. But I feel like projects like that really do need a roadmap for people to know where they're going. It's just, it's just more information. Obviously, a roadmap doesn't mean the team is going to deliver this, it means the team is hopefully going to try and deliver this. And it gives you a little bit of insight into I guess, their thinking. So I just like to be able to look at a pre mint roadmap. Maybe have a look at a couple of others coming out around the same time, right? If they just copy pasted, because if they've copy pasted, that's a negative, straight off the bat. Or if they are they actually thinking about this is is anything on here. Interesting.
 
+### Flipping NFTs
+
 **Carly Reilly 52:54**
 
 That's a good tip. Are you still like an NFT? flipper? Like, are you still degening? While you build personalities?
@@ -369,6 +381,8 @@ like That's unacceptable. Unacceptable reaction to the
 **Carlini8 54:25**
 
 new he joined already because you know, one friend joining another friend and I'd commented something under that post. Like if this is a hollow cat, I'm going to be few
+
+### The Kitty Vault
 
 **Carly Reilly 54:39**
 
@@ -402,6 +416,8 @@ And that 1000 ETH worth of NFTs that are in the kitty vault. Were those yours? H
 
 We did just we did just use a sale. I didn't put it it wasn't like the whale token, where whale shark had all these NFTs and then put them into a collection and fractionalized it. Like I said, we we have on chain that we are all about the community. And you can go and look and see that these NFTs were bought from that we we have several different company wallets that do different things, and we have subdomain them so you can kind of see what they are. Some of them are just subdomains that we didn't want other people to take. So at the end of every YouTube video, Creative Director Kate says mini meow, because at the time when we started that we were teasing our first companion, which was a kitten, and it was like it's not a meow, it's a mini meow because kittens are small. And that kind of became a bit of a meme within the community. So we mentored that one on one of the community wallets just to make sure that no one else stole it from us and did whatever with it. So what we were then what we then did is took the majority of our sale and shoveled it into the kitty vault. And while I picked quite a lot of the NF t's the community did as well we voted on what they what they wanted to do with certain portions of ETH and it was all segmented in different ways. But the it wasn't really any you know, if I'm honest, it wasn't really any special picking because you know, last year everything went up like I did have a bit of FOMO because during our meant visa announced they bought a punk buying the punk and at that point I instantly took money out of the contracts and bought a punk I think I bought two and actually flipped one as the company in in two hours flipped it for however much profit obviously I wish I kept to but of course you know, hindsight is 2020
 
+### Infinite Regret
+
 **Carly Reilly 1:02:37**
 
 well as Annika says infinite regret this space is just a space of infinite regret because you will never time the market perfectly
@@ -425,6 +441,8 @@ I love the phrase FOMO Dragon,
 **Carlini8 1:04:48**
 
 like, I guess you know, I FOMO you know as well as the rest of them. But what I what I do have is, is in my mind I'm like right I am making this decision based on the information I have now. And I have accepted that information can change, variable change, things will change in front of me. But I didn't have that information at the time I made the decision, I made the best decision I could at the time, it was wrong, I noticed wrong, because I'm looking back back at it in this space, you never look back to your winners. You never like, Oh, that was great. You're just like, oh, but it could have been this. And it's people just have to figure out how A they best deal with it. And B how can they make that better for them? You no one can change themselves to deal with it in the perfect way. No one can look at someone who's really good and go, right, I want to be able to mentally accept it like them, you just can't you have to realize where you are now and try and improve that. But know where your personal limits are
+
+### Kitty Vault Cont
 
 **Carly Reilly 1:05:58**
 
@@ -470,6 +488,8 @@ And generally what we're seeing which I know you're quite involved in the meebit
 
 **Sponsored Contents 1:16:58**
 
+### ENS Subdomains
+
 **Carly Reilly 1:17:52**
 
 You created a subdomain for Purrnelope's Country Club, it's PCC so for example your ENS name now is Carlini is it Carlini eight N Carlini 8
@@ -493,6 +513,8 @@ I love the idea of now you can click your Carly.PCC.ETH username, come to my gal
 **Carlini8 1:24:02**
 
 Yes. So it also acts as kind of a proof of ownership. So you can only have .pcc and active .pcc.eth. If you own a real pin op, which if Twitter did do this hexagon thing, you wouldn't be able to just mint. Any old you know, you see some of these hexagon, apes. And when you actually find it, they've just they've just minted an ape in a different contract and then said yeah, it's an NFT and Twitter's gone yet. That's an NFT we'll show it. And that was that actually happened quite a lot in there was someone going around doodle Twitter accounts, trying to find them. And if they couldn't find the username matching the doodle they went they then went looking for the NFT that had been verified on Twitter. Whereas with subdomains pcc.eth if that was verified, they cannot you cannot find that they might try. You know, if we had an i on our name, they might try or if we had an l they might try capitalized, you know, that sort of thing. But then again, that is really limited in how you can fake it. So I do think it is a big way for Twitter to improve. And now that I've given Twitter that great idea, I'm sure they're frantically trying to contact me to claim it. It it just takes that proof of ownership to the next level without them having to whitelist NFTs instead of letting any NFT be used.
+
+### What BAYC's ApeCoin Got Wrong
 
 **Carly Reilly 1:25:40**
 
@@ -550,6 +572,8 @@ that would make sense because they could also have a contract set up, the DAO wo
 
 Yeah. So my main worry is that it's not the bored apes have done this is that people will copy bored apes, and they're going to tank their project effectively, in my view,
 
+### Purchasing & Building in NFT Worlds
+
 **Carly Reilly 1:38:12**
 
 okay, the last topic that I absolutely wanted to get to with you. And then again, there may be other little things that pop up as we're talking about this is your announcement. I think it's part of Purrnelope's roadmap 2.0 that you all are you know, Purrnelope's had purchased land in NFT worlds and is building I think it was like four games, but is building in NFT worlds. We'd love for you to say more about that. And also why you you chose to buy land and NFT worlds. What with many Metaverse is to choose from? Why have you chosen to fly with NFT worlds?
@@ -581,6 +605,8 @@ What how do you think about the balance between We've been using worlds token th
 **Carlini8 1:45:13**
 
 So there, there's a sort of short term long term play there. So short term, we will be using world because it's already easily integrated, there is a community built around the world token that we can tap into by using it. And people will know what it is like if you're just scrolling through worlds to go and play. And you see that this one yields world and this other one yields, Purrnelope token, you don't know natively what Purrnelope token is worth. So it's a it's another form of advertising, I guess, to be able to use word token at the start. And maybe as were more sort of established in the world to can the world NFT worlds world or ecosystem, we could add our token as well. But in reality, that will require some kind of talk with NFT worlds because I don't want to annoy I don't want to come in and just be like, Screw your token, we're gonna use ours. I want to have a conversation and be like, so what do you actually want to see from your worlds? Would you have an issue of us using our token? Which obviously I haven't had yet, because we don't even have our games ready, or attic. So at this point is, yeah, it's it's not needed yet. But that that will be a conversation that had and maybe, maybe we'll have some sort of converter instead, where your Purrnelope automatically goes into world which he then can convert back and forth.
+
+### Purrnelope Token Utility
 
 **Carly Reilly 1:46:46**
 
@@ -638,6 +664,8 @@ I don't think so it is ongoing. It's not like a one time feeding. Okay, so
 
 as I was would be, I bought mutant serum style. You give the serum it makes it but you actually get it in a septic style away. And you get the token in a cyber kong style away. So I you know I've said from the start if I think an idea is good, I will see how we can take it and I love the shop. I love the token yielding. I love the using that item you get from the shop to create something and then we've added that within the collection there'll be six and just try and add a little bit on top of the stuff that I've taken from elsewhere I guess
 
+### The Future of Purrnelope
+
 **Carly Reilly 1:53:06**
 
 well, thank you so much for sharing all this I love getting a glimpse into how your brain works you obviously there's a there's a lot that your brain does, right? Like figures out right if that's not a weird thing to say, just based on how you discovered the space so early and and your success in it. And I've just been so grateful to get to learn more about Purrnelope's both through obviously this conversation directly but even in doing some research leading up this conversation, I have to ask as like a final question. I know this feels like it almost like runs. I don't know if it runs counter to what you've been saying. But like Where would you like Purrnelope's to be in five years do you have like a we want to be supreme we want to be Disney? I know the answer is no. Because we've just spent this time talking about how you stay flexible but still have roadmaps but but what is the where would you like it to be in five years?
@@ -667,5 +695,3 @@ do not copy me. Copy Trade Me You're screwed from now on, I think
 well, I still need to pick your brain about this. How I too can take advantage of I don't know trying to turn me into a gambling addict. And if I can resist it, to make a bunch of money. That's yeah, that's what I took away from what he said. Awesome, thank you so much.
 
 **Sponsored Contents 1:56:56**
-
-</blockquote>
