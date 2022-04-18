@@ -3,7 +3,7 @@
 
 /** @type {import('@docusaurus/types')} */
 const config = {
-  title: "PCC-Archive.org",
+  title: "PCC Archive",
   tagline: "#WeLoveThePurrs",
   url: "https://pcc-archive.org",
   baseUrl: "/",
