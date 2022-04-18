@@ -9,7 +9,7 @@ module.exports = {
       src: "img/logo-pcca.svg",
     },
     items: [
-      { to: "/club", label: "The Club", position: "left" },
+      { to: "/club", label: "⛳️ Club", position: "left" },
       {
         label: "😺 Collections",
         position: "left",
@@ -37,35 +37,35 @@ module.exports = {
           },
         ],
       },
-      { to: "/ens", label: "ENS", position: "left" },
-      { to: "/kittyvault", label: "Kitty Vault", position: "left" },
+      { to: "/ens", label: "🪪 ENS", position: "left" },
+      { to: "/kittyvault", label: "🏦 Kitty Vault", position: "left" },
       {
-        label: "Posts",
+        label: "📰 Posts",
         position: "left",
         to: "/posts",
         items: [
           {
-            label: "Weekly Update",
+            label: "📅 Weekly Update",
             to: "/posts/tags/weekly-update",
           },
           {
-            label: "PurrCast",
+            label: "🎙 PurrCast",
             to: "/posts/tags/purr-cast",
           },
           {
-            label: "Interview",
+            label: "💬 Interview",
             to: "/posts/tags/interview",
           },
           {
-            label: "Explained",
+            label: "🧐 Explained",
             to: "/posts/tags/explained",
           },
           {
-            label: "Learn",
+            label: "👨‍🏫 Learn",
             to: "/posts/tags/learn",
           },
           {
-            label: "All Post Tags",
+            label: "🏷 All Tags",
             to: "/posts/tags",
           },
           {
@@ -79,11 +79,11 @@ module.exports = {
         position: "left",
         items: [
           {
-            label: "PCC Team",
+            label: "😼 PCC Team",
             to: "/club/team",
           },
           {
-            label: "PCC Official Links",
+            label: "🔗 PCC Official Links",
             to: "/official-links",
           },
         ],
@@ -103,12 +103,11 @@ module.exports = {
           },
           {
             label: "PCC Archive Github",
-            href: "https://github.com/CuratorCat/pcc-archive.org"
+            href: "https://github.com/CuratorCat/pcc-archive.org",
           },
         ],
       },
     ],
-    
   },
   footer: {
     style: "dark",
@@ -171,8 +170,8 @@ module.exports = {
     ],
     copyright: `${new Date().getFullYear()} pcc-archive.org`,
   },
-  image: 'img/pcc-archive-soc.jpg',
-  metadata: [{name: 'twitter:card', content: 'summary_large_image'}],
+  image: "img/pcc-archive-soc.jpg",
+  metadata: [{ name: "twitter:card", content: "summary_large_image" }],
   prism: {
     theme: lightCodeTheme,
     darkTheme: darkCodeTheme,
