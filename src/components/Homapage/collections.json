@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Purrnelope's Cats",
+    "href": "/collections/cats",
+    "description": "1st Collection",
+    "tier": 1,
+    "imageUrl": "/img/collection-cats.jpg"
+  },
+  {
+    "title": "Purrnelope's Kittens",
+    "href": "/collections/kittens",
+    "description": "1st Companion",
+    "tier": 3,
+    "imageUrl": "/img/collection-kittens.jpg"
+  },
+  {
+    "title": "Kitty Vault Purrks",
+    "href": "/collections/kittyvault-purrks",
+    "description": "Airdrop",
+    "tier": null,
+    "imageUrl": "/img/collection-purrks.jpg"
+  },
+  {
+    "title": "Purrnelope's Gift",
+    "href": "/collections/gift",
+    "description": "Gift",
+    "tier": null,
+    "imageUrl": "/img/collection-gift.jpg"
+  }
+]
