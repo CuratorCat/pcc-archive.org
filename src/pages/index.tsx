@@ -1,40 +1,28 @@
-import React from 'react';
-import clsx from 'clsx';
-import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import styles from './index.module.css';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import React from "react";
+import Layout from "@theme/Layout";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import LayoutTw from "@site/src/theme/LayoutTw";
 
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.tagline}</h1>
-        <p className="hero__subtitle">PCC Archive is build by the community and for the community of Purrnelope's Country Club</p>
-        {/* <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/">
-            Home
-          </Link>
-        </div> */}
-      </div>
-    </header>
-  );
-}
+import Hero from "../components/Homapage/Hero";
+import Club from "../components/Homapage/Club";
+import Collections from "../components/Homapage/Collections";
 
-export default function Home(): JSX.Element {
-  const {siteConfig} = useDocusaurusContext();
+export default function Home() {
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Welcome to ${siteConfig.title} #WeLoveThePurrs`}
-      description="Wiki and post archive for Purrnelope's Country Club.">
-      <HomepageHeader />
-      <main>
-        {/* <HomepageFeatures /> */}
-      </main>
+      title={`Welcome to ${siteConfig.title}`}
+      description="A place to learn and find information about the Purrnelope's Country Club project"
+    >
+      <LayoutTw>
+        <Hero />
+        <main className="pb-12">
+          <section className="relative max-w-7xl mx-auto lg:grid grid-cols-1 lg:grid-cols-5 gap-3 lg:px-3">
+            <Club />
+            <Collections />
+          </section>
+        </main>
+      </LayoutTw>
     </Layout>
   );
 }
