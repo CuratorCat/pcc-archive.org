@@ -179,6 +179,9 @@ div[itemprop="articleBody"] {
 [itemtype="http://schema.org/BlogPosting"]
 {
   margin-bottom: 2rem !important;
+  &.margin-bottom--xl {
+    margin-bottom: 2rem !important;
+  }
   > footer {
     @apply border-b border-slate-400/20 mx-0 my-2 px-0 pt-2 pb-1;
     > div > b {
