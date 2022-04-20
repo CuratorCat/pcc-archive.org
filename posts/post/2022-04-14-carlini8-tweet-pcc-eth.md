@@ -1,7 +1,7 @@
 ---
 title: Carlini8's Tweet Thread On .pcc.eth
 authors: carlini8
-tags: [Blog, Tweet]
+tags: [Tweet]
 # image:
 og_url: https://twitter.com/Carlini8N/status/1514688531461033988
 ---
