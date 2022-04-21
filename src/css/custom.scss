@@ -126,16 +126,22 @@ div[class^="announcementBar_"] {
 :root .navbar {
   backdrop-filter: blur(8px);
   background-color: rgba(255, 255, 255, 0.8);
-  border-bottom: var(--ifm-toc-border-color) solid 1px;
+  border-bottom: var(--ifm-toc-border-color) solid 0;
   box-shadow: none;
+  @apply shadow shadow-slate-300/30;
 }
 :root .navbar.navbar-sidebar--show {
   backdrop-filter: none;
 }
 
+.container {
+  @apply max-w-screen-xl;
+}
+
 [data-theme="dark"] .navbar {
   backdrop-filter: blur(8px);
   background-color: rgba(0, 0, 0, 0.7);
+  @apply shadow-slate-100/10;
 }
 @-moz-document url-prefix() {
   :root .navbar {
@@ -213,4 +219,18 @@ div[class^="tableOfContents_"] > ul {
 
 .table-of-contents__link--active {
   @apply font-bold border-b-violet-500;
+}
+
+article .markdown iframe,
+article .markdown img {
+  @apply rounded-lg md:rounded-xl place-self-center self-center justify-self-center;
+}
+
+article .markdown iframe {
+  @apply w-full aspect-video rounded-lg md:rounded-xl mb-2;
+}
+
+article .markdown iframe[src^="https://www.youtube.com/embed/"], article .markdown iframe[src^="https://youtube.com/embed/"]
+{
+  @apply w-full aspect-video;
 }
