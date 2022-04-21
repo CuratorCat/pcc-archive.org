@@ -41,7 +41,7 @@ Kittens were minted by burning [Kitten Basket](../collections/kittyvault-purrks/
 
 [<img src={imgPurrks} width="120" style={{float:"right"}} />](../collections/kittyvault-purrks/index.md)
 
-[**Purrnelope's KittyVault Purrks**](../collections/kittyvault-purrks/index.md) are airdrop NFTs to all holders of the cats. 
+[**Purrnelope's KittyVault Purrks**](../collections/kittyvault-purrks/index.md) are airdrop NFTs to all holders of the cats.
 
 Start from Sep 2021 to Apr 2022 of total 8 airdrops.
 
@@ -53,7 +53,7 @@ Start from Sep 2021 to Apr 2022 of total 8 airdrops.
 
 [<img src={imgKittyVault} width="150" style={{float:"right"}} />](../kittyvault/index.md)
 
-[**Purrnelope's Kitty Vault**](../kittyvault/index.md) a community owned vault of NFTs that backs every PCC cat & first 8 airdrops. 
+[**Purrnelope's Kitty Vault**](../kittyvault/index.md) a community owned vault of NFTs that backs every PCC cat & first 8 airdrops.
 
 The whole collection will be fractionalized with @fractional_art 2.0.
 
@@ -104,7 +104,9 @@ At the begining, the team was calling themselves the **Cool Cats Country Club**,
 - 08-12: All 10k [Cats](../collections/cats/index.md) are minted
 - 08-12: [Roadmap 1.0 released](/posts/2021/08/12/post/roadmap)
 - 08-14: Launched Liquidity Pools on [NFTX](https://app.nftx.org/redeem/0xe581f272706581f9dcc362df3c7934e99192c492/) and [NFT20](https://nft20.io/asset/0x54c9e17ad8016a062ffd89d1b53aaee80c0cf43d)
+- 08-14: [60% Profile Picture Advertising](/posts/2021/08/13/post/60-profile-picture-advertising) to cat holders event started
 - 09-24: NFT20 Pool closed.
+- 09-24: 1st Episode of [PurrCast](/posts/tags/purr-cast)
 - 09-30: [Hoodie Cat](../collections/kittyvault-purrks/1-hoodie-cat.md) airdropped, 1/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 
 ### 2021 Q4
@@ -126,3 +128,8 @@ At the begining, the team was calling themselves the **Cool Cats Country Club**,
 - 03-02: [Keyboard Cat](../collections/kittyvault-purrks/6-keyboard-cat.md) airdropped, 6/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 - 03-07: PCC Cats in Time Square
 - 03-29: [Ledger Cat](../collections/kittyvault-purrks/7-ledger-cat.md) airdropped, 7/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
+
+### 2022 Q2
+
+- 04-15: [.pcc.eth subdomains](../ens/index.md) hit 500 names registration
+- 04-19: The Ambassadors role [revamped and leveled up linked with .pcc.eth subdomains](/posts/2022/04/19/post/the-new-ambassadors-role-revamped-and-leveled-up)
