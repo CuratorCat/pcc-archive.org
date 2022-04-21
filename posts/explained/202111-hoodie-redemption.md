@@ -7,7 +7,7 @@ image: ./assets/202111-hoodie-redemption.jpg
 og_url: https://youtu.be/ou54UAYND2I
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ou54UAYND2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe src="https://www.youtube.com/embed/ou54UAYND2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 <!--truncate-->
 

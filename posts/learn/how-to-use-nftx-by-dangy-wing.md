@@ -7,7 +7,7 @@ image: ./assets/how-to-use-nftx-by-dangy-wing.jpg
 og_url: https://www.youtube.com/watch?v=fhWYqjHurWU
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/fhWYqjHurWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe src="https://www.youtube.com/embed/fhWYqjHurWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 DangyWing demonstrates how to turn your purrnelope into ETH and your ETH into a purrnelope without needing to find a buyer or seller!
 

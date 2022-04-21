@@ -8,7 +8,7 @@ image: ./assets/202201-mysterious-nft.jpg
 og_url: https://youtu.be/G47xTM__PM8
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/G47xTM__PM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe src="https://www.youtube.com/embed/G47xTM__PM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 <!--truncate-->
 

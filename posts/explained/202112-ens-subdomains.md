@@ -8,7 +8,7 @@ image: ./assets/202112-ens-subdomains.jpg
 og_url: https://youtu.be/4h76jAVk8Ek
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/4h76jAVk8Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe src="https://www.youtube.com/embed/4h76jAVk8Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 <!--truncate-->
 

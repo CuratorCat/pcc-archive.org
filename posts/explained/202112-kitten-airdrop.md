@@ -8,7 +8,7 @@ image: ./assets/202112-kitten-airdrop.jpg
 og_url: https://youtu.be/Dc2Hb1kT6hk
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Dc2Hb1kT6hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe src="https://www.youtube.com/embed/Dc2Hb1kT6hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 <!--truncate-->
 
