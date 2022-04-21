@@ -168,7 +168,8 @@ div[itemprop="articleBody"] {
   @apply prose prose-violet lg:prose-base xl:prose-lg max-w-none;
 }
 
-[data-theme="dark"] [itemtype="http://schema.org/Blog"] article #post-content
+[data-theme="dark"] [itemtype="http://schema.org/Blog"] article #post-content,
+[data-theme="dark"] div[itemprop="articleBody"]
 {
   @apply prose-invert;
 }
