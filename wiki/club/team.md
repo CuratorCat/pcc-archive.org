@@ -1,5 +1,5 @@
 ---
-title: Team
+title: PCC Team
 sidebar_position: 10
 description: The PCC currently consists of eight full time members of staff and two part time members of staff.
 image: /img/cover/pcc-team.jpg
@@ -103,6 +103,7 @@ style={{borderRadius: "50%", float: "right"}}
 
 - `chooch74.pcc.eth`
 - **Business Development & Strategy**
+- Twitter [@chooch74PCC](https://twitter.com/chooch74PCC)
 
 ### James {#james}
 
