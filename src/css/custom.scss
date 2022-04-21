@@ -169,8 +169,7 @@ div[itemprop="articleBody"] {
 }
 
 [data-theme="dark"] [itemtype="http://schema.org/Blog"] article #post-content,
-[data-theme="dark"] div[itemprop="articleBody"]
-{
+[data-theme="dark"] div[itemprop="articleBody"] {
   @apply prose-invert;
 }
 
@@ -204,7 +203,8 @@ div[itemprop="articleBody"] {
 }
 
 // Hide authors on posts list page
-.blog-list-page article > header > [class^="blogPostData_"] + div {
+.blog-list-page article > header > [class^="blogPostData_"] + div,
+.blog-tags-post-list-page article > header > [class^="blogPostData_"] + div {
   @apply hidden;
 }
 
