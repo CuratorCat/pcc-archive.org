@@ -22,6 +22,8 @@ Kittens are redeemed with [Kitten Basket](../kittyvault-purrks/2-kitten-basket.m
 
 Kittens `#1 - #20` are not revealed. They are reserved for The Team for mysterious plan? Maybe.
 
+Unclaimed kittens will be used in giveaways. [^1]
+
 ## Cats & Kittens
 
 ![](./assets/cats-kittens.png)
@@ -50,3 +52,5 @@ Kittens are Tier 3 NFTs, will earn 1 $TOKEN per day per Kitten.
 
 - [OpenSea](https://opensea.io/collection/purrnelopes-kittens)
 - [LooksRare](https://looksrare.org/collections/0x0c6218D95735d3E12AE7C4703106E4b8e0b61010)
+
+[^1]: Kittens giveaway was mentioned in [PurrCast 2020-04-13](/posts/2022/04/20/purrcast)

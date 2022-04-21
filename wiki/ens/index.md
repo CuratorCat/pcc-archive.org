@@ -71,9 +71,13 @@ The magic of **.pcc.eth** will use the Cat that has the name as the ENS avatar a
 
 - **Name length or special characters?**
 
-  Well, **only `0-1` and `a-z` are allowed**.
-
   **The name can be any length** e.g. `x.pcc.eth` is possible but it is already taken.
+  
+  Well, **only `0-1` and `a-z` are allowed** using the claim page.
+  
+  But the contract itself supports more characters and emojis same as the main ENS registry contract. You can interact with the contract using `setDomain` function to set a name with other characters.
+
+  
 
 ### 4. How to know if a Cat has been named? {#faq-check}
 
