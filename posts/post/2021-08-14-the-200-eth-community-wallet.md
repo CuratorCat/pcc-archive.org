@@ -8,9 +8,9 @@ image: ./assets/1_hrhIj9vj4DPEDJhkVo7HNw.png
 og_url: https://purrnelope.medium.com/the-200-eth-community-wallet-19a669dd36ba
 ---
 
-<!--truncate-->
-
 “What happens to the 200 ETH in the community wallet?”. We have seen this question asked lots of times in the… 36 hours since we sold out.
+
+<!--truncate-->
 
 Answer: “I dunno”.
 

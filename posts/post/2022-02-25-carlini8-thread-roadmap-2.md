@@ -8,11 +8,11 @@ image: ./assets/1_7wac2FB61zawzW4CKo54Aw.png
 og_url: https://twitter.com/Carlini8N/status/1497315068245155845
 ---
 
-<!--truncate-->
-
 https://twitter.com/Carlini8N/status/1497315068245155845
 
 Roadmap 2.0, [@PurrnelopesCC](https://twitter.com/PurrnelopesCC) now. We have worked so hard and this will be a big thread. But lets hook you in with the biggest hitter first
+
+<!--truncate-->
 
 The most ambitious? An [@nftworldsNFT](https://twitter.com/nftworldsNFT) built by [@EntityBuilds](https://twitter.com/EntityBuilds) the Country Club with four separate games, PvE, PvP, Casual and $WRLD integration
 
@@ -29,9 +29,9 @@ If you want a huge run down of Roadmap 2, take a look at our medium article link
 https://purrnelope.medium.com/roadmap-2-0-6-months-on-from-launch-d97079395e48
 
 Time for the rest of Roadmap 2.0, oh actually, let us remind you we have continuously built and added things on top of what we say we are doing
- 
+
 The KittyVault, The 8 Airdrops to all PCC, the ENS Subdomains - none of these were on Roadmap 1.0, all delivered
- 
+
 We do things diff.
 
 https://twitter.com/Carlini8N/status/1497315693838188551
@@ -41,7 +41,7 @@ Hole 1 of our roadmap we go back to where it all began, Roadmap 1.0. The big ite
 ![](./assets/2022-02-25-carlini8-thread-roadmap-2/FMeIyDtXoAMYeLa.png)
 
 We then move over to completing the 8 airdrops we promised. The final of which is the second companion. We have kinda said what it is, not said what it is. Those of you watching closely enough will know.
- 
+
 We hope to have a very cool tech surprise for this, might be too early.
 
 Interactive Metaverse Experiences - NFT Worlds, Sandbox, Full Bodies in a non-dilutive manner. You will get Metaverse ready PCCs without it diluting the current collection. These bodies will be on top of what you already have, we won't be using them for a raise, just delivering.
@@ -51,7 +51,7 @@ Increased Brand Focus - We’ve learned and evolved a lot over the last 6 months
 ![](./assets/2022-02-25-carlini8-thread-roadmap-2/FMeJG1dXIAsoE6a.jpg)
 
 Instagram and beyond filters, a complete website rebrand and improvement (website 2.0), Purrnelopes Den, come and pitch Purrnelope your best ideas.
- 
+
 We then move onto the one most people are interested in...
 
 $TOKEN Utility - Wen Pax?!
@@ -75,7 +75,7 @@ We have a rundown of our airdrops so far, if you want a quick 3 min catch up wit
 https://www.youtube.com/watch?v=Un9q5d75-zU
 
 Are you new the the #Purrs? Want to know more about us?
- 
+
 95% of our holders have been with us for over a month, 86.6% have been here over 3 months. We aim to foster a fun community of people who actually want to be here, we think it is working!
 
 ![](./assets/2022-02-25-carlini8-thread-roadmap-2/FMeJgLQXoAAf52x.png)
@@ -91,7 +91,7 @@ A last piece I put together could give you more of a run down too:
 https://twitter.com/Carlini8N/status/1479860814236504069
 
 I want to thank our community, I want to thank everyone who minted, everyone who has bought a Purr since. You are all part of our journey and it really helps us get up and build everyday.
- 
+
 I am so excited to continue to build and deliver for you all.
- 
+
 #WeLoveThePurrs

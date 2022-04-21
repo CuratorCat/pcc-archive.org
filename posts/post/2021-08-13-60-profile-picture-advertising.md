@@ -7,13 +7,13 @@ image: ./assets/1_M7x8r3Mo39cyeW6m8uE8Fw.png
 og_url: https://purrnelope.medium.com/60-profile-picture-advertising-24a0b174b2cb
 ---
 
-<!--truncate-->
-
 ![](./assets/1_M7x8r3Mo39cyeW6m8uE8Fw.png)
 
 As pledged in our roadmap at 60% completion of the sale:
 
 > You will be paid to have your discord and Twitter profile as your profile picture, no more advertising for free, these funds will come from the sale not the Community Wallet at first.
+
+<!--truncate-->
 
 ## This starts tomorrow, 14th August, 2021.
 

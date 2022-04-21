@@ -8,11 +8,11 @@ image: ./assets/1_eELdXzyfKRQ08VFXluo5bQ.png
 og_url: https://purrnelope.medium.com/deflationary-nfts-and-rewarding-hodling-kittybank-bd92563dc4e3
 ---
 
-<!--truncate-->
-
 We talk about burning your cat later on, please do not consider this yet, the feature is not live!
 
 Yes, I am about to type that word that sends people wild. No, not ‘Community’, the other one. Yes, ‘Utility’.
+
+<!--truncate-->
 
 I want to stress, the utility I am about to explain is on top of everything else. This is not taking away anything and only adding. Everything is as it was yesterday, plus this today. The Roadmap will be completed prettty quickly bar the 100% goal, other plans are still in place - we still build the project out fully!
 

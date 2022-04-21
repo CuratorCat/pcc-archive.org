@@ -6,11 +6,11 @@ tags: [Tweet]
 og_url: https://twitter.com/Carlini8N/status/1514688531461033988
 ---
 
-<!--truncate-->
-
 https://twitter.com/Carlini8N/status/1514688531461033988
 
 People are starting to notice our sub domains at @PurrnelopesCC if you don't get it, let me help
+
+<!--truncate-->
 
 .pcc.eth is:
 

@@ -6,9 +6,7 @@ image: ./assets/2022-04/0__5QMHGlmuXQqDwZC.jpg
 og_url: https://purrnelope.medium.com/the-new-ambassadors-role-revamped-and-leveled-up-6de546e421d0
 ---
 
-<!--truncate-->
-
-First, lets talk about why we are revamping this. The old Ambassador system had a problem, the old system was manual. Any holder could make themselves an ambassador, we then had to manually remove anyone without a PCC profile picture, this was not only a pain, it was gameable. With nitro you could change your pfp in just our server to a purr. We knew this, we even told people how to do it, we are open with systems flaws, we have just been working on changing that.
+First, lets talk about why we are revamping this. The old Ambassador system had a problem, the old system was manual. Any holder could make themselves an ambassador, we then had to manually remove anyone without a PCC profile picture, this was not only a pain, it was gameable. With nitro you could change your pfp in just our server to a purr. We knew this, we even told people how to do it, we are open with systems flaws, we have just been working on changing that.<!--truncate-->
 
 Enter, the .pcc.eth sub-domain.
 

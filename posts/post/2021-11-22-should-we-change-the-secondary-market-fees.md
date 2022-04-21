@@ -8,11 +8,11 @@ date: Nov 22, 2021
 og_url: https://purrnelope.medium.com/should-we-change-the-secondary-market-fees-b3cb2125167
 ---
 
-<!--truncate-->
-
 ## A proposal to change the royalties.
 
 Why does this proposal exist, you may ask? This isn’t a DAO, you can just change the royalty structure whenever you like.
+
+<!--truncate-->
 
 This is true, but that isn’t how I want to run this community. I want transparency and I want my reasoning to be easily accessible. Project $TOKEN is no secret, we have made it clear that we are attempting to add an ERC-20 to the project but done legally and logistically soundly. A key part of our project is the KittyVault, the Bank of NFTs that back our cats and our first line of airdrops.
 
@@ -23,7 +23,7 @@ How does Project $TOKEN tie into The KittyVault? The community wallet is governe
 ## What am I proposing?
 
 - Secondary Market Fee: Increased from 2.5% -> 3%
-- Community Wallet Funding: Decreased from 1.5% -> 1%  
+- Community Wallet Funding: Decreased from 1.5% -> 1%
 - KittyVault Fee Introduced: 0% -> 1%
 
 So, as you can see the suggestion is that the secondary market fee is raised by 0.5% to 3% and the community wallet fund is lowered from 1.5% to 1%. This creates an increase of 1% that I am proposing goes towards the KittyVault directly which is governed by the ERC-20 token (Project $TOKEN), which your PCC will yield daily.
@@ -32,8 +32,8 @@ The team’s share remains exactly the same at 1%.
 
 Secondary Market Fee: 3% total
 
-- The Team: 1%  
-- Community Wallet: 1%  
+- The Team: 1%
+- Community Wallet: 1%
 - KittyVault: 1%
 
 Before any kind of 1 Cat = 1 Vote Yes / No on this I want to talk to the community. Send me a DM with your concerns, chat in the discord, ask me the hard questions.
