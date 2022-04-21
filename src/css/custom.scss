@@ -128,7 +128,7 @@ div[class^="announcementBar_"] {
   background-color: rgba(255, 255, 255, 0.8);
   border-bottom: var(--ifm-toc-border-color) solid 0;
   box-shadow: none;
-  @apply shadow shadow-slate-300/30;
+  @apply shadow-md shadow-slate-300/30;
 }
 :root .navbar.navbar-sidebar--show {
   backdrop-filter: none;
@@ -141,7 +141,7 @@ div[class^="announcementBar_"] {
 [data-theme="dark"] .navbar {
   backdrop-filter: blur(8px);
   background-color: rgba(0, 0, 0, 0.7);
-  @apply shadow-slate-100/10;
+  @apply shadow shadow-slate-500/30;
 }
 @-moz-document url-prefix() {
   :root .navbar {
@@ -202,6 +202,11 @@ div[itemprop="articleBody"] {
   }
 }
 
+// Hide authors on posts list page
+.blog-list-page article > header > [class^="blogPostData_"] + div {
+  @apply hidden;
+}
+
 div.theme-doc-toc-desktop > ul,
 div[class^="tableOfContents_"] > ul {
   border: none;
@@ -233,4 +238,8 @@ article .markdown iframe {
 article .markdown iframe[src^="https://www.youtube.com/embed/"], article .markdown iframe[src^="https://youtube.com/embed/"]
 {
   @apply w-full aspect-video;
+}
+
+.footnotes hr {
+  @apply border-0 border-b border-gray-500/30;
 }
