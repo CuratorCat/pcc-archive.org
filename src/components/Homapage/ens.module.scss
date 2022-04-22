@@ -1,0 +1,25 @@
+.sectionBg {
+  @apply transition-all duration-300;
+  @apply bg-violet-200/10 hover:bg-violet-200/20;
+}
+
+[data-theme="dark"] .sectionBg {
+  @apply bg-slate-500/10 hover:bg-violet-500/20;
+}
+
+.coverImg {
+  @apply transition-all duration-300;
+  @apply mix-blend-hard-light opacity-10;
+}
+
+.sectionBg:hover .coverImg {
+  @apply opacity-[0.15];
+}
+
+[data-theme="dark"] .coverImg {
+  @apply mix-blend-lighten opacity-50;
+}
+
+[data-theme="dark"] .sectionBg:hover .coverImg {
+  @apply mix-blend-lighten opacity-80;
+}
