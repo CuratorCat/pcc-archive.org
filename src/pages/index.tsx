@@ -6,6 +6,7 @@ import LayoutTw from "@site/src/theme/LayoutTw";
 import Hero from "../components/Homapage/Hero";
 import Club from "../components/Homapage/Club";
 import Collections from "../components/Homapage/Collections";
+import Ens from "../components/Homapage/Ens";
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
@@ -16,11 +17,12 @@ export default function Home() {
     >
       <LayoutTw>
         <Hero />
-        <main className="pb-12">
+        <main className="pt-0">
           <section className="relative max-w-7xl mx-auto lg:grid grid-cols-1 lg:grid-cols-5 gap-3 lg:px-3">
             <Club />
             <Collections />
           </section>
+          <Ens />
         </main>
       </LayoutTw>
     </Layout>
