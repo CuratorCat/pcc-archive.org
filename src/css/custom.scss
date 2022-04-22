@@ -239,13 +239,17 @@ div[class^="tableOfContents_"] > ul {
   @apply font-bold border-b-violet-500;
 }
 
-article .markdown iframe,
-article .markdown img {
-  @apply rounded-lg md:rounded-xl place-self-center self-center justify-self-center;
-}
-
-article .markdown iframe {
-  @apply w-full aspect-video rounded-lg md:rounded-xl mb-2;
+article .markdown {
+  img {
+    @apply place-self-center self-center justify-self-center;
+  }
+  iframe {
+    @apply w-full aspect-video mb-2;
+  }
+  & img,
+  & iframe {
+    @apply rounded-lg;
+  }
 }
 
 article .markdown iframe[src^="https://www.youtube.com/embed/"], article .markdown iframe[src^="https://youtube.com/embed/"]
@@ -256,7 +260,10 @@ article .markdown iframe[src^="https://www.youtube.com/embed/"], article .markdo
 article .markdown {
   & iframe[src^="https://www.youtube.com/embed/"],
   & iframe[src^="https://youtube.com/embed/"],
-  & iframe[src^="https://open.spotify.com/embed/"] {
+  & iframe[src^="https://open.spotify.com/embed/"],
+  & iframe[src^="https://audius.co/embed/"],
+  & iframe[src^="https://share.transistor.fm/e/"]
+  {
     @apply bg-slate-500/20;
   }
 }
