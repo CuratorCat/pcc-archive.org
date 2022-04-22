@@ -253,6 +253,14 @@ article .markdown iframe[src^="https://www.youtube.com/embed/"], article .markdo
   @apply w-full aspect-video;
 }
 
+article .markdown {
+  & iframe[src^="https://www.youtube.com/embed/"],
+  & iframe[src^="https://youtube.com/embed/"],
+  & iframe[src^="https://open.spotify.com/embed/"] {
+    @apply bg-slate-500/20;
+  }
+}
+
 .footnotes hr {
   @apply border-0 border-b border-gray-500/30;
 }
