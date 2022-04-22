@@ -49,6 +49,10 @@ module.exports = {
             to: "/posts/tags/weekly-update",
           },
           {
+            label: "📔 Team Blog",
+            to: "/posts/tags/blog",
+          },
+          {
             label: "🎙 PurrCast",
             to: "/posts/tags/purr-cast",
           },
