@@ -18,7 +18,7 @@ export default function Collections() {
     <div className="lg:col-span-3">
       <h2 className="sr-only">Collections</h2>
       <div className="mx-auto scroll-smooth hover:scroll-auto overflow-hidden">
-        <div className="relative w-auto flex gap-3 snap-x snap-proximity lg:rounded-2xl overflow-x-scroll pl-3 lg:pl-0">
+        <div className="relative w-auto flex gap-3 snap-x snap-proximity lg:rounded-2xl overflow-x-scroll pl-3 lg:pl-0 no-scrollbar">
           {/* Individual collection */}
           {CollectionList.map((collection) => (
             <Link
