@@ -35,12 +35,15 @@
   --ifm-code-background-color: rgba(15, 23, 42, 0.05);
   --ifm-code-font-size: 95%;
   --ifm-toc-border-color: rgba(0, 0, 0, 0.1);
-  --ifm-navbar-height: 64px;
+  // --ifm-navbar-height: 64px;
   --ifm-navbar-sidebar-width: 90vw;
 }
 
 .navbar__logo {
-  height: 2.5rem;
+  height: 2.2rem;
+}
+[data-theme="dark"] .navbar__logo img {
+    filter: invert(100%);
 }
 .dropdown__link {
   font-size: 1rem;
