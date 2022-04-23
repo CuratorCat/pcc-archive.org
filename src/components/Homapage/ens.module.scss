@@ -23,3 +23,10 @@
 [data-theme="dark"] .sectionBg:hover .coverImg {
   @apply mix-blend-lighten opacity-80;
 }
+
+.overlay {
+  @apply from-white to-white/0;
+}
+[data-theme="dark"] .overlay {
+  @apply from-black to-black/0;
+}

@@ -4,7 +4,7 @@ import Link from "@docusaurus/Link";
 
 export default function Ens() {
   return (
-    <section className={"relative mt-8 md:mt-12 " + styles.sectionBg}>
+    <section className={"relative my-8 md:my-12 group " + styles.sectionBg}>
       <div className="absolute inset-0 w-full h-full">
         <img
           className={"w-full h-full object-cover " + styles.coverImg}
@@ -12,10 +12,36 @@ export default function Ens() {
           alt=""
         />
       </div>
+
+      <div
+        className={
+          "absolute w-full top-0 h-4 p-3 transition-all duration-150 bg-gradient-to-b " +
+          styles.overlay
+        }
+      />
+      <div
+        className={
+          "absolute w-full bottom-0 h-4 p-3 transition-all duration-150 bg-gradient-to-t " +
+          styles.overlay
+        }
+      />
+      <div
+        className={
+          "absolute w-full top-0 h-24 group-hover:animate-pulse group-hover:h-16 p-3 transition-all duration-150 bg-gradient-to-b " +
+          styles.overlay
+        }
+      />
+      <div
+        className={
+          "absolute w-full bottom-0 h-24 group-hover:animate-pulse group-hover:h-16 p-3 transition-all duration-150 bg-gradient-to-t " +
+          styles.overlay
+        }
+      />
+
       <div className="relative max-w-4xl mx-auto text-center py-16 lg:py-24 px-8 sm:px-12 lg:px-3">
-        <h3 className="text-5xl uppercase pb-4 tracking-widest">
+        <h3 className="text-3xl md:text-5xl uppercase pb-4 tracking-widest">
           .pcc.eth{" "}
-          <span className="block pt-1 text-3xl tracking-normal font-light">
+          <span className="block pt-1 text-xl md:text-3xl tracking-normal font-light">
             ENS subdomains
           </span>
         </h3>
@@ -28,11 +54,8 @@ export default function Ens() {
           </p>
         </div>
         <div className="pt-8">
-          <Link
-            className="px-6 py-3 rounded-full bg-pink-500 hover:bg-white group transition-all duration-300"
-            to="/ens"
-          >
-            <span className="text-base font-medium text-white group-hover:text-pink-500">
+          <Link className="" to="/ens">
+            <span className="px-6 py-3 rounded-full bg-pink-500 hover:bg-white hover:shadow-lg hover:shadow-pink-500 text-base font-medium text-white hover:text-pink-500 transition-all duration-300">
               Learn More
             </span>
           </Link>
