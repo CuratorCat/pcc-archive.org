@@ -10,10 +10,10 @@ export default function Club() {
       <h2 className="sr-only">Purrnelope's Country Club</h2>
       <div className="absolute inset-0">
         <img
-          className="h-full w-full object-cover opacity-50"
+          className="h-full w-full object-cover opacity-75"
           src="/img/pcc.jpg"
         />
-        <div className="absolute inset-0 bg-black/25 mix-blend-darken group-hover:bg-violet-500 group-hover:mix-blend-darken transition-all duration-300" />
+        <div className="absolute inset-0 bg-black/25 mix-blend-overlay group-hover:bg-violet-500/30 group-hover:mix-blend-overlay transition-all duration-300" />
       </div>
       <div className="relative py-6 lg:py-0 px-3 h-full flex lg:flex-col items-center justify-center justify-items-center content-center">
         <img
