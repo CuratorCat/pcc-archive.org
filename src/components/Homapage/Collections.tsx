@@ -26,7 +26,7 @@ export default function Collections() {
               className="scroll-ml-12 scroll-mr-6 snap-always  snap-mandatory snap-start last:mr-12 shrink-0 flex flex-col rounded-2xl overflow-hidden  group"
               key={collection.title}
             >
-              <div className="relative w-64 sm:w-72 aspect-[4/5] bg-black/50 rounded-2xl">
+              <div className="relative w-60 sm:w-64 lg:w-72 aspect-[4/5] bg-black/50 rounded-2xl">
                 {/* Inset Collection image */}
                 <div className="absolute inset-0">
                   <img
