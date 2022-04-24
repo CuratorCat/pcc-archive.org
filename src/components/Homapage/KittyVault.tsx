@@ -22,10 +22,10 @@ export default function KittyVault() {
               Kitty Vault
             </h3>
             <p className="mt-6 text-center md:text-left text-base sm:text-xl lg:text-lg xl:text-xl">
-              The Kitty Vault is a vault of NFTs that backs every PCC Cats,
-              Kittens, companion 2 and main airdrops. The idea is that the Vault
-              will operate as a 'Gold Standard' so PCC collections will always
-              have some inherent worth.
+              The Kitty Vault is a vault of NFTs that backs every PCC Cat and 8
+              Purrks Airdrops. The Kitty Vault is a vault of NFTs that backs
+              every PCC Cats. The idea is that the Vault will operate as a 'Gold
+              Standard' so PCC collections will always have some inherent worth.
             </p>
             <div className="block pt-8 pb-4 md:pb-0 text-center md:text-left">
               <Link to="/kittyvault">
