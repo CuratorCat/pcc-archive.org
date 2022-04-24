@@ -2,7 +2,7 @@
 title: Carlini8's Tweet Thread On PCC Roadmap 2.0
 description: Carlini8's Tweet Thread On PCC Roadmap 2.0
 authors: carlini8
-tags: [Tweet]
+tags: [Tweet, Roadmap]
 date: Feb 25, 2022
 image: ./assets/1_7wac2FB61zawzW4CKo54Aw.png
 og_url: https://twitter.com/Carlini8N/status/1497315068245155845
