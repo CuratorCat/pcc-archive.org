@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Weekly Update",
+    "initials": "📅",
+    "href": "/posts/tags/weekly-update",
+    "bgColor": "bg-violet-500"
+  },
+  {
+    "name": "Team Blog",
+    "initials": "📔",
+    "href": "/posts/tags/blog",
+    "bgColor": "bg-violet-500"
+  },
+  {
+    "name": "PurrCast",
+    "initials": "🎙",
+    "href": "/posts/tags/purr-cast",
+    "bgColor": "bg-violet-500"
+  },
+  {
+    "name": "Interview",
+    "initials": "💬",
+    "href": "/posts/tags/interview",
+    "bgColor": "bg-violet-500"
+  },
+  {
+    "name": "Explained",
+    "initials": "🧐",
+    "href": "/posts/tags/explained",
+    "bgColor": "bg-violet-500"
+  },
+  {
+    "name": "Learn",
+    "initials": "👨‍🏫",
+    "href": "/posts/tags/learn",
+    "bgColor": "bg-violet-500"
+  }
+]
