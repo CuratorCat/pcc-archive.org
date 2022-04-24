@@ -41,7 +41,7 @@ The magic of **.pcc.eth** will use the Cat that has the name as the ENS avatar a
 
 **.pcc.eth** is more than a name and avatar, it's **Proof of Ownership**, **Your Wallet Address**, **Searchable Profile Picture**, **Your Community**, **Proof of Flex, Marketing for your Community**, **Integrates your Brand**, **Bot Integratable**. Read more on [Carlini8's Tweet Thread On .pcc.eth](/posts/2022/04/14/post/carlini8-tweet-pcc-eth)
 
-## FAQ for .pcc.eth ENS {#faq}
+## FAQ {#faq}
 
 ### 1. How do I get mine?
 
