@@ -23,26 +23,26 @@ export default function Collections() {
           {CollectionList.map((collection) => (
             <Link
               to={collection.href}
-              className="scroll-ml-12 scroll-mr-6 snap-always  snap-mandatory snap-start last:mr-12 shrink-0 flex flex-col rounded-2xl overflow-hidden  group"
+              className="scroll-ml-12 scroll-mr-6 snap-always  snap-mandatory snap-start last:mr-12 shrink-0 flex flex-col rounded-xl md:rounded-2xl overflow-hidden  group"
               key={collection.title}
             >
-              <div className="relative w-60 sm:w-64 lg:w-72 aspect-[4/5] bg-black/50 rounded-2xl">
+              <div className="relative w-60 sm:w-64 lg:w-72 aspect-[4/5] bg-black/50 rounded-xl md:rounded-2xl">
                 {/* Inset Collection image */}
                 <div className="absolute inset-0">
                   <img
-                    className="w-full object-cover snap-start opacity-80 group-hover:opacity-100 transition-all duration-300 rounded-2xl"
+                    className="w-full object-cover snap-start opacity-80 group-hover:opacity-100 transition-all duration-300 rounded-xl md:rounded-2xl"
                     src={collection.imageUrl}
                     // src={require('@site/static' + collection.imageUrl).default}
                     // ^^^^^^ Docusaurus is slow performance-wise, so I'm using a static image for now
                     alt=""
                   />
 
-                  {/* <div className="absolute inset-0 bg-violet-500/10 mix-blend-multiply" /> */}
+                  {/* <div className="absolute inset-0 bg-black/25 group-hover:opacity-0 mix-blend-saturation rounded-xl md:rounded-2xl" /> */}
                   {/* Not using for now. */}
                 </div>
 
                 {/* Collection description */}
-                <div className="absolute w-full bottom-0 p-3 flex gap-2 flex-col bg-gradient-to-b from-black/0 via-black/50 to-black/60 group-hover:from-black/0 group-hover:via-violet-800/50 group-hover:to-violet-800/75 text-white rounded-2xl">
+                <div className="absolute w-full bottom-0 p-3 flex gap-2 flex-col bg-gradient-to-b from-black/0 via-black/50 to-black/60 group-hover:from-black/0 group-hover:via-violet-800/50 group-hover:to-violet-800/75 text-white rounded-xl md:rounded-2xl">
                   <div className="flex-1">
                     <div className="block">
                       <p className="text-base sm:text-lg font-bold uppercase truncate pt-8">
@@ -72,7 +72,7 @@ export default function Collections() {
           {/* Link to collection page */}
           <Link
             to="/collections"
-            className="snap snap-end shrink-0 w-40 grid place-items-center text-center rounded-2xl bg-slate-500/20 hover:bg-violet-500/40 group transition-all duration-300"
+            className="snap snap-end shrink-0 w-40 grid place-items-center text-center rounded-xl md:rounded-2xl bg-slate-500/20 hover:bg-violet-500/40 group transition-all duration-300"
           >
             <p className="uppercase font-medium">Brwose All Collections</p>
           </Link>

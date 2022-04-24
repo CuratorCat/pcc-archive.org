@@ -21,13 +21,13 @@ export default function Posts() {
           <Link key={post.name} href={post.href}>
             <li
               key={post.name}
-              className="flex flex-col bg-violet-500 bg-opacity-20 hover:bg-opacity-40 rounded-2xl group py-3 transition-all duration-300"
+              className="flex flex-col bg-violet-500 bg-opacity-0 hover:bg-opacity-20 rounded-xl md:rounded-2xl group py-3 transition-all duration-300"
             >
-              <div className="flex-shrink-0 flex items-center justify-center text-2xl sm:text-3xl">
+              <div className="flex items-center justify-center text-2xl sm:text-3xl rotate-0 translate-x-0 translate-y-0 skew-x-0 skew-y-0 group-hover:scale-125 transition-all duration-300">
                 {post.initials}
               </div>
-              <div className="flex-1 flex items-center justify-between truncate">
-                <div className="flex-1 px-.5 truncate text-sm sm:text-lg opacity-80 group-hover:opacity-100 text-center font-medium pt-.5 lg:pt-1">
+              <div className="flex items-center justify-center truncate">
+                <div className="px-.5 truncate text-sm sm:text-lg opacity-80 group-hover:opacity-100 text-center font-medium pt-.5 lg:pt-1">
                   {post.name}
                 </div>
               </div>
