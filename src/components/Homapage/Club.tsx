@@ -10,7 +10,7 @@ export default function Club() {
       <h2 className="sr-only">Purrnelope's Country Club</h2>
       <div className="absolute inset-0">
         <img
-          className="h-full w-full object-cover opacity-75 group-hover:opacity-100 transition-all duration-300"
+          className="h-full w-full object-cover opacity-75 group-hover:opacity-100 transition-all duration-300 rounded-xl md:rounded-2xl"
           src="/img/pcc.jpg"
         />
         <div className="absolute inset-0 bg-black/25 mix-blend-multiply group-hover:bg-violet-800/50 group-hover:mix-blend-multiply transition-all duration-300 rounded-xl md:rounded-2xl" />
