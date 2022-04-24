@@ -49,11 +49,11 @@ Start from Sep 2021 to Apr 2022 of total 8 airdrops.
 
 [**Purrnelope's Gifts**](../collections/gift/index.md) are a long term plan to reward PCC's loyal fans.
 
-## Kitty Vault
+## Kitty Vault {#kittyvault}
 
 [<img src={imgKittyVault} width="150" style={{float:"right"}} />](../kittyvault/index.md)
 
-[**Purrnelope's Kitty Vault**](../kittyvault/index.md) a community owned vault of NFTs that backs every PCC cat & first 8 airdrops.
+[**The KittyVault**](../kittyvault/index.md) is a community owned vault of NFTs that backs every PCC cat & first 8 airdrops.
 
 The whole collection will be fractionalized with @fractional_art 2.0.
 
@@ -76,6 +76,10 @@ The merchandise was planned since Roadmap V1, and the team is currently working 
 ## Games
 
 Games are planned in [Roadmap V2](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch). Currently the Team is working with Entity Builds developing the first game in the NFT Worlds metaverse. Entity Builds is a best-in-class studio with incredible Minecraft builders, devs and designers.
+
+## Voting
+
+PCC Cats holders can cast votes. See all voting proposals on PCC's Website: [purrnelopescountryclub.com/voting](https://www.purrnelopescountryclub.com/voting)
 
 ## Roadmaps
 
