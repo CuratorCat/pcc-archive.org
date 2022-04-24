@@ -12,7 +12,7 @@ description: "The Kitty Vault is a vault of NFTs that backs every PCC cat & firs
 🏦
 ![](./assets/kittyvault.png)
 
-**The Kitty Vault** is a vault of NFTs that backs every [**PCC Cat**](../collections/cats/index.md) & [**First 8 Airdrops**](../collections/kittyvault-purrks/index.md). It used to use the name _Kitty Bank_[^1].
+**The Kitty Vault** is a vault of NFTs that backs every [**PCC Cat**](../collections/cats/index.md) & [**8 Purrks Airdrops**](../collections/kittyvault-purrks/index.md). It used to use the name _Kitty Bank_[^1].
 
 The idea is that the Vault will operate as a 'Gold Standard' so your PCC collections will always have some inherent worth.
 
@@ -20,7 +20,7 @@ The idea is that the Vault will operate as a 'Gold Standard' so your PCC collect
 
 The whole Kitty Vault collection will be fractionalized with [fractional.art](https://fractional.art) 2.0 [^2]. The Team will do this once the team can ensure the fractional.art vault can still receive tokens, airdrops, etc. There are many projects in there that have upcoming companions, airdrops, tokens, etc. and we want those benefits to come to the Vault for everyone's benefit.
 
-Each Cat and each main airdrop (8 in total) will be able to be redeemed for one KittyVault Token (not the $Token, will be using KVCoin here). That KVCoin will be tradable for 1/100,000 of the Vault's value.
+Each Cat and each KittyVault Purrks airdrops (8 in total) will be able to be redeemed for one KittyVault Token (not the $Token, will be using KVCoin here). That KVCoin will be tradable for 1/100,000 of the Vault's value.
 
 [![](./assets/oncyber.jpg)](https://oncyber.io/spaces/RKJMFEwiVG8f6V1aPL08)
 
