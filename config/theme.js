@@ -24,7 +24,7 @@ module.exports = {
             to: "/collections/kittens",
           },
           {
-            label: "🪂 Kitty Vault Purrks",
+            label: "🪂 KittyVault Purrks",
             to: "/collections/kittyvault-purrks",
           },
           {
@@ -38,7 +38,7 @@ module.exports = {
         ],
       },
       { to: "/ens", label: "🪪 ENS", position: "left" },
-      { to: "/kittyvault", label: "🏦 Kitty Vault", position: "left" },
+      { to: "/kittyvault", label: "🏦 KittyVault", position: "left" },
       {
         label: "📰 Posts",
         position: "left",
