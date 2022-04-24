@@ -22,7 +22,15 @@ The idea is that the Vault will operate as a 'Gold Standard' so your PCC collect
 
 The whole KittyVault collection will be fractionalized with [fractional.art](https://fractional.art) 2.0 [^2]. The Team will do this once the team can ensure the fractional.art vault can still receive tokens, airdrops, etc. There are many projects in there that have upcoming companions, airdrops, tokens, etc. and we want those benefits to come to the Vault for everyone's benefit.
 
-Each Cat and each KittyVault Purrks airdrops (8 in total) will be able to be redeemed for one KittyVault Token (not the $Token, will be using KVCoin here). That KVCoin will be tradable for 1/100,000 of the Vault's value.
+### KVCoin
+
+Each Cat and each KittyVault Purrks airdrops (8 in total) will be able to be redeemed for one KVCoin. That KVCoin will be tradable for 1/100,000 of the Vault's value.
+
+:::info
+
+**The KVCoin**, aka KittyVault Token, is different from the $TOKEN. It has not been released by PCC Team, its formal name, functions, etc. may also change before the release.
+
+:::
 
 [![](./assets/oncyber.jpg)](https://oncyber.io/spaces/RKJMFEwiVG8f6V1aPL08)
 
@@ -32,7 +40,7 @@ Each Cat and each KittyVault Purrks airdrops (8 in total) will be able to be red
 
 ### Who lives in the KittyVault?
 
-- **CryptoPunks, CyberKongz, Bored Apes, Cool Cats, Stoner Cats, Purrs and more.** 
+- **CryptoPunks, CyberKongz, Bored Apes, Cool Cats, Stoner Cats, Purrs and more.**
 
   You can browse the KittyVault: [on OpenSea](https://opensea.io/kittyvault.pcc.eth), [with VR onyber.io](https://oncyber.io/spaces/RKJMFEwiVG8f6V1aPL08).
 
