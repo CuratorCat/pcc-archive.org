@@ -12,11 +12,13 @@ description: "The Kitty Vault is a vault of NFTs that backs every PCC cat & firs
 🏦
 ![](./assets/kittyvault.png)
 
+## General
+
 **The Kitty Vault** is a vault of NFTs that backs every [**PCC Cat**](../collections/cats/index.md) & [**8 Purrks Airdrops**](../collections/kittyvault-purrks/index.md). It used to use the name _Kitty Bank_[^1].
 
 The idea is that the Vault will operate as a 'Gold Standard' so your PCC collections will always have some inherent worth.
 
-## The Fractionalization
+### The Fractionalization
 
 The whole Kitty Vault collection will be fractionalized with [fractional.art](https://fractional.art) 2.0 [^2]. The Team will do this once the team can ensure the fractional.art vault can still receive tokens, airdrops, etc. There are many projects in there that have upcoming companions, airdrops, tokens, etc. and we want those benefits to come to the Vault for everyone's benefit.
 
