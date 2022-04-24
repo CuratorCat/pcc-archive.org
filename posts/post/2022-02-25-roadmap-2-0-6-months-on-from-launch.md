@@ -2,7 +2,7 @@
 title: "Roadmap 2.0–6 Months on from Launch"
 description: "Roadmap 2.0–6 Months on from Launch"
 authors: purrnelope
-tags: [Roadmap]
+tags: [Blog, Roadmap]
 image: ./assets/1_7wac2FB61zawzW4CKo54Aw.png
 og_url: https://purrnelope.medium.com/roadmap-2-0-6-months-on-from-launch-d97079395e48
 ---
