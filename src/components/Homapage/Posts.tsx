@@ -23,7 +23,7 @@ export default function Posts() {
               key={post.name}
               className="flex flex-col bg-violet-500 bg-opacity-0 hover:bg-opacity-20 rounded-xl md:rounded-2xl group py-3 transition-all duration-300"
             >
-              <div className="flex items-center justify-center text-2xl sm:text-3xl rotate-0 translate-x-0 translate-y-0 skew-x-0 skew-y-0 group-hover:scale-125 transition-all duration-300">
+              <div className="flex items-center justify-center text-2xl sm:text-3xl group-hover:scale-125 transition-all duration-300">
                 {post.initials}
               </div>
               <div className="flex items-center justify-center truncate">
