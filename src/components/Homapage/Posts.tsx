@@ -10,10 +10,6 @@ type PostItem = {
 
 const PostList: PostItem[] = require("./posts.json");
 
-function classNames(...classes) {
-  return classes.filter(Boolean).join(" ");
-}
-
 export default function Posts() {
   return (
     <section className="relative max-w-7xl mx-auto px-3 mt-3">
@@ -26,10 +22,10 @@ export default function Posts() {
           <Link key={post.name} href={post.href}>
             <li
               key={post.name}
-              className={classNames(
-                post.bgColor,
-                "flex flex-col bg-opacity-20 hover:bg-opacity-40 rounded-2xl group py-3 transition-all duration-300"
-              )}
+              className={
+                post.bgColor +
+                " flex flex-col bg-opacity-20 hover:bg-opacity-40 rounded-2xl group py-3 transition-all duration-300"
+              }
             >
               <div className="flex-shrink-0 flex items-center justify-center text-2xl sm:text-3xl">
                 {post.initials}
