@@ -274,3 +274,35 @@ article .markdown {
 .footnotes hr {
   @apply border-0 border-b border-gray-500/30;
 }
+
+nav.pagination-nav {
+  .pagination-nav__link {
+    @apply border-0 bg-slate-500/[0.05] hover:bg-slate-500/[0.15] rounded-xl;
+  }
+
+  & .pagination-nav__sublabel,
+  & .pagination-nav__label {
+    @apply text-sm;
+  }
+
+  & .pagination-nav__sublabel {
+    @apply text-xs opacity-75 uppercase;
+  }
+
+  & .pagination-nav__label::before,
+  & .pagination-nav__label::after {
+    content: "" !important;
+  }
+  & div:first-child .pagination-nav__sublabel::before {
+    content: "◀ " !important;
+  }
+  & div:last-child .pagination-nav__sublabel::after {
+    content: " ▶" !important;
+  }
+}
+
+[data-theme="dark"] nav.pagination-nav {
+  .pagination-nav__link {
+    @apply bg-slate-500/10 hover:bg-slate-500/20;
+  }
+}
