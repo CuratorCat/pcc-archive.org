@@ -5,7 +5,6 @@ type PostItem = {
   name: string;
   initials: string;
   href: string;
-  bgColor: string;
 };
 
 const PostList: PostItem[] = require("./posts.json");
@@ -22,10 +21,7 @@ export default function Posts() {
           <Link key={post.name} href={post.href}>
             <li
               key={post.name}
-              className={
-                post.bgColor +
-                " flex flex-col bg-opacity-20 hover:bg-opacity-40 rounded-2xl group py-3 transition-all duration-300"
-              }
+              className="flex flex-col bg-violet-500 bg-opacity-20 hover:bg-opacity-40 rounded-2xl group py-3 transition-all duration-300"
             >
               <div className="flex-shrink-0 flex items-center justify-center text-2xl sm:text-3xl">
                 {post.initials}

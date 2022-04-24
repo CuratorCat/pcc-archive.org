@@ -2,37 +2,31 @@
   {
     "name": "Weekly Update",
     "initials": "📅",
-    "href": "/posts/tags/weekly-update",
-    "bgColor": "bg-violet-500"
+    "href": "/posts/tags/weekly-update"
   },
   {
     "name": "Team Blog",
     "initials": "📔",
-    "href": "/posts/tags/blog",
-    "bgColor": "bg-violet-500"
+    "href": "/posts/tags/blog"
   },
   {
     "name": "PurrCast",
     "initials": "🎙",
-    "href": "/posts/tags/purr-cast",
-    "bgColor": "bg-violet-500"
+    "href": "/posts/tags/purr-cast"
   },
   {
     "name": "Interview",
     "initials": "💬",
-    "href": "/posts/tags/interview",
-    "bgColor": "bg-violet-500"
+    "href": "/posts/tags/interview"
   },
   {
     "name": "Explained",
     "initials": "🧐",
-    "href": "/posts/tags/explained",
-    "bgColor": "bg-violet-500"
+    "href": "/posts/tags/explained"
   },
   {
     "name": "Learn",
     "initials": "👨‍🏫",
-    "href": "/posts/tags/learn",
-    "bgColor": "bg-violet-500"
+    "href": "/posts/tags/learn"
   }
 ]
