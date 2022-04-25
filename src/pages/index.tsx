@@ -14,7 +14,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Welcome to ${siteConfig.title} #WeAreThePurrs #WeLoveThePurrs`}
+      title={`Welcome to ${siteConfig.title}`}
       description="A place to learn and find information about the Purrnelope's Country Club project"
     >
       <LayoutTw>
