@@ -2,6 +2,7 @@
 title: Purrnelope's Country Club
 sidebar_position: 10
 image: /img/cover/pcc.jpg
+description: "Purrnelope's Country Club (PCC) project was founded by Carlini8 in 2021. It has NFT collections of 10k unique cats, 10k unique kittens, and 2 more collections are coming. The project is the first to integrate NFTs with ENS subdomains. Currently, the project is onto its roadmap 2.0."
 ---
 
 import imgCats from '../collections/cats/assets/cats-examples-s.png';
