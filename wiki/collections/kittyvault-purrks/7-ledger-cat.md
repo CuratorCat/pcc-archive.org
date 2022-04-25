@@ -18,7 +18,7 @@ It can also be redeemed for a physical Purrnelope's branded Ledger Hardware Wall
 
 ## Video
 
-[Ledger Cat: Explained!](posts/explained/202204-ledger-cat)
+[Ledger Cat: Explained!](/posts/explained/202204-ledger-cat)
 
 ## Meta
 
