@@ -269,6 +269,9 @@ article .markdown {
   {
     @apply bg-slate-500/20;
   }
+  img {
+    @apply mx-auto;
+  }
 }
 
 .footnotes hr {
