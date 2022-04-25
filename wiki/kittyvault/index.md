@@ -24,11 +24,13 @@ The whole KittyVault collection will be fractionalized with [fractional.art](htt
 
 ### KVCoin
 
+**The KVCoin**, aka KittyVault Token, is different from the $TOKEN.
+
 Each Cat and each KittyVault Purrks airdrops (8 in total) will be able to be redeemed for one KVCoin. That KVCoin will be tradable for 1/100,000 of the Vault's value.
 
 :::info
 
-**The KVCoin**, aka KittyVault Token, is different from the $TOKEN. It has not been released by PCC Team, its formal name, functions, etc. may also change before the release.
+The KVCoin has not been released yet, and its formal name, functions, etc. may also change before the release.
 
 :::
 
@@ -46,7 +48,7 @@ Each Cat and each KittyVault Purrks airdrops (8 in total) will be able to be red
 
 ### Is the Vault Fractionlized?
 
-- **Not yet**
+- **Not yet.** The Team will do this once the team can ensure the NFTs in KittyVault can still receive tokens, airdrops, etc.
 
 ### Which Collections can claim KVCoin?
 
