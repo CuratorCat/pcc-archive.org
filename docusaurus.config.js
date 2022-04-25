@@ -12,6 +12,7 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "CuratorCat", // Usually your GitHub org/user name.
   projectName: "pcc-archive.org", // Usually your repo name.
+  titleDelimiter: ' 😺 ', // Defaults to `|`
 
   presets: require("./config/presets"),
   themeConfig: require("./config/theme"),
