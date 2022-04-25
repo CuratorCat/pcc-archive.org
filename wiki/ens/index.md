@@ -72,30 +72,28 @@ The magic of **.pcc.eth** will use the Cat that has the name as the ENS avatar a
 - **Name length or special characters?**
 
   **The name can be any length** e.g. `x.pcc.eth` is possible but it is already taken.
-  
-  Well, **only `0-1` and `a-z` are allowed** using the claim page.
-  
-  But the contract itself supports more characters and emojis same as the main ENS registry contract. You can interact with the contract using `setDomain` function to set a name with other characters.
 
-  
+  Well, **only `0-1` and `a-z` are allowed** using the claim page.
+
+  But the contract itself supports more characters and emojis same as the main ENS registry contract. You can interact with the contract using `setDomain` function to set a name with other characters.
 
 ### 4. How to know if a Cat has been named? {#faq-check}
 
-- **The correct way is to look up the blockchain.** 
+- **The correct way is to look up the blockchain.**
 
   You can look up the PCC ENS Resolver contract on [Etherscan](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#readContract):
 
 ![](./assets/faq-etherscan-gettokendomains.jpg)
 
-- Another quicker way is to look up [PCC ENS on Dune Analytics](https://dune.xyz/curatorcat/pcc-ens). 
+- Another quicker way is to look up [PCC ENS on Dune Analytics](https://dune.xyz/curatorcat/pcc-ens).
 
-  Enter cat ID in the search box. But it is not always up-to-date on Dune and the name may be removed from the cat. It's just easier and faster than Etherscan. 
-  
+  Enter cat ID in the search box. But it is not always up-to-date on Dune and the name may be removed from the cat. It's just easier and faster than Etherscan.
+
   And it is also convenient to check for a name that has been used or not. If you want to buy a Cat with no name, use Etherscan.
 
 ### 5. Does it override if I have an existing .eth domain?
 
-- **No. You can have as many inbound addresses as you like.** 
+- **No. You can have as many inbound addresses as you like.**
 
   An extra subdomain does not remove or replace your .eth domain. However, if you set your subdomain.pcc.eth as your primary address, this will be the address that shows on Uniswap, OpenSea, Snapshot, etc. Your avatar will also be your Purr rather than the generic MetaMask image!
 
@@ -156,7 +154,8 @@ It is possible to remove the name from a cat by interacting with the ENS Resolve
 ## Learn more
 
 - Claim Page: [purrnelopescountryclub.com/claim/ens](https://www.purrnelopescountryclub.com/claim/ens)
-
+- Team Post: [PCC — ENS subdomains](/posts/2021/12/14/post/pcc-ens-subdomains)
+- PurrCast: [ENS subdomains with hodl.pcc.eth](/posts/2022/04/20/purrcast/)
 - Video: [PCC Sub Domains: Explained](/posts/explained/202112-ens-subdomains)
 
 ## Stats
@@ -169,4 +168,15 @@ Dune Analytics: https://dune.xyz/curatorcat/pcc-ens
 
 ## Other PCC ENS
 
-The PCC Team owns **purrnelopescountryclub.eth** and **pcc.eth** ENS.
+The PCC Team owns:
+
+- pcc.eth
+- purrnelopescountryclub.eth
+- purrnelope.eth
+- purrcast.eth
+- kittyvault.eth
+- purrks.eth.
+
+Related PCC ENS in the KittyVault:
+
+- kittybank.eth
