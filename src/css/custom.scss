@@ -306,3 +306,10 @@ nav.pagination-nav {
     @apply bg-slate-500/10 hover:bg-slate-500/20;
   }
 }
+
+.navbar__item .dropdown__menu {
+  @apply rounded-xl;
+  .dropdown__link {
+    @apply rounded-lg;
+  }
+}
