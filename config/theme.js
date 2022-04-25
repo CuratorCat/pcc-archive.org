@@ -37,7 +37,7 @@ module.exports = {
           },
         ],
       },
-      { to: "/ens", label: "🪪 ENS", position: "left" },
+      { to: "/ens", label: "🆔 ENS", position: "left" },
       { to: "/kittyvault", label: "🏦 KittyVault", position: "left" },
       {
         label: "📰 Posts",
