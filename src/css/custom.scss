@@ -217,6 +217,11 @@ div[itemprop="articleBody"] {
   }
 }
 
+article[itemtype="http://schema.org/BlogPosting"] div[itemprop="articleBody"].markdown img {
+  max-height: 60vh;
+  width: auto;
+}
+
 // Hide authors on posts list page
 .blog-list-page article > header > [class^="blogPostData_"] + div,
 .blog-tags-post-list-page article > header > [class^="blogPostData_"] + div {
