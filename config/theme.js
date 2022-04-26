@@ -186,4 +186,5 @@ module.exports = {
     respectPrefersColorScheme: true,
   },
   announcementBar: require("./announcementBar"),
+  metadata: [{name: 'viewport', content: 'width=device-width, initial-scale=1, maximum-scale=1'}],
 };
