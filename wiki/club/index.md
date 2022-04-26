@@ -54,7 +54,7 @@ Start from Sep 2021 to Apr 2022 of total 8 airdrops.
 
 [<img src={imgKittyVault} width="150" style={{float:"right"}} />](../kittyvault/index.md)
 
-[**The KittyVault**](../kittyvault/index.md) is a community owned vault of NFTs that backs every PCC cat & first 8 airdrops.
+[**The KittyVault**](../kittyvault/index.md) is a community owned vault of NFTs that backs every PCC cat & first 8 airdrops. **And it is valued at 929.08 ETH** based on the floor price of NFTs inside by Apr 22, 2022.
 
 The whole collection will be fractionalized with @fractional_art 2.0.
 

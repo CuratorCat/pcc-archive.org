@@ -27,6 +27,12 @@ export default function KittyVault() {
               'Gold Standard' so PCC collections will always have some inherent
               worth.
             </p>
+            <p className="pt-2 text-center md:text-left text-base sm:text-xl lg:text-lg xl:text-xl font-bold">
+              The KittyVault is valued at 929.08 ETH.
+            </p>
+            <p className="opacity-50 text-center md:text-left text-sm font-bold">
+              Based on the floor price of NFTs inside by Apr 22, 2022.
+            </p>
             <div className="block pt-8 pb-4 md:pb-0 text-center md:text-left">
               <Link to="/kittyvault">
                 <span className="inline-block px-6 py-3 rounded-full bg-pink-500 hover:bg-white hover:shadow-lg hover:shadow-pink-500 text-base font-medium text-white hover:text-pink-500 transition-all duration-300 hover:-translate-y-1">

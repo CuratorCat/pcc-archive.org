@@ -14,13 +14,13 @@ description: "The KittyVault is a vault of NFTs that backs every PCC cat & first
 
 ## General
 
-**The KittyVault** is a vault of NFTs that backs every [**PCC Cat**](../collections/cats/index.md) & [**KV Purrks airdrops**](../collections/kittyvault-purrks/index.md). It used to use the name _Kitty Bank_[^1].
+**The KittyVault** is a vault of NFTs that backs every [**PCC Cat**](../collections/cats/index.md) & [**KV Purrks airdrops**](../collections/kittyvault-purrks/index.md). It used to use the name _Kitty Bank_[^1]. The idea is that the Vault will operate as a 'Gold Standard' so your PCC collections will always have some inherent worth.
 
-The idea is that the Vault will operate as a 'Gold Standard' so your PCC collections will always have some inherent worth.
+The KittyValut holds many high value NFTs from many notable "blue chips" collections, e.g. CryptoPunks, CyberKongz, Bored Ape Yacht Club, Cool Cats, etc. **And it is valued at 929.08 ETH** based on the floor price of NFTs inside by Apr 22, 2022. [^2]
 
 ### The Fractionalization
 
-The whole KittyVault collection will be fractionalized with [fractional.art](https://fractional.art) 2.0 [^2]. The Team will do this once the team can ensure the fractional.art vault can still receive tokens, airdrops, etc. There are many projects in there that have upcoming companions, airdrops, tokens, etc. and we want those benefits to come to the Vault for everyone's benefit.
+The whole KittyVault collection will be fractionalized with [fractional.art](https://fractional.art) 2.0 [^3]. The Team will do this once the team can ensure the fractional.art vault can still receive tokens, airdrops, etc. There are many projects in there that have upcoming companions, airdrops, tokens, etc. and we want those benefits to come to the Vault for everyone's benefit.
 
 ### KVCoin
 
@@ -60,7 +60,7 @@ The KVCoin has not been released yet, and its formal name, functions, etc. may a
 
 ### How does the KittyVault grow in value?
 
-- The aim is to buy NFTs that we believe are either undervalued or a very solid long-term hold[^3]. Read more on [Deflationary NFTs and Rewarding HODLing](/posts/2021/08/15/post/deflationary-nfts-and-rewarding-hodling-kittybank).
+- The aim is to buy NFTs that we believe are either undervalued or a very solid long-term hold[^4]. Read more on [Deflationary NFTs and Rewarding HODLing](/posts/2021/08/15/post/deflationary-nfts-and-rewarding-hodling-kittybank).
 
 ### How is KV funded?
 
@@ -78,5 +78,6 @@ The KVCoin has not been released yet, and its formal name, functions, etc. may a
 - Video: [What even is the Purrnelope's Country Club Kitty Bank?](/posts/learn/what-is-pcc-kitty-bank)
 
 [^1]: KittyVault was using the name Kitty Bank when it was introduced.
-[^2]: Carlini8's [tweet](https://twitter.com/Carlini8N/status/1479861487380443140)
-[^3]: [Deflationary NFTs and Rewarding HODLing](/posts/2021/08/15/post/deflationary-nfts-and-rewarding-hodling-kittybank)
+[^2]: From KittyVault Newsletter Vol. 17, [tweet](https://twitter.com/PurrnelopesCC/status/1517586538695061504)
+[^3]: Carlini8's [tweet](https://twitter.com/Carlini8N/status/1479861487380443140)
+[^4]: [Deflationary NFTs and Rewarding HODLing](/posts/2021/08/15/post/deflationary-nfts-and-rewarding-hodling-kittybank)
