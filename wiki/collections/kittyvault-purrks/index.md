@@ -5,6 +5,15 @@ image: /img/cover/pcc-purrks.png
 description: Purrnelopes KittyVault Purrks contain a shard from the KittyVault. These airdrops all go to holder's main Purrnelopes Country Club Cat. Each of the 8 airdrops represents fractional ownership of the KittyVault.
 ---
 
+import imgHoodieCat from './assets/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf_resize.gif';
+import imgKittenBasket from './assets/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD_resize.jpg';
+import imgModelCat from './assets/QmR9DLN7swfwVA7a5hzEvWyfWyZq1fee9fnU72NmjsmdJL_resize.jpg';
+import imgComicCat from './assets/QmSqJ91ySdpN8Ev8yvdrAVNqZY1isKziDNvaMtbmY3hdVz_resize.gif';
+import imgRecordCat from './assets/QmdgFRavoNnthEeQMFUD8E4hamQjj24BRWuQpMhN8P5prp_resize.jpg';
+import imgKeyboardCat from './assets/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu_resize.gif';
+import imgLedgerCat from './assets/QmckRR7fhjQ1US7eoU1tm6qcE1BWyDxs3wa2RzaV7aYJh8_resize.jpg';
+
+
 🪂
 [Contract](https://etherscan.io/address/0xda7d42b6167f1497346d7b2336a6d7a603026db1) ·
 [OpenSea](https://opensea.io/collection/purrnelopes-kittybank-purrks) ·
@@ -18,18 +27,69 @@ The KittyVault Purrks was not on the orignal roadmap.
 
 The airdrops are ERC-1155 NFTs started Sep 2021 with the [Hoodie Cat](./1-hoodie-cat.md). Each month a snapshot will be taken, and owners will receive the airdropped NFTs to their wallets, 1 PCC Cat for 1 airdropped KittyVault Purrks NFT.
 
-### Items
+## Purrks
 
-![](./assets/purrks-exampls.png)
+[<img src={imgHoodieCat} width="100" style={{float:"right"}} />](./1-hoodie-cat.md)
 
-1. [Hoodie Cat](1-hoodie-cat.md)
-1. [Kitten Basket](2-kitten-basket.md)
-1. [Model Cat](3-model-cat.md)
-1. [Comic Cat](4-comic-cat.md)
-1. [Record Cat](5-record-cat.md)
-1. [Keyboard Cat](6-keyboard-cat.md)
-1. [Ledger Cat](7-ledger-cat.md)
-1. 8th Airdrop: Snapshot for airdrop planned on 2022-04-25
+### #1 - Hoodie Cat
+
+- [Hoodie Cat](1-hoodie-cat.md) can be used to redeem Physical Hoodie.
+- It also represents fractional ownership of the KittyVault.
+- Airdropped: 2021-09-30
+
+[<img src={imgKittenBasket} width="100" style={{float:"right"}} />](./2-kitten-basket.md)
+
+### #2 - Kitten Basket
+
+- [Kitten Basket](2-kitten-basket.md) can be used to claim [Purrnelope's Kittens](../kittens/index.md). 
+- It does not represents fractional ownership of the KittyVault.
+- Claimed Kitten represents fractional ownership of the KittyVault.
+- Airdropped: 2021-11-01
+
+[<img src={imgModelCat} width="100" style={{float:"right"}} />](./3-model-cat.md)
+
+### #3 - Model Cat
+
+- [Model Cat](3-model-cat.md) can be used to redeem physical 3D Model Cat.
+- It also represents fractional ownership of the KittyVault.
+- Airdropped: 2021-11-27
+
+[<img src={imgComicCat} width="100" style={{float:"right"}} />](./4-comic-cat.md)
+
+### #4 - Comic Cat
+
+- [Comic Cat](4-comic-cat.md) can be used to redeem physical Comic Book.
+- It also represents fractional ownership of the KittyVault.
+- Airdropped: 2021-12-31
+
+[<img src={imgRecordCat} width="100" style={{float:"right"}} />](./5-record-cat.md)
+
+### #5 - Record Cat
+
+- [Record Cat](5-record-cat.md) can be used to redeem physical Music Record.
+- It also represents fractional ownership of the KittyVault.
+- Airdropped: 2022-02-01
+
+[<img src={imgKeyboardCat} width="100" style={{float:"right"}} />](./6-keyboard-cat.md)
+
+### #6 - Keyboard Cat
+
+- [Keyboard Cat](6-keyboard-cat.md) can be used to redeem physical Purrnelope's branded Keyboard.
+- It also represents fractional ownership of the KittyVault.
+- Airdropped: 2022-03-02
+
+[<img src={imgLedgerCat} width="100" style={{float:"right"}} />](./7-ledger-cat.md)
+
+### #7 - Ledger Cat
+
+- [Ledger Cat](7-ledger-cat.md) can be used to redeem physical Purrnelope's branded Ledger Hardware Wallet.
+- It also represents fractional ownership of the KittyVault.
+- Airdropped: 2022-03-29
+
+### #8 - TBA
+
+- Snapshot for airdrop was taken on 2022-04-25
+- Airdrop: soon!
 
 ## See Also
 

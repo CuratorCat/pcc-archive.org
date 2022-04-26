@@ -43,7 +43,7 @@
   height: 2.2rem;
 }
 [data-theme="dark"] .navbar__logo img {
-    filter: invert(100%);
+  filter: invert(100%);
 }
 .dropdown__link {
   font-size: 1rem;
@@ -314,5 +314,14 @@ nav.pagination-nav {
   @apply rounded-xl;
   .dropdown__link {
     @apply rounded-lg;
+  }
+}
+
+// wiki
+.wikiPostHeadImgR {
+  @apply mx-auto float-none md:float-right sm:w-64 lg:w-56 xl:w-72 2xl:w-auto;
+  @media screen and (min-width: 768px) {
+    margin-left: 1rem !important;
+    margin-bottom: 0.5rem !important;
   }
 }
