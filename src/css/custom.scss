@@ -245,8 +245,6 @@ div[class^="tableOfContents_"] > ul {
 article .markdown {
   img {
     @apply place-self-center self-center justify-self-center;
-    max-height: 65vh;
-    width: auto;
   }
   iframe {
     @apply w-full aspect-video mb-2;
