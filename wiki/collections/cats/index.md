@@ -46,6 +46,16 @@ Cats owners can claim their [.pcc.eth ENS Subdomains](../../ens/index.md) at [Cl
 
 Cats are Tier 1 NFTs, will earn 10 $TOKENs per day per Cat.
 
+## Fun Facts
+
+### The Mock Ups
+
+Carlini created the original mock up like... And thanks to 1rregularCharlie fixed that and created the new Cat Head Base Concept so we are having all those amazing looking cats. 
+
+![Mock Ups by Carlini8 and Cat Head Concept Art by 1rregularCharlie](./assets/cat_head_concept_art.jpg)
+
+This was told in [Weekly Update: 2022 Week 7](/posts/weekly-update/2022w07)
+
 ## Events
 
 - Mint: Jul-17-2021
