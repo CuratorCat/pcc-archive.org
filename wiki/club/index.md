@@ -14,17 +14,13 @@ import imgToken from './assets/token-s.png';
 
 ![](/img/cover/pcc.jpg)
 
-Purrnelope's Country Club ([Official Website](https://purrnelopescountryclub.com/)) was founded by Carlini8 in 2021.
-
-Carlini registered a legal company for PCC in the UK in Jun 2021. And other 2 companies for PCC are being registered. The [PCC Team](./team.md) currently consists of 8 full time members of staff and 2 part time members of staff.
-
-[^1]: From first blog post: [Welcome to Purrnelope’s Country Club](/posts/2021/07/14/post/welcome-to-pcc)
-
 Purrnelope's Country Club ([Official Website](https://purrnelopescountryclub.com/)) was founded by Carlini8, the project launched in July 2021 with a quick and simple comment:
 
-> “Purrnelopes Country Club is something else entirely. We’re the type of loyal cats that are here to stay.”
+> _“Purrnelope's Country Club is something else entirely. We’re the type of loyal cats that are here to stay.”_ [^1]
 
-Carlini also registered a legal company for PCC in the UK in Jun 2021. And other 2 companies for PCC are being registered. The [PCC Team](./team.md) currently consists of 8 full time members of staff and 2 part time members of staff.
+[^1]: From PCC first blog post: [Welcome to Purrnelope’s Country Club](/posts/2021/07/14/post/welcome-to-pcc)
+
+Carlini8 also registered a legal company for PCC in the UK in Jun 2021. And other 2 companies for PCC are being registered. The [PCC Team](./team.md) currently consists of 8 full time members of staff and 2 part time members of staff.
 
 ## Collections
 
