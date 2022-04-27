@@ -18,9 +18,7 @@ This Record Cat NFT can be redeemed for a KittyVault fractional share when the c
 
 ## Redeem
 
-- Can be redeemed to a physical record.
-
-  The amount required for redeem is not comfirmed yet.
+Can be redeemed to a physical record. The amount required for redeem is not comfirmed yet.
 
 ## Leaks
 

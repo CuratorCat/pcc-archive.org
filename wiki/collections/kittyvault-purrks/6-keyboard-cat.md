@@ -18,9 +18,7 @@ This Keyboard Cat NFT can be redeemed for a KittyVault fractional share when the
 
 ## Redeem
 
-- Can be redeemed to a physical PCC branded keyboard.
-
-  The amount required for redeem is not comfirmed yet.
+Can be redeemed to a physical PCC branded keyboard. The amount required for redeem is not comfirmed yet.
 
 ## Learn more
 

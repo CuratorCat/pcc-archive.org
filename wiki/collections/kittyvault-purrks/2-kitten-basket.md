@@ -20,9 +20,9 @@ Claimed Kittens represent fractional ownership of the KittyVault.
 
 ## Redeem
 
-- Each Kitten Basket can redeem a [Purrnelope's Kitten](../kittens/index.md).
-- Holders had 30 days to claim their Kittens by redeeming Kitten Baskets.
-- Currently the all the unredeemed baskets are pulled back and the public redeem is closed.
+Each Kitten Basket can redeem a [Purrnelope's Kitten](../kittens/index.md). Holders had 30 days to claim their Kittens by redeeming Kitten Baskets.
+
+Currently the all the unredeemed baskets are pulled back and the public redeem is closed.
 
 ## Learn more
 

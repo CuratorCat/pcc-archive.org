@@ -13,7 +13,6 @@ import imgRecordCat from './assets/QmdgFRavoNnthEeQMFUD8E4hamQjj24BRWuQpMhN8P5pr
 import imgKeyboardCat from './assets/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu_resize.gif';
 import imgLedgerCat from './assets/QmckRR7fhjQ1US7eoU1tm6qcE1BWyDxs3wa2RzaV7aYJh8_resize.jpg';
 
-
 🪂
 [Contract](https://etherscan.io/address/0xda7d42b6167f1497346d7b2336a6d7a603026db1) ·
 [OpenSea](https://opensea.io/collection/purrnelopes-kittybank-purrks) ·
@@ -31,62 +30,61 @@ The airdrops are ERC-1155 NFTs started Sep 2021 with the [Hoodie Cat](./1-hoodie
 
 [<img src={imgHoodieCat} className="wikiPostListImgR" />](./1-hoodie-cat.md)
 
-### #1 - Hoodie Cat
+### 1. Hoodie Cat
 
-- [Hoodie Cat](1-hoodie-cat.md) can be used to redeem Physical Hoodie.
-- It also represents fractional ownership of the KittyVault.
-- Airdropped: 2021-09-30
+**[Hoodie Cat](1-hoodie-cat.md) was airdropped on 2021-09-30.**
+
+It can be used to redeem Physical Hoodie. It also represents fractional ownership of the KittyVault.
 
 [<img src={imgKittenBasket} className="wikiPostListImgR" />](./2-kitten-basket.md)
 
-### #2 - Kitten Basket
+### 2. Kitten Basket
 
-- [Kitten Basket](2-kitten-basket.md) can be used to claim [Purrnelope's Kittens](../kittens/index.md). 
-- It does not represents fractional ownership of the KittyVault.
-- Claimed Kitten represents fractional ownership of the KittyVault.
-- Airdropped: 2021-11-01
+**[Kitten Basket](2-kitten-basket.md) was airdropped on 2021-11-01.**
+
+It can be used to claim [Purrnelope's Kittens](../kittens/index.md). It does not represents fractional ownership of the KittyVault. Claimed Kitten represents fractional ownership of the KittyVault.
 
 [<img src={imgModelCat} className="wikiPostListImgR" />](./3-model-cat.md)
 
-### #3 - Model Cat
+### 3. Model Cat
 
-- [Model Cat](3-model-cat.md) can be used to redeem physical 3D Model Cat.
-- It also represents fractional ownership of the KittyVault.
-- Airdropped: 2021-11-27
+**[Model Cat](3-model-cat.md) was airdropped on 2021-11-27.**
+
+It can be used to redeem physical 3D Model Cat. It also represents fractional ownership of the KittyVault.
 
 [<img src={imgComicCat} className="wikiPostListImgR" />](./4-comic-cat.md)
 
-### #4 - Comic Cat
+### 4. Comic Cat
 
-- [Comic Cat](4-comic-cat.md) can be used to redeem physical Comic Book.
-- It also represents fractional ownership of the KittyVault.
-- Airdropped: 2021-12-31
+**[Comic Cat](4-comic-cat.md) was airdropped on 2021-12-31.**
+
+It can be used to redeem physical Comic Book. It also represents fractional ownership of the KittyVault.
 
 [<img src={imgRecordCat} className="wikiPostListImgR" />](./5-record-cat.md)
 
-### #5 - Record Cat
+### 5. Record Cat
 
-- [Record Cat](5-record-cat.md) can be used to redeem physical Music Record.
-- It also represents fractional ownership of the KittyVault.
-- Airdropped: 2022-02-01
+**[Record Cat](5-record-cat.md) was airdropped on 2022-02-01.**
+
+It can be used to redeem physical Music Record. It also represents fractional ownership of the KittyVault.
 
 [<img src={imgKeyboardCat} className="wikiPostListImgR" />](./6-keyboard-cat.md)
 
-### #6 - Keyboard Cat
+### 6. Keyboard Cat
 
-- [Keyboard Cat](6-keyboard-cat.md) can be used to redeem physical Purrnelope's branded Keyboard.
-- It also represents fractional ownership of the KittyVault.
-- Airdropped: 2022-03-02
+**[Keyboard Cat](6-keyboard-cat.md) was airdropped on 2022-03-02.**
+
+It can be used to redeem physical Purrnelope's branded Keyboard. It also represents fractional ownership of the KittyVault.
 
 [<img src={imgLedgerCat} className="wikiPostListImgR" />](./7-ledger-cat.md)
 
-### #7 - Ledger Cat
+### 7. Ledger Cat
 
-- [Ledger Cat](7-ledger-cat.md) can be used to redeem physical Purrnelope's branded Ledger Hardware Wallet.
-- It also represents fractional ownership of the KittyVault.
-- Airdropped: 2022-03-29
+**[Ledger Cat](7-ledger-cat.md) was airdropped on 2022-03-29.**
 
-### #8 - TBA
+It can be used to redeem physical Purrnelope's branded Ledger Hardware Wallet. It also represents fractional ownership of the KittyVault.
+
+### 8. TBA
 
 - Snapshot for airdrop was taken on 2022-04-25
 - Airdrop: soon!

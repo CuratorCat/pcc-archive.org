@@ -20,7 +20,7 @@ It can also be redeemed for a physical Purrnelope's branded Ledger Hardware Wall
 
 ## Redeem
 
-- 3 NFTs will be required to redeem Ledger Nano S. [^1]
+Can be redeemed to a physical Ledger Nano S Hardware wallet. **3 Ledger Cat NFTs** will be required to redeem a Ledger Nano S. [^1]
 
 ## Learn more
 

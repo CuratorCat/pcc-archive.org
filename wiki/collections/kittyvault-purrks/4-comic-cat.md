@@ -18,9 +18,7 @@ This Comic Cat NFT can be redeemed for a KittyVault fractional share when the co
 
 ## Redeem
 
-- Can be redeemed to a physical Comic Book.
-
-  1 Comic Cat NFT will be required to redeem a Comic Book.
+Can be redeemed to a physical Comic Book. **1 Comic Cat NFT** will be required to redeem a Comic Book.
 
 ## Learn more
 

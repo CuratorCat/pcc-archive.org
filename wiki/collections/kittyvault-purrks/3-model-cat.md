@@ -18,9 +18,7 @@ This Model Cat NFT can be redeemed for a KittyVault fractional share when the co
 
 ## Redeem
 
-- Can be redeemed to a physical 3D Model Cat.
-
-  The amount required for redeem is not comfirmed yet.
+Can be redeemed to a physical 3D Model Cat. The amount required for redeem is not comfirmed yet.
 
 ## Leaks
 
