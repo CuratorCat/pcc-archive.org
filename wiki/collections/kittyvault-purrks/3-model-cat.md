@@ -34,6 +34,14 @@ This section contains leaked information before the final release. Final product
 
 **_3D Model will not save marriage_** maybe printed as disclamier on the package. [^1]
 
+### Models
+
+Some photos were posted in [Roadmap 2.0–6 Months on from Launch](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch)
+
+![](./assets/1_kOoaBm9g28xWrHUIBsh8mg.png)
+
+![](./assets/1_NZeQWMdxXReHe0EtSKkx3g.png)
+
 ## Learn more
 
 - Video: [3D Model: Explained!](/posts/explained/202112-3d-model)

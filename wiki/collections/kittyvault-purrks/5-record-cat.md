@@ -22,6 +22,26 @@ This Record Cat NFT can be redeemed for a KittyVault fractional share when the c
 
   The amount required for redeem is not comfirmed yet.
 
+## Leaks
+
+:::info
+
+This section contains leaked information before the final release. Final product may change when it is released.
+
+:::
+
+### Record Art
+
+An image was posted in PCC's discord. Might be the art printed on the vinyle record.
+
+![](./assets/record_leak.jpg)
+
+### Sample Track
+
+A sample track was posted in PCC's discord. 
+
+> Needs to be found...
+
 ## Learn more
 
 - Video: [Record Cat airdrop in Weekly Update: 2022 Week 4](/posts/weekly-update/2022w04)
