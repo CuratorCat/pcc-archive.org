@@ -14,13 +14,13 @@ import imgToken from './assets/token-s.png';
 
 ![](/img/cover/pcc.jpg)
 
-Purrnelope's Country Club ([Official Website](https://purrnelopescountryclub.com/)) was founded by Carlini8, the project launched in July 2021 with a quick and simple comment:
+Purrnelope's Country Club ([www.purrnelopescountryclub.com](https://purrnelopescountryclub.com/)) was founded by Carlini8, launched in July 2021 with a quick and simple comment:
 
 > _“Purrnelope's Country Club is something else entirely. We’re the type of loyal cats that are here to stay.”_ [^1]
 
 [^1]: From PCC first blog post: [Welcome to Purrnelope’s Country Club](/posts/2021/07/14/post/welcome-to-pcc)
 
-Carlini8 also registered a legal company for PCC in the UK in Jun 2021. And other 2 companies for PCC are being registered. The [PCC Team](./team.md) currently consists of 8 full time members of staff and 2 part time members of staff.
+Carlini8 also registered a company for PCC in the UK in Jun 2021. And other 2 companies for PCC are being registered. The [PCC Team](./team.md) started with 4 full time staffs, and currently consists of 8 full time members of staff and 2 part time members of staff.
 
 ## Collections
 
@@ -44,7 +44,7 @@ Kittens were minted by burning [Kitten Basket](../collections/kittyvault-purrks/
 
 [<img src={imgPurrks} className="wikiPostListImgR" />](../collections/kittyvault-purrks/index.md)
 
-### Purrks
+### KittyVault Purrks
 
 [**Purrnelope's KittyVault Purrks**](../collections/kittyvault-purrks/index.md) are airdrop NFTs to all holders of the cats.
 
@@ -92,6 +92,10 @@ PCC Cats holders can cast votes. See all voting proposals on PCC's Website: [pur
 
 Roadmap 1.0 was released with the project launch, and a [full roadmap posted](/posts/2021/08/12/post/roadmap) after the Cats mint completed. And Kitty Vault, 8 Purrks Airdrops, .pcc.eth ENS subdomains were not on the roadmap but the PCC Team made them happen.
 
+### Roadmap 1.0 Plus
+
+**KittyVault**, **KittyVault Purrks** Airdrops, **$TOKEN**, Companions 1: **Kittens**, Companion 2: **TBA**, **Tier 2 Collection**, **.pcc.eth ENS subdomains** were not on the original roadmap 1.0 but added to the project as the project evolved.
+
 ### Roadmap 2.0
 
 [Roadmap 2.0](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch) was released on February 25, 2022, 6 month after Roadmap 1.0.
@@ -111,7 +115,8 @@ At the begining, the team was calling themselves the **Cool Cats Country Club**,
 - 07-17: [Cats](../collections/cats/index.md) mint started
 - 08-11: Carlini revealed himself behind PCC in [his post](/posts/2021/08/11/post/pcc-the-unanon)
 - 08-12: All 10k [Cats](../collections/cats/index.md) are minted
-- 08-12: [Roadmap 1.0 released](/posts/2021/08/12/post/roadmap)
+- 08-12: [Roadmap 1.0 updated](/posts/2021/08/12/post/roadmap)
+- 08-12: Carbon Offset via Aerial ([Etherscan](https://etherscan.io/tx/0x143e27fed56a3d76e6681a9422aaf7356b6ac8108f2407cee8a9948c0f46b9cc))
 - 08-14: Launched Liquidity Pools on [NFTX](https://app.nftx.org/redeem/0xe581f272706581f9dcc362df3c7934e99192c492/) and [NFT20](https://nft20.io/asset/0x54c9e17ad8016a062ffd89d1b53aaee80c0cf43d)
 - 08-14: [60% Profile Picture Advertising](/posts/2021/08/13/post/60-profile-picture-advertising) to cat holders event started
 - 09-24: NFT20 Pool closed.
@@ -125,7 +130,7 @@ At the begining, the team was calling themselves the **Cool Cats Country Club**,
 - 11-01: [Kitten Basket](../collections/kittyvault-purrks/2-kitten-basket.md) airdropped, 2/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 - 11-15: [Kittens](../collections/kittens/index.md) mint started
 - 11-27: [Model Cat](../collections/kittyvault-purrks/3-model-cat.md) airdropped, 3/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
-- 12-05: Community Vote passed for change Secondary Market Fees on [snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/0x46cc3b68385e86388cbb2780aeb82db4bf74da55188d3e3283ebf81f2540979e)
+- 12-05: Community Vote passed on Secondary Market Fees change [snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/0x46cc3b68385e86388cbb2780aeb82db4bf74da55188d3e3283ebf81f2540979e)
 - 12-18: [.pcc.eth ENS Subdomain](../ens/index.md) available for all PCC holders to claim
 - 12-31: [Comic Cat](../collections/kittyvault-purrks/4-comic-cat.md) airdropped, 4/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 
