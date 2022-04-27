@@ -13,8 +13,7 @@ The PCC currently consists of 8 full time members of staff and 2 part time membe
 
 <img
 src="/img/team/carlini8.jpg"
-width="85"
-style={{borderRadius: "50%", float: "right"}}
+className="TeamAvatar"
 />
 
 - `carlini8.pcc.eth`
@@ -25,8 +24,7 @@ style={{borderRadius: "50%", float: "right"}}
 
 <img
 src="/img/team/jamie.jpg"
-width="85"
-style={{borderRadius: "50%", float: "right"}}
+className="TeamAvatar"
 />
 
 - `jamie.pcc.eth`
@@ -37,8 +35,7 @@ style={{borderRadius: "50%", float: "right"}}
 
 <img
 src="/img/team/papa.jpg"
-width="85"
-style={{borderRadius: "50%", float: "right"}}
+className="TeamAvatar"
 />
 
 - `papa.pcc.eth`
@@ -49,8 +46,7 @@ style={{borderRadius: "50%", float: "right"}}
 
 <img
 src="/img/team/charlie.jpg"
-width="85"
-style={{borderRadius: "50%", float: "right"}}
+className="TeamAvatar"
 />
 
 - `1rregularcharlie.pcc.eth`
@@ -61,8 +57,7 @@ style={{borderRadius: "50%", float: "right"}}
 
 <img
 src="/img/team/hodl.jpg"
-width="85"
-style={{borderRadius: "50%", float: "right"}}
+className="TeamAvatar"
 />
 
 - `hodl.pcc.eth`
@@ -73,8 +68,7 @@ style={{borderRadius: "50%", float: "right"}}
 
 <img
 src="/img/team/katie.jpg"
-width="85"
-style={{borderRadius: "50%", float: "right"}}
+className="TeamAvatar"
 />
 
 - `katie.pcc.eth`
@@ -85,8 +79,7 @@ style={{borderRadius: "50%", float: "right"}}
 
 <img
 src="/img/team/alamo.jpg"
-width="85"
-style={{borderRadius: "50%", float: "right"}}
+className="TeamAvatar"
 />
 
 - `alamo.pcc.eth`
@@ -97,8 +90,7 @@ style={{borderRadius: "50%", float: "right"}}
 
 <img
 src="/img/team/chooch74.jpg"
-width="85"
-style={{borderRadius: "50%", float: "right"}}
+className="TeamAvatar"
 />
 
 - `chooch74.pcc.eth`
@@ -109,8 +101,7 @@ style={{borderRadius: "50%", float: "right"}}
 
 <img
 src="/img/team/james.jpg"
-width="85"
-style={{borderRadius: "50%", float: "right"}}
+className="TeamAvatar"
 />
 
 - `jamesladalia.pcc.eth`
@@ -121,8 +112,7 @@ style={{borderRadius: "50%", float: "right"}}
 
 <img
 src="/img/team/dangywing.jpg"
-width="85"
-style={{borderRadius: "50%", float: "right"}}
+className="TeamAvatar"
 />
 
 - `dangywing.pcc.eth`
