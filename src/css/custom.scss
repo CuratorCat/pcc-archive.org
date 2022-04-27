@@ -257,14 +257,19 @@ article .markdown {
   }
 }
 
-article .markdown iframe[src^="https://www.youtube.com/embed/"], article .markdown iframe[src^="https://youtube.com/embed/"]
-{
-  @apply w-full aspect-video;
+article .markdown {
+  & iframe[src^="https://www.youtube.com/embed/"],
+  & iframe[src^="https://youtube.com/embed/"],
+  & iframe[src^="https://player.vimeo.com/"]
+  {
+    @apply w-full aspect-video;
+  }
 }
 
 article .markdown {
   & iframe[src^="https://www.youtube.com/embed/"],
   & iframe[src^="https://youtube.com/embed/"],
+  & iframe[src^="https://player.vimeo.com/"],
   & iframe[src^="https://open.spotify.com/embed/"],
   & iframe[src^="https://audius.co/embed/"],
   & iframe[src^="https://share.transistor.fm/e/"]
