@@ -18,29 +18,37 @@ Purrnelope's Country Club ([Official Website](https://purrnelopescountryclub.com
 
 Carlini registered a legal company for PCC in the UK in Jun 2021. And other 2 companies for PCC are being registered. The [PCC Team](./team.md) currently consists of 8 full time members of staff and 2 part time members of staff.
 
+[^1]: From first blog post: [Welcome to Purrnelope’s Country Club](/posts/2021/07/14/post/welcome-to-pcc)
+
+Purrnelope's Country Club ([Official Website](https://purrnelopescountryclub.com/)) was founded by Carlini8, the project launched in July 2021 with a quick and simple comment:
+
+> “Purrnelopes Country Club is something else entirely. We’re the type of loyal cats that are here to stay.”
+
+Carlini also registered a legal company for PCC in the UK in Jun 2021. And other 2 companies for PCC are being registered. The [PCC Team](./team.md) currently consists of 8 full time members of staff and 2 part time members of staff.
+
 ## Collections
 
 Cats, Kittens, TBA 1, TBA 2 are 4 main [collections](../collections/index.md) of PCC.
 
-### Cats
+[<img src={imgCats} className="wikiPostListImgR" />](../collections/cats/index.md)
 
-[<img src={imgCats} width="120" style={{float:"right"}} />](../collections/cats/index.md)
+### Cats
 
 [**Purrnelope's Cats**](../collections/cats/index.md) is the the 1st main collection with 10k unique Cat NFTs that grand the memebership to the Country Club. Cats are Tier 1 NFTs.
 
 Cats mint started on 2021-07-17. After Carlini revealed himself behind PCC project, the cats minted out on 2021-08-12.
 
-### Kittens
+[<img src={imgKittens} className="wikiPostListImgR" />](../collections/kittens/index.md)
 
-[<img src={imgKittens} width="120" style={{float:"right"}} />](../collections/kittens/index.md)
+### Kittens
 
 [**Purrnelope's Kittens**](../collections/kittens/index.md) is the the 2nd main collection with 10k unique Kitten NFTs and the 1st companion to the cats. Kittens are Tier 3 NFTs.
 
 Kittens were minted by burning [Kitten Basket](../collections/kittyvault-purrks/2-kitten-basket.md) NFTs.
 
-### Purrks
+[<img src={imgPurrks} className="wikiPostListImgR" />](../collections/kittyvault-purrks/index.md)
 
-[<img src={imgPurrks} width="120" style={{float:"right"}} />](../collections/kittyvault-purrks/index.md)
+### Purrks
 
 [**Purrnelope's KittyVault Purrks**](../collections/kittyvault-purrks/index.md) are airdrop NFTs to all holders of the cats.
 
@@ -50,23 +58,23 @@ Start from Sep 2021 to Apr 2022 of total 8 airdrops.
 
 [**Purrnelope's Gifts**](../collections/gift/index.md) are a long term plan to reward PCC's loyal fans.
 
-## Kitty Vault {#kittyvault}
+[<img src={imgKittyVault} className="wikiPostListImgR" />](../kittyvault/index.md)
 
-[<img src={imgKittyVault} width="150" style={{float:"right"}} />](../kittyvault/index.md)
+## Kitty Vault {#kittyvault}
 
 [**The KittyVault**](../kittyvault/index.md) is a community owned vault of NFTs that backs every PCC cat & first 8 airdrops. **And it is valued at 929.08 ETH** based on the floor price of NFTs inside by Apr 22, 2022.
 
 The whole collection will be fractionalized with @fractional_art 2.0.
 
-## .pcc.eth ENS
+[<img src={imgENS} className="wikiPostListImgR" />](../ens/index.md)
 
-[<img src={imgENS} width="120" style={{float:"right"}} />](../ens/index.md)
+## .pcc.eth ENS
 
 [.pcc.eth ENS subdomains](../ens/index.md) are viral on twitter. It is free for PCC Cat holders to claim. More readable for wallet address, use the cat as PFP on web3, and the brand of PCC Community.
 
-## Token
+<img src={imgToken} className="wikiPostListImgR" />
 
-<img src={imgToken} width="120" style={{float:"right"}} />
+## Token
 
 **$TOKEN** has not been released yet. NFTs from main [collections](../collections/index.md) will be able to yield $TOKEN. $TOKENs will be used for purchasing packs, community governance etc.
 

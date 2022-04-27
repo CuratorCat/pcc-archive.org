@@ -21,7 +21,7 @@ import imgLedgerCat from './assets/QmckRR7fhjQ1US7eoU1tm6qcE1BWyDxs3wa2RzaV7aYJh
 🪂
 ![](./assets/pcc-purrks.png)
 
-Purrnelopes KittyVault Purrks contain a shard from the KittyVault. These airdrops all go to holder's main Purrnelopes Country Club Cat. Each of the 8 airdrops represents fractional ownership of the KittyVault.
+Purrnelopes KittyVault Purrks contain a shard from [the KittyVault](../../kittyvault/index.md). These airdrops all go to holder's main Purrnelopes Country Club Cat. Each of the 8 airdrops represents fractional ownership of [the KittyVault](../../kittyvault/index.md).
 
 The KittyVault Purrks was not on the orignal roadmap.
 
@@ -29,7 +29,7 @@ The airdrops are ERC-1155 NFTs started Sep 2021 with the [Hoodie Cat](./1-hoodie
 
 ## Purrks
 
-[<img src={imgHoodieCat} width="100" style={{float:"right"}} />](./1-hoodie-cat.md)
+[<img src={imgHoodieCat} className="wikiPostListImgR" />](./1-hoodie-cat.md)
 
 ### #1 - Hoodie Cat
 
@@ -37,7 +37,7 @@ The airdrops are ERC-1155 NFTs started Sep 2021 with the [Hoodie Cat](./1-hoodie
 - It also represents fractional ownership of the KittyVault.
 - Airdropped: 2021-09-30
 
-[<img src={imgKittenBasket} width="100" style={{float:"right"}} />](./2-kitten-basket.md)
+[<img src={imgKittenBasket} className="wikiPostListImgR" />](./2-kitten-basket.md)
 
 ### #2 - Kitten Basket
 
@@ -46,7 +46,7 @@ The airdrops are ERC-1155 NFTs started Sep 2021 with the [Hoodie Cat](./1-hoodie
 - Claimed Kitten represents fractional ownership of the KittyVault.
 - Airdropped: 2021-11-01
 
-[<img src={imgModelCat} width="100" style={{float:"right"}} />](./3-model-cat.md)
+[<img src={imgModelCat} className="wikiPostListImgR" />](./3-model-cat.md)
 
 ### #3 - Model Cat
 
@@ -54,7 +54,7 @@ The airdrops are ERC-1155 NFTs started Sep 2021 with the [Hoodie Cat](./1-hoodie
 - It also represents fractional ownership of the KittyVault.
 - Airdropped: 2021-11-27
 
-[<img src={imgComicCat} width="100" style={{float:"right"}} />](./4-comic-cat.md)
+[<img src={imgComicCat} className="wikiPostListImgR" />](./4-comic-cat.md)
 
 ### #4 - Comic Cat
 
@@ -62,7 +62,7 @@ The airdrops are ERC-1155 NFTs started Sep 2021 with the [Hoodie Cat](./1-hoodie
 - It also represents fractional ownership of the KittyVault.
 - Airdropped: 2021-12-31
 
-[<img src={imgRecordCat} width="100" style={{float:"right"}} />](./5-record-cat.md)
+[<img src={imgRecordCat} className="wikiPostListImgR" />](./5-record-cat.md)
 
 ### #5 - Record Cat
 
@@ -70,7 +70,7 @@ The airdrops are ERC-1155 NFTs started Sep 2021 with the [Hoodie Cat](./1-hoodie
 - It also represents fractional ownership of the KittyVault.
 - Airdropped: 2022-02-01
 
-[<img src={imgKeyboardCat} width="100" style={{float:"right"}} />](./6-keyboard-cat.md)
+[<img src={imgKeyboardCat} className="wikiPostListImgR" />](./6-keyboard-cat.md)
 
 ### #6 - Keyboard Cat
 
@@ -78,7 +78,7 @@ The airdrops are ERC-1155 NFTs started Sep 2021 with the [Hoodie Cat](./1-hoodie
 - It also represents fractional ownership of the KittyVault.
 - Airdropped: 2022-03-02
 
-[<img src={imgLedgerCat} width="100" style={{float:"right"}} />](./7-ledger-cat.md)
+[<img src={imgLedgerCat} className="wikiPostListImgR" />](./7-ledger-cat.md)
 
 ### #7 - Ledger Cat
 

@@ -330,3 +330,11 @@ nav.pagination-nav {
     margin-bottom: 0.5rem !important;
   }
 }
+
+.wikiPostListImgR {
+  @apply mx-auto float-right w-32 md:w-40;
+  clear: both;
+  margin-left: 1rem !important;
+  margin-top: 0.5rem;
+  margin-bottom: 0.25rem !important;
+}
