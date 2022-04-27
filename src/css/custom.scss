@@ -326,10 +326,14 @@ nav.pagination-nav {
 
 // wiki
 article .markdown .wikiPostHeadImgR {
-  @apply mx-auto float-none md:float-right sm:w-64 lg:w-56 xl:w-72 2xl:w-auto;
+  @apply mx-auto float-none md:float-right sm:w-64 lg:w-56 xl:w-72 2xl:w-auto 2xl:max-w-sm;
+  clear: both;
   @media screen and (min-width: 768px) {
     margin-left: 1rem !important;
     margin-bottom: 0.5rem !important;
+    &.limitW {
+      @apply max-w-[16rem];
+    }
   }
 }
 
