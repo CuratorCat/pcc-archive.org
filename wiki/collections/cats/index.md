@@ -34,13 +34,15 @@ Welcome to Purrnelope's Country Club
 
 ## Mint
 
-Mint price was 0.08 ETH. Mint took 26 days: The first cat was minted on [Jul-17-2021 08:00:20 PM +UTC](https://etherscan.io/tx/0x0f4f02694c8e5c6ca9f28657d9068de2bac4d740e51ddd492e31846ed47f7073). The last cat was minted on [Aug-12-2021 12:00:46 AM +UTC](https://etherscan.io/tx/0xbbef40b36f13d1ed7873800eec208f392506c83344d338bd3a48f05850d20104) along with other 16 cats.
+The price for minting a cat was 0.08 ETH. 
+
+All 10k cats are minted publicly and there was no reserve for the team. The first cat was minted on Jul-17-2021 ([Etherscan](https://etherscan.io/tx/0x0f4f02694c8e5c6ca9f28657d9068de2bac4d740e51ddd492e31846ed47f7073)). The last cat was minted on Aug-12-2021 ([Etherscan](https://etherscan.io/tx/0xbbef40b36f13d1ed7873800eec208f392506c83344d338bd3a48f05850d20104)). Mint took totally 26 days.
 
 ## Utilities
 
 ### .pcc.eth ENS Subdomains
 
-Cats owners can claim their [.pcc.eth ENS Subdomains](../../ens/index.md) at [Claim Page](https://www.purrnelopescountryclub.com/claim/ens) of PCC Official Website.
+Cats owners can claim their [.pcc.eth ENS Subdomains](../../ens/index.md) at [Claim Page](https://www.purrnelopescountryclub.com/claim/ens) of PCC Website.
 
 ### Earn $Token
 
@@ -61,6 +63,18 @@ This was told in [Weekly Update: 2022 Week 7](/posts/weekly-update/2022w07)
 - Mint: Jul-17-2021
 
 ## Meta
+
+### Meta Reveal During Mint
+
+First token base URI meta was set with opening the sale ([Etherscan](https://etherscan.io/tx/0xadabe2454200814f4e9b6f5d26aa7b4d81dff07170227805435ddb998663d7cd)).
+
+The team updated token base URI during the mint to reveal token metadata and the art. And it took 3 updates to reveal all 10k Cat NFTs:
+
+1. 2021-07-23 ([Etherscan](https://etherscan.io/tx/0xbc46da75d7c30069da628f1d787bd4898b523457ba5b072ce034bc96771dc496))
+1. 2021-08-11 ([Etherscan](https://etherscan.io/tx/0x1f49bf48f80ab4a8f4b6f277e858545e9a816cecfe51658efbc5f0b74c4e2b16))
+1. 2021-08-12 ([Etherscan](https://etherscan.io/tx/0x05b1525043916b5a079fafb46de67fc0c144a81add8ce87d46cec26f1a21020d))
+
+### Final Meta
 
 #### Token Meta URI
 
