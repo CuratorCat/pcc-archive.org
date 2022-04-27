@@ -140,7 +140,7 @@ At the begining, the team was calling themselves the **Cool Cats Country Club**,
 - 02-01: Carlini start 28 daily giveaways through the whole Feb 2022
 - 02-25: [Roadmap 2.0 released](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch)
 - 03-02: [Keyboard Cat](../collections/kittyvault-purrks/6-keyboard-cat.md) airdropped, 6/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
-- 03-07: PCC Cats in Time Square
+- 03-07: PCC Cats in Times Square [Video](/posts/2022/03/07/post/times-square)
 - 03-29: [Ledger Cat](../collections/kittyvault-purrks/7-ledger-cat.md) airdropped, 7/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 
 ### 2022 Q2
