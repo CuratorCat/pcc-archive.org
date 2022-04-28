@@ -329,6 +329,7 @@ nav.pagination-nav {
 article .markdown .wikiPostHeadImgR {
   > p {
     @apply block md:inline-block mx-auto md:float-right;
+    clear: both;
     img {
       @apply mx-auto md:float-right sm:w-64 lg:w-56 xl:w-72 2xl:w-auto 2xl:max-w-sm;
       @media screen and (min-width: 768px) {
