@@ -149,9 +149,9 @@ div[class^="announcementBar_"] {
   backdrop-filter: none;
 }
 
-.container {
-  @apply max-w-screen-xl;
-}
+// .container {
+//   @apply max-w-screen-xl;
+// }
 
 [data-theme="dark"] .navbar {
   backdrop-filter: blur(8px);
