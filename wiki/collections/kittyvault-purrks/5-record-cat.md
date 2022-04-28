@@ -4,9 +4,11 @@ image: ./assets/QmdgFRavoNnthEeQMFUD8E4hamQjj24BRWuQpMhN8P5prp_resize.jpg
 description: This Record Cat NFT can be redeemed for a KittyVault fractional share or redeem a physical music record.
 ---
 
-import imgMain from './assets/QmdgFRavoNnthEeQMFUD8E4hamQjj24BRWuQpMhN8P5prp_resize.jpg';
+<span className="wikiPostHeadImgR">
 
-[<img src={imgMain} className="wikiPostHeadImgR" />](https://ipfs.io/ipfs/QmdgFRavoNnthEeQMFUD8E4hamQjj24BRWuQpMhN8P5prp)
+[![](./assets/QmdgFRavoNnthEeQMFUD8E4hamQjj24BRWuQpMhN8P5prp_resize.jpg)](https://ipfs.io/ipfs/QmdgFRavoNnthEeQMFUD8E4hamQjj24BRWuQpMhN8P5prp)
+
+</span>
 
 [[OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/4)]
 

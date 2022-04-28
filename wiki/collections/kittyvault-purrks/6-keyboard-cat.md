@@ -4,9 +4,11 @@ image: ./assets/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu_resize.gif
 description: This Keyboard Cat NFT can be redeemed for a KittyVault fractional share or redeem a physical keyboard.
 ---
 
-import imgMain from './assets/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu_resize.gif';
+<span className="wikiPostHeadImgR">
 
-[<img src={imgMain} className="wikiPostHeadImgR" />](https://ipfs.io/ipfs/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu)
+[![Keyboard Cat](./assets/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu_resize.gif)](https://ipfs.io/ipfs/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu)
+
+</span>
 
 [[OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/5)]
 

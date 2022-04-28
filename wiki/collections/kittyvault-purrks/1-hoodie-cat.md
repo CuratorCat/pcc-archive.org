@@ -4,9 +4,11 @@ image: ./assets/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf_resize.gif
 description: This Hoodie Cat NFT can be redeemed for the KittyBank fractional or redeem to a physical hoodie.
 ---
 
-import imgMain from './assets/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf_resize.gif';
+<span className="wikiPostHeadImgR">
 
-[<img src={imgMain} className="wikiPostHeadImgR" />](https://ipfs.io/ipfs/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf)
+[![Hoodie Cat](./assets/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf_resize.gif)](https://ipfs.io/ipfs/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf)
+
+</span>
 
 [[OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/0)]
 

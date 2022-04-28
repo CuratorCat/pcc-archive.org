@@ -4,9 +4,11 @@ image: ./assets/QmR9DLN7swfwVA7a5hzEvWyfWyZq1fee9fnU72NmjsmdJL_resize.jpg
 description: his Model Cat NFT can be redeemed for a KittyVault fractional share or redeem a physical 3D Model Cat.
 ---
 
-import imgMain from './assets/QmR9DLN7swfwVA7a5hzEvWyfWyZq1fee9fnU72NmjsmdJL_resize.jpg';
+<span className="wikiPostHeadImgR">
 
-[<img src={imgMain} className="wikiPostHeadImgR" />](https://ipfs.io/ipfs/QmR9DLN7swfwVA7a5hzEvWyfWyZq1fee9fnU72NmjsmdJL)
+[![Model Cat](./assets/QmR9DLN7swfwVA7a5hzEvWyfWyZq1fee9fnU72NmjsmdJL_resize.jpg)](https://ipfs.io/ipfs/QmR9DLN7swfwVA7a5hzEvWyfWyZq1fee9fnU72NmjsmdJL)
+
+</span>
 
 [[OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/2)]
 

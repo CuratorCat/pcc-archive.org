@@ -4,9 +4,11 @@ image: ./assets/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD_resize.jpg
 description: This Kitten Basket NFT can be redeemed for a Kitten Companion.
 ---
 
-import imgMain from './assets/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD_resize.jpg';
+<span className="wikiPostHeadImgR">
 
-[<img src={imgMain} className="wikiPostHeadImgR" />](https://ipfs.io/ipfs/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD)
+[![Kitten Basket](./assets/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD_resize.jpg)](https://ipfs.io/ipfs/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD)
+
+</span>
 
 [[OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/1)]
 

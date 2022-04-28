@@ -5,14 +5,6 @@ image: /img/cover/pcc-purrks.png
 description: Purrnelopes KittyVault Purrks contain a shard from the KittyVault. These airdrops all go to holder's main Purrnelopes Country Club Cat. Each of the 8 airdrops represents fractional ownership of the KittyVault.
 ---
 
-import imgHoodieCat from './assets/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf_resize.gif';
-import imgKittenBasket from './assets/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD_resize.jpg';
-import imgModelCat from './assets/QmR9DLN7swfwVA7a5hzEvWyfWyZq1fee9fnU72NmjsmdJL_resize.jpg';
-import imgComicCat from './assets/QmSqJ91ySdpN8Ev8yvdrAVNqZY1isKziDNvaMtbmY3hdVz_resize.gif';
-import imgRecordCat from './assets/QmdgFRavoNnthEeQMFUD8E4hamQjj24BRWuQpMhN8P5prp_resize.jpg';
-import imgKeyboardCat from './assets/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu_resize.gif';
-import imgLedgerCat from './assets/QmckRR7fhjQ1US7eoU1tm6qcE1BWyDxs3wa2RzaV7aYJh8_resize.jpg';
-
 🪂
 [Contract](https://etherscan.io/address/0xda7d42b6167f1497346d7b2336a6d7a603026db1) ·
 [OpenSea](https://opensea.io/collection/purrnelopes-kittybank-purrks) ·
@@ -28,7 +20,11 @@ The airdrops are ERC-1155 NFTs started Sep 2021 with the [Hoodie Cat](./1-hoodie
 
 ## Purrks
 
-[<img src={imgHoodieCat} className="wikiPostListImgR" />](./1-hoodie-cat.md)
+<span className="wikiPostListImgR">
+
+[![](./assets/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf_resize.gif)](./1-hoodie-cat.md)
+
+</span>
 
 ### 1. Hoodie Cat
 
@@ -36,7 +32,11 @@ The airdrops are ERC-1155 NFTs started Sep 2021 with the [Hoodie Cat](./1-hoodie
 
 It can be used to redeem Physical Hoodie. It also represents fractional ownership of the KittyVault.
 
-[<img src={imgKittenBasket} className="wikiPostListImgR" />](./2-kitten-basket.md)
+<span className="wikiPostListImgR">
+
+[![](./assets/QmNpB5VxGMu2Ftx8CbyJo7cepgwtmVsj8Tnk4ZQpdHzSzD_resize.jpg)](./2-kitten-basket.md)
+
+</span>
 
 ### 2. Kitten Basket
 
@@ -44,7 +44,11 @@ It can be used to redeem Physical Hoodie. It also represents fractional ownershi
 
 It can be used to claim [Purrnelope's Kittens](../kittens/index.md). It does not represents fractional ownership of the KittyVault. Claimed Kitten represents fractional ownership of the KittyVault.
 
-[<img src={imgModelCat} className="wikiPostListImgR" />](./3-model-cat.md)
+<span className="wikiPostListImgR">
+
+[![](./assets/QmR9DLN7swfwVA7a5hzEvWyfWyZq1fee9fnU72NmjsmdJL_resize.jpg)](./3-model-cat.md)
+
+</span>
 
 ### 3. Model Cat
 
@@ -52,7 +56,11 @@ It can be used to claim [Purrnelope's Kittens](../kittens/index.md). It does not
 
 It can be used to redeem physical 3D Model Cat. It also represents fractional ownership of the KittyVault.
 
-[<img src={imgComicCat} className="wikiPostListImgR" />](./4-comic-cat.md)
+<span className="wikiPostListImgR">
+
+[![](./assets/QmSqJ91ySdpN8Ev8yvdrAVNqZY1isKziDNvaMtbmY3hdVz_resize.gif)](./4-comic-cat.md)
+
+</span>
 
 ### 4. Comic Cat
 
@@ -60,7 +68,11 @@ It can be used to redeem physical 3D Model Cat. It also represents fractional ow
 
 It can be used to redeem physical Comic Book. It also represents fractional ownership of the KittyVault.
 
-[<img src={imgRecordCat} className="wikiPostListImgR" />](./5-record-cat.md)
+<span className="wikiPostListImgR">
+
+[![](./assets/QmdgFRavoNnthEeQMFUD8E4hamQjj24BRWuQpMhN8P5prp_resize.jpg)](./5-record-cat.md)
+
+</span>
 
 ### 5. Record Cat
 
@@ -68,7 +80,11 @@ It can be used to redeem physical Comic Book. It also represents fractional owne
 
 It can be used to redeem physical Music Record. It also represents fractional ownership of the KittyVault.
 
-[<img src={imgKeyboardCat} className="wikiPostListImgR" />](./6-keyboard-cat.md)
+<span className="wikiPostListImgR">
+
+[![](./assets/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu_resize.gif)](./6-keyboard-cat.md)
+
+</span>
 
 ### 6. Keyboard Cat
 
@@ -76,7 +92,11 @@ It can be used to redeem physical Music Record. It also represents fractional ow
 
 It can be used to redeem physical Purrnelope's branded Keyboard. It also represents fractional ownership of the KittyVault.
 
-[<img src={imgLedgerCat} className="wikiPostListImgR" />](./7-ledger-cat.md)
+<span className="wikiPostListImgR">
+
+[![](./assets/QmckRR7fhjQ1US7eoU1tm6qcE1BWyDxs3wa2RzaV7aYJh8_resize.jpg)](./7-ledger-cat.md)
+
+</span>
 
 ### 7. Ledger Cat
 
