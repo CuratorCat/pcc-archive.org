@@ -25,7 +25,7 @@ A **.pcc.eth** ENS is your wallet address, but more readable compared to 0x09284
 
 You can tell others your `yourname.pcc.eth` subdomain when sending ETH or tokens to you, and ENS is supported by most wallet apps.
 
-![How .pcc.eth ENS works](./assets/pcc-ens-works.png)
+![How .pcc.eth ENS works](./assets/pcc-ens-works.jpg)
 
 ### ENS PFP Avatar
 
@@ -33,7 +33,7 @@ The magic of **.pcc.eth** will use the Cat that has the name as the ENS avatar a
 
 ### Follow `.pcc.eth` on Twitter
 
-![](./assets/twitter.pcc.eth.png)
+![](./assets/twitter.pcc.eth.jpg)
 
 .pcc.eth is the best way to find members of the PCC community! To follow `.pcc.eth` users on Twitter, use this [Twitter Search](https://twitter.com/search?q=.pcc.eth&src=typed_query&f=user).
 
