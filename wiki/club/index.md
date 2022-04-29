@@ -101,6 +101,8 @@ The whole collection will be fractionalized with @fractional_art 2.0.
 
 **[.pcc.eth ENS subdomains](../ens/index.md) is free for PCC Cat holders to claim.** It is more readable for wallet address, use the cat as PFP on web3, and the brand of PCC Community.
 
+The new PCC Ambassadors role requires to have a .pcc.eth subdomain.
+
 <span className="wikiPostListImgR">
 
 ![](./assets/token-s.png)
@@ -127,27 +129,55 @@ The merchandise was planned since Roadmap V1, and the team is currently working 
 
 PCC Cats holders can cast votes. See all voting proposals on PCC's Website: [purrnelopescountryclub.com/voting](https://www.purrnelopescountryclub.com/voting)
 
+## Fun Facts
+
+### Change Name to PCC
+
+At the begining, the team was calling themselves the **Cool Cats Country Club**, but changed it to **Purrnelope's Country Club** after the Cool Cats project smashed it out the park.
+
 ## Roadmaps
 
 ### Roadmap 1.0
 
 Roadmap 1.0 was released with the project launch and [got updated](/posts/2021/08/12/post/roadmap) after the Cats mint was completed.
 
+Displate and Anime Short are still in progress, and these are [mentioned in Roadmap 2.0](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch#but-first--completing-roadmap-10)
+
+- ✅ Discord Boost: completed after Launch
+- ✅ Twitter Competition: [2021-Q3](#2021-q3)
+- 🛠 Displate Competition
+- ✅ Carbon Offset: [2021-Q3](#2021-q3)
+- ✅ Merch activated: [2021-Q3](#2021-q3)
+- ✅ Community Wallet: [2021-Q3](#2021-q3)
+- ✅ Profile Picture Advertisement: [2021-Q3](#2021-q3)
+- ✅ Charity Donation activated: [2021-Q3](#2021-q3)
+- ✅ Community Buy Back: [2021-Q3](#2021-q3)
+- ✅ Liquidity Pool: [2021-Q3](#2021-q3)
+- 🛠 A short anime video
+
 ### Roadmap 1.0 Plus
 
 **KittyVault**, **KittyVault Purrks** Airdrops, 1st companions: **Kittens**, 2nd companions: **TBA**, **Tier 2 Collection**, **$TOKEN**, **.pcc.eth ENS subdomains** were not on the original roadmap 1.0 but added to the project later.
+
+The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks airdrops, 2nd companion, Tier 2 Collection, and $TOKEN are [mentioned in Roadmap 2.0](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch#but-first--completing-roadmap-10), and will be tracked in the next Roadmap 2.0 section.
+
+- 😼 KittyVault
+- ✅ Kittens: [2021-Q4](#2021-43)
+- ✅ .pcc.eth ENS subdomains: [2021-Q4](#2021-43)
 
 ### Roadmap 2.0
 
 [Roadmap 2.0](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch) was released on February 25, 2022, 6 months after Roadmap 1.0.
 
+- 🛠 Complete Roadmap 1.0
+- 😼 8 KittyVault Purrks Airdrops: completed 7/8
+- 🛠 2nd Companion
+- 🛠 Tier 2 Collection
+- 🛠 $TOKEN
+
+Other items from Roadmap 2.0 will be added to the list upon completion or new updates from the team. Here's an map of Roadmap 2.0:
+
 ![PCC Roadmap 2.0](./assets/roadmap2.jpg)
-
-## Fun Facts
-
-### Change Name to PCC
-
-At the begining, the team was calling themselves the **Cool Cats Country Club**, but changed it to **Purrnelope's Country Club** after the Cool Cats project smashed it out the park.
 
 ## Events
 
