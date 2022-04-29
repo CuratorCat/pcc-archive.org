@@ -7,13 +7,13 @@ description: "Purrnelope's Country Club (PCC) was founded by Carlini8 in 2021. I
 
 ![](/img/cover/pcc.jpg)
 
-Purrnelope's Country Club ([www.purrnelopescountryclub.com](https://purrnelopescountryclub.com/)) was launched in July 2021 with 10,000 Cat PFP NFTs and a quick and simple comment:
+**Purrnelope's Country Club ([purrnelopescountryclub.com](https://purrnelopescountryclub.com/)) was launched in July 2021 with 10,000 Cat PFP NFTs** and a quick and simple comment:
 
 > _“Purrnelope's Country Club is something else entirely. We’re the type of loyal cats that are here to stay.”_ [^1]
 
 [^1]: Quoted from PCC first blog post: [Welcome to Purrnelope’s Country Club](/posts/2021/07/14/post/welcome-to-pcc)
 
-Carlini8 is the founder of PCC. The team has 3 companies[^2]. One original company in the UK registered back in June 2021 for paying the team's salary and taxes[^3]. Another company in BVI registered in December 2021 for PCC to launch its $TOKEN legally in the coming future[^4]. The [PCC Team](./team.md) currently consists of 8 full-time members of staff and 2 part-time members of staff.
+Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in the UK registered back in June 2021 for paying the team's salary and taxes[^3]. Another company in BVI registered in December 2021 for PCC to launch its $TOKEN legally in the coming future[^4]. **[The PCC Team](./team.md)** currently consists of 8 full-time members of staff and 2 part-time members of staff.
 
 [^2]: 3 companies were mentioned in Carlini8's [interview by Lucky Trader](/posts/2022/02/25/3rd-party/lucky-trader).
 [^3]: The first company was mentioned many times in Carlini8's [interviews](/posts/tags/interview).
@@ -99,7 +99,7 @@ The whole collection will be fractionalized with @fractional_art 2.0.
 
 ## .pcc.eth ENS
 
-[.pcc.eth ENS subdomains](../ens/index.md) are viral on Twitter. It is free for PCC Cat holders to claim. More readable for wallet address, use the cat as PFP on web3, and the brand of PCC Community.
+**[.pcc.eth ENS subdomains](../ens/index.md) is free for PCC Cat holders to claim.** It is more readable for wallet address, use the cat as PFP on web3, and the brand of PCC Community.
 
 <span className="wikiPostListImgR">
 
@@ -109,7 +109,7 @@ The whole collection will be fractionalized with @fractional_art 2.0.
 
 ## $TOKEN {#token}
 
-Purrnelope's Token has not been released yet, "$TOKEN" here is a placeholder.
+**Purrnelope's Token has not been released yet, "$TOKEN" here is a placeholder.**
 
 NFTs from main [collections](../collections/index.md) will be able to yield $TOKEN. $TOKEN will be used for purchasing packs, community governance, etc. $TOKEN was mentioned a lot during [Carlini8's interview by Overpriced JPEGs](/posts/2022/03/30/3rd-party/overpriced-jpegs).
 
@@ -119,7 +119,7 @@ The merchandise was planned since Roadmap V1, and the team is currently working 
 
 ## Games
 
-Games are planned in [Roadmap V2](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch). 4 Games are currently planned. And the Team is working with Entity Builds to develope the first game in the NFT Worlds metaverse. Entity Builds is a best-in-class studio with incredible Minecraft builders, devs, and designers.[^7]
+**Games are planned in [Roadmap V2](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch). 4 Games are currently planned.** And the Team is working with Entity Builds to develope the first game in the NFT Worlds metaverse. Entity Builds is a best-in-class studio with incredible Minecraft builders, devs, and designers.[^7]
 
 [^7]: The 4 games were mentioned in Carlini8's interview by [Overpriced JPEGs](/posts/2022/03/30/3rd-party/overpriced-jpegs#purrnelope-token-utility). And they may change before the they announced officially.
 
