@@ -162,8 +162,8 @@ Displate and Anime Short are still in progress, and these are [mentioned in Road
 The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks airdrops, 2nd companion, Tier 2 Collection, and $TOKEN are [mentioned in Roadmap 2.0](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch#but-first--completing-roadmap-10), and will be tracked in the next Roadmap 2.0 section.
 
 - 😼 KittyVault
-- ✅ Kittens: [2021-Q4](#2021-43)
-- ✅ .pcc.eth ENS subdomains: [2021-Q4](#2021-43)
+- ✅ Kittens: [2021-Q4](#2021-q4)
+- ✅ .pcc.eth ENS subdomains: [2021-Q4](#2021-q4)
 
 ### Roadmap 2.0
 
