@@ -155,11 +155,13 @@ At the begining, the team was calling themselves the **Cool Cats Country Club**,
 
 - 07-17: [Cats](../collections/cats/index.md) mint started
 - 08-11: Carlini revealed himself behind PCC in [his post](/posts/2021/08/11/post/pcc-the-unanon)
+- 08-11: Team allocated 200 ETH to the [Community Wallet](../kittyvault/index.md#a-brief-history)
 - 08-12: All 10k [Cats](../collections/cats/index.md) are minted
 - 08-12: [Roadmap 1.0 updated](/posts/2021/08/12/post/roadmap)
 - 08-12: Carbon Offset via Aerial ([Etherscan](https://etherscan.io/tx/0x143e27fed56a3d76e6681a9422aaf7356b6ac8108f2407cee8a9948c0f46b9cc))
 - 08-14: Launched Liquidity Pools on [NFTX](https://app.nftx.org/redeem/0xe581f272706581f9dcc362df3c7934e99192c492/) and [NFT20](https://nft20.io/asset/0x54c9e17ad8016a062ffd89d1b53aaee80c0cf43d)
 - 08-14: [60% Profile Picture Advertising](/posts/2021/08/13/post/60-profile-picture-advertising) to cat holders event started
+- 09-15: Community Wallet funds transferred to [KittyBank](../kittyvault/index.md#a-brief-history)
 - 09-24: NFT20 Pool closed.
 - 09-24: 1st Episode of [PurrCast](/posts/tags/purr-cast)
 - 09-30: [Hoodie Cat](../collections/kittyvault-purrks/1-hoodie-cat.md) airdropped, 1/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
