@@ -22,7 +22,15 @@ It can also be redeemed for a physical Purrnelope's branded Ledger Hardware Wall
 
 ## Redeem
 
+### For Ledger Nano
+
 Can be redeemed to a physical Ledger Nano S Hardware wallet. **3 Ledger Cat NFTs** will be required to redeem a Ledger Nano S. [^1]
+
+Redeem will open in the future.
+
+### For KittyBank Token
+
+Redeem for [KittyBank Token](../../kittyvault/index.md#token) will open in the future.
 
 ## Learn more
 

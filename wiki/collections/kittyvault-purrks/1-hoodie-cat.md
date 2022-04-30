@@ -20,7 +20,15 @@ This Hoodie Cat NFT can be redeemed for the KittyBank fractional share when the 
 
 ## Redeem
 
+### For Physical Hoodie
+
 Can be redeemed to a physical hoodie. **10 Hoodie Cat NFTs** will be required to redeem a hoodie.
+
+Redeem will open in the future.
+
+### For KittyBank Token
+
+Redeem for [KittyBank Token](../../kittyvault/index.md#token) will open in the future.
 
 ## Leaks
 
