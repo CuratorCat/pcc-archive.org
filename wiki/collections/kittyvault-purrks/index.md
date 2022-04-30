@@ -12,11 +12,11 @@ description: Purrnelopes KittyVault Purrks contain a shard from the KittyVault. 
 🪂
 ![](./assets/pcc-purrks.png)
 
-Purrnelopes KittyVault Purrks contain a shard from [the KittyVault](../../kittyvault/index.md). These airdrops all go to holder's main Purrnelopes Country Club Cat. Each of the 8 airdrops represents fractional ownership of [the KittyVault](../../kittyvault/index.md).
+Purrnelopes KittyVault Purrks contain a shard from [the KittyVault](../../kittyvault/index.md). These airdrops all go to holder's main Purrnelopes Country Club Cat. Each of the 8 airdrops represents fractional ownership of [the KittyVault](../../kittyvault/index.md). Each month a snapshot will be taken, and owners will receive the airdropped NFTs to their wallets, 1 PCC Cat for 1 airdropped KittyVault Purrks NFT.
 
-The KittyVault Purrks was not on the orignal roadmap.
+The airdrops are ERC-1155 NFTs started Sep 30, 2021 with the [Hoodie Cat](./1-hoodie-cat.md). The last one [Grandma's Nightstand](8-grandma-s-nightstand.md) was airdropped Apr 30, 2022.
 
-The airdrops are ERC-1155 NFTs started Sep 2021 with the [Hoodie Cat](./1-hoodie-cat.md). Each month a snapshot will be taken, and owners will receive the airdropped NFTs to their wallets, 1 PCC Cat for 1 airdropped KittyVault Purrks NFT.
+The KittyVault Purrks was not on the orignal roadmap but added later to the project.
 
 ## Purrks
 
@@ -30,7 +30,9 @@ The airdrops are ERC-1155 NFTs started Sep 2021 with the [Hoodie Cat](./1-hoodie
 
 **[Hoodie Cat](1-hoodie-cat.md) was airdropped on 2021-09-30.**
 
-It can be used to redeem Physical Hoodie. It also represents fractional ownership of the KittyVault.
+It can be used to redeem Physical Hoodie.
+
+It also represents fractional ownership of the KittyVault.
 
 <span className="wikiPostListImgR">
 
@@ -42,7 +44,9 @@ It can be used to redeem Physical Hoodie. It also represents fractional ownershi
 
 **[Kitten Basket](2-kitten-basket.md) was airdropped on 2021-11-01.**
 
-It can be used to claim [Purrnelope's Kittens](../kittens/index.md). It does not represents fractional ownership of the KittyVault. Claimed Kitten represents fractional ownership of the KittyVault.
+It can be used to claim [Purrnelope's Kittens](../kittens/index.md). 
+
+It does not represents fractional ownership of the KittyVault. Claimed Kitten represents fractional ownership of the KittyVault.
 
 <span className="wikiPostListImgR">
 
@@ -54,7 +58,9 @@ It can be used to claim [Purrnelope's Kittens](../kittens/index.md). It does not
 
 **[Model Cat](3-model-cat.md) was airdropped on 2021-11-27.**
 
-It can be used to redeem physical 3D Model Cat. It also represents fractional ownership of the KittyVault.
+It can be used to redeem physical 3D Model Cat. 
+
+It also represents fractional ownership of the KittyVault.
 
 <span className="wikiPostListImgR">
 
@@ -66,7 +72,9 @@ It can be used to redeem physical 3D Model Cat. It also represents fractional ow
 
 **[Comic Cat](4-comic-cat.md) was airdropped on 2021-12-31.**
 
-It can be used to redeem physical Comic Book. It also represents fractional ownership of the KittyVault.
+It can be used to redeem physical Comic Book. 
+
+It also represents fractional ownership of the KittyVault.
 
 <span className="wikiPostListImgR">
 
@@ -78,7 +86,9 @@ It can be used to redeem physical Comic Book. It also represents fractional owne
 
 **[Record Cat](5-record-cat.md) was airdropped on 2022-02-01.**
 
-It can be used to redeem physical Music Record. It also represents fractional ownership of the KittyVault.
+It can be used to redeem physical Music Record. 
+
+It also represents fractional ownership of the KittyVault.
 
 <span className="wikiPostListImgR">
 
@@ -90,7 +100,9 @@ It can be used to redeem physical Music Record. It also represents fractional ow
 
 **[Keyboard Cat](6-keyboard-cat.md) was airdropped on 2022-03-02.**
 
-It can be used to redeem physical Purrnelope's branded Keyboard. It also represents fractional ownership of the KittyVault.
+It can be used to redeem physical Purrnelope's branded Keyboard.
+
+It also represents fractional ownership of the KittyVault.
 
 <span className="wikiPostListImgR">
 
@@ -102,12 +114,23 @@ It can be used to redeem physical Purrnelope's branded Keyboard. It also represe
 
 **[Ledger Cat](7-ledger-cat.md) was airdropped on 2022-03-29.**
 
-It can be used to redeem physical Purrnelope's branded Ledger Hardware Wallet. It also represents fractional ownership of the KittyVault.
+It can be used to redeem physical Purrnelope's branded Ledger Hardware Wallet.
 
-### 8. TBA
+It also represents fractional ownership of the KittyVault.
 
-- Snapshot for airdrop was taken on 2022-04-25
-- Airdrop: soon!
+<span className="wikiPostListImgR">
+
+[![](./assets/QmS5EWmcth9bkCBRsKfxc47c9KjgERJh9De7yt7BRyDxZ6_resize.gif)](./8-grandma-s-nightstand.md)
+
+</span>
+
+### 8. Grandma's Nightstand
+
+**[Grandma's Nightstand](8-grandma-s-nightstand.md) was airdropped on 2022-04-30.**
+
+It can be used to claim Cat Grandma Companion.
+
+It does not represents fractional ownership of the KittyVault. Claimed Grandma represents fractional ownership of the KittyVault.
 
 ## See Also
 

@@ -21,7 +21,7 @@ Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in
 
 ## Collections
 
-**Currently, PCC has 4 main [Collections](../collections/index.md)**: Cats, Kittens, 2nd Companion (TBA), and Tier 2 (TBA). **With 2 other Collections**: KittyVault Purrks and Purrnelope's Gift. The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day.
+**Currently, PCC Universe has 4 main [Collections](../collections/index.md) to the PCC Universe**: Cats, Kittens, 2nd Companion (Cat Grandma), and Tier 2 (TBA). **With 2 other Collections**: KittyVault Purrks and Purrnelope's Gift. The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day.
 
 <span className="wikiPostListImgR">
 
@@ -31,7 +31,7 @@ Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in
 
 ### Cats
 
-**[Purrnelope's Cats](../collections/cats/index.md) is PCC's 1st collection** with 10k unique Cat NFTs that grand the membership to the Country Club. Cats are Tier 1 NFTs.
+**[Purrnelope's Cats](../collections/cats/index.md) is the 1st collection in PCC Universe** with 10k unique Cat NFTs that grand the membership to the Country Club. Cats are Tier 1 NFTs.
 
 Cats mint started on 2021-07-17. After Carlini revealed himself behind the PCC project, the cats minted out on 2021-08-12.
 
@@ -43,25 +43,25 @@ Cats mint started on 2021-07-17. After Carlini revealed himself behind the PCC p
 
 ### Kittens
 
-**[Purrnelope's Kittens](../collections/kittens/index.md) is the 1st companions to the Cats** with with 10k unique Kitten NFTs. Kittens are Tier 3 NFTs.
+**[Purrnelope's Kittens](../collections/kittens/index.md) is the 1st companions to the Cats in PCC Universe** with with 10k unique Kitten NFTs. Kittens are Tier 3 NFTs.
 
-Kittens were minted by burning [Kitten Basket](../collections/kittyvault-purrks/2-kitten-basket.md) airdrops.
+Kittens were minted/redeemed by burning [Kitten Basket](../collections/kittyvault-purrks/2-kitten-basket.md) airdrops.
 
-### 2nd Companions (TBA)
+### Cat Grandma
 
-**This will be the 2nd companions to the Cats**, and are Tier 3 NFTs. The detail of the 2nd Companions is likely to be revealed in April or May 2022.
+> Cat Grandma has not been released yet. Name may be different as described here after release.
 
-Mint of 2nd Companions is going to be similar to the Kittens: claim by burning KittyVault Purrks 8th airdrop NFT.[^5]
+**Cat Grandma will be the 2nd companions to the Cats in PCC Universe** and are Tier 3 NFTs. The detail of the Cat Grandma is likely to be revealed in May 2022 after the redeem is opened.
 
-[^5]: Mint was mentioned in [PurrCast of April 27th 2022](https://twitter.com/i/spaces/1jMJgeqZpWAKL).
+Cat Grandma will be minted/redeemed by burning [Grandma's Nightstand](../collections/kittyvault-purrks/8-grandma-s-nightstand.md) airdrops.
 
 ### Tier 2 (TBA)
 
-**Tier 2 (TBA) is the PCC equivalent of Meebits / Mutants.** It is the second entry to the PCC Universe. And there are potentially 6 different version of Tier 2[^6].
+**Tier 2 (TBA) is the equivalent of Meebits / Mutants in PCC Universe.** It is the second entry to the PCC Universe. And there are potentially 6 different version of Tier 2[^5].
 
 The sale for Tier 2 has not been officially announced yet.
 
-[^6]: Some detail on Tier 2 was mentioned in [interivew by Overpriced JPEGs](/posts/2022/03/30/3rd-party/overpriced-jpegs#purrnelope-token-utility). And detail may change before it announced officially.
+[^5]: Some detail on Tier 2 was mentioned in [interivew by Overpriced JPEGs](/posts/2022/03/30/3rd-party/overpriced-jpegs#purrnelope-token-utility). And detail may change before it announced officially.
 
 <span className="wikiPostListImgR">
 
@@ -121,9 +121,9 @@ The merchandise was planned since Roadmap V1, and the team is currently working 
 
 ## Games
 
-**Games are planned in [Roadmap V2](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch). 4 Games are currently planned.** And the Team is working with Entity Builds to develope the first game in the NFT Worlds metaverse. Entity Builds is a best-in-class studio with incredible Minecraft builders, devs, and designers.[^7]
+**Games are planned in [Roadmap V2](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch). 4 Games are currently planned.** And the Team is working with Entity Builds to develope the first game in the NFT Worlds metaverse. Entity Builds is a best-in-class studio with incredible Minecraft builders, devs, and designers.[^6]
 
-[^7]: The 4 games were mentioned in Carlini8's interview by [Overpriced JPEGs](/posts/2022/03/30/3rd-party/overpriced-jpegs#purrnelope-token-utility). And they may change before the they announced officially.
+[^6]: The 4 games were mentioned in Carlini8's interview by [Overpriced JPEGs](/posts/2022/03/30/3rd-party/overpriced-jpegs#purrnelope-token-utility). And they may change before the they announced officially.
 
 ## Voting
 
@@ -170,7 +170,7 @@ The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks
 [Roadmap 2.0](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch) was released on February 25, 2022, 6 months after Roadmap 1.0.
 
 - 🛠 Complete Roadmap 1.0
-- 😼 8 KittyVault Purrks Airdrops: completed 7/8
+- ✅ 8 KittyVault Purrks Airdrops [2022-Q1](#2022-q1)
 - 🛠 2nd Companion
 - 🛠 Tier 2 Collection
 - 🛠 $TOKEN
@@ -190,7 +190,7 @@ Other items from Roadmap 2.0 will be added to the list upon completion or new up
 - 08-12: Carbon Offset via Aerial ([Etherscan](https://etherscan.io/tx/0x143e27fed56a3d76e6681a9422aaf7356b6ac8108f2407cee8a9948c0f46b9cc))
 - 08-14: Launched Liquidity Pools on [NFTX](https://app.nftx.org/redeem/0xe581f272706581f9dcc362df3c7934e99192c492/) and [NFT20](https://nft20.io/asset/0x54c9e17ad8016a062ffd89d1b53aaee80c0cf43d)
 - 08-14: [60% Profile Picture Advertising](/posts/2021/08/13/post/60-profile-picture-advertising) to cat holders event started
-- 08-21: [Bored Ape #5226 fractionalized](../kittyvault/index.md#fractionalized-ape-5226) and airdropped to minters of Cats ID `#1-2000`
+- 08-21: [Bored Ape #5226 fractionalized](../kittyvault/index.md#fractionalize-ape-5226) and airdropped to minters of Cats ID `#1-2000`
 - 09-15: Community Wallet funds transferred to [KittyBank](../kittyvault/index.md#a-brief-history)
 - 09-24: [NFTX](https://app.nftx.org/redeem/0xe581f272706581f9dcc362df3c7934e99192c492/) Pool results better liquidity and was chosen to keep, NFT20 Pool closed.
 <!-- - 09-24: 1st Episode of [PurrCast](/posts/tags/purr-cast) -->
@@ -220,3 +220,4 @@ Other items from Roadmap 2.0 will be added to the list upon completion or new up
 
 - 04-15: [.pcc.eth subdomains](../ens/index.md) hit 500 names registration
 - 04-19: The Ambassadors role [revamped and leveled up linked with .pcc.eth subdomains](/posts/2022/04/19/post/the-new-ambassadors-role-revamped-and-leveled-up)
+- 04-30: [Grandma's Nightstand](../collections/kittyvault-purrks/8-grandma-s-nightstand.md) airdropped, All [8 Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops completed
