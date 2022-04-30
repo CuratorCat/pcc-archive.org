@@ -26,7 +26,7 @@ A reward for PCC's first Ambassadors after sticking around after we stopped our 
 
 ### Claim
 
-> This part needs to be updated.
+Can be claimed on PCC's website for ambassadors: [purrnelopescountryclub.com/claim/ambassador](https://www.purrnelopescountryclub.com/claim/ambassador)
 
 ## Diamond Claws Cat
 

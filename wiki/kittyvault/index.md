@@ -54,7 +54,7 @@ The KVCoin has not been released yet, and its formal name, functions, etc. may a
 
 ### Which Collections can claim KVCoin?
 
-> this section needs to be cited
+> 👇 Citation Needed
 
 - **Cats, 8 KV Purrks Airdrops, Kittens, Companion 2**
 
@@ -80,29 +80,31 @@ The KVCoin has not been released yet, and its formal name, functions, etc. may a
 
 After the Cats sold out, the team allocated 200 ETH to a community wallet on Aug 11, 2021 ([txn 1](https://etherscan.io/tx/0xb5003f2b49eea89d15357f710a3145f13da83d6ceb8daab386c2afbdea787270), [txn 2](https://etherscan.io/tx/0x6fdd6e55f067aed7a5f95ef726b248e2f7dfd126f3cde005b86ea6b8dd71fd61)) with the use of the funds voted on by holders. The community wallet also gets 1.5% of all secondary sales. The community wallet was on the original Roadmap 1.0. And the community wallet address was 0x1F4A···1Df3 ([Etherscan](https://etherscan.io/address/0x1F4A4fdFB5C729DC5D397A3541b38BF13a841Df3)).
 
-`purrnelopecommunitywallet.eth` ENS was registered on the same day the team made the 200 ETH allocation.
+`purrnelopecommunitywallet.eth` ENS was registered on the same day the team made the 200 ETH allocation. And the Community Wallet is still operated separately from the KittyBank/KittyVault.
 
 ### The KittyBank
 
-After the community wallet was created. There were proposals on how to use the funds in the wallet. And holders of Cats voted to put the funds into a Bank wallet, and buy blue-chip NFTs.
+After the community wallet was created. There were proposals on how to use the funds in the wallet. Cats hodlers [voted on snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/QmYPtG4jidGRuixKXHPpFioErxXbe8uhrkthHYQ1VjKztj) to put the funds into a Bank wallet, and buy blue-chip NFTs.
 
 On Sep 5, 2021, the team transferred 199.99 ETH ([txn on Etherscan](https://etherscan.io/tx/0x526676836451a16ca16f200d0ce664f37242dc2a27d32e8294aa3dfa73f843f8)) from the community wallet to a new wallet address 0x1d1c···8e93 ([Etherscan](https://etherscan.io/address/0x1d1c9Dad9A24b1E9324605153906d584520b8e93)). That's the start of the KittyBank.
 
 On Sep 15, 2021, the team posted an article [Deflationary NFTs and Rewarding HODLing](/posts/2021/08/15/post/deflationary-nfts-and-rewarding-hodling-kittybank), explained vault fundings, fractionalized features, and introduced the [8 KittyBank Purrks Airdrops](../collections/kittyvault-purrks/index.md).
 
-`kittybank.eth` ENS was registered on Aug 05, 2021 by the team.
+`kittybank.eth` ENS was registered on Aug 05, 2021 by the team. The KittyBank is now called the KittyVault.
 
-### Fractionalized A Bored Ape
+### Fractionalize Bored Ape #5226 {#fractionalized-ape-5226}
 
-> this section needs to be cited
+Bored Ape Yacht Club #5226 was [fractionalized on fractional.art](https://fractional.art/vaults/0x0441f4355D918d60E59d42E37ebCDF94De2727c3) on Aug 21, 2021 as a result of 1st community vote [on snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/QmTJ295RrF4rG8Hmr9R2cTp8fKd8vGjbUNcDJM6vZ3CuUW). The fractions were airdropped to minters of Cats #1-2000. That Ape is not part of the KittyVault but as part of community giveback program on Roadmap 1.0. It is also a try for the team and community to use a fractional.art vault.
 
-Bored Ape Yacht Club #5226 was fractionalized on fractional.art after a community vote. Now the vault on fractional.art is closed. [link to vault on fractional.art](https://fractional.art/vaults/0x0441f4355D918d60E59d42E37ebCDF94De2727c3).
+> 👇 Citation Needed.
 
 During the use of the factional.art vault, it required all the fractions holders to sign on-chain transactions to changes on the vault. That leads problems on receiving airdrops of that Ape and other managing problems. Now the team is focused on factional.art 2.0 for the future fractional of the vault.
 
 ### Change Name to KittyVault
 
-> This section needs to be updated.
+> 👇 This section needs to be updated & cited.
+
+It seems the idea to set a collection of NFTs to a vault and fractionalize the vault from fractional.art. But this saying needs to be cited.
 
 ## Learn More
 

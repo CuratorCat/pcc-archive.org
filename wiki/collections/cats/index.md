@@ -66,7 +66,7 @@ This was told in [Weekly Update: 2022 Week 7](/posts/weekly-update/2022w07)
 
 ### Meta Reveal During Mint
 
-First token base URI meta was set with opening the sale ([Etherscan](https://etherscan.io/tx/0xadabe2454200814f4e9b6f5d26aa7b4d81dff07170227805435ddb998663d7cd)).
+First token base URI meta was set with opening the sale on Jul 17, 2021 ([Etherscan](https://etherscan.io/tx/0xadabe2454200814f4e9b6f5d26aa7b4d81dff07170227805435ddb998663d7cd)).
 
 The team updated token base URI during the mint to reveal token metadata and the art. And it took 3 updates to reveal all 10k Cat NFTs:
 

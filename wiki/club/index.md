@@ -139,7 +139,7 @@ At the begining, the team was calling themselves the **Cool Cats Country Club**,
 
 ### Roadmap 1.0
 
-Roadmap 1.0 was released with the project launch and [got updated](/posts/2021/08/12/post/roadmap) after the Cats mint was completed.
+[Roadmap 1.0 released](/posts/2021/07/14/post/welcome-to-pcc) with the project launch and [it got updated](/posts/2021/08/12/post/roadmap) after the Cats mint out on Aug 12, 2021.
 
 Displate and Anime Short are still in progress, and these are [mentioned in Roadmap 2.0](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch#but-first--completing-roadmap-10)
 
@@ -150,7 +150,7 @@ Displate and Anime Short are still in progress, and these are [mentioned in Road
 - ✅ Merch activated: [2021-Q3](#2021-q3)
 - ✅ Community Wallet: [2021-Q3](#2021-q3)
 - ✅ Profile Picture Advertisement: [2021-Q3](#2021-q3)
-- ✅ Charity Donation activated: [2021-Q3](#2021-q3)
+- ✅ Charity Donation: [2021-Q4](#2021-q4) (_Citation Needed_)
 - ✅ Community Buy Back: [2021-Q3](#2021-q3)
 - ✅ Liquidity Pool: [2021-Q3](#2021-q3)
 - 🛠 A short anime video
@@ -185,15 +185,15 @@ Other items from Roadmap 2.0 will be added to the list upon completion or new up
 
 - 07-17: [Cats](../collections/cats/index.md) mint started
 - 08-11: Carlini revealed himself behind PCC in [his post](/posts/2021/08/11/post/pcc-the-unanon)
-- 08-11: Team allocated 200 ETH to the [Community Wallet](../kittyvault/index.md#a-brief-history)
-- 08-12: All 10k [Cats](../collections/cats/index.md) are minted
-- 08-12: [Roadmap 1.0 updated](/posts/2021/08/12/post/roadmap)
+- 08-11: 200 ETH sent to the [Community Wallet](../kittyvault/index.md#a-brief-history)
+- 08-12: All 10k [Cats](../collections/cats/index.md) are minted and [Roadmap 1.0 got updated](/posts/2021/08/12/post/roadmap)
 - 08-12: Carbon Offset via Aerial ([Etherscan](https://etherscan.io/tx/0x143e27fed56a3d76e6681a9422aaf7356b6ac8108f2407cee8a9948c0f46b9cc))
 - 08-14: Launched Liquidity Pools on [NFTX](https://app.nftx.org/redeem/0xe581f272706581f9dcc362df3c7934e99192c492/) and [NFT20](https://nft20.io/asset/0x54c9e17ad8016a062ffd89d1b53aaee80c0cf43d)
 - 08-14: [60% Profile Picture Advertising](/posts/2021/08/13/post/60-profile-picture-advertising) to cat holders event started
+- 08-21: [Bored Ape #5226 fractionalized](../kittyvault/index.md#fractionalized-ape-5226) and airdropped to minters of Cats ID `#1-2000`
 - 09-15: Community Wallet funds transferred to [KittyBank](../kittyvault/index.md#a-brief-history)
-- 09-24: NFT20 Pool closed.
-- 09-24: 1st Episode of [PurrCast](/posts/tags/purr-cast)
+- 09-24: [NFTX](https://app.nftx.org/redeem/0xe581f272706581f9dcc362df3c7934e99192c492/) Pool results better liquidity and was chosen to keep, NFT20 Pool closed.
+<!-- - 09-24: 1st Episode of [PurrCast](/posts/tags/purr-cast) -->
 - 09-30: [Hoodie Cat](../collections/kittyvault-purrks/1-hoodie-cat.md) airdropped, 1/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 
 ### 2021 Q4
