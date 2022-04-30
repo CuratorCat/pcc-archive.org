@@ -170,7 +170,7 @@ The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks
 [Roadmap 2.0](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch) was released on February 25, 2022, 6 months after Roadmap 1.0.
 
 - 🛠 Complete Roadmap 1.0
-- ✅ 8 KittyVault Purrks Airdrops [2022-Q1](#2022-q1)
+- 😼 8 KittyVault Purrks Airdrops: completed 7/8
 - 🛠 2nd Companion
 - 🛠 Tier 2 Collection
 - 🛠 $TOKEN
@@ -220,4 +220,4 @@ Other items from Roadmap 2.0 will be added to the list upon completion or new up
 
 - 04-15: [.pcc.eth subdomains](../ens/index.md) hit 500 names registration
 - 04-19: The Ambassadors role [revamped and leveled up linked with .pcc.eth subdomains](/posts/2022/04/19/post/the-new-ambassadors-role-revamped-and-leveled-up)
-- 04-30: [Grandma's Nightstand](../collections/kittyvault-purrks/8-grandma-s-nightstand.md) airdropped, All [8 Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops completed
+<!-- - 04-30: [Grandma's Nightstand](../collections/kittyvault-purrks/8-grandma-s-nightstand.md) airdropped, All [8 Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops completed -->
