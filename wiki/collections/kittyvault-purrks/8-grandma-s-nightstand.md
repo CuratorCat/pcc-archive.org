@@ -38,7 +38,7 @@ The Cat Grandma will be able to redeem for [KittyBank Token](../../kittyvault/in
 
 ## Events
 
-- 2022-04-30: Transactions appeared, transaction is pending while this page last updated
+- 2022-04-30: Airdropped
 
 ## Meta
 

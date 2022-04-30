@@ -126,7 +126,7 @@ It also represents fractional ownership of the KittyVault.
 
 ### 8. Grandma's Nightstand
 
-**[Grandma's Nightstand](8-grandma-s-nightstand.md)**
+**[Grandma's Nightstand](8-grandma-s-nightstand.md) was airdropped on 2022-04-30.**
 
 It can be used to claim Cat Grandma Companion.
 
