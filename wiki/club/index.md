@@ -170,7 +170,7 @@ The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks
 [Roadmap 2.0](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch) was released on February 25, 2022, 6 months after Roadmap 1.0.
 
 - 🛠 Complete Roadmap 1.0
-- ✅ 8 KittyVault Purrks Airdrops [2022-Q1](#2022-q1)
+- ✅ 8 KittyVault Purrks Airdrops [2022-Q2](#2022-q2)
 - 🛠 2nd Companion
 - 🛠 Tier 2 Collection
 - 🛠 $TOKEN
