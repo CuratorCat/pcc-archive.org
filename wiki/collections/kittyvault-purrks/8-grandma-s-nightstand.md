@@ -20,13 +20,13 @@ This Grandma's Nightstand NFT can be redeemed for a Cat Grandma Companion. 1 Cat
 
 ## Redeem
 
-### For Cat Grandma
+### For Grandma Kitties
 
-Each Grandma's Nightstand NFT can redeem for a Cat Grandma Companion.
+Each Grandma's Nightstand NFT can redeem for a Grandma Kitty.
 
-Redeem will open 2 weeks after the airdrop, and holders will have 1 month to redeem Cat Grandma.
+Redeem will open on May 16 and holders will have 1 month to redeem for Grandma Kitties.
 
-The redeem window will be likely between May 15 to Jun 14, 2022.
+Unredeemed Nightstand NFTs will be pulled back to Purrnelope.
 
 Currently holders can trade this NFT on secondary markets.
 
@@ -35,6 +35,10 @@ Currently holders can trade this NFT on secondary markets.
 Not with this Nightstand.
 
 The Cat Grandma will be able to redeem for [KittyBank Token](../../kittyvault/index.md#token) in the future.
+
+## Learn more
+
+- Video: watch Grandma Katie's [Nightstand Explained! on Twitter](https://twitter.com/PurrnelopesCC/status/1520485640722288641)
 
 ## Events
 
