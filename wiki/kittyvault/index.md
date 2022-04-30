@@ -24,15 +24,15 @@ The KittyVault used to use the name _Kitty Bank_[^1]. [**A Brief History of Kitt
 
 The whole KittyVault collection will be fractionalized with [fractional.art](https://fractional.art) 2.0 [^3]. The Team will do this once the team can ensure the fractional.art vault can still receive tokens, airdrops, etc. There are many projects in there that have upcoming companions, airdrops, tokens, etc. and we want those benefits to come to the Vault for everyone's benefit.
 
-### KVCoin
+### KittyBank Token {#token}
 
-**The KVCoin**, aka KittyVault Token, is different from the $TOKEN.
+**The KittyBank Token**, aka KittyVault Token, is different from the $TOKEN.
 
-Each Cat and each KittyVault Purrks airdrops (8 in total) will be able to be redeemed for one KVCoin. That KVCoin will be tradable for 1/100,000 of the Vault's value.
+Each Cat and each KittyVault Purrks airdrops (8 in total) will be able to be redeemed for KittyBank Token that represent shares of the KittyVault. That KittyBank Token will be tradable for 1/100,000 of the Vault's value.
 
 :::info
 
-The KVCoin has not been released yet, and its formal name, functions, etc. may also change before the release.
+The KittyBank Token has not been released yet, and its formal name, functions, etc. may also change before the release.
 
 :::
 
@@ -90,9 +90,9 @@ On Sep 5, 2021, the team transferred 199.99 ETH ([txn on Etherscan](https://ethe
 
 On Sep 15, 2021, the team posted an article [Deflationary NFTs and Rewarding HODLing](/posts/2021/08/15/post/deflationary-nfts-and-rewarding-hodling-kittybank), explained vault fundings, fractionalized features, and introduced the [8 KittyBank Purrks Airdrops](../collections/kittyvault-purrks/index.md).
 
-`kittybank.eth` ENS was registered on Aug 05, 2021 by the team. The KittyBank is now called the KittyVault.
+`kittybank.eth` ENS was registered on Aug 05, 2021 by the team.
 
-### Fractionalize Bored Ape #5226 {#fractionalized-ape-5226}
+### Fractionalize Bored Ape #5226 {#fractionalize-ape-5226}
 
 Bored Ape Yacht Club #5226 was [fractionalized on fractional.art](https://fractional.art/vaults/0x0441f4355D918d60E59d42E37ebCDF94De2727c3) on Aug 21, 2021 as a result of 1st community vote [on snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/QmTJ295RrF4rG8Hmr9R2cTp8fKd8vGjbUNcDJM6vZ3CuUW). The fractions were airdropped to minters of Cats #1-2000. That Ape is not part of the KittyVault but as part of community giveback program on Roadmap 1.0. It is also a try for the team and community to use a fractional.art vault.
 
@@ -100,11 +100,15 @@ Bored Ape Yacht Club #5226 was [fractionalized on fractional.art](https://fracti
 
 During the use of the factional.art vault, it required all the fractions holders to sign on-chain transactions to changes on the vault. That leads problems on receiving airdrops of that Ape and other managing problems. Now the team is focused on factional.art 2.0 for the future fractional of the vault.
 
-### Change Name to KittyVault
+### KittyVault Name
 
 > 👇 This section needs to be updated & cited.
 
 It seems the idea to set a collection of NFTs to a vault and fractionalize the vault from fractional.art. But this saying needs to be cited.
+
+Once the KittyVault got fractionalized, there will be a token, and the vault will remain it's name KittyVault, and a new KittyBank will be introduced to act as a bank to let people redeem, exchange the KittyVault fraction shares and the token.
+
+For now, the best to describe what KittyVault is it is the vault holding the NFTs collections. And the address of the vault is kittyvault.pcc.eth. 
 
 ## Learn More
 
