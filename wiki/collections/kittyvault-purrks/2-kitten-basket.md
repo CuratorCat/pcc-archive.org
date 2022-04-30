@@ -41,6 +41,8 @@ The Kittens will be able to redeem for [KittyBank Token](../../kittyvault/index.
 ## Events
 
 - 2021-11-01: Airdropped
+  - It cost the team 15.6316380993464 ETH on gas to airdrop to all holders.
+  - That's about 44,124 USD during the airdrop.
 - 2021-11-15: Public Kitten Claim opened
 - 2021-12-20: Unredeemed Kitten Baskets are pulled back to purrnelope.pcc.eth [Etherscan](https://etherscan.io/tx/0x2598b855a071a7dc498c20f8768891178aa293034e44db5ac2c10c95d06acac1)
 

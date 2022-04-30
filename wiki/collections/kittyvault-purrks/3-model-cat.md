@@ -58,6 +58,8 @@ Some photos were posted in [Roadmap 2.0–6 Months on from Launch](/posts/2022/0
 ## Events
 
 - 2021-11-27: Airdropped
+  - It cost the team 6.69173515450355 ETH on gas to airdrop to all holders.
+  - That's about 18,889 USD during the airdrop.
 - 2021-11-30: Token Metadata Revealed
 
 ## Meta
