@@ -178,6 +178,19 @@ div[class^="announcementBar_"] {
   display: none;
 }
 
+// Wiki: use prose
+// currently disabled
+// main[class^="docMainContainer"] {
+//   article .markdown {
+//     @apply prose prose-violet lg:prose-base xl:prose-lg max-w-none;
+//   }
+// }
+// [data-theme="dark"] main[class^="docMainContainer"] {
+//   article .markdown {
+//     @apply prose-invert;
+//   }
+// }
+
 [itemtype="http://schema.org/Blog"] article #post-content,
 div[itemprop="articleBody"] {
   @apply prose prose-violet lg:prose-base xl:prose-lg max-w-none;
@@ -358,4 +371,12 @@ article .markdown .wikiPostListImgR {
 article .markdown .TeamAvatar {
   @apply rounded-full w-20 md:w-24 float-right;
   clear: both;
+}
+
+// Wiki: tier fx on h3 > sup
+main[class^="docMainContainer"] {
+  article .markdown h3 > sup {
+    @apply bg-pink-500 text-white px-1 py-0.5 rounded-md;
+    font-size: 0.8rem;
+  }
 }
