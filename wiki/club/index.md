@@ -5,6 +5,13 @@ image: /img/cover/pcc.jpg
 description: "Purrnelope's Country Club (PCC) was founded by Carlini8 in 2021. It has NFT collections of 10k unique cats, 10k unique kittens, and 2 more collections are coming. The project is the first to integrate NFTs with ENS subdomains. Currently, the project is onto its roadmap 2.0."
 ---
 
+import Cats from '../collections/\_cats.md';
+import Kittens from '../collections/\_kittens.md';
+import Grandma from '../collections/\_grandma.md';
+import Tier2 from '../collections/\_tier2.md';
+import Gift from '../collections/\_gift.md';
+import KVPurrks from '../collections/\_kittyvault-purrks.md';
+
 ![](/img/cover/pcc.jpg)
 
 **Purrnelope's Country Club ([purrnelopescountryclub.com](https://purrnelopescountryclub.com/)) was launched in July 2021 with 10,000 Cat PFP NFTs** and a quick and simple comment:
@@ -19,9 +26,9 @@ Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in
 [^3]: The first company was mentioned many times in Carlini8's [interviews](/posts/tags/interview).
 [^4]: BVI company was mentioned in [interview by Lucky Trader](/posts/2022/02/25/3rd-party/lucky-trader), and time was mentioned in [interview by Talkenized](/posts/2022/04/27/3rd-party/talkenized). The $TOKEN has not released yet, "$TOKEN" here is a placeholder for it's to be launched token.
 
-## Collections
+## Collections 😺 {#collections}
 
-**Currently, PCC Universe has 4 main [Collections](../collections/index.md) to the PCC Universe**: Cats, Kittens, 2nd Companion (Cat Grandma), and Tier 2 (TBA). **With 2 other Collections**: KittyVault Purrks and Purrnelope's Gift. The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day.
+**PCC Universe has 4 main [Collections](../collections/index.md): Cats, Kittens, 2nd Companion (Cat Grandma), and Tier 2 (TBA)**. **And 2 other Collections**: KittyVault Purrks and Purrnelope's Gift. The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day.
 
 <span className="wikiPostListImgR">
 
@@ -29,11 +36,9 @@ Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in
 
 </span>
 
-### Cats
+### Cats <sup>TIER 1</sup>
 
-**[Purrnelope's Cats](../collections/cats/index.md) is the 1st collection in PCC Universe** with 10k unique Cat NFTs that grand the membership to the Country Club. Cats are Tier 1 NFTs.
-
-Cats mint started on 2021-07-17. After Carlini revealed himself behind the PCC project, the cats minted out on 2021-08-12.
+<Cats />
 
 <span className="wikiPostListImgR">
 
@@ -41,27 +46,17 @@ Cats mint started on 2021-07-17. After Carlini revealed himself behind the PCC p
 
 </span>
 
-### Kittens
+### Kittens <sup>TIER 3</sup>
 
-**[Purrnelope's Kittens](../collections/kittens/index.md) is the 1st companions to the Cats in PCC Universe** with with 10k unique Kitten NFTs. Kittens are Tier 3 NFTs.
+<Kittens />
 
-Kittens were minted/redeemed by burning [Kitten Basket](../collections/kittyvault-purrks/2-kitten-basket.md) airdrops.
+### Cat Grandma <sup>TIER 3</sup>
 
-### Cat Grandma
+<Grandma />
 
-> Cat Grandma has not been released yet. Name may be different as described here after release.
+### Tier 2 (TBA) <sup>TIER 2</sup>
 
-**Cat Grandma will be the 2nd companions to the Cats in PCC Universe** and are Tier 3 NFTs. The detail of the Cat Grandma is likely to be revealed in May 2022 after the redeem is opened.
-
-Cat Grandma will be minted/redeemed by burning [Grandma's Nightstand](../collections/kittyvault-purrks/8-grandma-s-nightstand.md) airdrops.
-
-### Tier 2 (TBA)
-
-**Tier 2 (TBA) is the equivalent of Meebits / Mutants in PCC Universe.** It is the second entry to the PCC Universe. And there are potentially 6 different version of Tier 2[^5].
-
-The sale for Tier 2 has not been officially announced yet.
-
-[^5]: Some detail on Tier 2 was mentioned in [interivew by Overpriced JPEGs](/posts/2022/03/30/3rd-party/overpriced-jpegs#purrnelope-token-utility). And detail may change before it announced officially.
+<Tier2 />
 
 <span className="wikiPostListImgR">
 
@@ -71,13 +66,7 @@ The sale for Tier 2 has not been officially announced yet.
 
 ### KittyVault Purrks
 
-[**Purrnelope's KittyVault Purrks**](../collections/kittyvault-purrks/index.md) are airdropped NFTs to all holders of the cats.
-
-Start from Sep 2021 to Apr 2022 of a total of 8 airdrops.
-
-### Gifts
-
-[**Purrnelope's Gifts**](../collections/gift/index.md) are a long-term plan to reward PCC's loyal fans.
+<KVPurrks />
 
 <span className="wikiPostListImgR">
 
@@ -85,7 +74,7 @@ Start from Sep 2021 to Apr 2022 of a total of 8 airdrops.
 
 </span>
 
-## Kitty Vault {#kittyvault}
+## Kitty Vault 🏦 {#kittyvault}
 
 [**The KittyVault**](../kittyvault/index.md) is a community-owned vault of NFTs that backs every PCC cat & first 8 airdrops. **And it is valued at 929.08 ETH** based on the floor price of NFTs inside by Apr 22, 2022.
 
@@ -97,7 +86,7 @@ The whole collection will be fractionalized with @fractional_art 2.0.
 
 </span>
 
-## .pcc.eth ENS
+## .pcc.eth ENS 🆔 {#pcc-ens}
 
 **[.pcc.eth ENS subdomains](../ens/index.md) is free for PCC Cat holders to claim.** It is more readable for wallet address, use the cat as PFP on web3, and the brand of PCC Community.
 
@@ -109,33 +98,33 @@ The new PCC Ambassadors role requires to have a .pcc.eth subdomain.
 
 </span>
 
-## $TOKEN {#token}
+## $TOKEN 💰 {#token}
 
 **Purrnelope's Token has not been released yet, "$TOKEN" here is a placeholder.**
 
 NFTs from main [collections](../collections/index.md) will be able to yield $TOKEN. $TOKEN will be used for purchasing packs, community governance, etc. $TOKEN was mentioned a lot during [Carlini8's interview by Overpriced JPEGs](/posts/2022/03/30/3rd-party/overpriced-jpegs).
 
-## Merch
+## Merch 🛍 {#merch}
 
 The merchandise was planned since Roadmap V1, and the team is currently working hard on the merch. Some merch will require to redeem using [Purrks](../collections/kittyvault-purrks/index.md) NFTs, e.g. Hoodies, 3D Model, Comic Book, Music Record, Keyboard, and Ledger Nano S.
 
-## Games
+## Games 🎮 {#games}
 
-**Games are planned in [Roadmap V2](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch). 4 Games are currently planned.** And the Team is working with Entity Builds to develope the first game in the NFT Worlds metaverse. Entity Builds is a best-in-class studio with incredible Minecraft builders, devs, and designers.[^6]
+**Games are planned in [Roadmap V2](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch). 4 Games are currently planned.** And the Team is working with Entity Builds to develope the first game in the NFT Worlds metaverse. Entity Builds is a best-in-class studio with incredible Minecraft builders, devs, and designers.[^5]
 
-[^6]: The 4 games were mentioned in Carlini8's interview by [Overpriced JPEGs](/posts/2022/03/30/3rd-party/overpriced-jpegs#purrnelope-token-utility). And they may change before the they announced officially.
+[^5]: The 4 games were mentioned in Carlini8's interview by [Overpriced JPEGs](/posts/2022/03/30/3rd-party/overpriced-jpegs#purrnelope-token-utility). And they may change before the they announced officially.
 
-## Voting
+## Voting 🗳 {#vote}
 
 PCC Cats holders can cast votes. See all voting proposals on PCC's Website: [purrnelopescountryclub.com/voting](https://www.purrnelopescountryclub.com/voting)
 
-## Fun Facts
+## Fun Facts 😎 {#fun-facts}
 
 ### Change Name to PCC
 
 At the begining, the team was calling themselves the **Cool Cats Country Club**, but changed it to **Purrnelope's Country Club** after the Cool Cats project smashed it out the park.
 
-## Roadmaps
+## Roadmaps 🗺 {#roadmaps}
 
 ### Roadmap 1.0
 
@@ -179,7 +168,7 @@ Other items from Roadmap 2.0 will be added to the list upon completion or new up
 
 ![PCC Roadmap 2.0](./assets/roadmap2.jpg)
 
-## Events
+## Events 📝 {#events}
 
 ### 2021 Q3
 
