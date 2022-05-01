@@ -106,17 +106,29 @@ NFTs from main [collections](../collections/index.md) will be able to yield $TOK
 
 ## Merch 🛍 {#merch}
 
-The merchandise was planned since Roadmap V1, and the team is currently working hard on the merch. Some merch will require to redeem using [Purrks](../collections/kittyvault-purrks/index.md) NFTs, e.g. Hoodies, 3D Model, Comic Book, Music Record, Keyboard, and Ledger Nano S.
+**Merchandise was planned and activated since [Roadmap 1.0](#roadmap-10)**, and the team is currently working hard on the merch. 
+
+Some merch will require to redeem using [KittyVault Purrks](../collections/kittyvault-purrks/index.md), e.g. Hoodies, 3D Model, Comic Book, Music Record, Keyboard, and Ledger Nano S.
 
 ## Games 🎮 {#games}
 
-**Games are planned in [Roadmap V2](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch). 4 Games are currently planned.** And the Team is working with Entity Builds to develope the first game in the NFT Worlds metaverse. Entity Builds is a best-in-class studio with incredible Minecraft builders, devs, and designers.[^5]
+**Games are planned in [Roadmap 2.0](#roadmap-20). 4 Games are currently planned.** And the Team is working with Entity Builds to develope the first game in the NFT Worlds metaverse. Entity Builds is a best-in-class studio with incredible Minecraft builders, devs, and designers.[^5]
 
 [^5]: The 4 games were mentioned in Carlini8's interview by [Overpriced JPEGs](/posts/2022/03/30/3rd-party/overpriced-jpegs#purrnelope-token-utility). And they may change before the they announced officially.
 
 ## Voting 🗳 {#vote}
 
-PCC Cats holders can cast votes. See all voting proposals on PCC's Website: [purrnelopescountryclub.com/voting](https://www.purrnelopescountryclub.com/voting)
+<span className="wikiPostListImgR">
+
+![](./assets/votingpose1.png)
+
+</span>
+
+PCC Cats holders can cast votes on a 1 Cat = 1 Vote basis, $PURR token is also supported.
+
+See all voting proposals on PCC's Website:
+
+[purrnelopescountryclub.com/voting](https://www.purrnelopescountryclub.com/voting)
 
 ## Fun Facts 😎 {#fun-facts}
 
@@ -128,9 +140,9 @@ At the begining, the team was calling themselves the **Cool Cats Country Club**,
 
 ### Roadmap 1.0
 
-[Roadmap 1.0 released](/posts/2021/07/14/post/welcome-to-pcc) with the project launch and [it got updated](/posts/2021/08/12/post/roadmap) after the Cats mint out on Aug 12, 2021.
+**[Roadmap 1.0 was released](/posts/2021/07/14/post/welcome-to-pcc) with the project launch and [it got updated in a Team post](/posts/2021/08/12/post/roadmap) after the Cats mint out on Aug 12, 2021.**
 
-Displate and Anime Short are still in progress, and these are [mentioned in Roadmap 2.0](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch#but-first--completing-roadmap-10)
+Displate and Anime Short are still in progress, and these are mentioned in [Roadmap 2.0](#roadmap-20)
 
 - ✅ Discord Boost: completed after Launch
 - ✅ Twitter Competition: [2021-Q3](#2021-q3)
@@ -148,7 +160,7 @@ Displate and Anime Short are still in progress, and these are [mentioned in Road
 
 **KittyVault**, **KittyVault Purrks** Airdrops, 1st companions: **Kittens**, 2nd companions: **TBA**, **Tier 2 Collection**, **$TOKEN**, **.pcc.eth ENS subdomains** were not on the original roadmap 1.0 but added to the project later.
 
-The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks airdrops, 2nd companion, Tier 2 Collection, and $TOKEN are [mentioned in Roadmap 2.0](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch#but-first--completing-roadmap-10), and will be tracked in the next Roadmap 2.0 section.
+The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks airdrops, 2nd companion, Tier 2 Collection, and $TOKEN are mentioned in [Roadmap 2.0](#roadmap-20), and will be tracked in the next Roadmap 2.0 section.
 
 - 😼 KittyVault
 - ✅ Kittens: [2021-Q4](#2021-q4)
@@ -156,7 +168,7 @@ The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks
 
 ### Roadmap 2.0
 
-[Roadmap 2.0](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch) was released on February 25, 2022, 6 months after Roadmap 1.0.
+**[Roadmap 2.0 was released on Feb 25, 2022](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch), 6 months after Roadmap 1.0.**
 
 - 🛠 Complete Roadmap 1.0
 - ✅ 8 KittyVault Purrks Airdrops [2022-Q2](#2022-q2)
