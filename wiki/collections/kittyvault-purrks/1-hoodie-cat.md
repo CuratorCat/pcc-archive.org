@@ -52,6 +52,7 @@ Each hoodie will has an NFT linked to it, only having the physical hoodie can cl
 - 2021-09-30: Airdropped
   - It cost the team 8.32288423410938 ETH on gas to airdrop to all holders.
   - That's about 23,493 USD during the airdrop.
+  - Txns Data: [CSV File](./assets/kvpurrks-1-8-txns.csv)
 
 ## Meta
 

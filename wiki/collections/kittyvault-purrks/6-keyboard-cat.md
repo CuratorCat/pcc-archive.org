@@ -39,6 +39,7 @@ Redeem for [KittyBank Token](../../kittyvault/index.md#token) will open in the f
 - 2022-03-02: Airdropped
   - It cost the team 2.54448713822852 ETH on gas to airdrop to all holders.
   - That's about 7,182 USD during the airdrop.
+  - Txns Data: [CSV File](./assets/kvpurrks-1-8-txns.csv)
 
 ## Meta
 

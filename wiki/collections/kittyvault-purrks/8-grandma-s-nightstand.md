@@ -45,6 +45,7 @@ The Cat Grandma will be able to redeem for [KittyBank Token](../../kittyvault/in
 - 2022-04-30: Airdropped
   - It cost the team 4.86591106792732 ETH on gas to airdrop to all holders.
   - That's about 13,576 USD during the airdrop.
+  - Txns Data: [CSV File](./assets/kvpurrks-1-8-txns.csv)
 
 ## Meta
 
@@ -75,7 +76,7 @@ The Cat Grandma will be able to redeem for [KittyBank Token](../../kittyvault/in
 
 - Updated: [Apr-30-2022 01:16:00 PM +UTC](https://etherscan.io/tx/0xac84a3401f02b28388637bd28f208d100d76f232dd60fa957c5f4b228964a38e)
 
-  The metadata was updated to fix the typo.
+  The metadata was updated to fix the typo before the airdrop.
 
   <details><summary>Token Metadata</summary>
 

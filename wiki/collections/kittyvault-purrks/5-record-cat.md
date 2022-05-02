@@ -59,6 +59,7 @@ A sample track was posted in PCC's discord.
 - 2022-02-01: Airdropped
   - It cost the team 9.39085569897 ETH on gas to airdrop to all holders.
   - That's about 26,507 USD during the airdrop.
+  - Txns Data: [CSV File](./assets/kvpurrks-1-8-txns.csv)
 
 ## Meta
 
