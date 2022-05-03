@@ -1,7 +1,7 @@
 ---
 sidebar_position: 50
 title: Purrnelope's Gift
-image: /img/cover/pcc-gift.png
+image: /img/cover/pcc-gift.jpg
 description: Purrnelope's Gifts are a long term plan to reward PCC's loyal fans.
 ---
 
@@ -10,7 +10,7 @@ description: Purrnelope's Gifts are a long term plan to reward PCC's loyal fans.
 [OpenSea](https://opensea.io/collection/purrnelopes-gift) ·
 [LooksRare](https://looksrare.org/collections/0x0d4790d7dce2c3474f4f6b6d7bf37bdeab651bba)
 🎁 
-![Purrnelope's Gift](./assets/purrnelopes-gift.png)
+![Purrnelope's Gift](./assets/pcc-gift.jpg)
 
 Purrnelope's Gifts are a long term plan to reward PCC's loyal fans.
 

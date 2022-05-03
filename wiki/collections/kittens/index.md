@@ -1,7 +1,7 @@
 ---
 sidebar_position: 20
 title: Kittens
-image: /img/cover/pcc-kittens.png
+image: /img/cover/pcc-kittens.jpg
 description: Purrnelope's Kittens is a collection of 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Purrnelope's Kittens are the 1st companions.
 ---
 
@@ -12,7 +12,7 @@ description: Purrnelope's Kittens is a collection of 10,000 randomly generated N
 [OpenSea](https://opensea.io/collection/purrnelopes-kittens) ·
 [LooksRare](https://looksrare.org/collections/0x0c6218D95735d3E12AE7C4703106E4b8e0b61010)
 🐈
-![](./assets/pcc-kittens.png)
+![](./assets/pcc-kittens.jpg)
 
 ## What are Kittens
 
