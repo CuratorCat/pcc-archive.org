@@ -166,17 +166,24 @@ Dune Analytics: https://dune.xyz/curatorcat/pcc-ens
 
 <iframe width="100%" height="315" src="https://dune.xyz/embeds/608635/1136329/1d177c7e-8c88-4907-bd9a-67c45e792a95" title="New pcc.eth" frameborder="0" style={{background: "#F3F0FE", borderRadius: "12px"}}></iframe>
 
-## Other PCC ENS
+## All PCC ENS {#all-pcc-ens}
 
-The PCC Team owns:
+All PCC related ENS currently owned by PCC Team.
 
-- pcc.eth
-- purrnelopescountryclub.eth
-- purrnelope.eth
-- purrcast.eth
-- kittyvault.eth
-- purrks.eth.
+### Registered by Team
 
-Related PCC ENS in the KittyVault:
+The wallet address of `purrnelope.pcc.eth` is likely managed by carlini8.pcc.eth
 
-- kittybank.eth
+- `pcc.eth` on [Nov-25-2021](https://etherscan.io/tx/0x33c8aa697ecf67de868f7c0f557403c7694523cadf436e9582c5375a28ed1964) by `purrnelope.pcc.eth`
+- `purrnelopescountryclub.eth` on [Jul-28-2021](https://etherscan.io/tx/0x8c0e14299483d4d01d293f61c2ce223be66771431f6593eaa4f949157b3b1a19) by `purrnelope.pcc.eth`
+- `purrnelopecommunitywallet.eth` on [Aug-11-2021](https://etherscan.io/tx/0x69efb7dff166fa78d2fc31debf53b04651c5e7da2e3db8fa929c1b808eec40ea) by `0x1F···1Df3`
+- `kittybank.eth` on [Aug-05-2021](https://etherscan.io/tx/0xe0f4a400bb19e3b93f83f8d1f063424b356e3d96efe777241958238fa9c036aa) by `0x1d···8e93`
+
+### Registered by Others
+
+> ENS here are not registered by PCC Team but transferred to the team.
+
+- `purrnelope.eth` on [Apr-06-2022](https://etherscan.io/tx/0xa61fb36464a70da993d6e7ca9be4354db181daab711e96ae7d87608f5ea31dd0) by `0x46···bdb1`
+- `kittyvault.eth` on [Apr-09-2022](https://etherscan.io/tx/0x948f00e73e012351b18bb39e11e853f9d29be06ab7ac906cafc19f794c4b798e) by `0xf0···E12F`
+- `purrcast.eth` on [Apr-10-2022](https://etherscan.io/tx/0x50c229f5d5dce3cf306d9c180b754c62fa883a0df33b64d0272842271373eaea) by `0xf0···E12F`
+- `purrks.eth` on [Apr-10-2022](https://etherscan.io/tx/0x663c6ff36d33c5bd7ce41b31173446ce401707c6e4c5df520db30286aa98dd3b) by `0xf0···E12F`
