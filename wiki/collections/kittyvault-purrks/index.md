@@ -2,7 +2,7 @@
 sidebar_position: 30
 title: KittyVault Purrks
 image: /img/cover/pcc-purrks.jpg
-description: Purrnelopes KittyVault Purrks contain a shard from the KittyVault. These airdrops all go to holder's main Purrnelopes Country Club Cat. Each of the 8 airdrops represents fractional ownership of the KittyVault.
+description: Purrnelopes KittyVault Purrks can be used to redeem NFTs, KittyVault Fractions or Physical Merchs. These airdrops all go to holder's main Purrnelopes Country Club Cat. Each of the 8 airdrops represents fractional ownership of the KittyVault.
 ---
 
 🪂
@@ -12,11 +12,9 @@ description: Purrnelopes KittyVault Purrks contain a shard from the KittyVault. 
 🪂
 ![](./assets/pcc-purrks.jpg)
 
-Purrnelopes KittyVault Purrks contain a shard from [the KittyVault](../../kittyvault/index.md). These airdrops all go to holder's main Purrnelopes Country Club Cat. Each of the 8 airdrops represents fractional ownership of [the KittyVault](../../kittyvault/index.md). Each month a snapshot will be taken, and owners will receive the airdropped NFTs to their wallets, 1 PCC Cat for 1 airdropped KittyVault Purrks NFT.
+**KittyVault Purrks are Tickets in PCC Universe and contain a shard from the [KittyVault](../../kittyvault/index.md). They can be used to redeem for NFTs, or redeem for Physical Merchs, or redeem for tokens represent of fractions of the KittyVault.** KittyVault Purrks were not on the original Roadmap 1.0 but added to the project later.
 
-The airdrops are ERC-1155 NFTs started Sep 30, 2021 with the [Hoodie Cat](./1-hoodie-cat.md). The last one [Grandma's Nightstand](8-grandma-s-nightstand.md) was airdropped Apr 30, 2022.
-
-The KittyVault Purrks was not on the orignal roadmap but added later to the project.
+Purrks #1 to #8 were airdropped to [PCC Cats](../cats/index.md) Holders from Sep 2021 to Apr 2022. Each month a snapshot was taken, and Purrks were airdropped to Cats Holders' wallet addresses, 1 PCC Cat for 1 airdropped KittyVault Purrks NFT.
 
 ## Purrks
 
@@ -44,7 +42,7 @@ It also represents fractional ownership of the KittyVault.
 
 **[Kitten Basket](2-kitten-basket.md) was airdropped on 2021-11-01.**
 
-It can be used to claim [Purrnelope's Kittens](../kittens/index.md). 
+It can be used to claim [Purrnelope's Kittens](../kittens/index.md).
 
 It does not represents fractional ownership of the KittyVault. Claimed Kitten represents fractional ownership of the KittyVault.
 
@@ -58,7 +56,7 @@ It does not represents fractional ownership of the KittyVault. Claimed Kitten re
 
 **[Model Cat](3-model-cat.md) was airdropped on 2021-11-27.**
 
-It can be used to redeem physical 3D Model Cat. 
+It can be used to redeem physical 3D Model Cat.
 
 It also represents fractional ownership of the KittyVault.
 
@@ -72,7 +70,7 @@ It also represents fractional ownership of the KittyVault.
 
 **[Comic Cat](4-comic-cat.md) was airdropped on 2021-12-31.**
 
-It can be used to redeem physical Comic Book. 
+It can be used to redeem physical Comic Book.
 
 It also represents fractional ownership of the KittyVault.
 
@@ -86,7 +84,7 @@ It also represents fractional ownership of the KittyVault.
 
 **[Record Cat](5-record-cat.md) was airdropped on 2022-02-01.**
 
-It can be used to redeem physical Music Record. 
+It can be used to redeem physical Music Record.
 
 It also represents fractional ownership of the KittyVault.
 
@@ -131,6 +129,44 @@ It also represents fractional ownership of the KittyVault.
 It can be used to claim Cat Grandma Companion.
 
 It does not represents fractional ownership of the KittyVault. Claimed Grandma represents fractional ownership of the KittyVault.
+
+## The Ticket Contract
+
+KittyVault Purrks are ERC-1155 NFTs ([Etherscan](https://etherscan.io/address/0xda7d42b6167f1497346d7b2336a6d7a603026db1)). And the contract itself is named **Ticket**. It is certainly built for the PCC Universe, and there are some special and interesting features to the contract.
+
+### Managing Tickets
+
+#### `addNewTicket` Function
+
+This is used for add a new Purrks NFT, and it also sets the metadata for that Purrks NFT.
+
+#### `mintbulk` Function
+
+This is used for Purrks airdrops. A total of 71 transactions made to airdrop Purrks #1 to #8, and 57.88 ETH was paid as gas for the airdrops. (Data: [CSV File](./assets/kvpurrks-1-8-txns.csv)) by PCC Team.
+
+#### `setTokenHash` Function
+
+This is used for change the metadata of a Purrks NFT. It is used for reveal the [Model Cat](./3-model-cat.md) and [Ledger Cat](./7-ledger-cat.md) Purrks. And onced the design of the PCC branded keyboard is complete, this function can be used to update the image of the [Keyboard Cat Purrks](./6-keyboard-cat.md) NFT.
+
+And it can also be used to correct mistakes made to Purrks metadata. Before the airdrop of [Grandma's Nightstand](8-grandma-s-nightstand.md) Purrks, it was used to correct a mistate probably made by Carlini8 in the metadata.
+
+#### `recallTokens` Function
+
+This is unique, which can pull tickets back from the owners wallet. It was used for pull [Kittens Basket](./2-kitten-basket.md) Purrks back when the redeem period for [Kittens](../kittens/index.md) ended. And may also be used for [Grandma's Nightstand](8-grandma-s-nightstand.md) Purrks.
+
+### Redeem Features
+
+#### `burnTokenForFractions` Function
+
+This may be used once the KittyVault is fractionalized. And owners can burn their Purrks to receive the [KittyBank Token](../../kittyvault/index.md#kittybank-token-token).
+
+#### `burnTokenForCompanion` Function
+
+This is used for redeem for PCC Companions. It was used in using [Kitten Basket](2-kitten-basket.md) to redeem [Kittens](../kittens/index.md) Companions. And may also be used for [Grandma's Nightstand](8-grandma-s-nightstand.md) Purrks.
+
+#### `burnTokenForAlternate` Function
+
+This is not used yet, but likely to be used in redeem for Physicals with [Hoodie Cat](1-hoodie-cat.md), [Model Cat](3-model-cat.md), [Comic Cat](4-comic-cat.md), [Record Cat](5-record-cat.md), [Keyboard Cat](6-keyboard-cat.md) and [Ledger Cat](7-ledger-cat.md) Purrks. Because the event for this function is called `RedeemPhysical`.
 
 ## See Also
 
