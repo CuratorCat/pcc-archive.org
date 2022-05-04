@@ -10,7 +10,8 @@ description: This Hoodie Cat NFT can be redeemed for the KittyBank fractional or
 
 </span>
 
-[[OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/0)]
+[OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/0) ·
+[LooksRare](https://looksrare.org/collections/0xDa7D42B6167f1497346D7B2336a6D7A603026Db1/0)
 
 | Physical | KV Fractions |
 | -------- | ------------ |

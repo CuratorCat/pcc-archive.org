@@ -12,11 +12,15 @@ description: Purrnelopes KittyVault Purrks can be used to redeem NFTs, KittyVaul
 🪂
 ![](./assets/pcc-purrks.jpg)
 
-**KittyVault Purrks are Tickets in PCC Universe and contain a shard from the [KittyVault](../../kittyvault/index.md). They can be used to redeem for NFTs, or redeem for Physical Merchs, or redeem for tokens represent of fractions of the KittyVault.** KittyVault Purrks were not on the original Roadmap 1.0 but added to the project later.
+## What are Purrks
 
-Purrks #1 to #8 were airdropped to [PCC Cats](../cats/index.md) Holders from Sep 2021 to Apr 2022. Each month a snapshot was taken, and Purrks were airdropped to Cats Holders' wallet addresses, 1 PCC Cat for 1 airdropped KittyVault Purrks NFT.
+**KittyVault Purrks are Tickets in PCC Universe and contain a shard from the [KittyVault](../../kittyvault/index.md). They can be used to redeem for NFTs, or redeem for Physical Merchs, or redeem for tokens represent of fractions of the KittyVault.** 
 
-## Purrks
+KittyVault Purrks were not on the original Roadmap 1.0 but added to the project later. Currently all 8 Purrks in Series 1 airdrops are completed.
+
+## Purrks <sup>Series 1</sup> {#purrks}
+
+Purrks Series 1 contain 8 airdrops to [PCC Cats](../cats/index.md) Holders during Sep 2021 to Apr 2022. Each month a snapshot was taken, and Purrks were airdropped to Cats Holders' wallet addresses, 1 PCC Cat for 1 airdropped KittyVault Purrks NFT.
 
 <span className="wikiPostListImgR">
 
@@ -140,9 +144,11 @@ KittyVault Purrks are ERC-1155 NFTs ([Etherscan](https://etherscan.io/address/0x
 
 This is used for add a new Purrks NFT, and it also sets the metadata for that Purrks NFT.
 
+Currently 8 Purrks are created and grouped as Series 1. And it is possible for the team to do a Series 2 Purrks in the future.
+
 #### `mintbulk` Function
 
-This is used for Purrks airdrops. A total of 71 transactions made to airdrop Purrks #1 to #8, and 57.88 ETH was paid as gas for the airdrops. (Data: [CSV File](./assets/kvpurrks-1-8-txns.csv)) by PCC Team.
+This is used for Purrks airdrops. A total of 71 transactions were made to airdrop Purrks #1 to #8 in Series 1, and 57.88 ETH was paid for gas to the airdrops by PCC Team. (Data: [CSV File](./assets/kvpurrks-1-8-txns.csv)).
 
 #### `setTokenHash` Function
 
@@ -152,17 +158,21 @@ And it can also be used to correct mistakes made to Purrks metadata. Before the 
 
 #### `recallTokens` Function
 
-This is unique, which can pull tickets back from the owners wallet. It was used for pull [Kittens Basket](./2-kitten-basket.md) Purrks back when the redeem period for [Kittens](../kittens/index.md) ended. And may also be used for [Grandma's Nightstand](8-grandma-s-nightstand.md) Purrks.
+This is unique, which can pull tickets back from the owners wallet.
+
+It was used for pull [Kittens Basket](./2-kitten-basket.md) Purrks back when the redeem period for [Kittens](../kittens/index.md) ended. And may also be used for [Grandma's Nightstand](8-grandma-s-nightstand.md) Purrks.
 
 ### Redeem Features
 
 #### `burnTokenForFractions` Function
 
-This may be used once the KittyVault is fractionalized. And owners can burn their Purrks to receive the [KittyBank Token](../../kittyvault/index.md#kittybank-token-token).
+This may be used once the KittyVault is fractionalized. And owners can burn(redeem) their Purrks to receive the [KittyBank Token](../../kittyvault/index.md#kittybank-token-token).
 
 #### `burnTokenForCompanion` Function
 
-This is used for redeem for PCC Companions. It was used in using [Kitten Basket](2-kitten-basket.md) to redeem [Kittens](../kittens/index.md) Companions. And may also be used for [Grandma's Nightstand](8-grandma-s-nightstand.md) Purrks.
+This is used for redeem for PCC Companions.
+
+It was used in using [Kitten Basket](2-kitten-basket.md) to redeem [Kittens](../kittens/index.md) Companions. And may also be used for [Grandma's Nightstand](8-grandma-s-nightstand.md) Purrks.
 
 #### `burnTokenForAlternate` Function
 

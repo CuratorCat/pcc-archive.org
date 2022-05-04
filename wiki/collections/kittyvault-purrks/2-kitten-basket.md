@@ -10,7 +10,8 @@ description: This Kitten Basket NFT can be redeemed for a Kitten Companion.
 
 </span>
 
-[[OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/1)]
+[OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/1) ·
+[LooksRare](https://looksrare.org/collections/0xDa7D42B6167f1497346D7B2336a6D7A603026Db1/1)
 
 | Companion | Physical | KV Fractions |
 | --------- | -------- | ------------ |

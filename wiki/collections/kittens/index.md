@@ -2,7 +2,7 @@
 sidebar_position: 20
 title: Kittens
 image: /img/cover/pcc-kittens.jpg
-description: Purrnelope's Kittens is a collection of 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Purrnelope's Kittens are the 1st companions.
+description: Purrnelope's Kittens is the 2nd collection in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. And Kittens are the 1st companion to the Cats. Kittens are Tier 3 NFTs.
 ---
 
 # Purrnelope's Kittens
@@ -16,7 +16,7 @@ description: Purrnelope's Kittens is a collection of 10,000 randomly generated N
 
 ## What are Kittens
 
-Purrnelopes Kittens is a collection of 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Purrnelope's Kittens are the 1st companions.
+Purrnelope's Kittens is the 2nd collection in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. And Kittens are the 1st companion to the [Cats](../cats/index.md). Kittens are Tier 3 NFTs.
 
 Kittens are redeemed with [Kitten Basket](../kittyvault-purrks/2-kitten-basket.md).
 
@@ -24,17 +24,23 @@ Kittens `#1 - #20` are not revealed. They are reserved for The Team for mysterio
 
 Unclaimed kittens will be used in giveaways. [^1]
 
-## Cats & Kittens
+### Clubhouse Access
 
-![](./assets/cats-kittens.png)
-
-As shown in the picture above, the arms holding the kittens will match with the cat with the same Token ID.
-
-## Utilities
+Kittens owners can access **Clubhouse** channel in [PCC Discord](http://discord.gg/purrnelopescountryclub).
 
 ### Earn $Token
 
 Kittens are Tier 3 NFTs, will earn 1 $TOKEN per day per Kitten.
+
+### Redeem for KittlyVault Fractions
+
+Once the [KittyVault](../../kittyvault/index.md) is fractionalized, Kittens can be redeemed(burned) for [KittyBank Token](../../kittyvault/index.md#kittybank-token-token).
+
+## Cats & Kittens
+
+![](./assets/cats-kittens.png)
+
+As shown in the picture above, the arms holding the Kittens will match with the [Cat](../cats/index.md) with the same Token ID.
 
 ## Video
 

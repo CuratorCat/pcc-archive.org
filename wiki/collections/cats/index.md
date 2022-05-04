@@ -2,7 +2,7 @@
 sidebar_position: 2
 title: Cats
 image: /img/cover/pcc-cats.jpg
-description: Cats of Purrnelope's Country Club are 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Exclusivity is the name, fun is the game.
+description: Cats of Purrnelope's Country Club are the first NFT collection in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Cats are Tier 1 NFTs.
 ---
 
 # Purrnelope's Cats
@@ -16,43 +16,41 @@ description: Cats of Purrnelope's Country Club are 10,000 randomly generated NFT
 😺
 ![](./assets/pcc-cats.jpg)
 
-## What are Cats [^1]
+## What are Cats
 
-Cats of Purrnelope's Country Club are 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Exclusivity is the name, fun is the game.
+Cats of Purrnelope's Country Club are the first NFT collection in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Cats are Tier 1 NFTs.
 
-Purrnelope built her Country Club on the idea of building a club with a strong community feel.
+Holding a Cat gets you membership to this special Country Club, and helps unlock membership benefits in the PCC Universe.
 
-Somewhere Cats can get together over a glass of something and shoot the breeze.
+### Clubhouse Access
 
-Somewhere Cats can discuss and debate how to help our planet and really do some good.
-
-Somewhere where every Cat is special, and everyone is welcome.
-
-Purchasing a Cat gets you membership to this special Country Club, and helps unlock membership benefits as detailed in our roadmap.
-
-Welcome to Purrnelope's Country Club
-
-## Mint
-
-The price for minting a cat was 0.08 ETH. 
-
-All 10k cats are minted publicly and there was no reserve for the team. The first cat was minted on Jul-17-2021 ([Etherscan](https://etherscan.io/tx/0x0f4f02694c8e5c6ca9f28657d9068de2bac4d740e51ddd492e31846ed47f7073)). The last cat was minted on Aug-12-2021 ([Etherscan](https://etherscan.io/tx/0xbbef40b36f13d1ed7873800eec208f392506c83344d338bd3a48f05850d20104)). Mint took totally 26 days.
-
-## Utilities
+Cats owners can access **Clubhouse** channel in [PCC Discord](http://discord.gg/purrnelopescountryclub).
 
 ### .pcc.eth ENS Subdomains
 
 Cats owners can claim their [.pcc.eth ENS Subdomains](../../ens/index.md) at [Claim Page](https://www.purrnelopescountryclub.com/claim/ens) of PCC Website.
 
+Cats owner using .pcc.eth subdomain names as Twitter & Discord display names will received **Ambassador** role in [PCC Discord](http://discord.gg/purrnelopescountryclub). 
+
 ### Earn $Token
 
-Cats are Tier 1 NFTs, will earn 10 $TOKENs per day per Cat.
+Cats are Tier 1 NFTs, will yield 10 $TOKENs per day per Cat.
+
+### Redeem for KittlyVault Fractions
+
+Once the [KittyVault](../../kittyvault/index.md) is fractionalized, Cats can be redeemed(burned) for [KittyBank Token](../../kittyvault/index.md#kittybank-token-token).
+
+## Cats & Kittens
+
+![](../kittens/assets/cats-kittens.png)
+
+As shown in the picture above, the arms holding the [Kittens](../kittens/index.md) will match with the cat with the same Token ID.
 
 ## Fun Facts
 
 ### The Mock Ups
 
-Carlini created the original mock up like... And thanks to 1rregularCharlie fixed that and created the new Cat Head Base Concept so we are having all those amazing looking cats. 
+Carlini created the original mock up like... And thanks to 1rregularCharlie fixed that and created the new Cat Head Base Concept so we are having all those amazing looking cats.
 
 ![Mock Ups by Carlini8 and Cat Head Concept Art by 1rregularCharlie](./assets/cat_head_concept_art.jpg)
 
@@ -60,7 +58,11 @@ This was told in [Weekly Update: 2022 Week 7](/posts/weekly-update/2022w07)
 
 ## Events
 
-- Mint: Jul-17-2021
+- 2021-07-17: Mint Started.
+  - The price for minting a cat was 0.08 ETH. All 10k cats are minted publicly and there was no reserve for the team.
+  - The first cat was minted on Jul-17-2021 ([Etherscan](https://etherscan.io/tx/0x0f4f02694c8e5c6ca9f28657d9068de2bac4d740e51ddd492e31846ed47f7073)).
+- 2021-08-12: All Cats are minted.
+  - The last cat was minted on Aug-12-2021 ([Etherscan](https://etherscan.io/tx/0xbbef40b36f13d1ed7873800eec208f392506c83344d338bd3a48f05850d20104)). Mint took totally 26 days.
 
 ## Meta
 
@@ -100,5 +102,4 @@ The team updated token base URI during the mint to reveal token metadata and the
 ### Tools
 
 - [Flip.Finance](https://www.flips.finance/collection/purrnelopes-country-club)
-
-[^1]: Official PCC Website [[link](https://www.purrnelopescountryclub.com)]
+- [NFT Bag Check](https://nftbagcheck.com/collection/purrnelopes-country-club)
