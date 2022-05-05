@@ -282,6 +282,8 @@ function burnTokenForCompanion(uint256 numberOfTickets, uint256 tokenId) public 
 
 This is not used yet, but likely to be used in redeem for Physicals with [Hoodie Cat](1-hoodie-cat.md), [Model Cat](3-model-cat.md), [Comic Cat](4-comic-cat.md), [Record Cat](5-record-cat.md), [Keyboard Cat](6-keyboard-cat.md) and [Ledger Cat](7-ledger-cat.md) Purrks. Because the event for this function is called `RedeemPhysical`.
 
+The burned Purrks are sent the burn(blackhole) address `0x0000····dEaD`.
+
 <details><summary>See Code</summary>
 
 ```js
@@ -289,7 +291,6 @@ function burnTokenForAlternate(uint256 numberOfTickets, uint256 tokenId) public 
     require(AlternateRedeemAllowed[tokenId], "Alternate redemption is not currently open for this token");
     require(this.balanceOf(msg.sender, tokenId) >= numberOfTickets && numberOfTickets != 0, "You do not have any of these tokens to redeem");
     require(numberOfTickets == TicketsPerAlternate[tokenId] && numberOfTickets != 0, "Not enough tickets to redeem");
-
     
     //burn the tickets
     this.safeTransferFrom(msg.sender, BURN_ADDRESS, tokenId, numberOfTickets, "0x0");
