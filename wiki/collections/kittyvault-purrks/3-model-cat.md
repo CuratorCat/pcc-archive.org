@@ -13,23 +13,23 @@ description: his Model Cat NFT can be redeemed for a KittyVault fractional share
 [OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/2) ·
 [LooksRare](https://looksrare.org/collections/0xDa7D42B6167f1497346D7B2336a6D7A603026Db1/2)
 
-| Physical | KV Fractions |
-| -------- | ------------ |
-| ✅Yes    | ✅Yes        |
+| Physical       | KV Fractions |
+| -------------- | ------------ |
+| ✅ w/ 5 Purrks | ✅           |
 
 This Model Cat NFT can be redeemed for a KittyVault fractional share when the contracts are live Soon™. It can also be redeemed for a model version of a cat that you own. You will need to trade in 5 of these NFTs to get your very own Purrnelope’s collectible. Starting in January, 50 spots will be available for this collectible to be redeemed. This NFT will also show in the collection log when that is live on our website™
 
 ## Redeem
 
-### For Physical 3D Model
+### Physical 3D Model
 
-Can be redeemed to a physical 3D Model Cat. The amount required for redeem is not comfirmed yet.
+For a Physical 3D Printed Model of your Cat with **5 Model Cat NFTs**.
 
 Redeem will open in the future.
 
-### For KittyBank Token
+### KittyVault Factions
 
-Redeem for [KittyBank Token](../../kittyvault/index.md#token) will open in the future.
+Redeem for [KittyVault](../../kittyvault/index.md) Factions will open in the future.
 
 ## Leaks
 

@@ -15,21 +15,21 @@ description: This Keyboard Cat NFT can be redeemed for a KittyVault fractional s
 
 | Physical | KV Fractions |
 | -------- | ------------ |
-| ✅Yes    | ✅Yes        |
+| ✅       | ✅           |
 
 This Keyboard Cat NFT can be redeemed for a KittyVault fractional share when the contracts are live SoonTM. It can also be redeemed for a physical Purrnelope's branded keyboard delivered to you if you so wish. You will need to trade in a currently TBA number of these NFTs to get your very own Purrnelope’s physical collectible. This NFT will also show in the collection log when that is live on PCC Official Website.
 
 ## Redeem
 
-### For Keyboard
+### Physical Keyboard
 
-Can be redeemed to a physical PCC branded keyboard. The amount required for redeem is not comfirmed yet.
+For a physical PCC branded keyboard. The amount required for redeem is not comfirmed yet.
 
 Redeem will open in the future.
 
-### For KittyBank Token
+### KittyVault Factions
 
-Redeem for [KittyBank Token](../../kittyvault/index.md#token) will open in the future.
+Redeem for [KittyVault](../../kittyvault/index.md) Factions will open in the future.
 
 ## Learn more
 

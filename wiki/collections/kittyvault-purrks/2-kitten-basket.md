@@ -13,9 +13,9 @@ description: This Kitten Basket NFT can be redeemed for a Kitten Companion.
 [OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/1) ·
 [LooksRare](https://looksrare.org/collections/0xDa7D42B6167f1497346D7B2336a6D7A603026Db1/1)
 
-| Companion | Physical | KV Fractions |
-| --------- | -------- | ------------ |
-| ✅Yes     | No       | No           |
+| Companion                         | Physical | KV Fractions |
+| --------------------------------- | -------- | ------------ |
+| ✅ [Kittens](../kittens/index.md) | No       | No           |
 
 This Kitten Basket NFT can be redeemed for a [Kitten Companion](../kittens/index.md). 1 Kitten per 1 Basket you own. The Kitten will be able to redeem the KittyBank token in the future, not this Basket, the Kitten you can claim with it. For 2 weeks this token can be solely traded or hodl'd. After the two weeks, claiming of the Kittens will be live, this will be live for 1 month. After that 1 month period (6 weeks from dispatch of the Baskets), PCC Team will pull all of these Baskets back. You will miss the opportunity to claim your Kitten after 6 weeks.
 
@@ -23,17 +23,17 @@ Claimed Kittens represent fractional ownership of the KittyVault.
 
 ## Redeem
 
-### For Kittens
+### PCC Kittens
 
 Each Kitten Basket can redeem a [Purrnelope's Kitten](../kittens/index.md). Holders had 30 days to claim their Kittens by redeeming Kitten Baskets.
 
 Currently the all the unredeemed baskets are pulled back and the public redeem is closed.
 
-### For KittyBank Token
+### KittyVault Factions
 
 Not with this Kitten Basket.
 
-The Kittens will be able to redeem for [KittyBank Token](../../kittyvault/index.md#token) in the future.
+The Kittens will be able to redeem for [KittyVault](../../kittyvault/index.md) Factions in the future.
 
 ## Learn more
 

@@ -15,13 +15,13 @@ description: This Grandma's Nightstand NFT can be redeemed for a Cat Grandma Com
 
 | Companion | Physical | KV Fractions |
 | --------- | -------- | ------------ |
-| ✅Yes     | No       | No           |
+| ✅        | No       | No           |
 
 This Grandma's Nightstand NFT can be redeemed for a Cat Grandma Companion. 1 Cat Grandma per 1 Nightstand you own. The Grandma will be able to redeem the KittyBank token in the future, not this Nightstand, the Grandma you can claim with it, we want that to be clear. For 2 weeks this token can be solely traded or hodl'd. After the two weeks, claiming of the Grandma will be live, this will be live for 1 month. After that 1 month period (6 weeks from dispatch of the Nightstand) we will pull all of these Nightstands back. You will miss the opportunity to claim your Grandma after 6 weeks. Please remember to claim your Grandma!
 
 ## Redeem
 
-### For Grandma Kitties
+### PCC Cat Grandma
 
 Each Grandma's Nightstand NFT can redeem for a Grandma Kitty.
 
@@ -31,11 +31,11 @@ Unredeemed Nightstand NFTs will be pulled back to Purrnelope.
 
 Currently holders can trade this NFT on secondary markets.
 
-### For KittyBank Token
+### KittyVault Factions
 
 Not with this Nightstand.
 
-The Cat Grandma will be able to redeem for [KittyBank Token](../../kittyvault/index.md#token) in the future.
+The Cat Grandma will be able to redeem for [KittyVault](../../kittyvault/index.md) Factions in the future.
 
 ## Learn more
 

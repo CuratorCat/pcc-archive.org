@@ -13,9 +13,9 @@ description: This Ledger Cat NFT can be redeemed for a KittyVault fractional sha
 [OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/6) ·
 [LooksRare](https://looksrare.org/collections/0xDa7D42B6167f1497346D7B2336a6D7A603026Db1/7)
 
-| Physical | KV Fractions |
-| -------- | ------------ |
-| ✅Yes    | ✅Yes        |
+| Physical       | KV Fractions |
+| -------------- | ------------ |
+| ✅ w/ 3 Purrks | ✅           |
 
 This Ledger Cat NFT can be redeemed for a KittyVault fractional share when the contracts are live Soon.
 
@@ -23,15 +23,15 @@ It can also be redeemed for a physical Purrnelope's branded Ledger Hardware Wall
 
 ## Redeem
 
-### For Ledger Nano
+### Ledger Hardware Wallet
 
-Can be redeemed to a physical Ledger Nano S Hardware wallet. **3 Ledger Cat NFTs** will be required to redeem a Ledger Nano S. [^1]
+For a Physical Ledger Nano S Hardware Wallet with **3 Ledger Cat NFTs**.
 
 Redeem will open in the future.
 
-### For KittyBank Token
+### KittyVault Factions
 
-Redeem for [KittyBank Token](../../kittyvault/index.md#token) will open in the future.
+Redeem for [KittyVault](../../kittyvault/index.md) Factions will open in the future.
 
 ## Learn more
 

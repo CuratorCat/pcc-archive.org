@@ -13,23 +13,23 @@ description: This Comic Cat NFT can be redeemed for a KittyVault fractional shar
 [OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/3) ·
 [LooksRare](https://looksrare.org/collections/0xDa7D42B6167f1497346D7B2336a6D7A603026Db1/3)
 
-| Physical | KV Fractions |
-| -------- | ------------ |
-| ✅Yes    | ✅Yes        |
+| Physical      | KV Fractions |
+| ------------- | ------------ |
+| ✅ w/ 1 Purrk | ✅           |
 
 This Comic Cat NFT can be redeemed for a KittyVault fractional share when the contracts are live Soon™. It can also be redeemed for a physical comic posted to you if you so wish. You will need to trade in a currently TBA number of these NFTs to get your very own Purrnelope’s collectible. This NFT will also show in the collection log when that is live on PCC Official Website™
 
 ## Redeem
 
-### For Comic Book
+### Comic Book
 
-Can be redeemed to a physical Comic Book. **1 Comic Cat NFT** will be required to redeem a Comic Book.
+For a Physical Comic Book with **1 Comic Cat NFT**.
 
 Redeem will open in the future.
 
-### For KittyBank Token
+### KittyVault Factions
 
-Redeem for [KittyBank Token](../../kittyvault/index.md#token) will open in the future.
+Redeem for [KittyVault](../../kittyvault/index.md) Factions will open in the future.
 
 ## Learn more
 

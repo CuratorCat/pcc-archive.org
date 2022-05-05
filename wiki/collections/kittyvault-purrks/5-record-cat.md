@@ -15,21 +15,21 @@ description: This Record Cat NFT can be redeemed for a KittyVault fractional sha
 
 | Physical | KV Fractions |
 | -------- | ------------ |
-| ✅Yes    | ✅Yes        |
+| ✅       | ✅           |
 
 This Record Cat NFT can be redeemed for a KittyVault fractional share when the contracts are live Soon:tm:. It can also be redeemed for a physical framed vinyl posted to you if you so wish. You will need to trade in a currently TBA number of these NFTs to get your very own Purrnelope’s collectible. This NFT will also show in the collection log when that is live on PCC Official Website:tm:
 
 ## Redeem
 
-### For Physical Record
+### Physical Record
 
-Can be redeemed to a physical record. The amount required for redeem is not comfirmed yet.
+For a physical record. The amount required for redeem is not comfirmed yet.
 
 Redeem will open in the future.
 
-### For KittyBank Token
+### KittyVault Factions
 
-Redeem for [KittyBank Token](../../kittyvault/index.md#token) will open in the future.
+Redeem for [KittyVault](../../kittyvault/index.md) Factions will open in the future.
 
 ## Leaks
 
@@ -47,7 +47,7 @@ An image was posted in PCC's discord. Might be the art printed on the vinyle rec
 
 ### Sample Track
 
-A sample track was posted in PCC's discord. 
+A sample track was posted in PCC's discord.
 
 > Needs to be found...
 
