@@ -23,7 +23,7 @@ This Record Cat NFT can be redeemed for a KittyVault fractional share when the c
 
 ### Physical Record
 
-For a physical record. The amount required for redeem is not comfirmed yet.
+For a a vinyl record with original music written for PCC by Jay Stansfield. The amount required for redeem is not comfirmed yet.
 
 Redeem will open in the future.
 
@@ -41,7 +41,7 @@ This section contains leaked information before the final release. Final product
 
 ### Record Art
 
-An image was posted in PCC's discord. Might be the art printed on the vinyle record.
+An image was posted in PCC's discord. Might be the art printed on the vinyl record.
 
 ![](./assets/record_leak.jpg)
 

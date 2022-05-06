@@ -45,6 +45,8 @@ This section contains leaked information before the final release. Final product
 
 ### Models
 
+3 body types will be able to choose from: GM, Astro, Golf.
+
 Some photos were posted in [Roadmap 2.0–6 Months on from Launch](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch)
 
 ![](./assets/1_kOoaBm9g28xWrHUIBsh8mg.png)
