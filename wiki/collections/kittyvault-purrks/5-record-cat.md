@@ -27,9 +27,9 @@ For a a vinyl record with original music written for PCC by Jay Stansfield. The 
 
 Redeem will open in the future.
 
-### KittyVault Factions
+### KittyVault Fractions
 
-Redeem for [KittyVault](../../kittyvault/index.md) Factions will open in the future.
+Redeem for [KittyVault](../../kittyvault/index.md) Fractions will open in the future.
 
 ## Leaks
 

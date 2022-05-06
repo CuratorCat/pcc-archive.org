@@ -27,9 +27,9 @@ For a Physical Comic Book with **1 Comic Cat NFT**.
 
 Redeem will open in the future.
 
-### KittyVault Factions
+### KittyVault Fractions
 
-Redeem for [KittyVault](../../kittyvault/index.md) Factions will open in the future.
+Redeem for [KittyVault](../../kittyvault/index.md) Fractions will open in the future.
 
 ## Learn more
 

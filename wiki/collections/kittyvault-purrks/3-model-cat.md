@@ -27,9 +27,9 @@ For a Physical 3D Printed Model of your Cat with **5 Model Cat NFTs**.
 
 Redeem will open in the future.
 
-### KittyVault Factions
+### KittyVault Fractions
 
-Redeem for [KittyVault](../../kittyvault/index.md) Factions will open in the future.
+Redeem for [KittyVault](../../kittyvault/index.md) Fractions will open in the future.
 
 ## Leaks
 

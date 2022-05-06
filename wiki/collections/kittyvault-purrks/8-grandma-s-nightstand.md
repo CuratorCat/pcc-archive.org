@@ -33,11 +33,11 @@ Unredeemed Nightstand NFTs will be pulled back to Purrnelope.
 
 Currently holders can trade this NFT on secondary markets.
 
-### KittyVault Factions
+### KittyVault Fractions
 
 Not with this Nightstand.
 
-The Cat Grandma will be able to redeem for [KittyVault](../../kittyvault/index.md) Factions in the future.
+The Cat Grandma will be able to redeem for [KittyVault](../../kittyvault/index.md) Fractions in the future.
 
 ## Learn more
 

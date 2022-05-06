@@ -27,11 +27,11 @@ Each Kitten Basket can redeem a [Purrnelope's Kitten](../kittens/index.md). Hold
 
 Public Kitten Claim opened on Nov 15, 2021. And it is closed now after all the unredeemed baskets were pulled back.
 
-### KittyVault Factions
+### KittyVault Fractions
 
 Not with this Kitten Basket.
 
-The Kittens will be able to redeem for [KittyVault](../../kittyvault/index.md) Factions in the future.
+The Kittens will be able to redeem for [KittyVault](../../kittyvault/index.md) Fractions in the future.
 
 ## Learn more
 
