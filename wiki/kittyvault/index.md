@@ -12,7 +12,7 @@ description: "The KittyVault is a vault of NFTs that backs every PCC cat & first
 🏦
 ![](./assets/kittyvault.png)
 
-## General
+## What is KittyVault
 
 **The KittyVault (kittyvault.pcc.eth)** is a vault of NFTs that backs every [**PCC Cat**](../collections/cats/index.md) & [**KV Purrks airdrops**](../collections/kittyvault-purrks/index.md). The idea is that the Vault will operate as a 'Gold Standard' so your PCC collections will always have some inherent worth.
 
@@ -24,11 +24,13 @@ The KittyVault used to use the name _Kitty Bank_[^1]. [**A Brief History of Kitt
 
 The whole KittyVault collection will be fractionalized with [fractional.art](https://fractional.art) 2.0 [^3]. The Team will do this once the team can ensure the fractional.art vault can still receive tokens, airdrops, etc. There are many projects in there that have upcoming companions, airdrops, tokens, etc. and we want those benefits to come to the Vault for everyone's benefit.
 
+The KittyVault is 100,000 fractions, 10,000 held by the team for liquidity, and the other 90,000 in [PCC Cats](../collections/cats/index.md), [Kittens](../collections/kittens/index.md), Cat Grandmas and other 6 [KittyVault Purrks](../collections/kittyvault-purrks/index.md) airdrops
+
 ### KittyBank Token {#token}
 
 **The KittyBank Token**, aka KittyVault Token, is different from the $TOKEN.
 
-Each Cat and each KittyVault Purrks airdrops (8 in total) will be able to be redeemed for KittyBank Token that represent shares of the KittyVault. That KittyBank Token will be tradable for 1/100,000 of the Vault's value.
+[PCC Cats](../collections/cats/index.md), [Kittens](../collections/kittens/index.md), Cat Grandmas and other 6 [KittyVault Purrks](../collections/kittyvault-purrks/index.md) will be able to be redeemed for KittyBank Token that represent shares of the KittyVault. That KittyBank Token will be tradable for 1/100,000 of the Vault's value.
 
 :::info
 
@@ -67,6 +69,12 @@ The KittyBank Token has not been released yet, and its formal name, functions, e
 ### How is KV funded?
 
 - The KittyVault buys NFT with company ETH, primary and secondary sales.
+
+### How Purchases to the Vault Decided?
+
+- Any Vault purchases will always be ratified by the community via snapshot votes.
+
+  see [all Vote on PCC's Website](https://www.purrnelopescountryclub.com/voting).
 
 ### How are the Airdrops received in KV being managed?
 
@@ -108,7 +116,7 @@ It seems the idea to set a collection of NFTs to a vault and fractionalize the v
 
 Once the KittyVault got fractionalized, there will be a token, and the vault will remain it's name KittyVault, and a new KittyBank will be introduced to act as a bank to let people redeem, exchange the KittyVault fraction shares and the token.
 
-For now, the best to describe what KittyVault is it is the vault holding the NFTs collections. And the address of the vault is kittyvault.pcc.eth. 
+For now, the best to describe what KittyVault is it is the vault holding the NFTs collections. And the address of the vault is kittyvault.pcc.eth.
 
 ## Learn More
 
