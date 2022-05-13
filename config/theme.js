@@ -90,6 +90,10 @@ module.exports = {
             label: "🔗 PCC Official Links",
             to: "/official-links",
           },
+          {
+            label: "😻 WeLoveThePurrs",
+            to: "/welovethepurrs",
+          },
         ],
       },
       {
