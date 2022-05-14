@@ -70,6 +70,8 @@ This is a private function and can not be used by anyone after the contract is d
 
 This was used during the contract deployment, Kittens #1 - #20 were minted for the team. ([Etherscan](https://etherscan.io/tx/0xaccffa89b7df01dd4ea1f0c470644c9cc6f2cb99b2c40ad4a9ffa43732f8cc82))
 
+> This function is the same as the [Grandmas Contract](../grandmas/index.md#contract)
+
 <details><summary>See Code</summary>
 
 ```js
@@ -95,6 +97,8 @@ constructor() ERC721("Purrnelopes Kittens", "PK"){
 This is a private function for minting Kittens using other functions in this contract.
 
 This function makes public Kittens minting have non-sequential token IDs. And it used `getRandomNumber` function defined in this contract to arhieve that.
+
+> This function is the same as the [Grandmas Contract](../grandmas/index.md#contract)
 
 <details><summary>See Code</summary>
 
@@ -146,6 +150,9 @@ This function only accepts Kittens mint by the [KittyVault Purrks](../kittyvault
 
 This was used for mint Kittens using the Kitten Basket Purrks.
 
+> This function is the same as the [Grandmas Contract](../grandmas/index.md#contract)
+
+
 <details><summary>See Code</summary>
 
 ```js
@@ -162,6 +169,8 @@ function mint(address _to, uint256 _quantity) override public {
 This is for minting Kittens by paying with Ether(ETH).
 
 To use this, the `PublicMintingOpen` toggle needs to be opened. But it is never used since the Kittens now are redeemed with Kitten Basket. But this function leaves possiblities to make that happen. And a price for minting a Kitten was set to 0.1 ETH during the contract deployment, which can be changed later.
+
+> This function is the same as the [Grandmas Contract](../grandmas/index.md#contract)
 
 <details><summary>See Code</summary>
 
@@ -183,6 +192,8 @@ function mintKittens(uint256 _quantity) payable public nonReentrant {
 This is for updating metadata for "\*burned(redeemed)" Kittens.
 
 Kittens contract does not have a function to actually burn the Kittens, the Kittens NFT will always exist on blockchain. But "\*burned" Kittens are transferred to the burn(blackhole) address `0x0000····dEaD`. When querying token uri of a Kitten in the burn(blackhole) address, the contract will return to a unique token uri set by this function.
+
+> This function is the same as the [Grandmas Contract](../grandmas/index.md#contract)
 
 <details><summary>See Code</summary>
 

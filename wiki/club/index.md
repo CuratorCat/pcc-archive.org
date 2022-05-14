@@ -28,7 +28,7 @@ Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in
 
 ## Collections 😺 {#collections}
 
-**PCC Universe has 4 main [Collections](../collections/index.md): Cats, Kittens, 2nd Companion (Cat Grandma), and Tier 2 (TBA)**. **And 2 other Collections**: KittyVault Purrks and Purrnelope's Gift. The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day.
+**PCC Universe has 4 main [Collections](../collections/index.md): Cats, Kittens, Grandmas, and Tier 2 (TBA)**. **And 2 other Collections**: KittyVault Purrks and Purrnelope's Gift. The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day.
 
 <span className="wikiPostListImgR">
 
@@ -50,7 +50,13 @@ Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in
 
 <Kittens />
 
-### Cat Grandma <sup>TIER 3</sup>
+<span className="wikiPostListImgR">
+
+[![](../collections/grandmas/assets/grandmas-s.jpg)](../collections/grandmas/index.md)
+
+</span>
+
+### Grandmas <sup>TIER 3</sup>
 
 <Grandma />
 

@@ -2,7 +2,7 @@
 title: Collections
 sidebar_position: 20
 image: /img/cover/pcc.jpg
-description: "Cats, Kittens, KittyVault Purrks, Gifts and 2 more collections to be announced."
+description: "Cats, Kittens, Grandmas, KittyVault Purrks, Gifts and more collections to be announced."
 ---
 
 import Cats from './\_cats.md';
@@ -16,7 +16,7 @@ import KVPurrks from './\_kittyvault-purrks.md';
 
 ## Main Collections
 
-Cats, Kittens, Grandma, TBA 2 are 4 main collections in PCC Universe.
+Cats, Kittens, Grandmas, TBA 2 are 4 main collections in PCC Universe.
 
 ### Tiers
 
@@ -52,7 +52,13 @@ Details for Tiers & $TOKEN has not been released yet.
 
 <Kittens />
 
-### Cat Grandma <sup>TIER 3</sup>
+<span className="wikiPostListImgR">
+
+[![](../collections/grandmas/assets/grandmas-s.jpg)](../collections/grandmas/index.md)
+
+</span>
+
+### Grandmas <sup>TIER 3</sup>
 
 <Grandma />
 
