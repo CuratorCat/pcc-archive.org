@@ -58,7 +58,7 @@ As shown in the picture above, the arms holding the Kittens will match with the 
 - 2021-11-15: Public Kitten Claim opened, 1st claim @ [09:31:02 PM +UTC](https://etherscan.io/tx/0xb12b71b890479b9cdd827d14abb5c7f9f0e9667fbb3d07b23b32ffa85f3325d7)
 - 2021-12-20: Unredeemed Kitten Baskets are pulled back to purrnelope.pcc.eth [Etherscan](https://etherscan.io/tx/0x2598b855a071a7dc498c20f8768891178aa293034e44db5ac2c10c95d06acac1)
 
-## The Kittens Contract
+## The Kittens Contract {#contract}
 
 Kittens are ERC-721 NFTs ([Etherscan](https://etherscan.io/address/0x0c6218d95735d3e12ae7c4703106e4b8e0b61010)). And the contract itself is named **PurrnelopesKittens**. And here are some unique features in the Kittens contract:
 
