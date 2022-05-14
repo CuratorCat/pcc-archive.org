@@ -17,27 +17,29 @@ description: This Grandma's Nightstand NFT can be redeemed for a Cat Grandma Com
 | --------- | -------- | ------------ |
 | ✅        | No       | No           |
 
-
-Grandma's Nightstands are mint passes to claim Cat Grandmas, the 2st compaion to PCC Cats. Claimed Cat Grandmas represent fractional ownership of the KittyVault.
-
+Grandma's Nightstands are mint passes to claim Purrnelope's Grandmas, the 2st compaion to PCC Cats. Claimed Grandmas represent fractional ownership of the KittyVault.
 
 ## Redeem
 
-### PCC Cat Grandma
+### Purrnelope's Grandmas
 
-Each Grandma's Nightstand NFT can redeem for a Grandma Kitty.
+Each Grandma's Nightstand NFT can redeem for a [Purrnelope's Grandma](../grandmas/index.md).
 
-Redeem will open on May 16 and holders will have 1 month to redeem for Grandma Kitties.
+**Grandmas redeem will open on May 16, 2022. And redeem will be closed on Jun 13, 2022.**
 
 Unredeemed Nightstand NFTs will be pulled back to Purrnelope.
 
 Currently holders can trade this NFT on secondary markets.
 
+Claim Page: Please wait for PCC Official Announcement
+
+<!-- Claim Page: [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma) -->
+
 ### KittyVault Fractions
 
 Not with this Nightstand.
 
-The Cat Grandma will be able to redeem for [KittyVault](../../kittyvault/index.md) Fractions in the future.
+The Grandma will be able to redeem for [KittyVault](../../kittyvault/index.md) Fractions in the future.
 
 ## Learn more
 
