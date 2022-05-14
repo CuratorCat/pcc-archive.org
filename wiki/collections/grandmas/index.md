@@ -7,11 +7,11 @@ description: Purrnelope's Grandmas is the 3rd collection in PCC Universe with 10
 
 # Purrnelope's Grandmas
 
-🐈
+👵🏻
 [Contract](https://etherscan.io/address/0x9e5bF3026A4F77971057cad44C0B6e02EFA9a7cD) ·
 [OpenSea](https://opensea.io/collection/purrnelopes-grandmas) ·
 [LooksRare](https://looksrare.org/collections/0x9e5bF3026A4F77971057cad44C0B6e02EFA9a7cD)
-🐈
+👵🏻
 
 ## What are Grandmas
 
