@@ -106,9 +106,15 @@ NFTs from main [collections](../collections/index.md) will be able to yield $TOK
 
 ## Merch 🛍 {#merch}
 
-**Merchandise was planned and activated since [Roadmap 1.0](#roadmap-10)**, and the team is currently working hard on the merch. 
+<span className="wikiPostListImgR">
 
-Some merch will require to redeem using [KittyVault Purrks](../collections/kittyvault-purrks/index.md), e.g. Hoodies, 3D Model, Comic Book, Music Record, Keyboard, and Ledger Nano S.
+[![](../merch/assets/merch-s.jpg)](../merch/index.md)
+
+</span>
+
+**[Merch](../merch/index.md) was planned and activated since [Roadmap 1.0](#roadmap-10)**, the Merch Store has launched on May 13, 2022. 
+
+Merches require redeem using [KittyVault Purrks](../collections/kittyvault-purrks/index.md) will launch soon, e.g. Hoodies, 3D Model, Comic Book, Music Record, Keyboard, and Ledger Nano S.
 
 ## Games 🎮 {#games}
 
@@ -222,3 +228,4 @@ Other items from Roadmap 2.0 will be added to the list upon completion or new up
 - 04-15: [.pcc.eth subdomains](../ens/index.md) hit 500 names registration
 - 04-19: The Ambassadors role [revamped and leveled up linked with .pcc.eth subdomains](/posts/2022/04/19/post/the-new-ambassadors-role-revamped-and-leveled-up)
 - 04-30: [Grandma's Nightstand](../collections/kittyvault-purrks/8-grandma-s-nightstand.md) airdropped, All [8 Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops completed
+- 05-13: [Merch Store](https://store.purrnelopescountryclub.com) launched
