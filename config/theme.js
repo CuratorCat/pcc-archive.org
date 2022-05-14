@@ -24,6 +24,10 @@ module.exports = {
             to: "/collections/kittens",
           },
           {
+            label: "👵🏻 Grandmas",
+            to: "/collections/grandmas",
+          },
+          {
             label: "🪂 KittyVault Purrks",
             to: "/collections/kittyvault-purrks",
           },
@@ -85,6 +89,10 @@ module.exports = {
           {
             label: "😼 PCC Team",
             to: "/club/team",
+          },
+          {
+            label: "🛍 PCC Merch Store",
+            to: "https://store.purrnelopescountryclub.com/",
           },
           {
             label: "🔗 PCC Official Links",
