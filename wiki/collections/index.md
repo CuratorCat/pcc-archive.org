@@ -1,5 +1,5 @@
 ---
-title: Collections
+title: PCC Collections
 sidebar_position: 20
 image: /img/cover/pcc.jpg
 description: "Cats, Kittens, Grandmas, KittyVault Purrks, Gifts and more collections to be announced."
@@ -12,9 +12,9 @@ import Tier2 from './\_tier2.md';
 import Gift from './\_gift.md';
 import KVPurrks from './\_kittyvault-purrks.md';
 
-# PCC Universe Collections
-
 ## Main Collections
+
+![](./assets/collections.jpg)
 
 Cats, Kittens, Grandmas, TBA 2 are 4 main collections in PCC Universe.
 
@@ -34,7 +34,7 @@ Details for Tiers & $TOKEN has not been released yet.
 
 <span className="wikiPostListImgR">
 
-[![](../collections/cats/assets/cats-examples-s.png)](../collections/cats/index.md)
+[![](../collections/cats/assets/cats-s.jpg)](../collections/cats/index.md)
 
 </span>
 
@@ -44,7 +44,7 @@ Details for Tiers & $TOKEN has not been released yet.
 
 <span className="wikiPostListImgR">
 
-[![](../collections/kittens/assets/kittens-examples-s.png)](../collections/kittens/index.md)
+[![](../collections/kittens/assets/kittens-s.jpg)](../collections/kittens/index.md)
 
 </span>
 
@@ -66,11 +66,11 @@ Details for Tiers & $TOKEN has not been released yet.
 
 <Tier2 />
 
-## Other Collections
+## KittyVault Collection
 
 <span className="wikiPostListImgR">
 
-[![](../collections/kittyvault-purrks/assets/purrks-examples-s.png)](../collections/kittyvault-purrks/index.md)
+[![](../collections/kittyvault-purrks/assets/purrks-s.jpg)](../collections/kittyvault-purrks/index.md)
 
 </span>
 
@@ -78,6 +78,14 @@ Details for Tiers & $TOKEN has not been released yet.
 
 <KVPurrks />
 
-### Gift
+## Other Collections
+
+<span className="wikiPostListImgR">
+
+[![](../collections/gift/assets/gift-s.jpg)](../collections/gift/index.md)
+
+</span>
+
+### Purrnelope's Gift
 
 <Gift />

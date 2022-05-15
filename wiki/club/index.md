@@ -32,7 +32,7 @@ Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in
 
 <span className="wikiPostListImgR">
 
-[![](../collections/cats/assets/cats-examples-s.png)](../collections/cats/index.md)
+[![](../collections/cats/assets/cats-s.jpg)](../collections/cats/index.md)
 
 </span>
 
@@ -42,7 +42,7 @@ Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in
 
 <span className="wikiPostListImgR">
 
-[![](../collections/kittens/assets/kittens-examples-s.png)](../collections/kittens/index.md)
+[![](../collections/kittens/assets/kittens-s.jpg)](../collections/kittens/index.md)
 
 </span>
 
@@ -66,7 +66,7 @@ Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in
 
 <span className="wikiPostListImgR">
 
-[![](../collections/kittyvault-purrks/assets/purrks-examples-s.png)](../collections/kittyvault-purrks/index.md)
+[![](../collections/kittyvault-purrks/assets/purrks-s.jpg)](../collections/kittyvault-purrks/index.md)
 
 </span>
 
