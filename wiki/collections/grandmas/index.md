@@ -19,7 +19,7 @@ Purrnelope's Grandmas is the 3rd collection in PCC Universe with 10,000 randomly
 
 ![](./assets/claim-grandmas.jpg)
 
-Grandmas are claimed with [Grandma's Nightstand](../kittyvault-purrks/8-grandma-s-nightstand.md), 1 Nightstand for 1 Grandma. **Public Kittens Claim will open on May 16, 2022, and will be closed on Jun 13, 2022. Unredeemed Nightstands will be pulled back.**
+Grandmas are claimed with [Grandma's Nightstand](../kittyvault-purrks/8-grandma-s-nightstand.md), 1 Nightstand for 1 Grandma. **Public Grandmas Claim will open on May 16, 2022, and will be closed on Jun 13, 2022. Unredeemed Nightstands will be pulled back.**
 
 Claim Page: Please wait for PCC Official Announcement
 
