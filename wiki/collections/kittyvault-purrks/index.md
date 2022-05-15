@@ -1,6 +1,6 @@
 ---
 sidebar_position: 30
-title: KittyVault Purrks
+title: 🪂 KittyVault Purrks
 image: /img/cover/pcc-purrks.jpg
 description: Purrnelopes KittyVault Purrks can be used to redeem NFTs, KittyVault Fractions or Physical Merchs. These airdrops all go to holder's main Purrnelopes Country Club Cat. Each of the 8 airdrops represents fractional ownership of the KittyVault.
 ---
