@@ -1,11 +1,9 @@
 ---
 sidebar_position: 20
-title: Kittens
+title: 🐈 Purrnelope's Kittens
 image: /img/cover/pcc-kittens.jpg
 description: Purrnelope's Kittens is the 2nd collection in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. And Kittens are the 1st companion to the Cats. Kittens are Tier 3 NFTs.
 ---
-
-# Purrnelope's Kittens
 
 🐈
 [Contract](https://etherscan.io/address/0x0c6218d95735d3e12ae7c4703106e4b8e0b61010) ·
@@ -18,11 +16,15 @@ description: Purrnelope's Kittens is the 2nd collection in PCC Universe with 10,
 
 Purrnelope's Kittens is the 2nd collection in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. And Kittens are the 1st companion to the [Cats](../cats/index.md). Kittens are Tier 3 NFTs.
 
-Kittens are redeemed with [Kitten Basket](../kittyvault-purrks/2-kitten-basket.md).
+### Mint / Claim
+
+![](./assets/claim-kittens.jpg)
+
+Kittens are claimed with [Kitten Basket](../kittyvault-purrks/2-kitten-basket.md), 1 Kitten Basket for 1 Kitten. Public Kittens Claim opened on Nov 15, 2021. Unredeemed Kitten Baskets were pulled back on Dec 20, 2021. Unclaimed kittens will be used in giveaways. [^1]
 
 Kittens `#1 - #20` are not revealed. They are reserved for The Team for mysterious plan? Maybe.
 
-Unclaimed kittens will be used in giveaways. [^1]
+<iframe src="https://www.youtube.com/embed/Dc2Hb1kT6hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ### Clubhouse Access
 

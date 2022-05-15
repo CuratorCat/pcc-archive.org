@@ -1,11 +1,9 @@
 ---
 sidebar_position: 30
-title: Grandmas
-# image: /img/cover/pcc-kittens.jpg
+title: 👵🏻 Purrnelope's Grandmas
+image: /img/cover/pcc-grandmas.jpg
 description: Purrnelope's Grandmas is the 3rd collection in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. And Grandmas are the 2nd companion to the Cats. Grandmas are Tier 3 NFTs.
 ---
-
-# Purrnelope's Grandmas
 
 👵🏻
 [Contract](https://etherscan.io/address/0x9e5bF3026A4F77971057cad44C0B6e02EFA9a7cD) ·
@@ -17,15 +15,17 @@ description: Purrnelope's Grandmas is the 3rd collection in PCC Universe with 10
 
 Purrnelope's Grandmas is the 3rd collection in PCC Universe with 10,000 randomly generated NFTs on the Ethereum Blockchain. And Grandmas are the 2nd companion to the [Cats](../cats/index.md). Grandmas are Tier 3 NFTs.
 
-Grandmas are redeemed with [Grandma's Nightstand](../kittyvault-purrks/8-grandma-s-nightstand.md).
+### Mint / Claim
 
-Grandmas `#1 - #20` are not revealed. They are reserved for The Team for mysterious plan? Maybe.
+![](./assets/claim-grandmas.jpg)
 
-**Grandmas redeem will open on May 16, 2022. And redeem will be closed on Jun 13, 2022.**
+Grandmas are claimed with [Grandma's Nightstand](../kittyvault-purrks/8-grandma-s-nightstand.md), 1 Nightstand for 1 Grandma. **Public Kittens Claim will open on May 16, 2022, and will be closed on Jun 13, 2022. Unredeemed Nightstands will be pulled back.**
 
 Claim Page: Please wait for PCC Official Announcement
 
 <!-- Claim Page: [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma) -->
+
+Grandmas `#1 - #20` are not revealed. They are reserved for The Team for mysterious plan? Maybe.
 
 ### Clubhouse Access
 
@@ -125,12 +125,12 @@ function internalMint(address _to, uint256 _quantity) private {
 function getRandomNumber(uint256 maxValue, uint256 salt) private view returns(uint256) {
     if (maxValue == 0)
         return 0;
-        
+
     uint256 seed =
         uint256(
             keccak256(
                 abi.encodePacked(
-                        block.difficulty +	
+                        block.difficulty +
                         ((uint256(keccak256(abi.encodePacked(tx.origin, msg.sig)))) / (block.timestamp)) +
                         block.number +
                         salt
@@ -202,7 +202,7 @@ function tokenURI(uint256 _tokenId) public view override returns (string memory)
     string memory baseURI = _baseURI();
     string memory uri = bytes(baseURI).length > 0 ? string(abi.encodePacked(baseURI, _tokenId.toString())) : "";
     string memory alternate_uri = bytes(baseURI).length > 0 ? string(abi.encodePacked(oBaseURI, _tokenId.toString())) : "";
-          
+
     return (ownerOf(_tokenId) == BurnAddress) ? BurnUri : isOwnerOfCat(_tokenId) ? alternate_uri : uri;
 }
 

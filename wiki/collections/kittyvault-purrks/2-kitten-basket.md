@@ -23,6 +23,8 @@ Kitten Baskets are mint passes to claim [Purrnelope's Kittens](../kittens/index.
 
 ### PCC Kittens
 
+![](../kittens/assets/claim-kittens.jpg)
+
 Each Kitten Basket can redeem a [Purrnelope's Kitten](../kittens/index.md). Holders had 30 days to claim their Kittens by redeeming Kitten Baskets.
 
 Public Kitten Claim opened on Nov 15, 2021. And it is closed now after all the unredeemed baskets were pulled back.

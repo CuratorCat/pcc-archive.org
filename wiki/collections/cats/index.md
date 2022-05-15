@@ -1,11 +1,9 @@
 ---
 sidebar_position: 2
-title: Cats
+title: 😺 Purrnelope's Cats
 image: /img/cover/pcc-cats.jpg
 description: Cats of Purrnelope's Country Club are the first NFT collection in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Cats are Tier 1 NFTs.
 ---
-
-# Purrnelope's Cats
 
 😺
 [Contract](https://etherscan.io/address/0x9759226b2f8ddeff81583e244ef3bd13aaa7e4a1) ·
@@ -21,6 +19,10 @@ description: Cats of Purrnelope's Country Club are the first NFT collection in P
 Cats of Purrnelope's Country Club are the first NFT collection in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Cats are Tier 1 NFTs.
 
 Holding a Cat gets you membership to this special Country Club, and helps unlock membership benefits in the PCC Universe.
+
+### Mint / Sale
+
+Cats mint started on Jul 7, 2021, and the price was 0.08 ETH per Cat. All 10k cats were minted publicly and there was no reserve for the team.. The team was being annoymous at the begining of the mint, after Carlini revealed himself with [his post](/posts/2021/08/11/post/pcc-the-unanon), all Cats were minted on Aug 12, 2021.
 
 ### Clubhouse Access
 
