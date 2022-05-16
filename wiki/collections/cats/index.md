@@ -50,7 +50,7 @@ As shown in the picture above, the arms holding the [Kittens](../kittens/index.m
 
 ### Cats & Grandmas
 
-If you have the [Grandma](../grandmas/index.md) and the Cat of the same ID in your wallet, the image of the Grandma will change, the Grandma will hold the Cat!
+**If you unite the [Grandma](../grandmas/index.md) and the Cat with the same ID by having them in the same wallet**, the image of the Grandma will change, the Grandma will hold a photo frame the Cat! And if they got seperated by not in the same wallet, the image of the Grandma will change back to not holding the photo frame.
 
 ![](../grandmas/assets/cats-and-grandmas.jpg)
 

@@ -2,7 +2,7 @@
 sidebar_position: 30
 title: 👵🏻 Purrnelope's Grandmas
 image: /img/cover/pcc-grandmas.jpg
-description: Purrnelope's Grandmas is the 3rd collection in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. And Grandmas are the 2nd companion to the Cats. Grandmas are Tier 3 NFTs.
+description: Purrnelope's Grandmas are the 2nd companion to the cats in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Grandmas are Tier 3 NFTs.
 ---
 
 👵🏻
@@ -18,15 +18,13 @@ Purrnelope's Grandmas are the 2nd companion to the [Cats](../cats/index.md) in P
 
 ### Mint / Claim
 
+Grandmas are claimed with [Grandma's Nightstand](../kittyvault-purrks/8-grandma-s-nightstand.md), 1 Nightstand for 1 Grandma. **Public Grandmas Claim window: May 16 to Jun 13, 2022. After that, unredeemed Nightstands will be pulled back.**
+
+**Claim on [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma)**
+
 ![](./assets/claim-grandmas.jpg)
 
-Grandmas are claimed with [Grandma's Nightstand](../kittyvault-purrks/8-grandma-s-nightstand.md), 1 Nightstand for 1 Grandma. **Public Grandmas Claim will open on May 16, 2022, and will be closed on Jun 13, 2022. Unredeemed Nightstands will be pulled back.**
-
-Claim Page: [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma)
-
 Grandmas `#1 - #20` are not revealed. They are reserved for The Team for mysterious plan? Maybe.
-
-<!-- <iframe src="https://www.youtube.com/embed/Dc2Hb1kT6hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe> -->
 
 ### Clubhouse Access
 
@@ -48,7 +46,7 @@ Once the [KittyVault](../../kittyvault/index.md) is fractionalized, Grandmas can
 
 ### Cats & Grandmas
 
-If you have the Grandma and the [Cat](../cats/index.md) of the same ID in your wallet, the image of the Grandma will change, the Grandma will hold the Cat!
+**If you unite the Grandma and the [Cat](../cats/index.md) with the same ID by having them in the same wallet**, the image of the Grandma will change, the Grandma will hold a photo frame the Cat! And if they got seperated by not in the same wallet, the image of the Grandma will change back to not holding the photo frame.
 
 ![](./assets/cats-and-grandmas.jpg)
 

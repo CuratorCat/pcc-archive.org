@@ -23,15 +23,13 @@ Grandma's Nightstands are mint passes to claim Purrnelope's Grandmas, the 2st co
 
 ### Purrnelope's Grandmas
 
-![](../grandmas/assets/claim-grandmas.jpg)
-
 Each Grandma's Nightstand NFT can redeem for a [Purrnelope's Grandma](../grandmas/index.md).
 
-**Grandmas redeem will open on May 16, 2022. And redeem will be closed on Jun 13, 2022. Unredeemed Nightstand NFTs will be pulled back to Purrnelope.**
+**Grandmas redeem window: May 16 to Jun 13, 2022. After that, unredeemed Nightstands will be pulled back.**
 
-Claim Page: [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma)
+**Redeem on [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma)**
 
-<!-- Claim Page: [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma) -->
+![](../grandmas/assets/claim-grandmas.jpg)
 
 ### KittyVault Fractions
 
