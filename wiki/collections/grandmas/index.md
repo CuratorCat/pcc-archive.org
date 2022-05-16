@@ -59,6 +59,7 @@ If you have the Grandma and the [Cat](../cats/index.md) of the same ID in your w
 ## Events
 
 - 2022-05-13: PCC Team minted Grandmas #1 - #20 @ [07:34:26 PM +UTC](https://etherscan.io/tx/0xcffd4c0be97732136798b54a9cb1830490c9625f8c2c8c36afecfd1041590d75)
+- 2022-05-16: Public Grandmas mint/claim started
 
 ## The Grandmas Contract {#contract}
 
