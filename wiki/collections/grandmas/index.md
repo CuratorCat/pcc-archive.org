@@ -46,9 +46,11 @@ Details for Tiers & $TOKEN has not been released yet.
 
 Once the [KittyVault](../../kittyvault/index.md) is fractionalized, Grandmas can be redeemed(burned) for [KittyBank Token](../../kittyvault/index.md#kittybank-token-token).
 
-<!-- ## Cats & Grandmas
+### Cats & Grandmas
 
-If the Grandma is held by an address has the Cat of the same tokenID, the `tokenURI` will return `oBaseURI + tokenID` -->
+If you have the Grandma and the [Cat](../cats/index.md) of the same ID in your wallet, the image of the Grandma will change, the Grandma will hold the Cat!
+
+![](./assets/cats-and-grandmas.jpg)
 
 ## Learn More
 

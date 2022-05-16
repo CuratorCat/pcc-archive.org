@@ -42,11 +42,17 @@ Cats are Tier 1 NFTs, will yield 10 $TOKENs per day per Cat.
 
 Once the [KittyVault](../../kittyvault/index.md) is fractionalized, Cats can be redeemed(burned) for [KittyBank Token](../../kittyvault/index.md#kittybank-token-token).
 
-## Cats & Kittens
+### Cats & Kittens
 
 ![](../kittens/assets/cats-kittens.png)
 
 As shown in the picture above, the arms holding the [Kittens](../kittens/index.md) will match with the cat with the same Token ID.
+
+### Cats & Grandmas
+
+If you have the [Grandma](../grandmas/index.md) and the Cat of the same ID in your wallet, the image of the Grandma will change, the Grandma will hold the Cat!
+
+![](../grandmas/assets/cats-and-grandmas.jpg)
 
 ## Fun Facts
 

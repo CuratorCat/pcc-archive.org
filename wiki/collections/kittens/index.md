@@ -44,7 +44,7 @@ Details for Tiers & $TOKEN has not been released yet.
 
 Once the [KittyVault](../../kittyvault/index.md) is fractionalized, Kittens can be redeemed(burned) for [KittyBank Token](../../kittyvault/index.md#kittybank-token-token).
 
-## Cats & Kittens
+### Cats & Kittens
 
 ![](./assets/cats-kittens.png)
 
