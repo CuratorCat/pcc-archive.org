@@ -118,7 +118,7 @@ NFTs from main [collections](../collections/index.md) will be able to yield $TOK
 
 </span>
 
-**[Merch](../merch/index.md) was planned and activated since [Roadmap 1.0](#roadmap-10)**, the Merch Store has launched on May 13, 2022. 
+**[Merch](../merch/index.md) was planned and activated since [Roadmap 1.0](#roadmap-10)**, the Merch Store has launched on May 13, 2022.
 
 Merches require redeem using [KittyVault Purrks](../collections/kittyvault-purrks/index.md) will launch soon, e.g. Hoodies, 3D Model, Comic Book, Music Record, Keyboard, and Ledger Nano S.
 
@@ -214,7 +214,7 @@ Other items from Roadmap 2.0 will be added to the list upon completion or new up
 - 10-01: Carlini start 31 daily giveaways through the whole October 2021
 - 10-24: 1st Official Game Night with Papa(Peter)
 - 11-01: [Kitten Basket](../collections/kittyvault-purrks/2-kitten-basket.md) airdropped, 2/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
-- 11-15: [Kittens](../collections/kittens/index.md) mint started
+- 11-15: [Kittens](../collections/kittens/index.md) public mint/claim started
 - 11-27: [Model Cat](../collections/kittyvault-purrks/3-model-cat.md) airdropped, 3/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 - 12-05: Community Vote passed on Secondary Market Fees change [snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/0x46cc3b68385e86388cbb2780aeb82db4bf74da55188d3e3283ebf81f2540979e)
 - 12-18: [.pcc.eth ENS Subdomain](../ens/index.md) available for all PCC holders to claim
@@ -235,3 +235,4 @@ Other items from Roadmap 2.0 will be added to the list upon completion or new up
 - 04-19: The Ambassadors role [revamped and leveled up linked with .pcc.eth subdomains](/posts/2022/04/19/post/the-new-ambassadors-role-revamped-and-leveled-up)
 - 04-30: [Grandma's Nightstand](../collections/kittyvault-purrks/8-grandma-s-nightstand.md) airdropped, All [8 Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops completed
 - 05-13: [Merch Store](https://store.purrnelopescountryclub.com) launched
+- 05-16: [Grandmas](../collections/grandmas/index.md) public mint/claim started
