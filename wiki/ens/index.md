@@ -29,6 +29,18 @@ You can tell others your `yourname.pcc.eth` subdomain when sending ETH or tokens
 
 The magic of **.pcc.eth** will use the Cat that has the name as the ENS avatar automatically! All major standard web3 platforms like uniswap etc. will display your **.pcc.eth** name with the cat as the profile image!
 
+### Web3 Social Profile
+
+![](./assets/web3profile.jpg)
+
+**.pcc.eth subdomains** support ENS Text Records, this means you can add information such as your web social accounts to your .pcc.eth ENS subdomain.
+
+There are some services currently support display web3 profile:
+
+- **[ENS App](https://app.ens.domains/)**: [app.ens.domains/name/curatorcat.pcc.eth/details](https://app.ens.domains/name/curatorcat.pcc.eth/details)
+- **[eth.xyz](https://eth.xyz)**: [eth.xyz/curatorcat.pcc.eth](https://eth.xyz/curatorcat.pcc.eth)
+- **[me3.is](https://me3.is)**: [me3.eth.limo/#/curatorcat.pcc.eth](https://me3.eth.limo/#/curatorcat.pcc.eth)
+
 ### Follow `.pcc.eth` on Twitter
 
 ![](./assets/twitter.pcc.eth.jpg)
