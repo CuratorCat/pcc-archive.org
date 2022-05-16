@@ -10,10 +10,11 @@ description: Purrnelope's Grandmas is the 3rd collection in PCC Universe with 10
 [OpenSea](https://opensea.io/collection/purrnelopes-grandmas) ·
 [LooksRare](https://looksrare.org/collections/0x9e5bF3026A4F77971057cad44C0B6e02EFA9a7cD)
 👵🏻
+![](./assets/pcc-grandmas.jpg)
 
 ## What are Grandmas
 
-Purrnelope's Grandmas is the 3rd collection in PCC Universe with 10,000 randomly generated NFTs on the Ethereum Blockchain. And Grandmas are the 2nd companion to the [Cats](../cats/index.md). Grandmas are Tier 3 NFTs.
+Purrnelope's Grandmas are the 2nd companion to the [Cats](../cats/index.md) in PCC Universe with 10,000 randomly generated NFTs on the Ethereum Blockchain. Grandmas are Tier 3 NFTs.
 
 ### Mint / Claim
 
@@ -21,11 +22,11 @@ Purrnelope's Grandmas is the 3rd collection in PCC Universe with 10,000 randomly
 
 Grandmas are claimed with [Grandma's Nightstand](../kittyvault-purrks/8-grandma-s-nightstand.md), 1 Nightstand for 1 Grandma. **Public Grandmas Claim will open on May 16, 2022, and will be closed on Jun 13, 2022. Unredeemed Nightstands will be pulled back.**
 
-Claim Page: Please wait for PCC Official Announcement
-
-<!-- Claim Page: [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma) -->
+Claim Page: [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma)
 
 Grandmas `#1 - #20` are not revealed. They are reserved for The Team for mysterious plan? Maybe.
+
+<iframe src="https://www.youtube.com/embed/Dc2Hb1kT6hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ### Clubhouse Access
 
@@ -45,9 +46,9 @@ Details for Tiers & $TOKEN has not been released yet.
 
 Once the [KittyVault](../../kittyvault/index.md) is fractionalized, Grandmas can be redeemed(burned) for [KittyBank Token](../../kittyvault/index.md#kittybank-token-token).
 
-## Cats & Grandmas
+<!-- ## Cats & Grandmas
 
-If the Grandma is held by an address has the Cat of the same tokenID, the `tokenURI` will return `oBaseURI + tokenID`
+If the Grandma is held by an address has the Cat of the same tokenID, the `tokenURI` will return `oBaseURI + tokenID` -->
 
 ## Learn More
 
@@ -292,7 +293,5 @@ function redeemKittyBankFractions(uint256[] calldata ids) public {
 
 ### Secondary Markets
 
-- [OpenSea](https://opensea.io/collection/purrnelopes-kittens)
-- [LooksRare](https://looksrare.org/collections/0x0c6218D95735d3E12AE7C4703106E4b8e0b61010)
-
-[^1]: Kittens giveaway was mentioned in [PurrCast 2020-04-13](/posts/2022/04/20/purrcast)
+- [OpenSea](https://opensea.io/collection/purrnelopes-grandmas)
+- [LooksRare](https://looksrare.org/collections/0x9e5bF3026A4F77971057cad44C0B6e02EFA9a7cD)

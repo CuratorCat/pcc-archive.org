@@ -49,10 +49,10 @@ export default function Collections() {
                         {collection.title}
                       </p>
                       <div className="flex justify-between mt-1">
-                        <div className="text-xs font-bold uppercase leading-6">
+                        <div className="text-xs font-bold uppercase leading-6 grow-0 truncate">
                           {collection.description}
                         </div>
-                        <div>
+                        <div className="shrink-0">
                           {collection.tier ? (
                             <div className="rounded-lg text-xs leading-6 px-2 uppercase font-semibold text-white bg-pink-500 group-hover:bg-white group-hover:text-pink-500 transition-all duration-300">
                               Tier {collection.tier}
