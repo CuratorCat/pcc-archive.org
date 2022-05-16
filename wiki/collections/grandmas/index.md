@@ -26,7 +26,7 @@ Claim Page: [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopesco
 
 Grandmas `#1 - #20` are not revealed. They are reserved for The Team for mysterious plan? Maybe.
 
-<iframe src="https://www.youtube.com/embed/Dc2Hb1kT6hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<!-- <iframe src="https://www.youtube.com/embed/Dc2Hb1kT6hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe> -->
 
 ### Clubhouse Access
 
