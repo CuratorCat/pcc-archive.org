@@ -98,7 +98,7 @@ description: Smart Contract Addresses & Important Accounts of Purrnelope's Count
 - **Ethereum / TimelockRewardDistributionTokenImpl / ERC-20**
 - `0x172d1aD4F1cc1aDAbbf9401bc95E0694f7Fb04a9` [Etherscan](https://etherscan.io/address/0x172d1aD4F1cc1aDAbbf9401bc95E0694f7Fb04a9)
 
-## Deprecated Accounts
+## Abandoned Accounts 🚦
 
 ### 🚦 Community Wallet
 
