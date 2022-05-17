@@ -91,12 +91,16 @@ module.exports = {
             to: "/club/team",
           },
           {
+            label: "🔗 PCC Official Links",
+            to: "/official-links",
+          },
+          {
             label: "🛍 PCC Merch Store",
             to: "https://store.purrnelopescountryclub.com/",
           },
           {
-            label: "🔗 PCC Official Links",
-            to: "/official-links",
+            label: "🛠 Contracts & EOA Addresses",
+            to: "/addresses",
           },
           {
             label: "😻 WeLoveThePurrs",
