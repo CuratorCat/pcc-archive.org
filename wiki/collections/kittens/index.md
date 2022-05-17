@@ -46,9 +46,9 @@ Once the [KittyVault](../../kittyvault/index.md) is fractionalized, Kittens can 
 
 ### Cats & Kittens
 
-![](./assets/cats-kittens.png)
+**Kittens are held in arms of [Cats](../cats/index.md), the arms holding the Kittens will match with the [Cats](../cats/index.md) with the same ID.**
 
-As shown in the picture above, the arms holding the Kittens will match with the [Cat](../cats/index.md) with the same Token ID.
+![](./assets/cats-kittens.jpg)
 
 ## Learn More
 

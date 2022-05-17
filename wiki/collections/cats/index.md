@@ -44,15 +44,15 @@ Once the [KittyVault](../../kittyvault/index.md) is fractionalized, Cats can be 
 
 ### Cats & Kittens
 
-![](../kittens/assets/cats-kittens.png)
+**[Kittens](../kittens/index.md) are held in arms of Cats, the arms holding the [Kittens](../kittens/index.md) will match with the Cats with the same ID.**
 
-As shown in the picture above, the arms holding the [Kittens](../kittens/index.md) will match with the cat with the same Token ID.
+![](../kittens/assets/cats-kittens.jpg)
 
 ### Cats & Grandmas
 
 **If you reunite the [Grandma](../grandmas/index.md) and the Cat with the same ID by having them in the same wallet**, the image of the Grandma will change, the Grandma will hold a photo frame the Cat! And if they got seperated by not in the same wallet, the image of the Grandma will change back to not holding the photo frame.
 
-![](../grandmas/assets/cats-and-grandmas.jpg)
+![](../grandmas/assets/cats-grandmas.jpg)
 
 ## Fun Facts
 
