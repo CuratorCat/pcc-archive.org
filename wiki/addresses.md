@@ -74,6 +74,14 @@ description: Smart Contract Addresses & Important Accounts of Purrnelope's Count
 - `0x112E62d5906F9239D9fabAb7D0237A328F128e22` [Etherscan](https://etherscan.io/address/0x112E62d5906F9239D9fabAb7D0237A328F128e22)
 - ENS: `purrnelope.pcc.eth`
 
+## Helper Contract Addresses
+
+### NftEnumerator Helper
+
+- **Ethereum / Helper Contract**
+- `0xF887BDDAE26B7389fb6559577e923ce513a19131` [Etherscan](https://etherscan.io/address/0xF887BDDAE26B7389fb6559577e923ce513a19131)
+- Query tokenIDs owned by certain address for certain ERC-721 NFT contract.
+
 ## NFTX Pool
 
 ### NFTX Vault (Cats) / PURR Token
