@@ -67,13 +67,13 @@ Guides for .pcc.eth ENS Subdomains
 1. In the **Write Contract** section, go to **resetHash**.
 1. Enter the cat's ID in the `token_id` field, then click the **Write** button. Confirm with your wallet. Once the transaction is successful, the cat is no longer tied to its previous name. Below is an example, `7926` is the ID of the cat and has the name `curatorcat`.
 
-![](./assets/remove-name.png)
+![](./assets/contract-resetHash.jpg)
 
 - There is a 30 minutes of cool down after that, if you plan to make a new name to the cat, you have to wait for 30 minutes. Or transfer the cat to another wallet to make a new name.
 
 ### Check .pcc.eth subdomain Node ID
 
-1. Visit [**Etherscan** at PCC's EnsMapper Contract Page](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#writeContract);
+1. Visit [**Etherscan** at PCC's EnsMapper Contract Page](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#readContract);
 1. In the **Read Contract** section, go to **domainMap**;
 1. Enter the name `label` field, then click the **Query** button.
 
