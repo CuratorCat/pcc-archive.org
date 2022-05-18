@@ -51,6 +51,23 @@ There are some services currently support display web3 profile:
 
 **.pcc.eth** is more than a name and avatar, it's **Proof of Ownership**, **Your Wallet Address**, **Searchable Profile Picture**, **Your Community**, **Proof of Flex, Marketing for your Community**, **Integrates your Brand**, **Bot Integratable**. Read more on [Carlini8's Tweet Thread On .pcc.eth](/posts/2022/04/14/post/carlini8-tweet-pcc-eth)
 
+## Guides {#guides}
+
+See [Guides Page](guides.md) for all Guide for .pcc.eth ENS Subdomains.
+
+### General Guides
+
+- [Claim .pcc.eth ENS (name your Cat)](guides.md#claim-pcceth-ens-name-your-cat)
+- [Set Primary ENS Record](guides.md#set-primary-ens-record)
+- [Transfer .pcc.eth ENS to Another Wallet](guides.md#transfer-pcceth-ens-to-another-wallet)
+
+### Advanced Guides
+
+- [Claim .pcc.eth ENS with Contract](guides.md#claim-pcceth-ens-with-contract)
+- [Remove Cat's name with Contract](guides.md#remove-name)
+- [Check .pcc.eth subdomain Node ID](guides.md#check-pcceth-subdomain-node-id)
+- [Set Primary ENS Record with Contract](guides.md#set-primary-ens-record-with-contract)
+
 ## FAQ {#faq}
 
 ### 1. How do I get mine?
@@ -125,41 +142,7 @@ If it shows on Uniswap but not OpenSea yet, it's most likely (99.9%) that it’s
 
 - You can search cat `6926` on the [PCC ENS Dune Analytics](https://dune.xyz/curatorcat/pcc-ens) page, you will see that cat has been named more than once. Because the name `deliciousgrizzly` was removed from the cat, then the cat has been given a new name.
 
-- If you made spelling mistakes to name a cat, and would like to rename the cat. Follow [Remove Cat's name](#remove-name) instruction and give your cat a new name after 30 minutes the name is removed.
-
-## Remove Cat's name {#remove-name}
-
-- Removing the name from a cat is dangerous and can not be undone.
-
-- And the name removed can not be used ever again!
-
-- Make sure you want to remove the name before you do that.
-
-<details><summary>Click to see <b>Instructions for removing a name from a cat</b></summary>
-
-:::warning
-
-**Removing the name from a cat is dangerous and can not be undone.**
-
-**And the name removed can not be used ever again!**
-
-**Also, this is not on the official website and it's not instructed by the PCC Team**
-
-:::
-
-It is possible to remove the name from a cat by interacting with the ENS Resolver contract:
-
-1. Connect your wallet holding the cat you want to remove the name to [**Etherscan** at ENS Resolver Contract Page](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#writeContract).
-
-2. In the **Write Contract** section, go to **resetHash**.
-
-3. Enter the cat's ID in the `token_id` field, then click the **Write** button. Confirm with your wallet. Once the transaction is successful, the cat is no longer tied to its previous name. Below is an example, `7926` is the ID of the cat and has the name `curatorcat`.
-
-![](./assets/remove-name.png)
-
-4. There is a 30 minutes of cool down after that, if you plan to make a new name to the cat, you have to wait for 30 minutes. Or transfer the cat to another wallet to make a new name.
-
-</details>
+- If you made spelling mistakes to name a cat, and would like to rename the cat. Follow [Remove Cat's name](guides.md#remove-name) in [Guides Page](guides.md) and give your cat a new name after 30 minutes the name is removed.
 
 ## Learn more
 

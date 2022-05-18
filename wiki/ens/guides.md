@@ -1,0 +1,90 @@
+---
+title: Guides for .pcc.eth Subdomains
+sidebar_position: 10
+image: /img/cover/pcc-ens.jpg
+description: Guide for .pcc.eth ENS Subdomains
+---
+
+Guides for .pcc.eth ENS Subdomains
+
+## General Guides
+
+### Claim .pcc.eth ENS (name your Cat)
+
+- To claim your .pcc.eth subdomain, you have to own a [PCC Cat](../collections/cats/index.md) without a name.
+- Connect your wallet at [purrnelopescountryclub.com/claim/ens](https://www.purrnelopescountryclub.com/claim/ens):
+
+1. Choose a Cat you would like to name;
+2. Type a name, 0-1, a-z are allowed;
+3. Click Claim, and confirm with your wallet.
+
+![](./assets/claim-name.jpg)
+
+- Once the transaction is complete on blockchain, you have your .pcc.eth subdomain with your cat.
+
+### Set Primary ENS Record
+
+- Once you have a cat with a name, you can link your wallet to use that .pcc.eth subdomain.
+- Connect your wallet at [purrnelopescountryclub.com/claim/ens](https://www.purrnelopescountryclub.com/claim/ens):
+
+1. Choose a pcc.eth subdomain name;
+2. Click Apply, and confirm with your wallet.
+
+![](./assets/set-primary.jpg)
+
+### Transfer .pcc.eth ENS to Another Wallet
+
+- **The .pcc.eth subdomain follows the Cat. If you want to transfer your .pcc.eth subdomain to another wallet address, simply transfer the cat has that name to the wallet you want to use.**
+- e.g. Cat #7926 has the `curatorcat.pcc.eth` subdomain name. Transfer Cat #7926 to another wallet will make `curatorcat.pcc.eth` resolve to the new wallet address.
+
+![](./assets/transfer-ens.jpg)
+
+- After the transfer, you have to _Set Primary ENS Record_ again if you want to use the name as primary in the new wallet.
+
+## Advanced Guides
+
+### Claim .pcc.eth ENS with Contract
+
+1. Connect your wallet holding the cat you want the name to [**Etherscan** at PCC's EnsMapper Contract Page](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#writeContract);
+1. In the **Write Contract** section, go to **setDomain**;
+1. **Enter the name you want in the `label` field in lowercase without `.pcc.eth`**, it can be any character, even emoji like 😻;
+1. Enter the cat's ID in the `token_id` field you would like to have the name;
+1. Click **Write** button. Confirm with your wallet. Once the transaction is successful, you got the name with your cat.
+
+![](./assets/contract-name-cat.jpg)
+
+### Remove Cat's name with Contract {#remove-name}
+
+:::caution
+
+- Removing the name from a cat is dangerous and can not be undone.
+- And the name removed can not be used ever again!
+- Make sure you want to remove the name before you do that.
+
+:::
+
+1. Connect your wallet holding the cat you want to remove the name to [**Etherscan** at ENS: Reverse Registrar Contract Page](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#writeContract).
+1. In the **Write Contract** section, go to **resetHash**.
+1. Enter the cat's ID in the `token_id` field, then click the **Write** button. Confirm with your wallet. Once the transaction is successful, the cat is no longer tied to its previous name. Below is an example, `7926` is the ID of the cat and has the name `curatorcat`.
+
+![](./assets/remove-name.png)
+
+- There is a 30 minutes of cool down after that, if you plan to make a new name to the cat, you have to wait for 30 minutes. Or transfer the cat to another wallet to make a new name.
+
+### Check .pcc.eth subdomain Node ID
+
+1. Visit [**Etherscan** at PCC's EnsMapper Contract Page](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#writeContract);
+1. In the **Read Contract** section, go to **domainMap**;
+1. Enter the name `label` field, then click the **Query** button.
+
+![](./assets/contract-domainMap.jpg)
+
+- In this example, `0xafab438e5de3db0a2e6d85886e59ffad7815ef9780eef6457dfcb35a88800184` is nthe Node ID of `curatorcat.pcc.eth`
+
+### Set Primary ENS Record with Contract
+
+1. Connect your wallet holding the cat have the .pcc.eth name to [**Etherscan** at PCC's EnsMapper Contract Page](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#writeContract).
+1. Enther the full .pcc.eth subdomain in `name` field;
+1. Click **Write**, and confirm with your wallet.
+
+![](./assets/contract-setName.jpg)
