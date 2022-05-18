@@ -41,7 +41,13 @@ Guides for .pcc.eth ENS Subdomains
 
 - After the transfer, you have to _Set Primary ENS Record_ again if you want to use the name as primary in the new wallet.
 
-## Advanced Guides
+## Guides For Advanced Users
+
+:::caution
+
+Guides in this section require knownledges on interact with contracts on blockchain or via Etherscan.Please make sure you understand that and use at your own risk!
+
+:::
 
 ### Claim .pcc.eth ENS with Contract
 
@@ -55,7 +61,7 @@ Guides for .pcc.eth ENS Subdomains
 
 ### Remove Cat's name with Contract {#remove-name}
 
-:::caution
+:::warning
 
 - Removing the name from a cat is dangerous and can not be undone.
 - And the name removed can not be used ever again!
@@ -63,7 +69,7 @@ Guides for .pcc.eth ENS Subdomains
 
 :::
 
-1. Connect your wallet holding the cat you want to remove the name to [**Etherscan** at ENS: Reverse Registrar Contract Page](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#writeContract).
+1. Connect your wallet holding the cat you want to remove the name to [**Etherscan** at PCC's EnsMapper Contract Page](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#writeContract).
 1. In the **Write Contract** section, go to **resetHash**.
 1. Enter the cat's ID in the `token_id` field, then click the **Write** button. Confirm with your wallet. Once the transaction is successful, the cat is no longer tied to its previous name. Below is an example, `7926` is the ID of the cat and has the name `curatorcat`.
 
@@ -71,20 +77,54 @@ Guides for .pcc.eth ENS Subdomains
 
 - There is a 30 minutes of cool down after that, if you plan to make a new name to the cat, you have to wait for 30 minutes. Or transfer the cat to another wallet to make a new name.
 
-### Check .pcc.eth subdomain Node ID
+### Set Primary ENS Record with Contract
 
-1. Visit [**Etherscan** at PCC's EnsMapper Contract Page](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#readContract);
+1. Connect your wallet holding the cat have the .pcc.eth name to [**Etherscan** at ENS: Reverse Registrar Contract Page](https://etherscan.io/address/0x084b1c3c81545d370f3634392de611caabff8148#writeContract).
+1. In the **Write Contract** section, go to **setName**;
+1. Enther the full .pcc.eth subdomain in `name` field;
+1. Click **Write**, and confirm with your wallet.
+
+![](./assets/contract-setName.jpg)
+
+### Update Social Accounts and Other Records with contract {#setText}
+
+:::info Privacy Notice
+
+All records on Ethereum blockchain is open to public as well as the update histories, those histories can not be ereased!
+
+:::
+
+1. Connect your wallet holding the cat have the .pcc.eth name to [**Etherscan** at PCC's EnsMapper Contract Page](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#writeContract).
+1. In the **Write Contract** section, go to **setText**;
+1. Enther NodeHash for the .pcc.eth subdomain in `node` field. (See [Check .pcc.eth subdomain Node ID](#domainMap) for NodeHash);
+1. Enther `key` and `value` field. To remove a record, leave the `value` field empty;
+1. Click **Write**, and confirm with your wallet.
+
+![](./assets/contract-setText.jpg)
+
+- You can update one record each time, to update multiple records, just repeat what you just did.
+
+<details>
+
+  <summary><strong>Record Examples</strong></summary>
+
+| Record For    | Key Field       | Value Field                        |
+| ------------- | --------------- | ---------------------------------- |
+| **Bio**       | `description`   | `I'm Curator Cat, #WeLoveThePurrs` |
+| **Website**   | `url`           | `https://pcc-archive.org`          |
+| **Twitter**   | `com.twitter`   | `@CuratorCatPCC`                   |
+| **Instagram** | `com.instagram` | `purrnelopes_country_club`         |
+| **TikTok**    | `com.tiktok`    | `@purrs_cc`                        |
+| **GitHub**    | `com.github`    | `CuratorCat`                       |
+
+</details>
+
+### Check .pcc.eth subdomain NodeHash {#domainMap}
+
+1. Go to [**Etherscan** at PCC's EnsMapper Contract Page](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#readContract);
 1. In the **Read Contract** section, go to **domainMap**;
 1. Enter the name `label` field, then click the **Query** button.
 
 ![](./assets/contract-domainMap.jpg)
 
-- In this example, `0xafab438e5de3db0a2e6d85886e59ffad7815ef9780eef6457dfcb35a88800184` is nthe Node ID of `curatorcat.pcc.eth`
-
-### Set Primary ENS Record with Contract
-
-1. Connect your wallet holding the cat have the .pcc.eth name to [**Etherscan** at PCC's EnsMapper Contract Page](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#writeContract).
-1. Enther the full .pcc.eth subdomain in `name` field;
-1. Click **Write**, and confirm with your wallet.
-
-![](./assets/contract-setName.jpg)
+- In this example, `0xafab438e5de3db0a2e6d85886e59ffad7815ef9780eef6457dfcb35a88800184` is nthe NodeHash of `curatorcat.pcc.eth`

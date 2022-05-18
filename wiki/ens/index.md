@@ -65,8 +65,9 @@ See [Guides Page](guides.md) for all Guide for .pcc.eth ENS Subdomains.
 
 - [Claim .pcc.eth ENS with Contract](guides.md#claim-pcceth-ens-with-contract)
 - [Remove Cat's name with Contract](guides.md#remove-name)
-- [Check .pcc.eth subdomain Node ID](guides.md#check-pcceth-subdomain-node-id)
 - [Set Primary ENS Record with Contract](guides.md#set-primary-ens-record-with-contract)
+- [Update Social Accounts and Other Records with contract](guides.md#setText)
+- [Check .pcc.eth subdomain NodeHash](guides.md#domainMap)
 
 ## FAQ {#faq}
 
