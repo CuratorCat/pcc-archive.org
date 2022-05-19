@@ -184,11 +184,13 @@ The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks
 
 - 🛠 Complete Roadmap 1.0
 - ✅ 8 KittyVault Purrks Airdrops [2022-Q2](#2022-q2)
-- 🛠 2nd Companion
+- ✅ 2nd Companion [2022-Q2](#2022-q2)
+- ✅ Merch [2022-Q2](#2022-q2)
+- 🚙 Redeem for Physicals Completed: 1/6
 - 🛠 Tier 2 Collection
 - 🛠 $TOKEN
 
-Other items from Roadmap 2.0 will be added to the list upon completion or new updates from the team. Here's an map of Roadmap 2.0:
+Other items from Roadmap 2.0 will be added to the list upon completion or new updates from the team. Here's a map of Roadmap 2.0:
 
 ![PCC Roadmap 2.0](./assets/roadmap2.jpg)
 
