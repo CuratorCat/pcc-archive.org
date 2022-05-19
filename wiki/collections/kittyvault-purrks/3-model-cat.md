@@ -23,40 +23,21 @@ This Model Cat NFT can be redeemed for a KittyVault fractional share when the co
 
 ### Physical 3D Model
 
-For a Physical 3D Printed Model of your Cat with **5 Model Cat NFTs**.
+![](../../merch/assets/pcc-model-cat-purrks-redeem.jpg)
 
-Redeem will open in the future.
+**5 Model Cat NFTs** are required to redeem a [Physical 3D Printed PCC Model Cat](../../merch/pcc-model-cat.md) of your Cat and .pcc.eth subdomain name printed on.
+
+Redeem opened on May 18, 2022. Learn more at [PCC Model Cat](../../merch/pcc-model-cat.md).
 
 ### KittyVault Fractions
 
 Redeem for [KittyVault](../../kittyvault/index.md) Fractions will open in the future.
 
-## Leaks
-
-:::info
-
-This section contains leaked information before the final release. Final product may change when it is released.
-
-:::
-
-### Package
-
-**_3D Model will not save marriage_** maybe printed as disclamier on the package. [^1]
-
-### Models
-
-3 body types will be able to choose from: GM, Astro, Golf.
-
-Some photos were posted in [Roadmap 2.0–6 Months on from Launch](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch)
-
-![](./assets/1_kOoaBm9g28xWrHUIBsh8mg.png)
-
-![](./assets/1_NZeQWMdxXReHe0EtSKkx3g.png)
-
 ## Learn more
 
 - Video: [3D Model: Explained!](/posts/explained/202112-3d-model)
 - PurrCast: [PurrCast: 3D Models, ENS subdomains, $Token, The Future](/posts/2022/01/19/purrcast/)
+- Merch: [PCC Model Cat](../../merch/pcc-model-cat.md)
 
 ## Events
 
@@ -65,6 +46,7 @@ Some photos were posted in [Roadmap 2.0–6 Months on from Launch](/posts/2022/0
   - That's about 18,889 USD during the airdrop.
   - Txns Data: [CSV File](./assets/kvpurrks-1-8-txns.csv)
 - 2021-11-30: Token Metadata Revealed
+- 2022-05-18: Physical Model Cat Redeem Opened
 
 ## Meta
 

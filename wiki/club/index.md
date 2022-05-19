@@ -236,3 +236,4 @@ Other items from Roadmap 2.0 will be added to the list upon completion or new up
 - 04-30: [Grandma's Nightstand](../collections/kittyvault-purrks/8-grandma-s-nightstand.md) airdropped, All [8 Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops completed
 - 05-13: [Merch Store](https://store.purrnelopescountryclub.com) launched
 - 05-16: [Grandmas](../collections/grandmas/index.md) public mint/claim started
+- 05-18: [Physical Model Cat](../merch/pcc-model-cat.md) Claim Opened

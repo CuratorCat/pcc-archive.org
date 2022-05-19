@@ -43,6 +43,7 @@ module.exports = {
       },
       { to: "/ens", label: "🆔 ENS", position: "left" },
       { to: "/kittyvault", label: "🏦 KittyVault", position: "left" },
+      { to: "/merch", label: "👕 Merch", position: "left" },
       {
         label: "📰 Posts",
         position: "left",
@@ -93,10 +94,6 @@ module.exports = {
           {
             label: "🔗 PCC Official Links",
             to: "/official-links",
-          },
-          {
-            label: "🛍 PCC Merch Store",
-            to: "https://store.purrnelopescountryclub.com/",
           },
           {
             label: "🛠 Contracts & EOA Addresses",
