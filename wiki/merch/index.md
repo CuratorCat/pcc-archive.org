@@ -29,10 +29,13 @@ PCC Merch Store ([store.purrnelopescountryclub.com](https://store.purrnelopescou
 
 The following merches can only be redeemed with [KittyVault Purrks](../collections/kittyvault-purrks/index.md).
 
-Redeem will open soon.
+**Redeem Open Now**:
+
+- [Physical PCC Model Cat](pcc-model-cat.md)
+
+Redeem will open soon:
 
 - Flex Hoodies
-- 3D Model Cat
 - Comic Book
 - PCC Music Record
 - PCC Branded Keyboard

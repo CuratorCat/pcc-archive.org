@@ -17,7 +17,7 @@ description: his Model Cat NFT can be redeemed for a KittyVault fractional share
 | -------------- | ------------ |
 | ✅ w/ 5 Purrks | ✅           |
 
-This Model Cat NFT can be redeemed for a KittyVault fractional share when the contracts are live Soon™. It can also be redeemed for a model version of a cat that you own. You will need to trade in 5 of these NFTs to get your very own Purrnelope’s collectible. Starting in January, 50 spots will be available for this collectible to be redeemed. This NFT will also show in the collection log when that is live on our website™
+This Model Cat NFT can be redeemed for a KittyVault fractional share when the contracts are live Soon™. It can also be redeemed for a [Physical 3D printed PCC Model Cat](../../merch/pcc-model-cat.md) of a cat that you own.
 
 ## Redeem
 
