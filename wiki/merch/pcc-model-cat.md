@@ -56,5 +56,12 @@ Please read claim description on https://store.purrnelopescountryclub.com/produc
 
 - Communications and Claim support will be done with your Model Ticket submited in `#front-desk-support` channel in PCC Discord.
 
+## Learn More
 
+- Unboxing Video by katie.pcc.eth: [Video Tweet](https://twitter.com/PurrnelopesCC/status/1527287961968050176)
 
+### Alpha for Series 2
+
+In Series 2 models we may see some different bodies, more intergrations like NFC tags, 2FA utility etc.
+
+> this was leaked by papa.pcc.eth in PCC Discord. [Link](https://discord.com/channels/856877590592749598/859391274489741343/976862704763568178)
