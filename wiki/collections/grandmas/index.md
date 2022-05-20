@@ -46,9 +46,11 @@ Once the [KittyVault](../../kittyvault/index.md) is fractionalized, Grandmas can
 
 ### Cats & Grandmas
 
-**If you reunite the Grandma and the [Cat](../cats/index.md) with the same ID by having them in the same wallet**, the image of the Grandma will change, the Grandma will hold a photo frame the Cat! And if they got seperated by not in the same wallet, the image of the Grandma will change back to not holding the photo frame.
+**If you reunite the Grandma and the [Cat](../cats/index.md) with the same ID by having them in the same wallet**, the image of the Grandma will change, the Grandma will hold a photo frame of the Cat! And if they got seperated by not in the same wallet, the image of the Grandma will change back to not holding the photo frame.
 
 ![](./assets/cats-grandmas.jpg)
+
+PCC community member [jack.pcc.eth](https://twitter.com/jkdaleMU) built a tool for finding your grandma match, check it out: https://nftbagcheck.com/find-my-grandma
 
 ## Learn More
 
