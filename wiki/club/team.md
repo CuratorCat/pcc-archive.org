@@ -115,5 +115,6 @@ src="/img/team/dangywing.jpg"
 className="TeamAvatar"
 />
 
+- `dangywing.pcc.eth`
 - **Content Writer**
 - Twitter [@DangyWing](https://twitter.com/dangywing)
