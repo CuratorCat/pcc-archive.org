@@ -270,7 +270,7 @@ article .markdown {
   }
   & img,
   & iframe {
-    @apply rounded-lg;
+    @apply rounded-xl;
   }
   // & a {
   //   @apply text-inherit underline;
@@ -294,10 +294,21 @@ article .markdown {
   & iframe[src^="https://audius.co/embed/"],
   & iframe[src^="https://share.transistor.fm/e/"]
   {
-    @apply bg-slate-500/20 mx-auto w-full lg:max-w-xl;
+    @apply bg-slate-500/20 mx-auto w-full lg:max-w-2xl;
   }
   img {
     @apply mx-auto;
+  }
+}
+
+article .markdown {
+  & iframe[src^="https://www.youtube.com/embed/"],
+  & iframe[src^="https://youtube.com/embed/"],
+  & iframe[src^="https://player.vimeo.com/"],
+  & iframe[src^="https://open.spotify.com/embed/"],
+  & iframe[src^="https://share.transistor.fm/e/"]
+  {
+    @apply sm:rounded-3xl;
   }
 }
 
