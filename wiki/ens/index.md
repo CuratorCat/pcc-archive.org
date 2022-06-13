@@ -37,9 +37,10 @@ The magic of **.pcc.eth** will use the Cat that has the name as the ENS avatar a
 
 There are some services currently support display web3 profile:
 
-- **[ENS App](https://app.ens.domains/)**: [app.ens.domains/name/curatorcat.pcc.eth/details](https://app.ens.domains/name/curatorcat.pcc.eth/details)
 - **[eth.xyz](https://eth.xyz)**: [eth.xyz/curatorcat.pcc.eth](https://eth.xyz/curatorcat.pcc.eth)
+- **[pcc.im](https://pcc.im)**: [pcc.im/curatorcat.pcc.eth](https://pcc.im/curatorcat.pcc.eth)
 - **[me3.is](https://me3.is)**: [me3.eth.limo/#/curatorcat.pcc.eth](https://me3.eth.limo/#/curatorcat.pcc.eth)
+- **[ENS App](https://app.ens.domains/)**: [app.ens.domains/name/curatorcat.pcc.eth/details](https://app.ens.domains/name/curatorcat.pcc.eth/details)
 
 ### Follow `.pcc.eth` on Twitter
 
@@ -133,7 +134,7 @@ See [Guides Page](guides.md) for all Guide for .pcc.eth ENS Subdomains.
 
 ![](./assets/set-primary.png)
 
-If it shows on Uniswap but not OpenSea yet, it's most likely (99.9%) that it’s OpenSea being slow! It will sort itself out eventually! You can also connect your wallet to https://app.ens.domains/ to see if it's working.
+If it shows on Uniswap but not OpenSea yet, it's most likely (99.9%) that it’s OpenSea being slow! It will sort itself out eventually! You can search your wallet address on [pcc.im](https://pcc.im) to see your primary ENS.
 
 ### 7. Can I change a Cat's name? {#faq-change-name}
 
