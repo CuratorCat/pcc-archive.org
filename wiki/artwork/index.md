@@ -1,6 +1,7 @@
 ---
 title: Artwork
-sidebar_position: 1
+sidebar_label: 🎨 Artwork
+sidebar_position: 80
 image: /img/cover/pcc.jpg
 # description: 
 ---

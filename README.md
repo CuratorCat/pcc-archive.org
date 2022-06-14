@@ -8,7 +8,6 @@ Learn more about this project at [./src/pages/about.md](./src/pages/about.md).
 
 - `wiki` dir: all wikis for PCC
 - `posts` dir: web posts, media from and about PCC
-- `artwork` dir: artworks
 - `welovethepurrs` dir: web posts, stories on people showing their loves for purrs
 
 ## Contribute
