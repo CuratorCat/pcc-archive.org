@@ -96,6 +96,10 @@ module.exports = {
             to: "/official-links",
           },
           {
+            label: "🎨 Artwork",
+            to: "/artwork",
+          },
+          {
             label: "🛠 Contracts & EOA Addresses",
             to: "/addresses",
           },

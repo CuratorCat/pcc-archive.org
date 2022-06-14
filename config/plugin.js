@@ -21,7 +21,16 @@ module.exports = [
       },
     },
   ],
-
+  [
+    '@docusaurus/plugin-content-docs',
+    {
+      id: 'artwork',
+      path: 'artwork',
+      routeBasePath: 'artwork',
+      sidebarPath: require.resolve('../sidebars.js'),
+      // ... other options
+    },
+  ],
   [
     "@docusaurus/plugin-content-blog",
   {
