@@ -1,5 +1,6 @@
 ---
 title: EnsMapper Contract
+sidebar_label: Contract
 sidebar_position: 90
 image: /img/cover/pcc-ens.jpg
 description: EnsMapper Contract is a custom ENS Resolver contract created by PCC's wizard `hodl.pcc.eth`. This contract made PCC the first project that links ERC-721 NFTs to ENS subdomains possible.

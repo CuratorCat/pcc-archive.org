@@ -1,5 +1,6 @@
 ---
 title: Guides for .pcc.eth Subdomains
+sidebar_label: Guides
 sidebar_position: 10
 image: /img/cover/pcc-ens.jpg
 description: Guide for .pcc.eth ENS Subdomains
