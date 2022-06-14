@@ -1,5 +1,6 @@
 ---
 title: PCC Collections
+sidebar_label: 😺 Collections
 sidebar_position: 20
 image: /img/cover/pcc.jpg
 description: "Cats, Kittens, Grandmas, KittyVault Purrks, Gifts and more collections to be announced."

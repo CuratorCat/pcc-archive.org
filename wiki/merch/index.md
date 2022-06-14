@@ -1,5 +1,6 @@
 ---
-title: Merch
+title: PCC Merch
+sidebar_label: 👕 Merch
 sidebar_position: 70
 # image: /img/cover/pcc.jpg
 description: "PCC Merch was planned since Roadmap 1.0. Merch Store was launched on May 13, 2022."
