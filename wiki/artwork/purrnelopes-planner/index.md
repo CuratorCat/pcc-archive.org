@@ -1,10 +1,13 @@
 ---
 title: Purrnelope's Planner
 sidebar_position: 50
-image: /img/cover/pcc.jpg
+image: https://assets.pcc-archive.org/purrnelopes-planner/v1-cover.small.jpg
 # description:
 ---
 
+PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
+
+## 2022 Archive
 
 ### 2022 Week 24
 
@@ -193,3 +196,15 @@ image: /img/cover/pcc.jpg
   - $Token Ideas
   - Roadmap 2.0
   - Top Secret Alpha
+
+## High-res Artwork
+
+### Planner V1
+
+#### Planner Cover
+
+![Purrnelope's Planner](https://assets.pcc-archive.org/purrnelopes-planner/v1-cover.small.jpg)
+
+- Res: 3840 × 2160 (4K)
+- Format: PNG
+- [Link to file](https://assets.pcc-archive.org/purrnelopes-planner/v1-cover.png)
