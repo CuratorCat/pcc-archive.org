@@ -45,7 +45,7 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 - Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1526283846471274505)
 - Sticky Notes:
-  - Grandmas
+  - Grandmas / [Grandmas](../../collections/grandmas/index.md)
   - Merch 2.0
   - Demo Dec '21
 
@@ -55,7 +55,7 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 - Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1523747130376138752)
 - Sticky Notes:
-  - EU-US size chart
+  - EU-US size chart / [Merch](../../merch/index.md)
   - #523F95
   - 7 Days till arrival
   - Modelling Contract
@@ -77,7 +77,7 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 - Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1518673700823834626)
 - Sticky Notes:
-  - Airdrops: Completed
+  - Airdrops: Completed / [Purrks <sup>Series 1</sup>](../../collections/kittyvault-purrks/index.md#purrks-supseries-1sup-purrks)
   - PCC Phase 2
   - Shillbot3000 upgrades
 
@@ -98,7 +98,7 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 - Sticky Notes:
   - Snapshot date
   - $pspspsp
-  - Models
+  - Models / [3D Model](../../merch/pcc-model-cat.md)
 
 ### 2022 Week 14
 
@@ -106,7 +106,7 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 - Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1511059802444738573)
 - Sticky Notes:
-  - Airdrop#8
+  - Airdrop#8 / [Grandma's Nightstand](../../collections/kittyvault-purrks/8-grandma-s-nightstand.md)
   - Roadtrip
   - Passwords
 
@@ -119,7 +119,7 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
   - Cabana Refurb
   - Playlist Ideas
   - Valet Interviews
-  - Airdrop 7.gif
+  - Airdrop 7.gif / [Ledger Cat](../../collections/kittyvault-purrks/7-ledger-cat.md)
   - Cabana Cats
 
 ### 2022 Week 11
@@ -131,7 +131,7 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
   - Pool Party
   - Playlist Ideas
   - REDACTED Schematics
-  - Airdrop 7.gif
+  - Airdrop 7.gif / [Ledger Cat](../../collections/kittyvault-purrks/7-ledger-cat.md)
   - Guest Prep
 
 ### 2022 Week 10
@@ -153,7 +153,7 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
   - Whitelists
   - Musicians
   - Extra Roadman2.0 ideas
-  - Airdrop 7.gif
+  - Airdrop 7.gif / [Ledger Cat](../../collections/kittyvault-purrks/7-ledger-cat.md)
   - REDACTED
 
 ### 2022 Week 8
@@ -168,7 +168,7 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
   - ...
   - Whitelist Projects
   - Tier ...
-  - Times Square Purrs
+  - Times Square Purrs / [Video](/posts/2022/03/07/post/times-square)
 
 ### 2022 Week 7
 
@@ -180,7 +180,7 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 - Sticky Notes:
   - Collabs
   - Musicians
-  - Roadmap 2.0 alpha
+  - Roadmap 2.0 alpha / [Roadmap 2.0 Post](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch)
   - Project TS
   - $Token name possibilites
 
@@ -194,7 +194,7 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 - Sticky Notes:
   - Project Zeus
   - $Token Ideas
-  - Roadmap 2.0
+  - Roadmap 2.0 / [Roadmap 2.0 Post](/posts/2022/02/25/post/roadmap-2-0-6-months-on-from-launch)
   - Top Secret Alpha
 
 ## High-res Artwork
