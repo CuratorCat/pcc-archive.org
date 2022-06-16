@@ -47,9 +47,10 @@ An image was posted in PCC's discord. Might be the art printed on the vinyl reco
 
 ### Sample Track
 
-A sample track was posted in PCC's discord.
+A sample track was posted in PCC's discord. The following links are linked to Clubhouse channel in PCC's discord:
 
-> Needs to be found...
+- [Purrfect Cuban - Demo 1](https://discord.com/channels/856877590592749598/857923932044656660/948572555827089428)
+- [Purrfect Cuban - Demo 3](https://discord.com/channels/856877590592749598/857923932044656660/959054340528693278)
 
 ## Learn more
 

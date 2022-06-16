@@ -31,6 +31,18 @@ Redeem will open in the future.
 
 Redeem for [KittyVault](../../kittyvault/index.md) Fractions will open in the future.
 
+## Leaks
+
+:::info
+
+This section contains leaked information before the final release. Final product may change when it is released.
+
+:::
+
+### Comic Book Page
+
+Papa leaked a image might be a page from the Comic Book in PCC Discord's Clubhouse channel: [link](https://discord.com/channels/856877590592749598/857923932044656660/930617803105501244)
+
 ## Learn more
 
 - Video: [Mysterious NFT Air Drop at Purrnelope's Country Club](/posts/explained/202201-mysterious-nft)
