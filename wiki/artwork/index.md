@@ -3,7 +3,12 @@ title: Artwork
 sidebar_label: 🎨 Artwork
 sidebar_position: 80
 image: /img/cover/pcc.jpg
-# description: 
+description: PCC Artworks
 ---
 
-[Purrnelope's Planner](./purrnelopes-planner/index.md)
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+PCC Artworks Archive
+
+<DocCardList items={useCurrentSidebarCategory().items}/>
