@@ -6,6 +6,9 @@ sidebar_position: 70
 description: "PCC Merch was planned since Roadmap 1.0. Merch Store was launched on May 13, 2022."
 ---
 
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
 🛍
 [Merch Store](https://store.purrnelopescountryclub.com/)
 👕
@@ -16,19 +19,14 @@ PCC Merch was planned since Roadmap 1.0.
 
 PCC Merch Store ([store.purrnelopescountryclub.com](https://store.purrnelopescountryclub.com/)) launched on May 13, 2022.
 
-| Merch         | Launch     | Etc.               |
-| ------------- | ---------- | ------------------ |
-| Logo Cap      | 2022-05-13 | Black              |
-| Text Cap      | 2022-05-13 | Black              |
-| GM Mug        | 2022-05-13 | White              |
-| .pcc.eth Tee  | 2022-05-13 | Black/White/Purple |
-| Logo Tee      | 2022-05-13 | Black/White/Grey   |
-| MiniMEOW Tee  | 2022-05-13 | Grey/Purple        |
-| Lucky Cat Tee | -          | Limited            |
+## Merch Directory
 
+<DocCardList items={useCurrentSidebarCategory().items}/>
 ## Redeemable Physicals
 
 The following merches can only be redeemed with [KittyVault Purrks](../collections/kittyvault-purrks/index.md).
+
+## Redeemables
 
 **Redeem Open Now**:
 

@@ -23,7 +23,7 @@ This Model Cat NFT can be redeemed for a KittyVault fractional share when the co
 
 ### Physical 3D Model
 
-![](../../merch/assets/pcc-model-cat-purrks-redeem.jpg)
+![](../../merch/assets/pcc-model-cat/pcc-model-cat-purrks-redeem.jpg)
 
 **5 Model Cat NFTs** are required to redeem a [Physical 3D Printed PCC Model Cat](../../merch/pcc-model-cat.md) of your Cat and .pcc.eth subdomain name printed on.
 
