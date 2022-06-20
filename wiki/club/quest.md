@@ -7,11 +7,13 @@ image: /img/cover/pcc.jpg
 
 ### Join the Quest
 
-- Use `!quest` command in [🤖 ｜ ambassador-bot](https://discord.com/channels/856877590592749598/965990276751568897) channel of PCC Discord.
+- Use `!quest` command in [# 🤖 ｜ ambassador-bot](https://discord.com/channels/856877590592749598/965990276751568897) channel of PCC Discord.
 
 - Use `!score` command to check your score. The score updates when each quest ends.
 
 ## Quest Archive
+
+The archive will be updated from time to time. And will not archive the current active quest, it's for the ambassadors.
 
 - 2022-06-19
 
