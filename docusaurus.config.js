@@ -17,6 +17,7 @@ const config = {
   presets: require("./config/presets"),
   themeConfig: require("./config/theme"),
   plugins: require("./config/plugin"),
+  scripts: require("./config/scripts"),
 };
 
 module.exports = config;
