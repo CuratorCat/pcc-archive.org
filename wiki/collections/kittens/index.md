@@ -1,6 +1,7 @@
 ---
 sidebar_position: 20
 title: 🐈 Purrnelope's Kittens
+sidebar_label: 🐈 Kittens
 image: /img/cover/pcc-kittens.jpg
 description: Purrnelope's Kittens is the 2nd collection in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. And Kittens are the 1st companion to the Cats. Kittens are Tier 3 NFTs.
 ---
@@ -20,7 +21,9 @@ Purrnelope's Kittens is the 2nd collection in PCC Universe with 10,000 randomly 
 
 ![](./assets/claim-kittens.jpg)
 
-Kittens are claimed with [Kitten Basket](../kittyvault-purrks/2-kitten-basket.md), 1 Kitten Basket for 1 Kitten. Public Kittens Claim opened on Nov 15, 2021. Unredeemed Kitten Baskets were pulled back on Dec 20, 2021. Unclaimed kittens will be used in giveaways. [^1]
+Kittens are claimed with [Kitten Basket](../kittyvault-purrks/2-kitten-basket.md), 1 Kitten Basket for 1 Kitten. Public Kittens Claim opened on Nov 15, 2021. Unredeemed Kitten Baskets were pulled back on Dec 20, 2021. 
+
+All unclaimed Kittens will be minted by the team. And will be used in giveaways. [^1]
 
 Kittens `#1 - #20` are not revealed. They are reserved for The Team for mysterious plan? Maybe.
 

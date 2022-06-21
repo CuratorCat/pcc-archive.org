@@ -27,7 +27,7 @@ Each Grandma's Nightstand NFT can redeem for a [Purrnelope's Grandma](../grandma
 
 **Grandmas redeem window: May 16 to Jun 13, 2022. After that, unredeemed Nightstands will be pulled back.**
 
-**Redeem on [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma)**
+**Redeem on [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma), the claim is still open by this page is updated.**
 
 ![](../grandmas/assets/claim-grandmas.jpg)
 

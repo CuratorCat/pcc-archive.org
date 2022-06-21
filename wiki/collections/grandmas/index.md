@@ -1,6 +1,7 @@
 ---
 sidebar_position: 30
 title: 👵🏻 Purrnelope's Grandmas
+sidebar_label: 👵🏻 Grandmas
 image: /img/cover/pcc-grandmas.jpg
 description: Purrnelope's Grandmas are the 2nd companion to the cats in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Grandmas are Tier 3 NFTs.
 ---
@@ -18,13 +19,15 @@ Purrnelope's Grandmas are the 2nd companion to the [Cats](../cats/index.md) in P
 
 ### Mint / Claim
 
-Grandmas are claimed with [Grandma's Nightstand](../kittyvault-purrks/8-grandma-s-nightstand.md), 1 Nightstand for 1 Grandma. **Public Grandmas Claim window: May 16 to Jun 13, 2022. After that, unredeemed Nightstands will be pulled back.**
+Grandmas are claimed with [Grandma's Nightstand](../kittyvault-purrks/8-grandma-s-nightstand.md), 1 Nightstand for 1 Grandma. Public Grandmas Claim window: May 16 to Jun 13, 2022. After that, unredeemed Nightstands will be pulled back. 
 
-**Claim on [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma)**
+Public Claim Link [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma), the claim is still open by this page is updated.
 
 ![](./assets/claim-grandmas.jpg)
 
 Grandmas `#1 - #20` are not revealed. They are reserved for The Team for mysterious plan? Maybe.
+
+All unclaimed Grandmas will be minted by the team.
 
 ### Clubhouse Access
 
@@ -52,14 +55,23 @@ Once the [KittyVault](../../kittyvault/index.md) is fractionalized, Grandmas can
 
 PCC community member [jack.pcc.eth](https://twitter.com/jkdaleMU) built a tool for finding your grandma match, check it out: https://nftbagcheck.com/find-my-grandma
 
+If the KittyVault owns the Grandma with the matching number of the Cat you own, you can use [Grandma Swap Shop](#swap-shop) to get that Grandma.
+
 ## Learn More
 
 - Video: [Grandma's Nightstand: Explained!](/posts/explained/202205-nightstand)
+
+### Grandma Swap Shop {#swap-shop}
+
+If the KittyVault(kittyvault.pcc.eth) owns the Grandma with the matching number of your Cat, you can send it to the vault and open a ticket in PCC Discord to get the Grandma with the matching number of the Cat you own.
+
+See all Grandmas in the KittyVault on [OpenSea](https://opensea.io/kittyvault.pcc.eth/purrnelopes-grandmas?search[sortBy]=LISTING_DATE)
 
 ## Events
 
 - 2022-05-13: PCC Team minted Grandmas #1 - #20 @ [07:34:26 PM +UTC](https://etherscan.io/tx/0xcffd4c0be97732136798b54a9cb1830490c9625f8c2c8c36afecfd1041590d75)
 - 2022-05-16: Public Grandmas mint/claim started
+- 2022-06-06: Grandma Swap Service vote passed on [Snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/0x133d577cc08adb87b32b9cb99abaac862627a395514046143328448887b436f6)
 
 ## The Grandmas Contract {#contract}
 
