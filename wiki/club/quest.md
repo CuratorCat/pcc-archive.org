@@ -8,7 +8,7 @@ image: /img/cover/pcc.jpg
 
 ### Join the Quests
 
-- Use `!quest` command in [# 🤖 ｜ ambassador-bot](https://discord.com/channels/856877590592749598/965990276751568897) channel of PCC Discord to get assigned to a quest.
+- Use `!quest` command in [#🧙｜quest-bot](https://discord.com/channels/856877590592749598/965990276751568897) channel of PCC Discord to get assigned to a quest.
 - Use `!score` command to check your score. The score updates when each quest ends.
 
 ## Quests Archive
