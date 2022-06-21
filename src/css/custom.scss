@@ -302,6 +302,16 @@ article .markdown {
 }
 
 article .markdown {
+  & .twitter-tweet-rendered,
+  & .twitter-tweet {
+    @apply mx-auto max-w-full;
+  }
+  & iframe[id^="twitter-widget-"] {
+    @apply max-w-full;
+  }
+}
+
+article .markdown {
   & iframe[src^="https://www.youtube.com/embed/"],
   & iframe[src^="https://youtube.com/embed/"],
   & iframe[src^="https://player.vimeo.com/"],
