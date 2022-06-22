@@ -8,12 +8,16 @@ image: /img/cover/pcc.jpg
 
 ### Join the Quests
 
-- Use `!quest` command in [#🧙｜quest-bot](https://discord.com/channels/856877590592749598/965990276751568897) channel of PCC Discord to get assigned to a quest.
+- Use `!quest` command in [#🧙 ｜ quest-bot](https://discord.com/channels/856877590592749598/965990276751568897) channel of PCC Discord to get assigned to a quest.
 - Use `!score` command to check your score. The score updates when each quest ends.
 
 ## Quests Archive
 
-Only past quests will be archived. Join the quests to get the active quest.
+Only past quests will be archived. Join the quests for the active quest.
+
+- 2022-06-21
+
+  > like / retweet / comment on this tweet [https://twitter.com/hodl_pcc/status/1539151430216556546](https://twitter.com/ReportercatE/status/1539151430216556546)
 
 - 2022-06-20
 
