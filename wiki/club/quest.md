@@ -15,6 +15,10 @@ image: /img/cover/pcc.jpg
 
 Only past quests will be archived. Join the quests for the active quest.
 
+- 2022-06-22
+
+  > We have not heard from ReporterCat since they went to the Country Club to investigate the 'Grandma Heist'. Please mention them on twitter @ReportercatE to show support and help them get out safely
+
 - 2022-06-21
 
   > like / retweet / comment on this tweet [https://twitter.com/hodl_pcc/status/1539151430216556546](https://twitter.com/ReportercatE/status/1539151430216556546)
