@@ -15,6 +15,10 @@ image: /img/cover/pcc.jpg
 
 Only past quests will be archived. Join the quests for the active quest.
 
+- 2022-06-23/26
+
+  > ReporterCat has checked in, please reply to this tweet to help them access Metamask. https://twitter.com/ReportercatE/status/1539965477933330436?s=20
+
 - 2022-06-22
 
   > We have not heard from ReporterCat since they went to the Country Club to investigate the 'Grandma Heist'. Please mention them on twitter @ReportercatE to show support and help them get out safely
