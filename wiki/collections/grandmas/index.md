@@ -19,9 +19,9 @@ Purrnelope's Grandmas are the 2nd companion to the [Cats](../cats/index.md) in P
 
 ### Mint / Claim
 
-Grandmas are claimed with [Grandma's Nightstand](../kittyvault-purrks/8-grandma-s-nightstand.md), 1 Nightstand for 1 Grandma. Public Grandmas Claim window: May 16 to Jun 13, 2022. After that, unredeemed Nightstands will be pulled back. 
+Grandmas are claimed with [Grandma's Nightstand](../kittyvault-purrks/8-grandma-s-nightstand.md), 1 Nightstand for 1 Grandma. Public Grandmas Claim window: May 16 to Jun 13, 2022, and was extended to Jun 23.
 
-Public Claim Link [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma), the claim is still open by this page is updated.
+Public Claim Link [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma).
 
 ![](./assets/claim-grandmas.jpg)
 
@@ -72,6 +72,7 @@ See all Grandmas in the KittyVault on [OpenSea](https://opensea.io/kittyvault.pc
 - 2022-05-13: PCC Team minted Grandmas #1 - #20 @ [07:34:26 PM +UTC](https://etherscan.io/tx/0xcffd4c0be97732136798b54a9cb1830490c9625f8c2c8c36afecfd1041590d75)
 - 2022-05-16: Public Grandmas mint/claim started
 - 2022-06-06: Grandma Swap Service vote passed on [Snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/0x133d577cc08adb87b32b9cb99abaac862627a395514046143328448887b436f6)
+- 2022-06-23: Unredeemed Grandma's Nightstands were pulled back to purrnelope.pcc.eth [Etherscan](https://etherscan.io/tx/0xaa7fd0e0a6bdb5154659b4cf6643bb7eb03f6136471988f67e03b2d559b53017)
 
 ## The Grandmas Contract {#contract}
 

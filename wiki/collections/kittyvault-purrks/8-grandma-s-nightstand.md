@@ -25,9 +25,7 @@ Grandma's Nightstands are mint passes to claim Purrnelope's Grandmas, the 2st co
 
 Each Grandma's Nightstand NFT can redeem for a [Purrnelope's Grandma](../grandmas/index.md).
 
-**Grandmas redeem window: May 16 to Jun 13, 2022. After that, unredeemed Nightstands will be pulled back.**
-
-**Redeem on [purrnelopescountryclub.com/claim/grandma](https://www.purrnelopescountryclub.com/claim/grandma), the claim is still open by this page is updated.**
+Grandmas redeem window: May 16 to Jun 13, 2022, and was extended to Jun 23. After that, unredeemed Nightstands were pulled back.
 
 ![](../grandmas/assets/claim-grandmas.jpg)
 
@@ -47,6 +45,7 @@ The Grandma will be able to redeem for [KittyVault](../../kittyvault/index.md) F
   - It cost the team 4.86591106792732 ETH on gas to airdrop to all holders.
   - That's about 13,576 USD during the airdrop.
   - Txns Data: [CSV File](./assets/kvpurrks-1-8-txns.csv)
+- 2022-06-23: Unredeemed Grandma's Nightstands were pulled back to purrnelope.pcc.eth [Etherscan](https://etherscan.io/tx/0xaa7fd0e0a6bdb5154659b4cf6643bb7eb03f6136471988f67e03b2d559b53017)
 
 ## Meta
 
