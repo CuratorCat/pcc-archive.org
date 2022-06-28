@@ -9,6 +9,16 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 ## 2022 Archive
 
+### 2022 Week 26
+
+![](./assets/2022w26.jpg)
+
+- Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1541511686737248265)
+- Sticky Notes:
+  - Beach Party invites
+  - 招き猫 (Maneki-neko)
+  - E5VN2ZK37XRQ
+
 ### 2022 Week 25
 
 ![](./assets/2022w25.jpg)
