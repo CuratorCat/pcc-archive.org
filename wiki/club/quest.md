@@ -15,6 +15,10 @@ image: /img/cover/pcc.jpg
 
 Only past quests will be archived. Join the quests for the active quest.
 
+- 2022-06-27
+
+comment on [https://twitter.com/hodl_pcc/status/1541389509908201472](https://twitter.com/PurrnelopesCC/status/1541389509908201472)
+
 - 2022-06-23/26
 
   > ReporterCat has checked in, please reply to this tweet to help them access Metamask. https://twitter.com/ReportercatE/status/1539965477933330436?s=20
