@@ -15,9 +15,17 @@ image: /img/cover/pcc.jpg
 
 Only past quests will be archived. Join the quests for the active quest.
 
+- 2022-07-01
+
+> mention httos://twitter.com/PurrnelopesCC
+
+- 2022-06-28/29
+
+> retweet [https://twitter.com/hodLpcc/status/1541904276699590658](https://twitter.com/PurrnelopesCC/status/1541904276699590658)
+
 - 2022-06-27
 
-comment on [https://twitter.com/hodl_pcc/status/1541389509908201472](https://twitter.com/PurrnelopesCC/status/1541389509908201472)
+> comment on [https://twitter.com/hodl_pcc/status/1541389509908201472](https://twitter.com/PurrnelopesCC/status/1541389509908201472)
 
 - 2022-06-23/26
 
