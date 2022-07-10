@@ -9,6 +9,16 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 ## 2022 Archive
 
+### 2022 Week 27
+
+![](./assets/2022w27.jpg)
+
+- Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1544048402496888832)
+- Sticky Notes:
+  - Local Mechanics
+  - Quiz answers
+  - 4YEXDA8V2510
+
 ### 2022 Week 26
 
 ![](./assets/2022w26.jpg)
