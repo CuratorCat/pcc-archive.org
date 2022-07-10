@@ -15,17 +15,37 @@ image: /img/cover/pcc.jpg
 
 Only past quests will be archived. Join the quests for the active quest.
 
+- 2022-07-09
+
+  > retweet [https://twitter.com/hodl_pcc/status/1545589579503308800](https://twitter.com/WaitAndShillPCC/status/1545589579503308800)
+
+- 2022-07-08
+
+  > retweet [https://twitter.com/hodl_pcc/status/1545349724739276800](https://twitter.com/PurrnelopesCC/status/1545349724739276800)
+
+- 2022-07-07
+
+  > like [https://twitter.com/hodl_pcc/status/1545027662476972039](https://twitter.com/PurrnelopesCC/status/1545027662476972039)
+
+- 2022-07-06
+
+  > comment on [https://twitter.com/hodl_pcc/status/1544491318520565765](https://twitter.com/DegenzNFT/status/1544491318520565765)
+
+- 2022-07-05
+
+  > comment on [https://twitter.com/hodl_pcc/status/1544240318857494532](https://twitter.com/DegenzNFT/status/1544240318857494532)
+
 - 2022-07-01
 
-> mention httos://twitter.com/PurrnelopesCC
+  > mention https://twitter.com/PurrnelopesCC
 
 - 2022-06-28/29
 
-> retweet [https://twitter.com/hodLpcc/status/1541904276699590658](https://twitter.com/PurrnelopesCC/status/1541904276699590658)
+  > retweet [https://twitter.com/hodl_pcc/status/1541904276699590658](https://twitter.com/PurrnelopesCC/status/1541904276699590658)
 
 - 2022-06-27
 
-> comment on [https://twitter.com/hodl_pcc/status/1541389509908201472](https://twitter.com/PurrnelopesCC/status/1541389509908201472)
+  > comment on [https://twitter.com/hodl_pcc/status/1541389509908201472](https://twitter.com/PurrnelopesCC/status/1541389509908201472)
 
 - 2022-06-23/26
 
