@@ -9,6 +9,16 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 ## 2022 Archive
 
+### 2022 Week 28
+
+![](./assets/2022w28.jpg)
+
+- Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1546585119841869824)
+- Sticky Notes:
+  - Project Caesar
+  - RSVP
+  - Wave diagnostics
+
 ### 2022 Week 27
 
 ![](./assets/2022w27.jpg)
@@ -233,7 +243,7 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 #### Planner Cover
 
-![Purrnelope's Planner](https://assets.pcc-archive.org/purrnelopes-planner/v1-cover.small.jpg)
+![Purrnelope's Planner](./assets/v1-cover.small.jpg)
 
 - Res: 3840 × 2160 (4K)
 - Format: PNG
