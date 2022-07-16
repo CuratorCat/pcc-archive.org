@@ -15,6 +15,18 @@ image: /img/cover/pcc.jpg
 
 Only past quests will be archived. Join the quests for the active quest.
 
+- 2022-07-14
+
+  > comment on [https://twitter.com/hodl_pcc/status/1547603072603418630](https://twitter.com/PurrnelopesCC/status/1547603072603418630)
+
+- 2022-07-13
+
+  > like [https://twitter.com/hodl_pcc/status/1546617025673428992](https://twitter.com/WaitAndShillPCC/status/1546617025673428992)
+
+- 2022-07-12
+
+  > like / retweet / comment on this tweet [https://twitter.com/hodl_pcc/status/1546847201921490946](https://twitter.com/Sum0x1/status/1546847201921490946)
+
 - 2022-07-11
 
   > comment on [https://twitter.com/hodl_pcc/status/1546520994264776705](https://twitter.com/DreadfulzNFT/status/1546520994264776705)
