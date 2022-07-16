@@ -11,6 +11,10 @@ type CollectionItem = {
   imageUrl: string;
 };
 
+const webkitMaskHack = {
+  WebkitMaskImage: "-webkit-radial-gradient(white, black)",
+};
+
 const CollectionList: CollectionItem[] = require("./collections.json");
 
 export default function Collections() {
@@ -18,12 +22,15 @@ export default function Collections() {
     <div className="lg:col-span-3">
       <h2 className="sr-only">Collections</h2>
       <div className="mx-auto scroll-smooth hover:scroll-auto overflow-hidden">
-        <div className="relative w-auto flex gap-3 snap-x snap-proximity lg:rounded-2xl overflow-x-scroll pl-3 lg:pl-0 no-scrollbar">
+        <div
+          className="relative w-auto flex gap-3 snap-x snap-proximity lg:rounded-2xl overflow-x-scroll pl-3 lg:pl-0 no-scrollbar"
+          style={webkitMaskHack}
+        >
           {/* Individual collection */}
           {CollectionList.map((collection) => (
             <Link
               to={collection.href}
-              className="scroll-ml-12 scroll-mr-6 snap-always  snap-mandatory snap-start last:mr-12 shrink-0 flex flex-col rounded-xl md:rounded-2xl overflow-hidden  group"
+              className="scroll-ml-12 scroll-mr-6 snap-always  snap-mandatory snap-start last:mr-12 shrink-0 flex flex-col rounded-xl md:rounded-2xl group"
               key={collection.title}
             >
               <div className="relative w-60 sm:w-64 lg:w-72 aspect-[4/5] bg-black/50 rounded-xl md:rounded-2xl">
