@@ -9,6 +9,16 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 ## 2022 Archive
 
+### 2022 Week 29
+
+![](./assets/2022w29.jpg)
+
+- Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1549123340018716672)
+- Sticky Notes:
+  - DANGEROUS DO NOT OPEN
+  - WENMINT
+  - Wave 1 Allowlist
+
 ### 2022 Week 28
 
 ![](./assets/2022w28.jpg)
