@@ -415,3 +415,9 @@ main[class^="docMainContainer"] {
     max-height: 60vh;
   }
 }
+
+// Hacks
+
+.hack-safari-overlow {
+  -webkit-mask-image: -webkit-radial-gradient(white, black);
+}
