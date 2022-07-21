@@ -6,6 +6,8 @@ image: /img/cover/pcc-model-cat.jpg
 description: "Redeemable: Physical PCC Model Cat"
 ---
 
+import { EmbedTweet } from '@site/src/components/Social'
+
 ![](assets/pcc-model-cat/pcc-model-cat.jpg)
 
 ### Model Types
@@ -59,7 +61,31 @@ Please read claim description on https://store.purrnelopescountryclub.com/produc
 
 ## Learn More
 
-- Unboxing Video by katie.pcc.eth: [Video Tweet](https://twitter.com/PurrnelopesCC/status/1527287961968050176)
+### Unboxing
+
+Unboxing Video by katie.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    What to expect when you model arrives: <br />The unboxing experience!
+    <a
+      href="https://twitter.com/hashtag/purrmodels?src=hash&amp;ref_src=twsrc%5Etfw"
+      >#purrmodels</a
+    >
+    <br /><br />Get YOURS here:
+    <a href="https://t.co/F9r9Khfn28">https://t.co/F9r9Khfn28</a>
+    <a href="https://t.co/l1wlbQjEjC">pic.twitter.com/l1wlbQjEjC</a>
+  </p>
+  &mdash; purrnelope.pcc.eth - Minting 22nd July! (@PurrnelopesCC)
+  <a
+    href="https://twitter.com/PurrnelopesCC/status/1527287961968050176?ref_src=twsrc%5Etfw"
+    >May 19, 2022</a
+  >
+</EmbedTweet>
+
+### Photos
+
+- First Batch started to shipping to holders in July 2022. [See photos](/welovethepurrs/2022/model-cat-batch-1)
 
 ### Alpha for Series 2
 
