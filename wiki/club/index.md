@@ -5,6 +5,7 @@ image: /img/cover/pcc.jpg
 description: "Purrnelope's Country Club (PCC) was founded by Carlini8 in 2021. It has NFT collections of 10k unique cats, 10k unique kittens, and 2 more collections are coming. The project is the first to integrate NFTs with ENS subdomains. Currently, the project is onto its roadmap 2.0."
 ---
 
+import ReactPlayer from 'react-player'
 import Cats from '../collections/\_cats.md';
 import Kittens from '../collections/\_kittens.md';
 import Grandma from '../collections/\_grandma.md';
@@ -192,7 +193,7 @@ The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks
 
 Other items from Roadmap 2.0 will be added to the list upon completion or new updates from the team. Here's a map of Roadmap 2.0:
 
-![PCC Roadmap 2.0](./assets/roadmap2.jpg)
+<ReactPlayer playing muted={true} loop={true} width='100%' className='rounded-xl overflow-hidden hack-safari-overlow' height='100%' url='https://assets.pcc-archive.org/videos/pcc-roadmap-2.0-720p.mp4' />
 
 ## Events 📝 {#events}
 
