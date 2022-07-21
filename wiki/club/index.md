@@ -193,7 +193,7 @@ The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks
 
 Other items from Roadmap 2.0 will be added to the list upon completion or new updates from the team. Here's a map of Roadmap 2.0:
 
-<ReactPlayer playing muted={true} loop={true} width='100%' className='rounded-xl overflow-hidden hack-safari-overlow' height='100%' url='https://assets.pcc-archive.org/videos/pcc-roadmap-2.0-720p.mp4' />
+<ReactPlayer playing muted playsinline loop controls width='' height='' className='w-full aspect-video rounded-xl overflow-hidden hack-safari-overlow' url='https://assets.pcc-archive.org/videos/pcc-roadmap-2.0-720p.mp4'  />
 
 ## Events 📝 {#events}
 
