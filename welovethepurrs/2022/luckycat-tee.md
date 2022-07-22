@@ -15,6 +15,24 @@ Lucky Purrs are getting their [PCC Lucky Cat Tees](/merch/t-shirts#lucky-cat-tee
 
 <!--truncate-->
 
+### nuggets.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    Yuess! Finally got to open my most excellently packaged order from
+    <a href="https://twitter.com/PurrnelopesCC?ref_src=twsrc%5Etfw"
+      >@PurrnelopesCC</a
+    >
+    💕🥰😻Feeling luckier already 🍀 Thank you for all the goodies!
+    <a href="https://t.co/lMoLb7M0J5">pic.twitter.com/lMoLb7M0J5</a>
+  </p>
+  &mdash; nuggets.pcc.eth (@Chickencreep1)
+  <a
+    href="https://twitter.com/Chickencreep1/status/1547741357422260224?ref_src=twsrc%5Etfw"
+    >July 15, 2022</a
+  >
+</EmbedTweet>
+
 ### edge.pcc.eth
 
 <EmbedTweet>
@@ -56,6 +74,24 @@ Lucky Purrs are getting their [PCC Lucky Cat Tees](/merch/t-shirts#lucky-cat-tee
   >
 </EmbedTweet>
 
+### quita.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    Got 23/100 of the limited edition Lucky Cat t-shirts!
+    <a href="https://twitter.com/PurrnelopesCC?ref_src=twsrc%5Etfw"
+      >@PurrnelopesCC</a
+    >
+    <a href="https://t.co/DBUvJMZP41">https://t.co/DBUvJMZP41</a>
+    <a href="https://t.co/wX9BfbM4zh">pic.twitter.com/wX9BfbM4zh</a>
+  </p>
+  &mdash; Quita | quita.pcc.eth 🇺🇦 👾 (@quitathekitty)
+  <a
+    href="https://twitter.com/quitathekitty/status/1547319900313632769?ref_src=twsrc%5Etfw"
+    >July 13, 2022</a
+  >
+</EmbedTweet>
+
 ### quit.pcc.eth
 
 <EmbedTweet>
@@ -66,6 +102,20 @@ Lucky Purrs are getting their [PCC Lucky Cat Tees](/merch/t-shirts#lucky-cat-tee
   &mdash; quit.pcc.eth (@0xQuit)
   <a
     href="https://twitter.com/0xQuit/status/1549515518280749056?ref_src=twsrc%5Etfw"
+    >July 19, 2022</a
+  >
+</EmbedTweet>
+
+### jamie.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    Yes ser!!! Love it. I wore mine today too. Pretty proud of these ones
+    <a href="https://t.co/o4EYkSBlTV">pic.twitter.com/o4EYkSBlTV</a>
+  </p>
+  &mdash; jamie.pcc.eth (@Jamiethetweeter)
+  <a
+    href="https://twitter.com/Jamiethetweeter/status/1549517326869041157?ref_src=twsrc%5Etfw"
     >July 19, 2022</a
   >
 </EmbedTweet>
