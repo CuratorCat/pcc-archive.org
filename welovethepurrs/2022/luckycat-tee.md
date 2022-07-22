@@ -11,7 +11,7 @@ import {EmbedTweet} from '@site/src/components/Social'
 
 ![](./assets/luckycat-tee.jpg)
 
-Lucky Purrs are getting their [PCC Lucky Cat Tees](/merch/t-shirts#lucky-cat-tee-limited-editon) and cheering on Twitter 😹
+Lucky Purrs are getting their [PCC Lucky Cat Tees](/merch/t-shirts#lucky-cat-tee-limited-editon) and cheering on Twitter 😺🎉
 
 <!--truncate-->
 
