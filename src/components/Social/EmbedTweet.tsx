@@ -3,9 +3,13 @@ import { useColorMode } from "@docusaurus/theme-common";
 
 type EmbedTweetProps = {
   children: React.ReactNode;
+  conversation?: boolean;
 };
 
-export const EmbedTweet: FC<EmbedTweetProps> = ({ children }) => {
+export const EmbedTweet: FC<EmbedTweetProps> = ({
+  children,
+  conversation = false,
+}) => {
   const { isDarkTheme } = useColorMode();
 
   useEffect(() => {
@@ -24,6 +28,7 @@ export const EmbedTweet: FC<EmbedTweetProps> = ({ children }) => {
       className="twitter-tweet"
       data-theme={isDarkTheme ? "dark" : "light"}
       data-dnt="true"
+      data-conversation={conversation ? "" : "none"}
     >
       {children}
     </blockquote>
