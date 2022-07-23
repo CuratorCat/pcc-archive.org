@@ -241,3 +241,8 @@ Other items from Roadmap 2.0 will be added to the list upon completion or new up
 - 05-16: [Grandmas](../collections/grandmas/index.md) public mint/claim started
 - 05-18: [Physical Model Cat](../merch/pcc-model-cat.md) Claim Opened
 - 06-17: [Quests](quest.md) Started
+
+### 2022 Q3
+
+- 07-19: 1st batch of [Physical Model Cats](../merch/pcc-model-cat.md) started shipping to holders
+- 07-22: [Purrnelope's Exclusives](../collections/index.md) mint/sale started

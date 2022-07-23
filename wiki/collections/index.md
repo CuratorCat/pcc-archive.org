@@ -13,11 +13,35 @@ import Tier2 from './\_tier2.md';
 import Gift from './\_gift.md';
 import KVPurrks from './\_kittyvault-purrks.md';
 
+## Latest Collection
+
+### Purrnelope's Exclusives
+
+![](./assets/pcc-exclusives.jpg)
+
+Purrnelope's Exclusives mint started on Jul 22, 2021. Public mint is now open.
+
+Mint is on official PCC website https://www.purrnelopescountryclub.com/claim/purrnelopes-exclusives
+
+There are 5 categories in PCC Exclusives, the higher the rarity, different categories yield different $TOKEN amount.
+
+- Category 1: 5 $TOKENs per day
+- Category 2: 10 $TOKENs per day
+- Category 3: 25 $TOKENs per day
+- Category 4: 50 $TOKENs per day
+- Category 5: 100 $TOKENs per day
+
+:::info
+
+More detail for Purrnelope's Exclusives will be updated later on PCC Archive once the team released more detail. Please check official PCC Twitter account [@PurrnelopesCC](https://twitter.com/PurrnelopesCC) for latest info.
+
+:::
+
 ## Main Collections
 
 ![](./assets/collections.jpg)
 
-Cats, Kittens, Grandmas, TBA 2 are 4 main collections in PCC Universe.
+Cats, Kittens, Grandmas, Tier 2s (TBA) are 4 main collections in PCC Universe.
 
 ### Tiers
 

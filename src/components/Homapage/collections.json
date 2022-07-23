@@ -1,5 +1,12 @@
 [
   {
+    "title": "Purrnelope's Exclusives",
+    "href": "/collections/",
+    "description": "Public Mint Open",
+    "tier": null,
+    "imageUrl": "/img/collection-exclusives.jpg"
+  },
+  {
     "title": "Purrnelope's Cats",
     "href": "/collections/cats",
     "description": "1st Collection",
