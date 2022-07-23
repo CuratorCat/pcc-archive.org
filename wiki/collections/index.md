@@ -13,6 +13,10 @@ import Tier2 from './\_tier2.md';
 import Gift from './\_gift.md';
 import KVPurrks from './\_kittyvault-purrks.md';
 
+**PCC Universe has 4 main collections: Cats, Kittens, Grandmas, and Tier 2 (TBA)** that are cat members of the country club. **And 3 other Collections**: Purrnelope's Exslusives, KittyVault Purrks and Purrnelope's Gift.
+
+The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day. Exclusives collection also yield $TOKEN.
+
 ## Latest Collection
 
 ### Purrnelope's Exclusives
@@ -23,7 +27,7 @@ Purrnelope's Exclusives mint started on Jul 22, 2021. Public mint is now open.
 
 Mint is on official PCC website https://www.purrnelopescountryclub.com/claim/purrnelopes-exclusives
 
-There are 5 categories in PCC Exclusives, the higher the rarity, different categories yield different $TOKEN amount.
+There are 5 categories in Exclusives, the higher the rarity, different categories yield different $TOKEN amount.
 
 - Category 1: 5 $TOKENs per day
 - Category 2: 10 $TOKENs per day

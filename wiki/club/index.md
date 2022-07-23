@@ -29,7 +29,7 @@ Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in
 
 ## Collections 😺 {#collections}
 
-**PCC Universe has 4 main [Collections](../collections/index.md): Cats, Kittens, Grandmas, and Tier 2 (TBA)**. **And 2 other Collections**: KittyVault Purrks and Purrnelope's Gift. The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day.
+**PCC Universe has 4 main [Collections](../collections/index.md): Cats, Kittens, Grandmas, and Tier 2 (TBA)**. **And 3 other Collections**: Purrnelope's Exslusives, KittyVault Purrks and Purrnelope's Gift. The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day. Exclusives collection also yield $TOKEN.
 
 <span className="wikiPostListImgR">
 
@@ -64,6 +64,18 @@ Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in
 ### Tier 2 (TBA) <sup>TIER 2</sup>
 
 <Tier2 />
+
+<span className="wikiPostListImgR">
+
+[![](../collections/exclusives/assets/exclusives-s.jpg)](../collections/index.md)
+
+</span>
+
+### Exclusives <sup>Yielding NFT</sup>
+
+**[Purrnelope's Exclusives](../collections/index.md)** are $TOKEN yielding NFTs. There are 5 categories that yield up to 100 $TOKENs per day.
+
+The mint started on 2022-07-22, and public mint is now open.
 
 <span className="wikiPostListImgR">
 
