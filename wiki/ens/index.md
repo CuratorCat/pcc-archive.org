@@ -14,7 +14,7 @@ It's free for PCC Cats holders to claim on the [PCC website](https://www.purrnel
 
 ENS domains are booming, and PCC's wizard `hodl.pcc.eth` created a custom [ENS resolver contract](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#code) that made PCC the first project that links ERC-721 NFTs to ENS subdomains possible. The contract itself says _feel free to reuse_ it for other projects to use!
 
-<iframe width="100%" height="150" src="https://dune.xyz/embeds/318958/949996/1acb0020-e920-4e6a-8d9a-f3f66207dec3" title="pcc.eth counter" frameborder="0" style={{background: "#F3F0FE", borderRadius: "12px"}}></iframe>
+<iframe width="100%" height="150" src="https://dune.xyz/embeds/1099635/1878809/0db4156e-6bdd-4d67-834f-2754f1e2087e" title="pcc.eth counter" frameborder="0" style={{background: "#F3F0FE", borderRadius: "12px"}}></iframe>
 
 ## Features
 
