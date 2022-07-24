@@ -15,6 +15,31 @@ Lucky Purrs are getting their [PCC Lucky Cat Tees](/merch/t-shirts#lucky-cat-tee
 
 <!--truncate-->
 
+### sli.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    Is this the first <a
+      href="https://twitter.com/PurrnelopesCC?ref_src=twsrc%5Etfw"
+      >@PurrnelopesCC</a
+    > Lucky Tee out in the wild????
+    <a
+      href="https://twitter.com/hashtag/welovethepurs?src=hash&amp;ref_src=twsrc%5Etfw"
+      >#welovethepurs</a
+    >
+    <a
+      href="https://twitter.com/hashtag/wearethepurrs?src=hash&amp;ref_src=twsrc%5Etfw"
+      >#wearethepurrs</a
+    >
+    <a href="https://t.co/lcPftA4Gkf">pic.twitter.com/lcPftA4Gkf</a>
+  </p>
+  &mdash; SLi.pcc.eth (@SLi0071)
+  <a
+    href="https://twitter.com/SLi0071/status/1544693969623318531?ref_src=twsrc%5Etfw"
+    >July 6, 2022</a
+  >
+</EmbedTweet>
+
 ### nuggets.pcc.eth
 
 <EmbedTweet>
