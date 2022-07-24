@@ -31,6 +31,14 @@ description: Smart Contract Addresses & Important Accounts of Purrnelope's Count
 - Token Name: Purrnelopes Grandmas
 - Token Symbol: PG
 
+### 🛩 Purrnelope's Exclusives
+
+- **Ethereum / ERC-721(A)**
+- `0x9e8a92F833c0ae4842574cE9cC0ef4c7300Ddb12` [Etherscan](https://etherscan.io/address/0x9e8a92F833c0ae4842574cE9cC0ef4c7300Ddb12)
+- Contract Name: PurrnelopesExclusives
+- Token Name: Purrnelopes Exclusives
+- Token Symbol: PE
+
 ### 🪂 KittyVault Purrks
 
 - **Ethereum / ERC-1155**
