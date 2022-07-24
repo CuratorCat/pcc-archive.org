@@ -99,6 +99,30 @@ Lucky Purrs are getting their [PCC Lucky Cat Tees](/merch/t-shirts#lucky-cat-tee
   >
 </EmbedTweet>
 
+### cryptocat.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    GM Purrs.
+    <a href="https://twitter.com/PurrnelopesCC?ref_src=twsrc%5Etfw"
+      >@PurrnelopesCC</a
+    >
+    Lucky cat 12/100 has landed 🙌🏻 <br />Have a great wknd all 😎<a
+      href="https://twitter.com/hashtag/WeAreThePurrs?src=hash&amp;ref_src=twsrc%5Etfw"
+      >#WeAreThePurrs</a
+    ><a
+      href="https://twitter.com/hashtag/Purrsexclusives?src=hash&amp;ref_src=twsrc%5Etfw"
+      >#Purrsexclusives</a
+    >
+    <a href="https://t.co/x7r7YMOIl2">pic.twitter.com/x7r7YMOIl2</a>
+  </p>
+  &mdash; cryptocat.pcc.eth (@Cryptocat07)
+  <a
+    href="https://twitter.com/Cryptocat07/status/1548222894190129153?ref_src=twsrc%5Etfw"
+    >July 16, 2022</a
+  >
+</EmbedTweet>
+
 ### quita.pcc.eth
 
 <EmbedTweet>
