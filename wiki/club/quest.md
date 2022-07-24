@@ -17,6 +17,18 @@ Only past quests will be archived. Join the quests for the active quest.
 
 ### 2022 July
 
+- 2022-07-22
+
+  > like [https://twitter.com/hodl_pcc/status/1550537308020940800](https://twitter.com/newherexyz/status/1550537308020940800)
+
+- 2022-07-21
+
+  > retweet [https://twitter.com/hodl_pcc/status/1550106715718402050](https://twitter.com/Carlini8N/status/1550106715718402050)
+
+- 2022-07-21
+
+  > retweet [https://twitter.com/hodl_pcc/status/1550189364403134466](https://twitter.com/PurrnelopesCC/status/1550189364403134466)
+
 - 2022-07-20
 
   > like [https://twitter.com/hodl_pcc/status/1549793758278926336](https://twitter.com/PurrnelopesCC/status/1549793758278926336)
