@@ -81,3 +81,57 @@ First batch of [Physical PCC Model Cat](/merch/pcc-model-cat) started shipping t
     >July 21, 2022</a
   >
 </EmbedTweet>
+
+### ebbo.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    physical models arrived of my
+    <a href="https://twitter.com/PurrnelopesCC?ref_src=twsrc%5Etfw"
+      >@PurrnelopesCC</a
+    >
+    purrs<a
+      href="https://twitter.com/hashtag/spacecadets?src=hash&amp;ref_src=twsrc%5Etfw"
+      >#spacecadets</a
+    ><br /><br />
+    bringing
+    <a href="https://twitter.com/hashtag/NFTs?src=hash&amp;ref_src=twsrc%5Etfw"
+      >#NFTs</a
+    >
+    too life is fun
+    <a href="https://t.co/FYycUZzJ8I">pic.twitter.com/FYycUZzJ8I</a>
+  </p>
+  &mdash; ebbo.pcc.eth (@EbbosNFTs)
+  <a
+    href="https://twitter.com/EbbosNFTs/status/1551513473577803776?ref_src=twsrc%5Etfw"
+    >July 25, 2022</a
+  >
+</EmbedTweet>
+
+### mooofie.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    Special Delivery! Couldn’t be happier with how my model has turned out. Now
+    to get some more ordered
+    <a
+      href="https://twitter.com/hashtag/welovethepurrs?src=hash&amp;ref_src=twsrc%5Etfw"
+      >#welovethepurrs</a
+    >
+    <a
+      href="https://twitter.com/hashtag/wearethepurrs?src=hash&amp;ref_src=twsrc%5Etfw"
+      >#wearethepurrs</a
+    ><a href="https://twitter.com/PurrnelopesCC?ref_src=twsrc%5Etfw"
+      >@PurrnelopesCC</a
+    >
+    <a href="https://twitter.com/alchemy_plastic?ref_src=twsrc%5Etfw"
+      >@alchemy_plastic</a
+    >
+    <a href="https://t.co/D8fJfOxzSK">pic.twitter.com/D8fJfOxzSK</a>
+  </p>
+  &mdash; Mooofie.pcc.eth (@Mooofie2)
+  <a
+    href="https://twitter.com/Mooofie2/status/1551502779298074624?ref_src=twsrc%5Etfw"
+    >July 25, 2022</a
+  >
+</EmbedTweet>
