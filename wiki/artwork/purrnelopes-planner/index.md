@@ -9,6 +9,17 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 ## 2022 Archive
 
+### 2022 Week 30
+
+![](./assets/2022w30.jpg)
+
+- Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1551658545208332292)
+- Sticky Notes:
+  - Rescue Mission Plan A
+  - 1
+  - Lab results
+  - 1000 Subdoamins?
+
 ### 2022 Week 29
 
 ![](./assets/2022w29.jpg)
