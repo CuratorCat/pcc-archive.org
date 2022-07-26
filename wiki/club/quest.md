@@ -17,6 +17,10 @@ Only past quests will be archived. Join the quests for the active quest.
 
 ### 2022 July
 
+- 2022-07-25
+
+  > retweet [https://twitter.com/hodl_pcc/status/1551286132180103169](https://twitter.com/CuratorCatPCC/status/1551286132180103169)
+
 - 2022-07-24
 
   > retweet [https://twitter.com/hodl_pcc/status/1551296160652034048](https://twitter.com/PurrnelopesCC/status/1551296160652034048)
