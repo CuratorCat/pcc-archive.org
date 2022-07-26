@@ -141,6 +141,23 @@ Lucky Purrs are getting their [PCC Lucky Cat Tees](/merch/t-shirts#lucky-cat-tee
   >
 </EmbedTweet>
 
+### aron.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    Merch acquired! Let the flexing begin!
+    <a href="https://twitter.com/PurrnelopesCC?ref_src=twsrc%5Etfw"
+      >@PurrnelopesCC</a
+    >
+    <a href="https://t.co/jsQn2OHzOL">pic.twitter.com/jsQn2OHzOL</a>
+  </p>
+  &mdash; aron.pcc.eth (@aron_plz_hodl)
+  <a
+    href="https://twitter.com/aron_plz_hodl/status/1551975715259797504?ref_src=twsrc%5Etfw"
+    >July 26, 2022</a
+  >
+</EmbedTweet>
+
 ### quita.pcc.eth
 
 <EmbedTweet>
@@ -271,6 +288,19 @@ Lucky Purrs are getting their [PCC Lucky Cat Tees](/merch/t-shirts#lucky-cat-tee
   <a
     href="https://twitter.com/ksu_322/status/1550153927185862659?ref_src=twsrc%5Etfw"
     >July 21, 2022</a
+  >
+</EmbedTweet>
+
+### ladyrose.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    Lucky 13 😏 <a href="https://t.co/KimlGemdXp">pic.twitter.com/KimlGemdXp</a>
+  </p>
+  &mdash; LadyRose.pcc.eth🌹 (@LadyRose_NFT)
+  <a
+    href="https://twitter.com/LadyRose_NFT/status/1551626316394500097?ref_src=twsrc%5Etfw"
+    >July 25, 2022</a
   >
 </EmbedTweet>
 
