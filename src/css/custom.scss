@@ -7,7 +7,7 @@
 @import url(./tailwindcss.base.reset.css);
 @tailwind components;
 @tailwind utilities;
-@import "fonts.scss";
+/* @import "fonts.scss"; */
 
 @layer utilities {
   /* Chrome, Safari and Opera */
@@ -23,8 +23,8 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-font-family-base: como-pcc, ui-sans-serif, system-ui, -apple-system,
-    BlinkMacSystemFont, Roboto, sans;
+  /* --ifm-font-family-base: como-pcc, ui-sans-serif, system-ui, -apple-system,
+    BlinkMacSystemFont, Roboto, sans; */
   --ifm-color-primary: #8767f2;
   --ifm-color-primary-dark: #8767f2;
   --ifm-color-primary-darker: #8767f2;
