@@ -14,7 +14,7 @@ The official PCC website will be updated for some kind of this purpose as well o
 
 ### Who am I?
 
-I'm Curator Cat ([github.com/CuratorCat](https://github.com/CuratorCat)). Behind the account, I am a community member of Purrnelope's Country Club. I have another username in the community but I would like to keep being anonymous as Curator Cat for now. I hope more community members can join this project to help gather and maintain this project. And eventually everyone is curator of the PCC Archive.
+I'm Curator Cat ([GitHub: CuratorCat](https://github.com/CuratorCat) / [Twitter: @CuratorCatPCC](https://twitter.com/CuratorCatPCC)). Behind the account, I am a community member of Purrnelope's Country Club. I hope more community members can join this project to help gather and maintain this project. And eventually everyone is curator of the PCC Archive.
 
 ### Who owns PCC Archive
 
@@ -42,18 +42,22 @@ No Collab to other projects. And no ADs. This project is for PCC only.
 
 Docusaurus is an open-source project created by facebook and used by many projects. It's good for docs and blogs to use. Also it can be deployed anywhere supports static web hosting, so this project doesn't require funds or donations to keep running.
 
+### Why not Public Forum?
+
+PCC Archive contains links to contracts, marketplaces etc. that will be dangerous if changed by people with bad intention. So the content update is through GitHub, and the history is on [GitHub](https://github.com/CuratorCat/pcc-archive.org).
+
+PCC team planned it's official forum in the future.
+
 ## Contact Me {#contact}
 
-:::warning
+:::caution
 
-Never share your confidential information, passwords, private keys or seed phrases with ANYONE! Be extra careful when receiving any external links or online forms. Always keep an eye out for malicious parties in the Dark Forest 👀
+Never share your confidential information, passwords, private keys or seed phrases with ANYONE!
+
+Be extra careful when receiving any external links or online forms.
 
 :::
 
-1. GitHub: [Create New Issue](https://github.com/CuratorCat/pcc-archive.org/issues/new) in this project's repo
-
-1. Discord: tag me `curatorcat.pcc.eth#0385` in PCC Discord
-
-1. BlockScan Chat: https://chat.blockscan.com/index?a=0xCCA7CCADbf0fBbF9ae20Bcc67f849efa87343eeE
-
-1. Email: `CuratorCat[at]icloud.com`
+- GitHub: [Issue](https://github.com/CuratorCat/pcc-archive.org/issues) in this project's repo
+- Discord: tag me `curatorcat.pcc.eth#0385` in PCC Discord publicly
+- Twitter: [@CuratorCatPCC](https://twitter.com/CuratorCatPCC)
