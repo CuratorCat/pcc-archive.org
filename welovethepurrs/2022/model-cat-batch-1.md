@@ -135,3 +135,47 @@ First batch of [Physical PCC Model Cat](/merch/pcc-model-cat) started shipping t
     >July 25, 2022</a
   >
 </EmbedTweet>
+
+### gravityshmavity.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    Blown away at the quality at Purrnelopes Country Club. <br />Look at this 3D
+    printed, hand-painted, 1/1 physical of my PCC cat. The unboxing experience
+    was top-notch and seeing my #1 cat in real life is magic. Thanks
+    <a href="https://twitter.com/PurrnelopesCC?ref_src=twsrc%5Etfw"
+      >@PurrnelopesCC</a
+    >
+    !
+    <a
+      href="https://twitter.com/hashtag/welovethepurrs?src=hash&amp;ref_src=twsrc%5Etfw"
+      >#welovethepurrs</a
+    >
+    <a href="https://twitter.com/hashtag/nft?src=hash&amp;ref_src=twsrc%5Etfw"
+      >#nft</a
+    >
+    <a href="https://t.co/BHRAwqsZ13">pic.twitter.com/BHRAwqsZ13</a>
+  </p>
+  &mdash; 🎀 gravityshmavity.pcc.eth 🎀 (@GravityShmavity)
+  <a
+    href="https://twitter.com/GravityShmavity/status/1552362995019386881?ref_src=twsrc%5Etfw"
+    >July 27, 2022</a
+  >
+</EmbedTweet>
+
+### jt.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    <a href="https://twitter.com/PurrnelopesCC?ref_src=twsrc%5Etfw"
+      >@PurrnelopesCC</a
+    >
+    best dressed at the country club!
+    <a href="https://t.co/JNNp9DZXE5">pic.twitter.com/JNNp9DZXE5</a>
+  </p>
+  &mdash; jt.pcc.eth (@StillSendIt)
+  <a
+    href="https://twitter.com/StillSendIt/status/1552418691337408512?ref_src=twsrc%5Etfw"
+    >July 27, 2022</a
+  >
+</EmbedTweet>
