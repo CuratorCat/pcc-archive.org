@@ -83,6 +83,7 @@ module.exports = {
           },
         ],
       },
+      { to: "/welovethepurrs", label: "😻 Purrs", position: "left" },
       {
         label: "More",
         position: "left",
@@ -102,29 +103,6 @@ module.exports = {
           {
             label: "🛠 Contracts & EOA Addresses",
             to: "/addresses",
-          },
-          {
-            label: "😻 WeLoveThePurrs",
-            to: "/welovethepurrs",
-          },
-        ],
-      },
-      {
-        label: "About",
-        position: "right",
-        to: "/about",
-        items: [
-          {
-            label: "About PCC Archive",
-            to: "/about",
-          },
-          {
-            label: "Contribute",
-            to: "/contribute",
-          },
-          {
-            label: "PCC Archive Github",
-            href: "https://github.com/CuratorCat/pcc-archive.org",
           },
         ],
       },
@@ -203,5 +181,10 @@ module.exports = {
     respectPrefersColorScheme: true,
   },
   announcementBar: require("./announcementBar"),
-  metadata: [{name: 'viewport', content: 'width=device-width, initial-scale=1, maximum-scale=1'}],
+  metadata: [
+    {
+      name: "viewport",
+      content: "width=device-width, initial-scale=1, maximum-scale=1",
+    },
+  ],
 };
