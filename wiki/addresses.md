@@ -82,6 +82,12 @@ description: Smart Contract Addresses & Important Accounts of Purrnelope's Count
 - `0x112E62d5906F9239D9fabAb7D0237A328F128e22` [Etherscan](https://etherscan.io/address/0x112E62d5906F9239D9fabAb7D0237A328F128e22)
 - ENS: `purrnelope.pcc.eth`
 
+### 👛 Community Wallet
+
+- **Ethereum / EOA**
+- `0x1F4A4fdFB5C729DC5D397A3541b38BF13a841Df3` [Etherscan](https://etherscan.io/address/0x1F4A4fdFB5C729DC5D397A3541b38BF13a841Df3)
+- ENS: `purrnelopecommunitywallet.eth`
+
 ## Helper Contract Addresses
 
 ### NftEnumerator Helper
@@ -115,13 +121,6 @@ description: Smart Contract Addresses & Important Accounts of Purrnelope's Count
 - `0x172d1aD4F1cc1aDAbbf9401bc95E0694f7Fb04a9` [Etherscan](https://etherscan.io/address/0x172d1aD4F1cc1aDAbbf9401bc95E0694f7Fb04a9)
 
 ## Abandoned Accounts 🚦
-
-### 🚦 Community Wallet
-
-- **Ethereum / EOA**
-- ~~`0x1F4A4fdFB5C729DC5D397A3541b38BF13a841Df3`~~ [Etherscan](https://etherscan.io/address/0x1F4A4fdFB5C729DC5D397A3541b38BF13a841Df3)
-- ENS: `purrnelopecommunitywallet.eth`
-- Uncertain will be used again in the future
 
 ### 🚦 NFT20 (Cats) Vault
 
