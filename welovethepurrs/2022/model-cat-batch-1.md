@@ -179,3 +179,70 @@ First batch of [Physical PCC Model Cat](/merch/pcc-model-cat) started shipping t
     >July 27, 2022</a
   >
 </EmbedTweet>
+
+### soc.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    GM. My
+    <a href="https://twitter.com/PurrnelopesCC?ref_src=twsrc%5Etfw"
+      >@PurrnelopesCC</a
+    >
+    model cat has arrived! Purrfect way to start the weekend!
+    <a href="https://t.co/VbUYiDyA5k">pic.twitter.com/VbUYiDyA5k</a>
+  </p>
+  &mdash; soc.pcc.eth (@therealsoc)
+  <a
+    href="https://twitter.com/therealsoc/status/1552979387095683076?ref_src=twsrc%5Etfw"
+    >July 29, 2022</a
+  >
+</EmbedTweet>
+
+### logie.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    Added to my physical NFT collectibles...cc
+    <a href="https://twitter.com/TheShillPCC?ref_src=twsrc%5Etfw"
+      >@TheShillPCC</a
+    >
+    <a href="https://t.co/FJfBLAQxyS">pic.twitter.com/FJfBLAQxyS</a>
+  </p>
+  &mdash; Logan Hitchcock (@LHitch09)
+  <a
+    href="https://twitter.com/LHitch09/status/1553062112506920960?ref_src=twsrc%5Etfw"
+    >July 29, 2022</a
+  >
+</EmbedTweet>
+
+### jamesladalia.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    There’s so much to love about
+    <a href="https://twitter.com/PurrnelopesCC?ref_src=twsrc%5Etfw"
+      >@PurrnelopesCC</a
+    >
+    but honestly getting my PCC in physical form may just be my favorite 😻
+    <a href="https://t.co/EAWPQ8g7tw">pic.twitter.com/EAWPQ8g7tw</a>
+  </p>
+  &mdash; jamesladalia.pcc.eth (@JamesLadalia)
+  <a
+    href="https://twitter.com/JamesLadalia/status/1553072940454920192?ref_src=twsrc%5Etfw"
+    >July 29, 2022</a
+  >
+</EmbedTweet>
+
+### theshill.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    it’s just…so beautiful
+    <a href="https://t.co/GGunw2j0c9">pic.twitter.com/GGunw2j0c9</a>
+  </p>
+  &mdash; theshill.pcc.eth (@TheShillPCC)
+  <a
+    href="https://twitter.com/TheShillPCC/status/1553075104438951936?ref_src=twsrc%5Etfw"
+    >July 29, 2022</a
+  >
+</EmbedTweet>
