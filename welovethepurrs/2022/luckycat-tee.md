@@ -338,3 +338,23 @@ Lucky Purrs are getting their [PCC Lucky Cat Tees](/merch/t-shirts#lucky-cat-tee
     >July 8, 2022</a
   >
 </EmbedTweet>
+
+### purrs.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    For those of us in the community that were &quot;lucky&quot; enough, PCC
+    created an outstanding Limited Edition &quot;Lucky Cat&quot; t-shirt,
+    complete with the serial number! These amazing shirts and the community
+    members that own them are even being cataloged by
+    <a href="https://twitter.com/CuratorCatPCC?ref_src=twsrc%5Etfw"
+      >@CuratorCatPCC</a
+    >, incredible! 7/10
+    <a href="https://t.co/oMlLjqaB6R">pic.twitter.com/oMlLjqaB6R</a>
+  </p>
+  &mdash; purrs.pcc.eth (catsfanatic) (@catsfanatic319)
+  <a
+    href="https://twitter.com/catsfanatic319/status/1553102583006388224?ref_src=twsrc%5Etfw"
+    >July 29, 2022</a
+  >
+</EmbedTweet>

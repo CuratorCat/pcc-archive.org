@@ -246,3 +246,23 @@ First batch of [Physical PCC Model Cat](/merch/pcc-model-cat) started shipping t
     >July 29, 2022</a
   >
 </EmbedTweet>
+
+### purrs.pcc.eth
+
+<EmbedTweet conversation>
+  <p lang="en" dir="ltr">
+    What&#39;s that inside my mug? It&#39;s likely the most detailed piece of
+    merch you will ever find from any NFT project! That&#39;s right, a custom,
+    hand painted model of my PFP from
+    <a href="https://twitter.com/alchemy_plastic?ref_src=twsrc%5Etfw"
+      >@alchemy_plastic</a
+    >! The amazing detail to the tiger stripes including the legs and tail are
+    breath taking! 9/10
+    <a href="https://t.co/Tt2Ujq9AwR">pic.twitter.com/Tt2Ujq9AwR</a>
+  </p>
+  &mdash; purrs.pcc.eth (catsfanatic) (@catsfanatic319)
+  <a
+    href="https://twitter.com/catsfanatic319/status/1553102610579824643?ref_src=twsrc%5Etfw"
+    >July 29, 2022</a
+  >
+</EmbedTweet>
