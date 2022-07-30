@@ -266,3 +266,18 @@ First batch of [Physical PCC Model Cat](/merch/pcc-model-cat) started shipping t
     >July 29, 2022</a
   >
 </EmbedTweet>
+
+### ladyrose.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    This is LadyRose.<br /><br />LadyRose starts the day with a coffee and a
+    hearty gm.<br /><br />LadyRose is doing it right.<br /><br />Be like
+    ladyRose. <a href="https://t.co/u6dI1eWmN4">pic.twitter.com/u6dI1eWmN4</a>
+  </p>
+  &mdash; LadyRose.pcc.eth🌹 (@LadyRose_NFT)
+  <a
+    href="https://twitter.com/LadyRose_NFT/status/1553114594054389760?ref_src=twsrc%5Etfw"
+    >July 29, 2022</a
+  >
+</EmbedTweet>
