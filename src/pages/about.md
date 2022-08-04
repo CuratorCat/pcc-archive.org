@@ -14,7 +14,9 @@ The official PCC website will be updated for some kind of this purpose as well o
 
 ### Who am I?
 
-I'm Curator Cat ([GitHub: CuratorCat](https://github.com/CuratorCat) / [Twitter: @CuratorCatPCC](https://twitter.com/CuratorCatPCC)). Behind the account, I am a community member of Purrnelope's Country Club. I hope more community members can join this project to help gather and maintain this project. And eventually everyone is curator of the PCC Archive.
+I'm Curator Cat ([GitHub: CuratorCat](https://github.com/CuratorCat) / [Twitter: @CuratorCatPCC](https://twitter.com/CuratorCatPCC)). I am a community member of Purrnelope's Country Club.
+
+**I hope more community members can join this project to help editing the content. And everyone can be the curator of the PCC Archive.**
 
 ### Who owns PCC Archive
 

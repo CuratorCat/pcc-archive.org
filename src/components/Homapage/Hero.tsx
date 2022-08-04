@@ -19,6 +19,13 @@ export default function Hero() {
                 <p className="pt-1 text-base sm:pt-3 sm:text-xl lg:text-lg xl:text-xl">
                   PCC Archive is created for people to learn and find
                   information about the Purrnelope's Country Club project.
+                  Welcome to{" "}
+                  <a href="/contribute">
+                    <span className="underline hover:text-violet-500">
+                      contribute to the content
+                    </span>
+                  </a>
+                  .
                 </p>
               </div>
             </div>
