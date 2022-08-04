@@ -58,7 +58,7 @@ And 500 (#0-499) were free giveaways for previous social/collab project raffle w
 - DevMint for giveaways: 500 PE (#0 - 499)
 - Total Sale: 2,962 PE
   - Public: 2,562 PE
-  - KittyVault: 400 PE (#3031 - 3438)
+  - KittyVault: 400 PE
 
 ### Category Statistics
 
@@ -77,7 +77,7 @@ And 500 (#0-499) were free giveaways for previous social/collab project raffle w
 - 07-22: [10:30:14 PM +UTC](https://etherscan.io/tx/0xd85610050bbab060b07a5b428733510e8fc36c12142738ad4de24d8e34abd22a) Wave 2 sale/mint started
 - 07-22: [11:29:26 PM +UTC](https://etherscan.io/tx/0xd85610050bbab060b07a5b428733510e8fc36c12142738ad4de24d8e34abd22a) Wave 3 Public sale/mint started
 - 07-29: Community Voted to close sale on a set date [Vote on Snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/0x88cff1c29855e025e64822e6dcca40c23051d23dc41460927a324cbc154f05a7)
-- 08-02: KittyVault minted 400 Exclusives (#3031 - 3438, Nonce: [261](https://etherscan.io/tx/0x82cee66e05de1ae1d6d5ec2d79a49c668749a7854219f59873deb19cebde2d24) - [394](https://etherscan.io/tx/0x5332f3e80d4457758cdef2d16ffec494709b0f7a45bfc66f5d80a5f6fb4bde16)) for intercommunity advertising / outreach after a [community vote on Snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/0x0e934da6cb295e8e906473cdaa95e9a2dbeaec144740c8800d5c2a6b4b003b65)
+- 08-02: KittyVault minted 400 Exclusives (Nonce: [261](https://etherscan.io/tx/0x82cee66e05de1ae1d6d5ec2d79a49c668749a7854219f59873deb19cebde2d24) - [394](https://etherscan.io/tx/0x5332f3e80d4457758cdef2d16ffec494709b0f7a45bfc66f5d80a5f6fb4bde16)) for intercommunity advertising / outreach after a [community vote on Snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/0x0e934da6cb295e8e906473cdaa95e9a2dbeaec144740c8800d5c2a6b4b003b65)
 - 08-03: [12:00:30 AM +UTC](https://etherscan.io/tx/0x8e853eab786befd8fe2cf300785f9160ae90ed8a2ff3fd61171efab763c034cb) Public Mint Closed
 - 08-03: [09:54:25 PM +UTC](https://etherscan.io/tx/0xbd7a6c45c5d0a547675b8327061ba7ac693dcdddd7ebc07a2616d39f67b0b631) Collection Revealed
 
