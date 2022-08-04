@@ -9,6 +9,16 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 ## 2022 Archive
 
+### 2022 Week 31
+
+![](./assets/2022w31.jpg)
+
+- Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1554195260925952000)
+- Sticky Notes:
+  - Quest Rewards
+  - $Tokenomics
+  - Metabrew Proposal
+
 ### 2022 Week 30
 
 ![](./assets/2022w30.jpg)
