@@ -1,5 +1,5 @@
 ---
-sidebar_position: 30
+sidebar_position: 40
 title: 🪂 KittyVault Purrks
 image: /img/cover/pcc-purrks.jpg
 description: Purrnelopes KittyVault Purrks can be used to redeem NFTs, KittyVault Fractions or Physical Merchs. These airdrops all go to holder's main Purrnelopes Country Club Cat. Each of the 8 airdrops represents fractional ownership of the KittyVault.
@@ -14,7 +14,7 @@ description: Purrnelopes KittyVault Purrks can be used to redeem NFTs, KittyVaul
 
 ## What are Purrks
 
-**KittyVault Purrks are Tickets in PCC Universe and contain a shard from the [KittyVault](../../kittyvault/index.md). They can be used to redeem for NFTs, or redeem for Physical Merchs, or redeem for tokens represent of fractions of the KittyVault.** 
+**KittyVault Purrks are Tickets in PCC Universe and contain a shard from the [KittyVault](../../kittyvault/index.md). They can be used to redeem for NFTs, or redeem for Physical Merchs, or redeem for tokens represent of fractions of the KittyVault.**
 
 KittyVault Purrks were not on the original Roadmap 1.0 but added to the project later. Currently all 8 Purrks in Series 1 airdrops are completed.
 
@@ -153,11 +153,11 @@ function addNewTicket(string memory hash) public onlyOwner {
     _tokenCounter.increment();
     uint256 tokenId = _tokenCounter.current();
     uriTokenHash[tokenId] = hash;
-    
+
     FractionRedeemAllowed[tokenId] = false;
     AlternateRedeemAllowed[tokenId] = false;
     ERC721RedeemAllowed[tokenId] = false;
-    
+
     FractionsPerTicket[tokenId] = 0;
     TicketsPerAlternate[tokenId] = 0;
     TicketsPerERC721[tokenId] = 0;
@@ -236,16 +236,16 @@ This may be used once the KittyVault is fractionalized. And owners can burn(rede
 function burnTokenForFractions(uint256 numberOfTickets, uint256 tokenId) public tokenExists(tokenId) nonReentrant  {
     require(FractionRedeemAllowed[tokenId], "Kitty Bank fraction redemption is not currently open for this token");
     require(this.balanceOf(msg.sender, tokenId) >= numberOfTickets && numberOfTickets != 0, "You do not have any of these tokens to redeem");
-    
+
     uint256 fractions = numberOfTickets.mul(FractionsPerTicket[tokenId]);
     require(FractionsContract.balanceOf(address(this)) >= fractions, "Not enough fractions available to redeem");
-    
+
     //burn the tickets
     this.safeTransferFrom(msg.sender, BURN_ADDRESS, tokenId, numberOfTickets, "0x0");
     totalCount = totalCount.sub(numberOfTickets);
     //send tokens
     FractionsContract.transfer(msg.sender, fractions);
-    
+
     emit RedeemFractions(msg.sender, tokenId, numberOfTickets);
 }
 ```
@@ -271,7 +271,7 @@ function burnTokenForCompanion(uint256 numberOfTickets, uint256 tokenId) public 
     //burn the tickets
     this.safeTransferFrom(msg.sender, BURN_ADDRESS, tokenId, numberOfTickets, "0x0");
     totalCount = totalCount.sub(numberOfTickets);
-    
+
     emit RedeemNFT(msg.sender, tokenId, numberOfTickets);
 }
 ```
@@ -291,11 +291,11 @@ function burnTokenForAlternate(uint256 numberOfTickets, uint256 tokenId) public 
     require(AlternateRedeemAllowed[tokenId], "Alternate redemption is not currently open for this token");
     require(this.balanceOf(msg.sender, tokenId) >= numberOfTickets && numberOfTickets != 0, "You do not have any of these tokens to redeem");
     require(numberOfTickets == TicketsPerAlternate[tokenId] && numberOfTickets != 0, "Not enough tickets to redeem");
-    
+
     //burn the tickets
     this.safeTransferFrom(msg.sender, BURN_ADDRESS, tokenId, numberOfTickets, "0x0");
     totalCount = totalCount.sub(numberOfTickets);
-    
+
     emit RedeemPhysical(msg.sender, tokenId, numberOfTickets);
 }
 ```
