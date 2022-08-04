@@ -29,7 +29,9 @@ Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in
 
 ## Collections 😺 {#collections}
 
-**PCC Universe has 4 main [Collections](../collections/index.md): Cats, Kittens, Grandmas, and Tier 2 (TBA)**. **And 3 other Collections**: Purrnelope's Exslusives, KittyVault Purrks and Purrnelope's Gift. The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day. Exclusives collection also yield $TOKEN.
+**PCC Universe has 4 main [Collections](../collections/index.md): Cats, Kittens, Grandmas, and Tier 2 (TBA). And 3 other [Collections](../collections/index.md): Purrnelope's Exslusives, KittyVault Purrks and Purrnelope's Gift.**
+
+The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day. Exclusives collection also yield $TOKEN.
 
 <span className="wikiPostListImgR">
 
@@ -67,15 +69,15 @@ Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in
 
 <span className="wikiPostListImgR">
 
-[![](../collections/exclusives/assets/exclusives-s.jpg)](../collections/index.md)
+[![](../collections/exclusives/assets/exclusives-s.jpg)](../collections/exclusives/index.md)
 
 </span>
 
-### Exclusives <sup>Yielding NFT</sup>
+### Exclusives <sup>YIELD</sup>
 
-**[Purrnelope's Exclusives](../collections/index.md)** are $TOKEN yielding NFTs. There are 5 categories that yield up to 100 $TOKENs per day.
+**[Purrnelope's Exclusives](../collections/exclusives/index.md)** are $TOKEN yielding NFTs. There are 5 categories in Exclusives, the higher the rarity, different categories yield different $TOKEN amount.
 
-The mint started on 2022-07-22, and public mint is now open.
+Exclusives may receive extra perks in PCC Universe.
 
 <span className="wikiPostListImgR">
 
@@ -257,4 +259,5 @@ Other items from Roadmap 2.0 will be added to the list upon completion or new up
 ### 2022 Q3
 
 - 07-19: 1st batch of [Physical Model Cats](../merch/pcc-model-cat.md) started shipping to holders
-- 07-22: [Purrnelope's Exclusives](../collections/index.md) mint/sale started
+- 07-22: [Purrnelope's Exclusives](../collections/exclusives/index.md) mint/sale started
+- 08-03: [Purrnelope's Exclusives](../collections/exclusives/index.md) mint/sale closed and revealed

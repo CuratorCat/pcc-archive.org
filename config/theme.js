@@ -28,6 +28,10 @@ module.exports = {
             to: "/collections/grandmas",
           },
           {
+            label: "🛩 Exclusives",
+            to: "/collections/exclusives",
+          },
+          {
             label: "🪂 KittyVault Purrks",
             to: "/collections/kittyvault-purrks",
           },

@@ -1,36 +1,37 @@
 [
   {
+    "title": "Purrnelope's Cats",
+    "href": "/collections/cats",
+    "description": "OG Cat Collection",
+    "tier": 1,
+    "imageUrl": "/img/collection-cats.jpg"
+  },
+
+  {
     "title": "Purrnelope's Exclusives",
-    "href": "/collections/",
-    "description": "Public Mint Open",
+    "href": "/collections/exclusives",
+    "description": "$TOKEN Yielding NFT",
     "tier": null,
     "imageUrl": "/img/collection-exclusives.jpg"
   },
   {
-    "title": "Purrnelope's Cats",
-    "href": "/collections/cats",
-    "description": "1st Collection",
-    "tier": 1,
-    "imageUrl": "/img/collection-cats.jpg"
-  },
-  {
     "title": "Purrnelope's Kittens",
     "href": "/collections/kittens",
-    "description": "1st Companion",
+    "description": "1st Cat Companion",
     "tier": 3,
     "imageUrl": "/img/collection-kittens.jpg"
   },
   {
     "title": "Purrnelope's Grandmas",
     "href": "/collections/grandmas",
-    "description": "2nd Companion",
+    "description": "2nd Cat Companion",
     "tier": 3,
     "imageUrl": "/img/collection-grandmas.jpg"
   },
   {
     "title": "Kitty Vault Purrks",
     "href": "/collections/kittyvault-purrks",
-    "description": "Airdrop",
+    "description": "8 Airdrops",
     "tier": null,
     "imageUrl": "/img/collection-purrks.jpg"
   },

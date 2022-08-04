@@ -2,8 +2,8 @@
 title: PCC Collections
 sidebar_label: 😺 Collections
 sidebar_position: 20
-image: /img/cover/pcc.jpg
-description: "Cats, Kittens, Grandmas, KittyVault Purrks, Gifts and more collections to be announced."
+image: /img/cover/pcc-collections.jpg
+description: "Cats, Kittens, Grandmas, Exclusives, KittyVault Purrks, Gifts and more collections coming to PCC Universe."
 ---
 
 import Cats from './\_cats.md';
@@ -13,33 +13,9 @@ import Tier2 from './\_tier2.md';
 import Gift from './\_gift.md';
 import KVPurrks from './\_kittyvault-purrks.md';
 
-**PCC Universe has 4 main collections: Cats, Kittens, Grandmas, and Tier 2 (TBA)** that are cat members of the country club. **And 3 other Collections**: Purrnelope's Exslusives, KittyVault Purrks and Purrnelope's Gift.
+**PCC Universe has 4 main collections: Cats, Kittens, Grandmas, and Tier 2 (TBA) that are cat members of the country club. And 3 other Collections: Purrnelope's Exslusives, KittyVault Purrks and Purrnelope's Gift.**
 
 The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day. Exclusives collection also yield $TOKEN.
-
-## Latest Collection
-
-### Purrnelope's Exclusives
-
-![](./assets/pcc-exclusives.jpg)
-
-Purrnelope's Exclusives mint started on Jul 22, 2021. Public mint is now open.
-
-Mint is on official PCC website https://www.purrnelopescountryclub.com/claim/purrnelopes-exclusives
-
-There are 5 categories in Exclusives, the higher the rarity, different categories yield different $TOKEN amount.
-
-- Category 1: 5 $TOKENs per day
-- Category 2: 10 $TOKENs per day
-- Category 3: 25 $TOKENs per day
-- Category 4: 50 $TOKENs per day
-- Category 5: 100 $TOKENs per day
-
-:::info
-
-More detail for Purrnelope's Exclusives will be updated later on PCC Archive once the team released more detail. Please check official PCC Twitter account [@PurrnelopesCC](https://twitter.com/PurrnelopesCC) for latest info.
-
-:::
 
 ## Main Collections
 
@@ -94,6 +70,16 @@ Details for Tiers & $TOKEN has not been released yet.
 ### Tier 2 (TBA) <sup>TIER 2</sup>
 
 <Tier2 />
+
+## Exclusives Collection
+
+### Purrnelope's Exclusives
+
+[![](./exclusives/assets/pcc-exclusives.jpg)](./exclusives/index.md)
+
+[Purrnelope's Exclusives](./exclusives/index.md) are $TOKEN Yielding NFTs. There are 5 categories in Exclusives, the higher the rarity, different categories yield different $TOKEN amount.
+
+Exclusives may receive extra perks in PCC Universe.
 
 ## KittyVault Collection
 
