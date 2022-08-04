@@ -281,3 +281,42 @@ First batch of [Physical PCC Model Cat](/merch/pcc-model-cat) started shipping t
     >July 29, 2022</a
   >
 </EmbedTweet>
+
+### penny.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    So excited to receive my
+    <a href="https://twitter.com/PurrnelopesCC?ref_src=twsrc%5Etfw"
+      >@PurrnelopesCC</a
+    >
+    model!
+    <a href="https://twitter.com/hashtag/purrs?src=hash&amp;ref_src=twsrc%5Etfw"
+      >#purrs</a
+    >
+    🚀 <a href="https://t.co/T39SUWPYyH">pic.twitter.com/T39SUWPYyH</a>
+  </p>
+  &mdash; penny.pcc.eth (@PennyMac96)
+  <a
+    href="https://twitter.com/PennyMac96/status/1554162242123431942?ref_src=twsrc%5Etfw"
+    >August 1, 2022</a
+  >
+</EmbedTweet>
+
+### katie.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    I got me a
+    <a href="https://twitter.com/hashtag/Purr?src=hash&amp;ref_src=twsrc%5Etfw"
+      >#Purr</a
+    >
+    3D model too!
+    <a href="https://t.co/1iJtH19MLQ">pic.twitter.com/1iJtH19MLQ</a>
+  </p>
+  &mdash; katie.pcc.eth (@Hippapasta)
+  <a
+    href="https://twitter.com/Hippapasta/status/1554118656438804480?ref_src=twsrc%5Etfw"
+    >August 1, 2022</a
+  >
+</EmbedTweet>
