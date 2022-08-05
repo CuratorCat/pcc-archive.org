@@ -21,11 +21,13 @@ Purrnelope's Exclusives are $TOKEN Yielding NFTs and may receive extra perks in 
 
 There are 5 categories in Exclusives, the higher the rarity, different categories yield different $TOKEN amount.
 
-- CAT I: 5 $TOKENs per day
-- CAT II: 10 $TOKENs per day
-- CAT III: 25 $TOKENs per day
-- CAT IV: 50 $TOKENs per day
-- CAT V: 100 $TOKENs per day
+| Category | Daily $TOKEN Yield |
+| -------- | ------------------ |
+| CAT I    | 5                  |
+| CAT II   | 10                 |
+| CAT III  | 25                 |
+| CAT IV   | 50                 |
+| CAT V    | 100                |
 
 ### Exclusive Airdrops
 
@@ -41,7 +43,7 @@ An airdrop was planned for holders holding both Cat & Exclusive. Every airdrop f
 
 ## Mint / Sale
 
-The price was 0.1 ETH per Exclusive. Sale started 21:30 UTC on Jul 22, 2021 with 3 waves:
+The price was 0.1 ETH per Exclusive. Sale started 21:30 UTC on Jul 22, 2022 with 3 waves:
 
 - **Wave 1**: started 21:30 UTC for Wave 1 allowlist to mint, up to 3 Exclusives each address. _All Cat owners were in Wave 1 allowlist._
 - **Wave 2**: started 22:30 UTC for everyone who minted in Wave 1 + Wave 2 allowlist to mint, up to 3 Exclusives each address
@@ -62,11 +64,13 @@ And 500 (#0-499) were free giveaways for previous social/collab project raffle w
 
 ### Category Statistics
 
-- CAT I: `TBD`
-- CAT II: `TBD`
-- CAT III: `TBD`
-- CAT IV: `TBD`
-- CAT V: `TBD`
+| Category | Amount | % of All |
+| -------- | ------ | -------- |
+| CAT I    | 2542   | 73.43%   |
+| CAT II   | 721    | 20.83%   |
+| CAT III  | 158    | 4.56%    |
+| CAT IV   | 36     | 1.04%    |
+| CAT V    | 5      | 0.14%    |
 
 ## Events
 
