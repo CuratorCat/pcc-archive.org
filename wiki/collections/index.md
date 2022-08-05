@@ -13,6 +13,8 @@ import Tier2 from './\_tier2.md';
 import Gift from './\_gift.md';
 import KVPurrks from './\_kittyvault-purrks.md';
 
+![](./assets/pcc-collections.jpg)
+
 **PCC Universe has 4 main collections: Cats, Kittens, Grandmas, and Tier 2 (TBA) that are cat members of the country club. And 3 other Collections: Purrnelope's Exslusives, KittyVault Purrks and Purrnelope's Gift.**
 
 The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day. Exclusives collection also yield $TOKEN.
