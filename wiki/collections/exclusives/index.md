@@ -21,13 +21,13 @@ Purrnelope's Exclusives are $TOKEN Yielding NFTs and may receive extra perks in 
 
 There are 5 categories in Exclusives, the higher the rarity, different categories yield different $TOKEN amount.
 
-| Category | Daily $TOKEN Yield |
-| -------- | ------------------ |
-| CAT I    | 5                  |
-| CAT II   | 10                 |
-| CAT III  | 25                 |
-| CAT IV   | 50                 |
-| CAT V    | 100                |
+| Category | Type        | Daily $TOKEN Yield |
+| :------- | :---------- | :----------------- |
+| CAT I    | Float       | 5                  |
+| CAT II   | Golf Cart   | 10                 |
+| CAT III  | Jeep        | 25                 |
+| CAT IV   | Super Car   | 50                 |
+| CAT V    | Private Jet | 100                |
 
 ### Exclusive Airdrops
 
@@ -64,13 +64,14 @@ And 500 (#0-499) were free giveaways for previous social/collab project raffle w
 
 ### Category Statistics
 
-| Category | Amount | % of All |
-| -------- | ------ | -------- |
-| CAT I    | 2542   | 73.43%   |
-| CAT II   | 721    | 20.83%   |
-| CAT III  | 158    | 4.56%    |
-| CAT IV   | 36     | 1.04%    |
-| CAT V    | 5      | 0.14%    |
+| Category |    Amount | % of All | Daily Yield Total |
+| -------- | --------: | -------: | ----------------: |
+| CAT I    |     2,542 |   73.43% |            12,715 |
+| CAT II   |       721 |   20.83% |             7,210 |
+| CAT III  |       158 |    4.56% |             3,950 |
+| CAT IV   |        36 |    1.04% |             1,800 |
+| CAT V    |         5 |    0.14% |               500 |
+| **SUM**  | **3,462** | **100%** |        **26,165** |
 
 ## Events
 
@@ -87,6 +88,8 @@ And 500 (#0-499) were free giveaways for previous social/collab project raffle w
 
 ## The Exclusives Contract {#contract}
 
-Exclusives are ERC-721 NFTs ([Etherscan](https://etherscan.io/address/0x9e8a92F833c0ae4842574cE9cC0ef4c7300Ddb12)), it's using ERC721A to safe gas. And it's using Chainlink to generate a random number to off-set tokenURI for each token during the reveal
+Exclusives are ERC-721 NFTs ([Etherscan](https://etherscan.io/address/0x9e8a92F833c0ae4842574cE9cC0ef4c7300Ddb12)), it's using ERC721A to save gas. And it's using Chainlink to generate a random number to off-set tokenURI for each token during the reveal.
+
+The contract itself is named PurrnelopesExclusives.
 
 `TBD`
