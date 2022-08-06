@@ -38,6 +38,12 @@ description: Official Links of Purrnelope's Country Club
   [OpenSea](https://opensea.io/collection/purrnelopes-grandmas) ·
   [LooksRare](https://looksrare.org/collections/0x9e5bF3026A4F77971057cad44C0B6e02EFA9a7cD)
 
+### 🛩 Purrnelope's Exclusives
+
+- Marketplaces:
+  [OpenSea](https://opensea.io/collection/purrnelopes-exclusives) ·
+  [LooksRare](https://looksrare.org/collections/0x9e8a92F833c0ae4842574cE9cC0ef4c7300Ddb12)
+
 ### 🪂 KittyVault Purrks
 
 - Marketplaces:
