@@ -231,6 +231,7 @@ Other items from Roadmap 2.0 will be added to the list upon completion or new up
 - 10-01: Carlini start 31 daily giveaways through the whole October 2021
 - 10-24: 1st Official Game Night with Papa(Peter)
 - 11-01: [Kitten Basket](../collections/kittyvault-purrks/2-kitten-basket.md) airdropped, 2/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
+- 11-07: Community Vote finished for 40 eth charity donation [snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/0x6d94b1cbcdbf3df263ad046bcbc5a617103ada6f1e3ed6fa899abca924bef1cf)
 - 11-15: [Kittens](../collections/kittens/index.md) public mint/claim started
 - 11-27: [Model Cat](../collections/kittyvault-purrks/3-model-cat.md) airdropped, 3/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 - 12-05: Community Vote passed on Secondary Market Fees change [snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/0x46cc3b68385e86388cbb2780aeb82db4bf74da55188d3e3283ebf81f2540979e)
