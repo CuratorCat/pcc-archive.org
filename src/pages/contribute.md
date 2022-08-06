@@ -32,3 +32,10 @@ Never share your confidential information, passwords, private keys or seed phras
 Be extra careful when receiving any external links or online forms.
 
 :::
+
+## Contributors
+
+List of contributors with identity, sorted by the time of first contribution added to the archive.
+
+- curatorcat.pcc.eth [GitHub](https://github.com/CuratorCat) [Twitter](https://twitter.com/CuratorCatPCC)
+- dodo.pcc.eth [GitHub](https://github.com/dodo-pcc) [Twitter](https://twitter.com/tzh90)
