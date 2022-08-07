@@ -9,6 +9,7 @@ import Collections from "../components/Homapage/Collections";
 import Ens from "../components/Homapage/Ens";
 import KittyVault from "../components/Homapage/KittyVault";
 import Posts from "../components/Homapage/Posts";
+import ActiveEvents from "../components/Homapage/ActiveEvents";
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
@@ -25,6 +26,7 @@ export default function Home() {
             <Collections />
           </section>
           <Posts />
+          <ActiveEvents />
           <Ens />
           <KittyVault />
         </main>
