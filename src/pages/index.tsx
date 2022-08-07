@@ -19,6 +19,7 @@ export default function Home() {
       description="A place to learn and find information about the Purrnelope's Country Club project"
     >
       <LayoutTw>
+        <ActiveEvents />
         <Hero />
         <main className="pt-0">
           <section className="relative max-w-7xl mx-auto lg:grid grid-cols-1 lg:grid-cols-5 gap-3 lg:px-3">
@@ -26,7 +27,6 @@ export default function Home() {
             <Collections />
           </section>
           <Posts />
-          <ActiveEvents />
           <Ens />
           <KittyVault />
         </main>
