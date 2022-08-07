@@ -66,14 +66,14 @@ Public Mint / Sale closed at 12:00 AM UTC, Aug 3, 2022 with 3,462 Exclusives min
 
 ### Category Statistics
 
-| Category |  No. NFTs | % of All | Daily Yield Total |
-| -------- | --------: | -------: | ----------------: |
-| CAT I    |     2,542 |   73.43% |            12,710 |
-| CAT II   |       721 |   20.83% |             7,210 |
-| CAT III  |       158 |    4.56% |             3,950 |
-| CAT IV   |        36 |    1.04% |             1,800 |
-| CAT V    |         5 |    0.14% |               500 |
-| **SUM**  | **3,462** | **100%** |        **26,170** |
+| Categories |  No. NFTs | % of All | Category Daily Yield |
+| ---------- | --------: | -------: | -------------------: |
+| CAT I      |     2,542 |   73.43% |               12,710 |
+| CAT II     |       721 |   20.83% |                7,210 |
+| CAT III    |       158 |    4.56% |                3,950 |
+| CAT IV     |        36 |    1.04% |                1,800 |
+| CAT V      |         5 |    0.14% |                  500 |
+| **SUM**    | **3,462** | **100%** |           **26,170** |
 
 ## Events
 
