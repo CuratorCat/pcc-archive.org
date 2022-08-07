@@ -221,6 +221,7 @@ Other items from Roadmap 2.0 will be added to the list upon completion or new up
 - 08-14: Launched Liquidity Pools on [NFTX](https://app.nftx.org/redeem/0xe581f272706581f9dcc362df3c7934e99192c492/) and [NFT20](https://nft20.io/asset/0x54c9e17ad8016a062ffd89d1b53aaee80c0cf43d)
 - 08-14: [60% Profile Picture Advertising](/posts/2021/08/13/post/60-profile-picture-advertising) to cat holders event started
 - 08-21: [Bored Ape #5226 fractionalized](../kittyvault/index.md#fractionalize-ape-5226) and airdropped to minters of Cats ID `#1-2000`
+- 09-13: NFT Puzzle thing (now defunct) polygon airdrop of [Purrnelope Puzzle pieces](https://opensea.io/collection/npt-purrnelopes-pieces) 10 people won a prize
 - 09-15: Community Wallet funds transferred to [KittyBank](../kittyvault/index.md#a-brief-history)
 - 09-24: [NFTX](https://app.nftx.org/redeem/0xe581f272706581f9dcc362df3c7934e99192c492/) Pool results better liquidity and was chosen to keep, NFT20 Pool closed.
 <!-- - 09-24: 1st Episode of [PurrCast](/posts/tags/purr-cast) -->
@@ -229,6 +230,7 @@ Other items from Roadmap 2.0 will be added to the list upon completion or new up
 ### 2021 Q4
 
 - 10-01: Carlini start 31 daily giveaways through the whole October 2021
+- 10-18: $14,139.30 donation to [Aerial](https://aerial.is/) for [carbon offset](https://cdn.discordapp.com/attachments/865208388328882176/899782466502529074/unknown.png) of Purrnelope contract to date
 - 10-24: 1st Official Game Night with Papa(Peter)
 - 11-01: [Kitten Basket](../collections/kittyvault-purrks/2-kitten-basket.md) airdropped, 2/8 [Purrks](../collections/kittyvault-purrks/index.md) monthly airdrops
 - 11-07: Community Vote finished for 40 eth charity donation [snapshot](https://snapshot.org/#/purrnelopescountryclub.eth/proposal/0x6d94b1cbcdbf3df263ad046bcbc5a617103ada6f1e3ed6fa899abca924bef1cf)
