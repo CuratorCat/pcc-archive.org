@@ -2,13 +2,21 @@
 title: About PCC Archive
 ---
 
-# About PCC-Archive.org
+# About PCC Archive
 
 The PCC Archive ([pcc-archive.org](https://pcc-archive.org)) is not the official website of Purrnelope's Country Club. It is created by the community and for the community of Purrnelope's Country Club.
 
 PCC has tons of information but scattered across the internet. PCC Archive is targeted to gather those information into one place, and make it easy for people to learn and find information about Purrnelope's Country Club.
 
 The official PCC website will be updated for some kind of this purpose as well on PCC Roadmap 2.0. But it's not going to happen soon. So before that happens, PCC Archive will try to keep the content organized, which may be helpful to the Official PCC Team to build the next PCC Website.
+
+### Contribute
+
+PCC Archive is updated by [Contributors](./contribute#contributors) from PCC Community.
+
+Anyone is welcomed to contribute to the PCC Archive.
+
+Learn more at [Contribute to PCC Archive](/contribute)
 
 ## FAQ
 
@@ -21,12 +29,6 @@ I'm Curator Cat ([GitHub: CuratorCat](https://github.com/CuratorCat) / [Twitter:
 ### Who owns PCC Archive
 
 Currently I am the owner of [github.com/CuratorCat/pcc-archive.org](https://github.com/CuratorCat/pcc-archive.org) repository and the domain [pcc-archive.org](https://pcc-archive.org/). In the future, I hope I can transfer the ownership to the community or the official team to hold the ownership of the repo and domain. But before that happens, I am acting as the curator to the repo and pcc-archive.org website.
-
-### Contribute
-
-Anyone is welcomed to contribute to the PCC Archive.
-
-Learn more at [Contribute to PCC Archive](/contribute)
 
 ### Donation {#donation}
 
