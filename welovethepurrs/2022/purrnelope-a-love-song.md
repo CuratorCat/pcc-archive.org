@@ -1,5 +1,5 @@
 ---
-title: Taehan - Purrnelope (Prod. by StoneSoWavy! )
+title: '"Purrnelope" Song for PCC by Taehan, Alamo, StoneSoWavy, 888'
 description: A Love Song Made For Purrnelope's Country Club
 date: 2022-05-12
 # authors: purrnelope

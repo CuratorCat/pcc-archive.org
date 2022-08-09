@@ -34,12 +34,5 @@
     "description": "8 Airdrops",
     "tier": null,
     "imageUrl": "/img/collection-purrks.jpg"
-  },
-  {
-    "title": "Purrnelope's Gift",
-    "href": "/collections/gift",
-    "description": "Gift",
-    "tier": null,
-    "imageUrl": "/img/collection-gift.jpg"
   }
 ]
