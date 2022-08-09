@@ -9,6 +9,16 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 ## 2022 Archive
 
+### 2022 Week 32
+
+![](./assets/2022w32.jpg)
+
+- Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1556747079891857408)
+- Sticky Notes:
+  - International Cat Day
+  - Planning Permission
+  - Lucky Cat Access Codes
+
 ### 2022 Week 31
 
 ![](./assets/2022w31.jpg)
