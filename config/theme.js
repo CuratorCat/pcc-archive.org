@@ -87,7 +87,7 @@ module.exports = {
           },
         ],
       },
-      { to: "/welovethepurrs", label: "😻 Purrs", position: "left" },
+      { to: "/welovethepurrs", label: "💜 Purrs", position: "left" },
       {
         label: "More",
         position: "left",
@@ -119,16 +119,16 @@ module.exports = {
         title: "PCC-Archive.org",
         items: [
           {
-            label: "About",
+            label: "About PCC Archive",
             to: "/about",
-          },
-          {
-            label: "FAQ",
-            to: "/about#faq",
           },
           {
             label: "Contribute",
             to: "/contribute",
+          },
+          {
+            label: "PCC Archive's GitHub",
+            href: "https://github.com/CuratorCat/pcc-archive.org",
           },
         ],
       },
@@ -149,7 +149,7 @@ module.exports = {
           },
           {
             label: "Official Links",
-            href: "/official-links",
+            to: "/official-links",
           },
         ],
       },
@@ -158,15 +158,11 @@ module.exports = {
         items: [
           {
             label: "Posts Archive",
-            href: "/posts/archive",
+            to: "/posts/archive",
           },
           {
             label: "Posts Tags",
-            href: "/posts/tags",
-          },
-          {
-            label: "PCC Archive GitHub",
-            href: "https://github.com/CuratorCat/pcc-archive.org",
+            to: "/posts/tags",
           },
         ],
       },
