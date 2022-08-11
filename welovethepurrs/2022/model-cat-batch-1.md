@@ -320,3 +320,40 @@ First batch of [Physical PCC Model Cat](/merch/pcc-model-cat) started shipping t
     >August 1, 2022</a
   >
 </EmbedTweet>
+
+### markiebark.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    My GM
+    <a href="https://twitter.com/PurrnelopesCC?ref_src=twsrc%5Etfw"
+      >@PurrnelopesCC</a
+    >
+    in my home office, love these
+    <a href="https://twitter.com/Carlini8N?ref_src=twsrc%5Etfw">@Carlini8N</a>
+    <a href="https://t.co/4wWwondeJO">pic.twitter.com/4wWwondeJO</a>
+  </p>
+  &mdash; markiebark.pcc.eth (@topshotboy)
+  <a
+    href="https://twitter.com/topshotboy/status/1555236734559985664?ref_src=twsrc%5Etfw"
+    >August 4, 2022</a
+  >
+</EmbedTweet>
+
+### onlyloud420.pcc.eth
+
+<EmbedTweet>
+  <p lang="en" dir="ltr">
+    Owning an NFT to get your merch 🚫 Redeeming NFT shares for merch ✅
+    <a href="https://twitter.com/PurrnelopesCC?ref_src=twsrc%5Etfw"
+      >@PurrnelopesCC</a
+    >
+    just knows 🐱👌
+    <a href="https://t.co/L1bfjdv8n2">pic.twitter.com/L1bfjdv8n2</a>
+  </p>
+  &mdash; onlyloud420.pcc.eth (@daltonscott1299)
+  <a
+    href="https://twitter.com/daltonscott1299/status/1557099445963132928?ref_src=twsrc%5Etfw"
+    >August 9, 2022</a
+  >
+</EmbedTweet>
