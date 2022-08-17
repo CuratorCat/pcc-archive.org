@@ -9,6 +9,16 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 ## 2022 Archive
 
+### 2022 Week 33
+
+![](./assets/2022w33.jpg)
+
+- Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1559268691069571074)
+- Sticky Notes:
+  - Lucky Cat stock warning
+  - Title Deeds
+  - Diagnostics
+
 ### 2022 Week 32
 
 ![](./assets/2022w32.jpg)
