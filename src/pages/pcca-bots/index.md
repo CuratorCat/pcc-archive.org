@@ -6,7 +6,9 @@ title: PCC Archive Bots
 
 There are some bots run by PCC Archive.
 
-## Twitter: On This Day Bot
+## Twitter
+
+### On This Day Bot
 
 [![Run On This Day](https://github.com/CuratorCat/pcca-bot-a/actions/workflows/on-this-day.yml/badge.svg)](https://github.com/CuratorCat/pcca-bot-a/actions/workflows/on-this-day.yml)
 
@@ -14,13 +16,11 @@ There are some bots run by PCC Archive.
 - Runs daily on GitHub.
 - GitHub Repo: https://github.com/CuratorCat/pcca-bot-a
 
-## Twitter: Reply Bot
+### PCC ENS Bot
 
-Not in service.
-
-### Commands
-
-`tbd`
+- Tweet **New PCC ENS** from https://twitter.com/pcc_archive account.
+- Runs on server maintained by curatorcat.pcc.eth
+- GitHub Repo: https://github.com/CuratorCat/pcca-ens-twitter-bot
 
 ## GitHub: Maintenance Bot
 
