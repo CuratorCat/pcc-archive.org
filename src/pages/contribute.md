@@ -8,6 +8,9 @@ PCC Archive is updated by [Contributors](#contributors) from PCC Community.
 
 Anyone is welcomed to contribute to the PCC Archive.
 
+| [![GitHub contributors](https://img.shields.io/github/contributors-anon/CuratorCat/pcc-archive.org)](https://github.com/CuratorCat/pcc-archive.org/graphs/contributors) | [![GitHub issues](https://img.shields.io/github/issues-raw/CuratorCat/pcc-archive.org)](https://github.com/CuratorCat/pcc-archive.org/issues) | [![GitHub pull requests](https://img.shields.io/github/issues-pr/CuratorCat/pcc-archive.org)](https://github.com/CuratorCat/pcc-archive.org/pulls) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 ## Help with the content
 
 ### PR Using GitHub
