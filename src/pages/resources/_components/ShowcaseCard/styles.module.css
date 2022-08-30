@@ -1,0 +1,98 @@
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+.showcaseCardImage {
+  overflow: hidden;
+  height: 150px;
+}
+
+.showcaseCardHeader {
+  display: flex;
+  align-items: center;
+}
+
+.showcaseCardTitle {
+  margin-bottom: 0;
+  flex: 1 1 auto;
+}
+
+.showcaseCardTitle a {
+  text-decoration: none;
+  background: linear-gradient(var(--ifm-color-primary), var(--ifm-color-primary)) 0% 100% / 0% 1px no-repeat;
+  color: var(--ifm-color-primary);
+  transition: background-size ease-out 200ms;
+}
+
+.showcaseCardTitle a:not(:focus):hover {
+  background-size: 100% 1px;
+}
+
+.showcaseCardTitle,
+.showcaseCardHeader .svgIconFavorite {
+  margin-right: 0.25rem;
+}
+
+.showcaseCardHeader .svgIconFavorite {
+  color: var(--site-color-svg-icon-favorite);
+}
+
+.showcaseCardSrcBtn {
+  margin-left: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border: none;
+}
+
+.showcaseCardSrcBtn:focus-visible {
+  background-color: var(--ifm-color-secondary-dark);
+}
+
+[data-theme='dark'] .showcaseCardSrcBtn {
+  background-color: var(--ifm-color-emphasis-200) !important;
+  color: inherit;
+}
+
+[data-theme='dark'] .showcaseCardSrcBtn:hover {
+  background-color: var(--ifm-color-emphasis-300) !important;
+}
+
+.showcaseCardBody {
+  font-size: smaller;
+  opacity: 0.75;
+}
+
+.cardFooter {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 8px !important;
+  margin-right: 8px !important;
+  margin-bottom: 4px !important;
+  margin-top: 4px !important;
+}
+
+.tag {
+  font-size: 0.675rem;
+  border: 1px solid var(--ifm-color-secondary-darkest);
+  cursor: default;
+  margin-right: 6px;
+  margin-bottom: 6px !important;
+  border-radius: 12px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.tag .textLabel {
+  margin-left: 8px;
+}
+
+.tag .colorLabel {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  margin-left: 6px;
+  margin-right: 6px;
+}

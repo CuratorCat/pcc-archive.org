@@ -45,7 +45,7 @@
 .navbar__logo {
   height: 2.2rem;
 }
-[data-theme="dark"] .navbar__logo img {
+[data-theme='dark'] .navbar__logo img {
   filter: invert(100%);
 }
 .dropdown__link {
@@ -58,7 +58,7 @@
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme="dark"] {
+[data-theme='dark'] {
   --ifm-color-primary: #9b81ef;
   --ifm-color-primary-dark: #9b81ef;
   --ifm-color-primary-darker: #9b81ef;
@@ -81,7 +81,7 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
-[data-theme="dark"] .docusaurus-highlight-code-line {
+[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
@@ -93,11 +93,11 @@
   article .markdown header h1 {
     font-size: 2.2rem !important;
   }
-  article h1[class^="blogPostTitle_"] {
+  article h1[class^='blogPostTitle_'] {
     font-size: 1.4rem !important;
     @apply font-extrabold;
   }
-  article h2[class^="blogPostTitle_"] {
+  article h2[class^='blogPostTitle_'] {
     font-size: 1.4rem !important;
     @apply font-extrabold;
   }
@@ -111,18 +111,18 @@
   article .markdown header h1 {
     font-size: 2.2rem !important;
   }
-  article h1[class^="blogPostTitle_"] {
+  article h1[class^='blogPostTitle_'] {
     font-size: 1.5rem !important;
     @apply font-extrabold;
   }
-  article h2[class^="blogPostTitle_"] {
+  article h2[class^='blogPostTitle_'] {
     font-size: 1.5rem !important;
     @apply font-extrabold;
   }
 }
 
 /* Announcment Bar */
-div[class^="announcementBar_"] {
+div[class^='announcementBar_'] {
   background: linear-gradient(45deg, #ffd8e2, #e2e0ff);
   background-size: 1000% 1000%;
   animation: announcementBarBg 3s ease infinite;
@@ -156,7 +156,7 @@ div[class^="announcementBar_"] {
 //   @apply max-w-screen-xl;
 // }
 
-[data-theme="dark"] .navbar {
+[data-theme='dark'] .navbar {
   backdrop-filter: blur(8px);
   background-color: rgba(0, 0, 0, 0.7);
   @apply shadow shadow-slate-500/30;
@@ -165,7 +165,7 @@ div[class^="announcementBar_"] {
   :root .navbar {
     background-color: rgba(255, 255, 255, 0.95);
   }
-  [data-theme="dark"] .navbar {
+  [data-theme='dark'] .navbar {
     backdrop-filter: none;
     background-color: rgba(0, 0, 0, 0.9);
   }
@@ -235,19 +235,19 @@ div[itemprop="articleBody"] {
 }
 
 // Hide authors on posts list page
-.blog-list-page article > header > [class^="blogPostData_"] + div,
-.blog-tags-post-list-page article > header > [class^="blogPostData_"] + div {
+.blog-list-page article > header > [class^='blogPostData_'] + div,
+.blog-tags-post-list-page article > header > [class^='blogPostData_'] + div {
   @apply hidden;
 }
 
 div.theme-doc-toc-desktop > ul,
-div[class^="tableOfContents_"] > ul {
+div[class^='tableOfContents_'] > ul {
   border: none;
   @apply rounded-xl bg-gray-200/30;
 }
 
-[data-theme="dark"] div.theme-doc-toc-desktop > ul,
-[data-theme="dark"] div[class^="tableOfContents_"] > ul {
+[data-theme='dark'] div.theme-doc-toc-desktop > ul,
+[data-theme='dark'] div[class^='tableOfContents_'] > ul {
   @apply bg-gray-300/10;
 }
 
@@ -306,7 +306,7 @@ article .markdown {
   & .twitter-tweet {
     @apply mx-auto max-w-full;
   }
-  & iframe[id^="twitter-widget-"] {
+  & iframe[id^='twitter-widget-'] {
     @apply max-w-full;
   }
 }
@@ -342,17 +342,17 @@ nav.pagination-nav {
 
   & .pagination-nav__label::before,
   & .pagination-nav__label::after {
-    content: "" !important;
+    content: '' !important;
   }
   & div:first-child .pagination-nav__sublabel::before {
-    content: "◀ " !important;
+    content: '◀ ' !important;
   }
   & div:last-child .pagination-nav__sublabel::after {
-    content: " ▶" !important;
+    content: ' ▶' !important;
   }
 }
 
-[data-theme="dark"] nav.pagination-nav {
+[data-theme='dark'] nav.pagination-nav {
   .pagination-nav__link {
     @apply bg-slate-500/10 hover:bg-slate-500/20;
   }
@@ -402,7 +402,7 @@ article .markdown .TeamAvatar {
 }
 
 // Wiki: tier fx on h3 > sup
-main[class^="docMainContainer"] {
+main[class^='docMainContainer'] {
   article .markdown h3 > sup {
     @apply bg-pink-500 text-white px-1 py-0.5 rounded-md;
     font-size: 0.8rem;
@@ -410,7 +410,7 @@ main[class^="docMainContainer"] {
 }
 
 // Wiki: code block
-main[class^="docMainContainer"] {
+main[class^='docMainContainer'] {
   pre.prism-code {
     max-height: 60vh;
   }
