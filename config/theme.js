@@ -108,6 +108,10 @@ module.exports = {
             label: '🛠 Contracts & EOA Addresses',
             to: '/addresses',
           },
+          {
+            label: '🛰 Resources',
+            to: '/resources',
+          },
         ],
       },
     ],
