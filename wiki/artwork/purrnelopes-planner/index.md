@@ -9,6 +9,16 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 ## 2022 Archive
 
+### 2022 Week 35
+
+![](./assets/2022w35.jpg)
+
+- Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1564357223010013184)
+- Sticky Notes:
+  - Community Nights
+  - Boarding Pass
+  - Size Chart
+
 ### 2022 Week 34
 
 ![](./assets/2022w34.jpg)
