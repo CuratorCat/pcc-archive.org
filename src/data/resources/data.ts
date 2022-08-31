@@ -88,7 +88,7 @@ export const Resources: Resource[] = [
   },
   {
     title: 'LooksRare',
-    description: 'NFT Marketplace',
+    description: 'NFT Marketplace, link points to PCC Cats Collection',
     image: 'looksrare.jpg',
     website: 'https://looksrare.org/collections/0x9759226B2F8ddEFF81583e244Ef3bd13AAA7e4A1/',
     tags: ['marketplace'],
@@ -102,10 +102,10 @@ export const Resources: Resource[] = [
   },
   {
     title: 'NFTX: PCC Cats Pool',
-    description: 'NFTX Vault for PCC Cats',
+    description: 'NFTX Vault for PCC Cats. Buy, sell, swap, stake cat with the pool.',
     image: 'nftx.jpg',
     website: 'https://nftx.io/vault/0xe581f272706581f9dcc362df3c7934e99192c492/info/',
-    tags: ['marketplace'],
+    tags: ['favorite', 'marketplace'],
   },
   {
     title: 'rarity.tools: PCC Cats',
@@ -151,7 +151,7 @@ export const Resources: Resource[] = [
   },
   {
     title: 'Grandma Finder',
-    description: 'created by community member jack.pcc.eth',
+    description: 'tool to find cat matching grandma, created by community member jack.pcc.eth',
     image: 'grandma-finder.jpg',
     website: 'https://nftbagcheck.com/find-my-grandma',
     tags: ['tool', 'favorite'],
@@ -175,7 +175,7 @@ export const Resources: Resource[] = [
     description: 'Dune analytics dashboard for PCC ENS',
     image: 'dune-pcc-ens.jpg',
     website: 'https://dune.com/curatorcat/pcc-ens/',
-    tags: ['ens', 'analytics'],
+    tags: ['ens', 'analytics', 'favorite'],
   },
   {
     title: 'me3 - ens profile',
@@ -183,5 +183,13 @@ export const Resources: Resource[] = [
     image: 'me3.jpg',
     website: 'https://app.me3.is/',
     tags: ['ens'],
+  },
+  {
+    title: 'NiftySlabs',
+    description:
+      'Create a unique 1 of 1 printed and slabbed physical collectible of your NFT. Display it. Link points to PCC Collection. This is a paid service',
+    image: 'niftyslabs.jpg',
+    website: 'https://niftyslabs.com/slabs/?c=PURRNELOPES%2520COUNTRY%2520CLUB',
+    tags: ['other'],
   },
 ]
