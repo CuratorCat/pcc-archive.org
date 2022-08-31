@@ -1,3 +1,24 @@
+/* 
+DATA FOR https://pcc-archive.org/resources
+
+To submit a resource, make PR to https://github.com/CuratorCat/pcc-archive.org
+Or you can create an Issue anonymously at https://github.com/CuratorCat/pcc-archive.org/issues/9
+
+Data Object:
+type Resource = {
+  title: string
+  description: string
+  image: string
+  website: string
+  tags: ['favorite' | 'official' | 'social' | 'tool' | 'marketplace' | 'analytics' | 'other' | 'ens']
+}
+
+Image:
+images are stored under `/src/data/resources/img/`
+preferred image size: 640×320px
+preferred image format: jpg
+*/
+
 import { Resource } from '.'
 
 // prettier - ignore
@@ -113,6 +134,13 @@ export const Resources: Resource[] = [
     image: 'gmcg.jpg',
     website: 'https://gmcat.pcc.im/',
     tags: ['tool', 'favorite'],
+  },
+  {
+    title: 'Cats w/ Transparent Bg',
+    description: '10K Cats without background color in 500px, 1000px sizes and PNG, WebP formats.',
+    image: 'cats-no-bg.png',
+    website: 'https://github.com/CuratorCat/pcc-cats-nobg/',
+    tags: ['other'],
   },
   {
     title: 'pcc.im - ens profile',
