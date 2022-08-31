@@ -125,7 +125,7 @@ export const Resources: Resource[] = [
     title: 'Discord: PCC Official',
     description: 'Official Country Club Discord',
     image: 'discord.jpg',
-    website: 'http://discord.gg/purrnelopescountryclub/',
+    website: 'https://discord.gg/purrnelopescountryclub',
     tags: ['official', 'favorite'],
   },
   {
