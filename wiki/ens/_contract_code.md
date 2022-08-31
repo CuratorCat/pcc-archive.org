@@ -4,7 +4,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="1" label="1/8" default>
 
-```js title="EnsMapper.sol"
+```ts title="EnsMapper.sol"
 /*
                               ▓▓█
                             ▒██▒▒█

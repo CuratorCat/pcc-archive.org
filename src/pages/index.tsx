@@ -1,19 +1,19 @@
-import React from "react";
-import Layout from "@theme/Layout";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import LayoutTw from "@site/src/theme/LayoutTw";
+import React from 'react'
+import Layout from '@theme/Layout'
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
+import LayoutTw from '@site/src/theme/LayoutTw'
 
-import Hero from "../components/Homapage/Hero";
-import Club from "../components/Homapage/Club";
-import Collections from "../components/Homapage/Collections";
-import Ens from "../components/Homapage/Ens";
-import KittyVault from "../components/Homapage/KittyVault";
-import Posts from "../components/Homapage/Posts";
-import ActiveEvents from "../components/Homapage/ActiveEvents";
-import RecentPosts from "../components/Homapage/RecentPosts";
+import Hero from '../components/Homapage/Hero'
+import Club from '../components/Homapage/Club'
+import Collections from '../components/Homapage/Collections'
+import Ens from '../components/Homapage/Ens'
+import KittyVault from '../components/Homapage/KittyVault'
+import Posts from '../components/Homapage/Posts'
+import ActiveEvents from '../components/Homapage/ActiveEvents'
+import RecentPosts from '../components/Homapage/RecentPosts'
 
 export default function Home() {
-  const { siteConfig } = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext()
   return (
     <Layout
       title={`Welcome to ${siteConfig.title}`}
@@ -34,5 +34,5 @@ export default function Home() {
         </main>
       </LayoutTw>
     </Layout>
-  );
+  )
 }

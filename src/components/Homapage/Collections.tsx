@@ -1,21 +1,21 @@
-import React from "react";
-import Link from "@docusaurus/Link";
+import React from 'react'
+import Link from '@docusaurus/Link'
 
-type Nullable<T> = T | null;
+type Nullable<T> = T | null
 
 type CollectionItem = {
-  title: string;
-  href: string;
-  description: string;
-  tier: Nullable<number>;
-  imageUrl: string;
-};
+  title: string
+  href: string
+  description: string
+  tier: Nullable<number>
+  imageUrl: string
+}
 
 const webkitMaskHack = {
-  WebkitMaskImage: "-webkit-radial-gradient(white, black)",
-};
+  WebkitMaskImage: '-webkit-radial-gradient(white, black)',
+}
 
-const CollectionList: CollectionItem[] = require("./collections.json");
+const CollectionList: CollectionItem[] = require('./collections.json')
 
 export default function Collections() {
   return (
@@ -27,7 +27,7 @@ export default function Collections() {
           style={webkitMaskHack}
         >
           {/* Individual collection */}
-          {CollectionList.map((collection) => (
+          {CollectionList.map(collection => (
             <Link
               to={collection.href}
               className="scroll-ml-12 scroll-mr-6 snap-always  snap-mandatory snap-start last:mr-12 shrink-0 flex flex-col rounded-xl md:rounded-2xl group"
@@ -52,9 +52,7 @@ export default function Collections() {
                 <div className="absolute w-full bottom-0 p-3 flex gap-2 flex-col bg-gradient-to-b from-black/0 via-black/50 to-black/60 group-hover:from-black/0 group-hover:via-violet-800/50 group-hover:to-violet-800/75 text-white rounded-xl md:rounded-2xl">
                   <div className="flex-1">
                     <div className="block">
-                      <p className="text-base sm:text-lg font-bold uppercase truncate pt-8">
-                        {collection.title}
-                      </p>
+                      <p className="text-base sm:text-lg font-bold uppercase truncate pt-8">{collection.title}</p>
                       <div className="flex justify-between mt-1">
                         <div className="text-xs font-bold uppercase leading-6 grow-0 truncate">
                           {collection.description}
@@ -65,7 +63,7 @@ export default function Collections() {
                               Tier {collection.tier}
                             </div>
                           ) : (
-                            ""
+                            ''
                           )}
                         </div>
                       </div>
@@ -91,5 +89,5 @@ export default function Collections() {
         </div>
       </div>
     </div>
-  );
+  )
 }

@@ -1,14 +1,12 @@
-import React from "react"
-import styles from './LayoutTw.modules.scss';
+import React from 'react'
+import styles from './LayoutTw.modules.scss'
 class LayoutTw extends React.Component {
-  render(){
+  render() {
     return (
       <>
-        <div className={styles.twBaseExtra}>
-          {this.props.children}
-        </div>
+        <div className={styles.twBaseExtra}>{this.props.children}</div>
       </>
     )
   }
 }
-export default LayoutTw;
+export default LayoutTw

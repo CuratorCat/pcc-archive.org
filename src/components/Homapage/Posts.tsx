@@ -1,23 +1,20 @@
-import React from "react";
-import Link from "@docusaurus/Link";
+import React from 'react'
+import Link from '@docusaurus/Link'
 
 type PostItem = {
-  name: string;
-  initials: string;
-  href: string;
-};
+  name: string
+  initials: string
+  href: string
+}
 
-const PostList: PostItem[] = require("./posts.json");
+const PostList: PostItem[] = require('./posts.json')
 
 export default function Posts() {
   return (
     <section className="relative max-w-7xl mx-auto px-3 mt-3">
       <h3 className="sr-only">Post Archive</h3>
-      <ul
-        role="list"
-        className="grid grid-cols-3 gap-2 md:gap-5 sm:gap-6 sm:grid-cols-3 lg:grid-cols-6 justify-center"
-      >
-        {PostList.map((post) => (
+      <ul role="list" className="grid grid-cols-3 gap-2 md:gap-5 sm:gap-6 sm:grid-cols-3 lg:grid-cols-6 justify-center">
+        {PostList.map(post => (
           <Link key={post.name} href={post.href}>
             <li
               key={post.name}
@@ -36,5 +33,5 @@ export default function Posts() {
         ))}
       </ul>
     </section>
-  );
+  )
 }

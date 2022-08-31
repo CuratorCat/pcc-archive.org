@@ -1,1 +1,1 @@
-export * from "./EmbedTweet";
+export * from './EmbedTweet'

@@ -1,5 +1,5 @@
-import React from "react";
-import Link from "@docusaurus/Link";
+import React from 'react'
+import Link from '@docusaurus/Link'
 
 export default function Club() {
   return (
@@ -22,13 +22,10 @@ export default function Club() {
         />
         <div>
           <p className="uppercase text-base sm:text-xl md:text-2xl md:pt-3 text-white pl-5 lg:px-20 lg:text-center font-light">
-            Learn about{" "}
-            <span className="block font-semibold pt-0 lg:pt-2">
-              Purrnelope's Country Club
-            </span>
+            Learn about <span className="block font-semibold pt-0 lg:pt-2">Purrnelope's Country Club</span>
           </p>
         </div>
       </div>
     </Link>
-  );
+  )
 }

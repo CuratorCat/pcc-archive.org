@@ -3,7 +3,7 @@
   @apply bg-violet-200/10 hover:bg-violet-200/20;
 }
 
-[data-theme="dark"] .sectionBg {
+[data-theme='dark'] .sectionBg {
   @apply bg-slate-500/10 hover:bg-violet-500/20;
 }
 
@@ -16,17 +16,17 @@
   @apply opacity-[0.15];
 }
 
-[data-theme="dark"] .coverImg {
+[data-theme='dark'] .coverImg {
   @apply mix-blend-lighten opacity-50;
 }
 
-[data-theme="dark"] .sectionBg:hover .coverImg {
+[data-theme='dark'] .sectionBg:hover .coverImg {
   @apply mix-blend-lighten opacity-80;
 }
 
 .overlay {
   @apply from-white to-white/0;
 }
-[data-theme="dark"] .overlay {
+[data-theme='dark'] .overlay {
   @apply from-black to-black/0;
 }

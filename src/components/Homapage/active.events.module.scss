@@ -1,12 +1,6 @@
 .sectionBg {
   @apply transition-all duration-300;
-  background-image: repeating-linear-gradient(
-    -30deg,
-    #6a35c2,
-    #6a35c2 10px,
-    #5d23b7 10px,
-    #5d23b7 20px
-  );
+  background-image: repeating-linear-gradient(-30deg, #6a35c2, #6a35c2 10px, #5d23b7 10px, #5d23b7 20px);
   background-size: 200% 200%;
   animation: barberRoll 30s linear infinite;
 }

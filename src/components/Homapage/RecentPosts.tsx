@@ -1,5 +1,5 @@
-import React from "react";
-import Link from "@docusaurus/Link";
+import React from 'react'
+import Link from '@docusaurus/Link'
 
 // @dev
 // This component is to display a list of recent posts
@@ -12,23 +12,23 @@ import Link from "@docusaurus/Link";
 // - curatorcat.pcc.eth
 
 type PostItem = {
-  title?: string;
-  permalink?: string;
-  tag?: string;
-  tagLink?: string;
-};
-let Posts: PostItem[] = [];
+  title?: string
+  permalink?: string
+  tag?: string
+  tagLink?: string
+}
+let Posts: PostItem[] = []
 
-const welovethepurrsPosts = require("../../../.docusaurus/docusaurus-plugin-content-blog/welovethepurrs/blog-post-list-prop-welovethepurrs.json");
+const welovethepurrsPosts = require('../../../.docusaurus/docusaurus-plugin-content-blog/welovethepurrs/blog-post-list-prop-welovethepurrs.json')
 
-welovethepurrsPosts.items.slice(0, 3).map((item) => {
+welovethepurrsPosts.items.slice(0, 3).map(item => {
   Posts.push({
     title: item.title,
     permalink: item.permalink,
-    tag: "WeLoveThePurrs",
-    tagLink: "/welovethepurrs",
-  });
-});
+    tag: 'WeLoveThePurrs',
+    tagLink: '/welovethepurrs',
+  })
+})
 
 export default function RecentPosts() {
   return (
@@ -64,5 +64,5 @@ export default function RecentPosts() {
         </Link>
       </div>
     </section>
-  );
+  )
 }
