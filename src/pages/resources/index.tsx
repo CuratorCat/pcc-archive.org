@@ -10,7 +10,7 @@ import clsx from 'clsx'
 import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment'
 import Translate, { translate } from '@docusaurus/Translate'
 import { useHistory, useLocation } from '@docusaurus/router'
-
+import Link from '@docusaurus/Link'
 import Layout from '@theme/Layout'
 import LayoutTw from '@site/src/theme/LayoutTw'
 import { sortedResources, Tags, TagList, type Resource, type TagType } from '@site/src/data/resources'
@@ -104,7 +104,12 @@ function ShowcaseHeader() {
   return (
     <section className="margin-top--lg margin-bottom--lg text--center">
       <h1>{TITLE}</h1>
-      <p>{DESCRIPTION}</p>
+      <p className="text-lg">{DESCRIPTION}</p>
+      <p>
+        <Link href="https://github.com/CuratorCat/pcc-archive.org/blob/main/src/data/resources/data.ts">
+          <span className="underline hover:text-violet-500 rounded px-1 py-0.5 ">submit a new resource</span>
+        </Link>
+      </p>
     </section>
   )
 }
