@@ -39,7 +39,7 @@ export const Tags: { [type in TagType]: Tag } = {
   official: {
     label: 'Official',
     description: '',
-    color: '#FFD055',
+    color: '#F7B500',
   },
 
   social: {

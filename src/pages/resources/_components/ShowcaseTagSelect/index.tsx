@@ -14,7 +14,6 @@ import { prepareResourceState } from '../../index'
 import styles from './styles.module.css'
 
 interface Props extends ComponentProps<'input'> {
-  icon: ReactElement<ComponentProps<'svg'>>
   label: ReactNode
   tag: TagType
   text: string
@@ -33,7 +32,7 @@ function replaceSearchTags(search: string, newTags: TagType[]) {
   return searchParams.toString()
 }
 
-function ShowcaseTagSelect({ id, icon, label, text, tag, ...rest }: Props, ref: React.ForwardedRef<HTMLLabelElement>) {
+function ShowcaseTagSelect({ id, label, text, color, tag, ...rest }: Props, ref: React.ForwardedRef<HTMLLabelElement>) {
   const location = useLocation()
   const history = useHistory()
   const [selected, setSelected] = useState(false)
@@ -75,9 +74,34 @@ function ShowcaseTagSelect({ id, icon, label, text, tag, ...rest }: Props, ref: 
         checked={selected}
         {...rest}
       />
-      <label title={text} ref={ref} htmlFor={id} className={`rounded-xl ${styles.checkboxLabel}`}>
+      <label
+        title={text}
+        ref={ref}
+        htmlFor={id}
+        className={`rounded-xl font-semibold ${styles.checkboxLabel}`}
+        style={
+          selected
+            ? {
+                backgroundColor: color,
+                color: 'white',
+              }
+            : null
+        }
+      >
         {label}
-        {icon}
+        {tag === 'favorite' ? (
+          <span>💜</span>
+        ) : (
+          <span
+            style={{
+              backgroundColor: selected ? 'white' : color,
+              width: 10,
+              height: 10,
+              borderRadius: '50%',
+              marginLeft: 4,
+            }}
+          />
+        )}
       </label>
     </>
   )

@@ -13,9 +13,15 @@ import { sortBy } from '@site/src/utils/jsUtils'
 import styles from './styles.module.css'
 
 const TagComp = React.forwardRef<HTMLLIElement, Tag>(({ label, color, description }, ref) => (
-  <li ref={ref} className={styles.tag} title={description}>
+  <li
+    ref={ref}
+    className={styles.tag}
+    title={description}
+    style={{
+      backgroundColor: color,
+    }}
+  >
     <span className={styles.textLabel}>{label.toLowerCase()}</span>
-    <span className={styles.colorLabel} style={{ backgroundColor: color }} />
   </li>
 ))
 
@@ -40,11 +46,18 @@ function ShowcaseCard({ resource }: { resource: Resource }) {
   return (
     <li
       key={resource.title}
-      className="flex flex-col justify-between rounded-xl bg-slate-50 hover:scale-105 transition-all duration-150 dark:bg-slate-500/25 border-slate-500/10 dark:border-slate-500/0 border overflow-hidden "
+      className={
+        'flex flex-col justify-between rounded-xl bg-slate-50 hover:scale-105 transition-all duration-150 dark:bg-slate-500/25 border border-slate-500/10 dark:border-slate-500/0 overflow-hidden group ' +
+        styles.showcaseCard
+      }
     >
       <div>
-        <div className={clsx('card__image', styles.showcaseCardImage)}>
-          <img src={require('../../../../data/resources/img/' + resource.image).default} alt={resource.title} />
+        <div className={styles.showcaseCardImage}>
+          <img
+            src={require('../../../../data/resources/img/' + resource.image).default}
+            alt={resource.title}
+            className="h-[150px] w-full object-cover"
+          />
         </div>
         <div className="px-3 py-1">
           <div className={clsx(styles.showcaseCardHeader)}>

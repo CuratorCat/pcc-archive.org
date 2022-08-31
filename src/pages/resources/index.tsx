@@ -117,8 +117,8 @@ function ShowcaseHeader() {
 function ShowcaseFilters() {
   const filteredResouces = useFilteredResources()
   return (
-    <section className="container ">
-      <div className="p-4 bg-slate-100 dark:bg-slate-500/25 rounded-2xl">
+    <section className="max-w-7xl px-2 mx-auto ">
+      <div className="p-4 bg-violet-100 dark:bg-violet-500/25 rounded-2xl">
         <div className={clsx('margin-bottom--sm', styles.filterCheckbox)}>
           <div>
             <h2>Filters</h2>
@@ -133,27 +133,7 @@ function ShowcaseFilters() {
 
             return (
               <li key={i} className={styles.checkboxListItem}>
-                <ShowcaseTagSelect
-                  tag={tag}
-                  id={id}
-                  label={label}
-                  text={description}
-                  icon={
-                    tag === 'favorite' ? (
-                      <span>💜</span>
-                    ) : (
-                      <span
-                        style={{
-                          backgroundColor: color,
-                          width: 10,
-                          height: 10,
-                          borderRadius: '50%',
-                          marginLeft: 8,
-                        }}
-                      />
-                    )
-                  }
-                />
+                <ShowcaseTagSelect tag={tag} id={id} label={label} text={description} color={color} />
               </li>
             )
           })}
@@ -178,7 +158,7 @@ function SearchBar() {
       <input
         id="searchbar"
         placeholder={translate({
-          message: 'Search for site name...',
+          message: 'Search...',
           id: 'showcase.searchBar.placeholder',
         })}
         value={value ?? undefined}
@@ -221,23 +201,25 @@ function ShowcaseCards() {
     <section className="margin-top--lg margin-bottom--xl">
       {filteredResouces.length === sortedResources.length ? (
         <>
-          <div className="container">
+          <div className="max-w-7xl px-2 mx-auto">
             <div className={clsx('margin-bottom--md', styles.showcaseFavoriteHeader)}>
               <h2>Favorites</h2>
               <span>💜</span>
               <SearchBar />
             </div>
-            <ul className={clsx('container', 'clean-list', styles.showcaseList)}>
+            <ul className={clsx('max-w-7xl px-2 mx-auto', 'clean-list', styles.showcaseList)}>
               {favoriteResources.map(resource => (
                 <ShowcaseCard key={resource.title} resource={resource} />
               ))}
             </ul>
           </div>
 
-          <div className="container margin-top--lg">
-            <h2 className={styles.showcaseHeader}>
-              <Translate id="showcase.usersList.allUsers">All sites</Translate>
-            </h2>
+          <div className="max-w-7xl px-2 mx-auto margin-top--lg">
+            <div className={clsx('margin-bottom--md', styles.showcaseFavoriteHeader)}>
+              <h2>
+                <Translate id="showcase.usersList.allUsers">All</Translate>
+              </h2>
+            </div>
             <ul className={clsx('clean-list', styles.showcaseList)}>
               {otherResources.map(resource => (
                 <ShowcaseCard key={resource.title} resource={resource} />
@@ -246,7 +228,7 @@ function ShowcaseCards() {
           </div>
         </>
       ) : (
-        <div className="container">
+        <div className="max-w-7xl px-2 mx-auto">
           <div className={clsx('margin-bottom--md', styles.showcaseFavoriteHeader)}>
             <SearchBar />
           </div>

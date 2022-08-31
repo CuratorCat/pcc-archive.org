@@ -13,20 +13,19 @@
   width: var(--width);
   height: var(--height);
   position: relative;
-  border-radius: var(--height);
+  border-radius: calc(var(--height) / 3);
   border: var(--border) solid var(--ifm-color-primary-darkest);
   cursor: pointer;
   justify-content: space-around;
-  opacity: 0.75;
-  transition: opacity var(--ifm-transition-fast)
-    var(--ifm-transition-timing-default);
+  color: var(--ifm-color-primary);
+  transition: opacity var(--ifm-transition-fast) var(--ifm-transition-timing-default);
   box-shadow: var(--ifm-global-shadow-md);
+  @apply font-semibold;
 }
 
 .checkboxLabel:hover {
   opacity: 1;
-  box-shadow: var(--ifm-global-shadow-md),
-    0 0 2px 1px var(--ifm-color-primary-dark);
+  box-shadow: var(--ifm-global-shadow-md), 0 0 2px 1px var(--ifm-color-primary-dark);
 }
 
 .checkboxLabel::after {
@@ -35,11 +34,10 @@
   inset: 0;
   width: calc(var(--width) / 2);
   height: 100%;
-  border-radius: var(--height);
+  border-radius: calc(var(--height) / 4);
   background-color: var(--ifm-color-primary-darkest);
-  transition: transform var(--ifm-transition-fast)
-    var(--ifm-transition-timing-default);
-  transform: translateX(calc(var(--width) / 2 - var(--border)));
+  transition: transform var(--ifm-transition-fast) var(--ifm-transition-timing-default);
+  transform: translateX(calc(var(--width) / 2 - var(--border))) scale(0.85);
 }
 
 input:focus-visible ~ .checkboxLabel::after {
@@ -53,5 +51,5 @@ input:focus-visible ~ .checkboxLabel::after {
 }
 
 input:checked ~ .checkboxLabel::after {
-  transform: translateX(calc(-1 * var(--border)));
+  transform: translateX(calc(-1 * var(--border))) scale(0.85);
 }

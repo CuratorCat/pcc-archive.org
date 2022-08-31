@@ -49,9 +49,8 @@
 
 .searchContainer input {
   height: 30px;
-  border-radius: 15px;
   padding: 10px;
-  border: 1px solid gray;
+  @apply rounded-lg bg-violet-100 dark:bg-violet-500/25 text-black dark:text-white;
 }
 
 .showcaseList {

@@ -7,7 +7,8 @@
 
 .checkboxLabel:hover {
   opacity: 1;
-  box-shadow: 0 0 2px 1px var(--ifm-color-secondary-darkest);
+  box-shadow: 0 0 2px 1px var(--ifm-color-primary-dark);
+  @apply scale-105 transition-transform duration-150;
 }
 
 input[type='checkbox'] + .checkboxLabel {
@@ -16,9 +17,8 @@ input[type='checkbox'] + .checkboxLabel {
   cursor: pointer;
   line-height: 1.5;
   padding: 0.275rem 0.8rem;
-  opacity: 0.85;
-  transition: opacity 200ms ease-out;
-  border: 2px solid var(--ifm-color-secondary-darkest);
+  @apply bg-white dark:bg-black;
+  /* border: 2px solid var(--ifm-color-secondary-darkest); */
 }
 
 input:focus-visible + .checkboxLabel {
@@ -26,12 +26,10 @@ input:focus-visible + .checkboxLabel {
 }
 
 input:checked + .checkboxLabel {
-  opacity: 0.9;
   background-color: var(--site-color-checkbox-checked-bg);
-  border: 2px solid var(--ifm-color-primary-darkest);
+  /* border: 2px solid var(--ifm-color-primary-darkest); */
 }
 
 input:checked + .checkboxLabel:hover {
-  opacity: 0.75;
   box-shadow: 0 0 2px 1px var(--ifm-color-primary-dark);
 }
