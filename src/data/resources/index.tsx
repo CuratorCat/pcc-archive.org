@@ -10,7 +10,7 @@
 import { Resources } from './data'
 import { sortBy } from '@site/src/utils/jsUtils'
 
-export type TagType = 'favorite' | 'official' | 'social' | 'tool' | 'marketplace' | 'analytics' | 'other' | 'ens'
+export type TagType = 'favorite' | 'official' | 'social' | 'ens' | 'tool' | 'marketplace' | 'analytics' | 'other'
 
 // prettier - ignore
 
