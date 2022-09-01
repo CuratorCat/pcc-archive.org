@@ -28,7 +28,7 @@
 }
 
 .showcaseCardTitle {
-  margin-bottom: 0;
+  padding: 0.5em 0;
   flex: 1 1 auto;
 }
 
@@ -74,6 +74,9 @@
 
 .showcaseCardBody {
   font-size: smaller;
+  padding-bottom: 0.1em;
+  line-height: 1.25em;
+  min-height: 2.5em;
 }
 
 .cardFooter {
