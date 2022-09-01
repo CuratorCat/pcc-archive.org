@@ -20,8 +20,8 @@ import ShowcaseCard from './_components/ShowcaseCard'
 
 import styles from './styles.module.css'
 
-const TITLE = 'Resources'
-const DESCRIPTION = 'Resources around PCC'
+const TITLE = "Resources around Purrnelope's Country Club"
+const DESCRIPTION = 'Official links, community resource, 3rd-party tool etc. for PCC'
 
 type ResourceState = {
   scrollTopPosition: number
@@ -102,12 +102,12 @@ function useFilteredResources() {
 
 function ShowcaseHeader() {
   return (
-    <section className="margin-top--lg margin-bottom--lg text--center">
+    <section className="py-6 text-center max-w-7xl px-6 mx-auto">
       <h1>{TITLE}</h1>
       <p className="text-lg">{DESCRIPTION}</p>
       <p>
         <Link href="https://github.com/CuratorCat/pcc-archive.org/blob/main/src/data/resources/data.ts">
-          <span className="underline hover:text-violet-500 rounded px-1 py-0.5 ">submit a new resource</span>
+          <span className="underline hover:text-violet-500 rounded px-1 py-0.5 ">add a new resource</span>
         </Link>
       </p>
     </section>
@@ -117,8 +117,8 @@ function ShowcaseHeader() {
 function ShowcaseFilters() {
   const filteredResouces = useFilteredResources()
   return (
-    <section className="max-w-7xl px-2 mx-auto ">
-      <div className="p-4 bg-violet-100 dark:bg-violet-500/25 rounded-2xl">
+    <section className="max-w-7xl px-6 mx-auto ">
+      <div className="p-4 bg-white/50 dark:bg-black/20 rounded-2xl">
         <div className={clsx('margin-bottom--sm', styles.filterCheckbox)}>
           <div>
             <h2>Filters</h2>
@@ -188,7 +188,7 @@ function ShowcaseCards() {
 
   if (filteredResouces.length === 0) {
     return (
-      <section className="margin-top--lg margin-bottom--xl">
+      <section className="py-6">
         <div className="container padding-vert--md text--center">
           <h2>No result</h2>
           <SearchBar />
@@ -198,23 +198,23 @@ function ShowcaseCards() {
   }
 
   return (
-    <section className="margin-top--lg margin-bottom--xl">
+    <section className="py-6">
       {filteredResouces.length === sortedResources.length ? (
         <>
-          <div className="max-w-7xl px-2 mx-auto">
+          <div className="max-w-7xl px-6 mx-auto">
             <div className={clsx('margin-bottom--md', styles.showcaseFavoriteHeader)}>
               <h2>Favorites</h2>
               <span>💜</span>
               <SearchBar />
             </div>
-            <ul className={clsx('max-w-7xl px-2 mx-auto', 'clean-list', styles.showcaseList)}>
+            <ul className={clsx('max-w-7xl px-6 mx-auto', 'clean-list', styles.showcaseList)}>
               {favoriteResources.map(resource => (
                 <ShowcaseCard key={resource.title} resource={resource} />
               ))}
             </ul>
           </div>
 
-          <div className="max-w-7xl px-2 mx-auto margin-top--lg">
+          <div className="max-w-7xl px-6 mx-auto margin-top--lg">
             <div className={clsx('margin-bottom--md', styles.showcaseFavoriteHeader)}>
               <h2>
                 <Translate id="showcase.usersList.allUsers">All</Translate>
@@ -228,7 +228,7 @@ function ShowcaseCards() {
           </div>
         </>
       ) : (
-        <div className="max-w-7xl px-2 mx-auto">
+        <div className="max-w-7xl px-6 mx-auto">
           <div className={clsx('margin-bottom--md', styles.showcaseFavoriteHeader)}>
             <SearchBar />
           </div>
@@ -247,7 +247,7 @@ export default function Showcase(): JSX.Element {
   return (
     <Layout title={TITLE} description={DESCRIPTION}>
       <LayoutTw>
-        <main className="margin-vert--lg">
+        <main className="bg-violet-200 dark:bg-violet-900/50">
           <ShowcaseHeader />
           <ShowcaseFilters />
           <ShowcaseCards />
