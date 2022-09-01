@@ -8,7 +8,7 @@ description: Official Links of Purrnelope's Country Club
 
 import {Redirect} from '@docusaurus/router';
 
-<Redirect to="/resources?tags=official" />
+<Redirect to="/resources?operator=AND&tags=official" />
 
 ## Website
 
