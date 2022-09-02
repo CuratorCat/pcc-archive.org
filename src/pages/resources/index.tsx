@@ -20,7 +20,7 @@ import ShowcaseCard from './_components/ShowcaseCard'
 
 import styles from './styles.module.css'
 
-const TITLE = "Resources around Purrnelope's Country Club"
+const TITLE = "Resources for Purrnelope's Country Club"
 const DESCRIPTION = 'Official links, community resource, 3rd-party tool etc. for PCC'
 
 type ResourceState = {
@@ -117,7 +117,7 @@ function ShowcaseHeader() {
 function ShowcaseFilters() {
   const filteredResouces = useFilteredResources()
   return (
-    <section className="max-w-7xl px-6 mx-auto ">
+    <section className="max-w-7xl px-3 sm:px-6 mx-auto ">
       <div className="p-4 bg-white/50 dark:bg-black/20 rounded-2xl">
         <div className={clsx('margin-bottom--sm', styles.filterCheckbox)}>
           <div>
@@ -178,6 +178,9 @@ function SearchBar() {
             document.getElementById('searchbar')?.focus()
           }, 0)
         }}
+        style={{
+          width: '100%',
+        }}
       />
     </div>
   )
@@ -201,20 +204,20 @@ function ShowcaseCards() {
     <section className="py-6">
       {filteredResouces.length === sortedResources.length ? (
         <>
-          <div className="max-w-7xl px-6 mx-auto">
+          <div className="max-w-7xl px-3 sm:px-6 mx-auto">
             <div className={clsx('margin-bottom--md', styles.showcaseFavoriteHeader)}>
               <h2>Favorites</h2>
               <span>💜</span>
               <SearchBar />
             </div>
-            <ul className={clsx('max-w-7xl px-6 mx-auto', 'clean-list', styles.showcaseList)}>
+            <ul className={clsx('max-w-7xl px-3 sm:px-6 mx-auto', 'clean-list', styles.showcaseList)}>
               {favoriteResources.map(resource => (
                 <ShowcaseCard key={resource.title} resource={resource} />
               ))}
             </ul>
           </div>
 
-          <div className="max-w-7xl px-6 mx-auto margin-top--lg">
+          <div className="max-w-7xl px-3 sm:px-6 mx-auto margin-top--lg">
             <div className={clsx('margin-bottom--md', styles.showcaseFavoriteHeader)}>
               <h2>
                 <Translate id="showcase.usersList.allUsers">All</Translate>
