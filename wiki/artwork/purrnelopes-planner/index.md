@@ -9,6 +9,16 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 ## 2022 Archive
 
+### 2022 Week 36
+
+![](./assets/2022w36.jpg)
+
+- Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1566893938018881537)
+- Sticky Notes:
+  - $TOKEN
+  - The dead speak
+  - JAMIEGAVEMETHISCODE
+
 ### 2022 Week 35
 
 ![](./assets/2022w35.jpg)
