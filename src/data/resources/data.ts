@@ -126,7 +126,7 @@ export const Resources: Resource[] = [
     description: "Official Purrnelope's Country Club Discord",
     image: 'discord.jpg',
     website: 'https://discord.gg/purrnelopescountryclub',
-    tags: ['official', 'favorite'],
+    tags: ['official', 'favorite', 'social'],
   },
   {
     title: 'GM Cat Generator',
@@ -169,6 +169,13 @@ export const Resources: Resource[] = [
     image: 'instagram.jpg',
     website: 'https://www.instagram.com/purrnelopes_country_club/',
     tags: ['official', 'social'],
+  },
+  {
+    title: 'Spotify PCC Community Playlist',
+    description: `Collaborative Playlist for Purrnelope's Country Club`,
+    image: 'pcc-spotify.jpg',
+    website: 'https://open.spotify.com/playlist/5Fh8DZ7UxqCWe6vzxNyn5a',
+    tags: ['official', 'other'],
   },
   {
     title: 'Dune Analytics: PCC ENS',
