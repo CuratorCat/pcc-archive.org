@@ -9,7 +9,7 @@ import Collections from '../components/Homapage/Collections'
 import Ens from '../components/Homapage/Ens'
 import KittyVault from '../components/Homapage/KittyVault'
 import Posts from '../components/Homapage/Posts'
-import ActiveEvents from '../components/Homapage/ActiveEvents'
+// import ActiveEvents from '../components/Homapage/ActiveEvents'
 import RecentPosts from '../components/Homapage/RecentPosts'
 
 export default function Home() {
@@ -20,7 +20,7 @@ export default function Home() {
       description="A place to learn and find information about the Purrnelope's Country Club project"
     >
       <LayoutTw>
-        <ActiveEvents />
+        {/* <ActiveEvents /> */}
         <Hero />
         <main className="pt-0">
           <section className="relative max-w-7xl mx-auto lg:grid grid-cols-1 lg:grid-cols-5 gap-3 lg:px-3">
