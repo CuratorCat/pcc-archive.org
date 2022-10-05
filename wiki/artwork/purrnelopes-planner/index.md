@@ -7,7 +7,39 @@ image: https://assets.pcc-archive.org/purrnelopes-planner/v1-cover.small.jpg
 
 PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
-## 2022 Archive
+## 2022 Q4 Archive
+
+### 2022 Week 40
+
+![](./assets/2022w40.jpg)
+
+- Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1577040800831066114)
+- Sticky Notes:
+  - NEXUS
+  - Papa 2.0
+  - Qué significa eso?
+
+## 2022 Q3 Archive
+
+### 2022 Week 39
+
+![](./assets/2022w39.jpg)
+
+- Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1574504087793582080)
+- Sticky Notes:
+  - HODL THE DOOR
+  - Avastars
+  - Secret Project Team
+
+### 2022 Week 37
+
+![](./assets/2022w37.jpg)
+
+- Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1569430652931416075)
+- Sticky Notes:
+  - REDACTED
+  - REDACTED
+  - REDACTED
 
 ### 2022 Week 36
 
@@ -109,6 +141,8 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
   - Local Mechanics
   - Quiz answers
   - 4YEXDA8V2510
+
+## 2022 Q2 Archive
 
 ### 2022 Week 26
 
@@ -230,6 +264,8 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
   - Airdrop#8 / [Grandma's Nightstand](../../collections/kittyvault-purrks/8-grandma-s-nightstand.md)
   - Roadtrip
   - Passwords
+
+## 2022 Q1 Archive
 
 ### 2022 Week 12
 
