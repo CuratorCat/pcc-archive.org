@@ -58,6 +58,8 @@ Guides in this section require knownledges on interact with contracts on blockch
 1. Enter the cat's ID in the `token_id` field you would like to have the name;
 1. Click **Write** button. Confirm with your wallet. Once the transaction is successful, you got the name with your cat.
 
+- ⛽️ **Gas Limit: `250,000`**. Most txn will pass under 200k gas, but 250k is safer for long names (under 64 charaters).
+
 ![](./assets/contract-name-cat.jpg)
 
 ### Remove Cat's name with Contract {#remove-name}
@@ -74,6 +76,8 @@ Guides in this section require knownledges on interact with contracts on blockch
 1. In the **Write Contract** section, go to **resetHash**.
 1. Enter the cat's ID in the `token_id` field, then click the **Write** button. Confirm with your wallet. Once the transaction is successful, the cat is no longer tied to its previous name. Below is an example, `7926` is the ID of the cat and has the name `curatorcat`.
 
+- ⛽️ **Gas Limit: `100,000`**. Most txn will pass under 50k gas.
+
 ![](./assets/contract-resetHash.jpg)
 
 - There is a 30 minutes of cool down after that, if you plan to make a new name to the cat, you have to wait for 30 minutes. Or transfer the cat to another wallet to make a new name.
@@ -84,6 +88,8 @@ Guides in this section require knownledges on interact with contracts on blockch
 1. In the **Write Contract** section, go to **setName**;
 1. Enther the full .pcc.eth subdomain in `name` field;
 1. Click **Write**, and confirm with your wallet.
+
+- ⛽️ **Gas Limit: `200,000`**. Most txn will pass under 150k gas.
 
 ![](./assets/contract-setName.jpg)
 
@@ -101,6 +107,8 @@ All records on Ethereum blockchain is open to public as well as the update histo
 1. Enther `key` and `value` field. To remove a record, leave the `value` field empty;
 1. Click **Write**, and confirm with your wallet.
 
+- ⛽️ **Gas Limit: `250,000`**. Setting `com.twitter / @CuratorCatPCC` will use about 65k gas, 120 characters `description` will use about 124k gas.
+
 ![](./assets/contract-setText.jpg)
 
 - You can update one record each time, to update multiple records, just repeat what you just did.
@@ -115,8 +123,10 @@ All records on Ethereum blockchain is open to public as well as the update histo
 | **Website**   | `url`           | `https://pcc-archive.org`          |
 | **Twitter**   | `com.twitter`   | `@CuratorCatPCC`                   |
 | **Instagram** | `com.instagram` | `purrnelopes_country_club`         |
-| **TikTok**    | `com.tiktok`    | `@purrs_cc`                        |
 | **GitHub**    | `com.github`    | `CuratorCat`                       |
+| **Telegram**  | `org.telegram`  | `https://t.me/username`            |
+| **LinkedIn**  | `com.linkedin`  | `https://linkedin.com/in/username` |
+| **TikTok**    | `com.tiktok`    | `@purrs_cc`                        |
 
 </details>
 
