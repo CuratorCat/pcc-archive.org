@@ -213,4 +213,12 @@ export const Resources: Resource[] = [
     website: '/addresses',
     tags: ['official', 'other'],
   },
+  {
+    title: "Reporter Cat's Blog",
+    description:
+      "ReporterCat.pcc.eth was investigating the country club and published some reports. Hint for password: Reporter Cat didn't use his typewriter for the blog.",
+    image: 'reportercat-blog.jpg',
+    website: 'https://reportercat.xyz/',
+    tags: ['other'],
+  },
 ]
