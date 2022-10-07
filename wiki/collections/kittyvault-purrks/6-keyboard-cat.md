@@ -1,5 +1,5 @@
 ---
-title: "#6 – Keyboard Cat"
+title: '#6 – Keyboard Cat'
 image: ./assets/QmdHzyzDbF5zJ4zVTqqyPAT6w9Rgs8KdCU8r3BhqsKJbwu_resize.gif
 description: This Keyboard Cat NFT can be redeemed for a KittyVault fractional share or redeem a physical keyboard.
 ---
@@ -35,6 +35,14 @@ Redeem for [KittyVault](../../kittyvault/index.md) Fractions will open in the fu
 ## Learn more
 
 - Post: [Weekly Update: 2022 Week 9](/posts/weekly-update/2022w09)
+
+### Sticker Note
+
+There is a sticker note on the keyboard with `C4rb0n4lyfe` written on it. Translates as `Carbon for Life`, seems some geek put it there.
+
+### Hint for Reporter Cat
+
+Maybe Reporter Cat had used this keyboard when his blog [reportercat.xyz](https://reportercat.xyz/) was created by some computer guy. And the computer guy helped Reporter Cat set a password for the blog to hide some reports.
 
 ## Events
 
