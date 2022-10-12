@@ -221,4 +221,11 @@ export const Resources: Resource[] = [
     website: 'https://reportercat.xyz/',
     tags: ['other'],
   },
+  {
+    title: 'Wallpaper Generator by Rareboy',
+    description: 'Generate PCC NFT Wallpaper for phone and watch. Link to PCC Collection page.',
+    image: 'wallpaper-rareboy.jpg',
+    website: 'https://rareboy.com/wallpapers/purrnelopes-country-club',
+    tags: ['tool'],
+  },
 ]
