@@ -1,5 +1,5 @@
 ---
-title: "#3 – Model Cat"
+title: '#3 – Model Cat'
 image: ./assets/QmR9DLN7swfwVA7a5hzEvWyfWyZq1fee9fnU72NmjsmdJL_resize.jpg
 description: his Model Cat NFT can be redeemed for a KittyVault fractional share or redeem a physical 3D Model Cat.
 ---
@@ -14,9 +14,9 @@ description: his Model Cat NFT can be redeemed for a KittyVault fractional share
 [OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/2) ·
 [LooksRare](https://looksrare.org/collections/0xDa7D42B6167f1497346D7B2336a6D7A603026Db1/2)
 
-| Physical       | KV Fractions |
-| -------------- | ------------ |
-| ✅ w/ 5 Purrks | ✅           |
+| Physical                                       | KV Fractions |
+| ---------------------------------------------- | ------------ |
+| ✅ [w/ 5 Purrks](../../merch/pcc-model-cat.md) | ✅           |
 
 This Model Cat NFT can be redeemed for a KittyVault fractional share when the contracts are live Soon™. It can also be redeemed for a [Physical 3D printed PCC Model Cat](../../merch/pcc-model-cat.md) of a cat that you own.
 

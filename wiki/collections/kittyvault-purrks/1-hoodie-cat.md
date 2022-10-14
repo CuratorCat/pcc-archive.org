@@ -1,5 +1,5 @@
 ---
-title: "#1 - Hoodie Cat"
+title: '#1 - Hoodie Cat'
 image: ./assets/QmNU1P1fSAWE84eRkgiHtNSPJBJg64PqhAA7NYeBYCSbhf_resize.gif
 description: This Hoodie Cat NFT can be redeemed for the KittyBank fractional or redeem to a physical hoodie.
 ---
@@ -14,9 +14,9 @@ description: This Hoodie Cat NFT can be redeemed for the KittyBank fractional or
 [OpenSea](https://opensea.io/assets/0xda7d42b6167f1497346d7b2336a6d7a603026db1/0) ·
 [LooksRare](https://looksrare.org/collections/0xDa7D42B6167f1497346D7B2336a6D7A603026Db1/0)
 
-| Physical        | KV Fractions |
-| --------------- | ------------ |
-| ✅ w/ 10 Purrks | ✅           |
+| Physical                                  | KV Fractions |
+| ----------------------------------------- | ------------ |
+| ✅ [w/ 10 Purrks](../../merch/hoodies.md) | ✅           |
 
 This Hoodie Cat NFT can be redeemed for the KittyBank fractional share when the contracts are live Soon™. It can also be redeemed for our Genesis Flex Hoodie. Financial advice is to avoid redeeming ten of these for the Hoodie. The first window will be open shortly to redeem your Hoodie. This NFT will also show in the collection log when that is live on PCC Official Website.
 
@@ -24,7 +24,7 @@ This Hoodie Cat NFT can be redeemed for the KittyBank fractional share when the 
 
 ### Physical Hoodie
 
-For a Physical Hoodie with **10 Hoodie Cat NFTs**.
+For a [Physical Hoodie](../../merch/hoodies.md) with **10 Hoodie Cat NFTs**.
 
 Redeem will open in the future.
 

@@ -24,6 +24,6 @@ Photo courtesy of bob.pcc.eth, Twitter [@bobpadron](https://twitter.com/bobpadro
 
 ### Size
 
-Here is a photo comparison for the size of the pin and 1 US dollar coin
+Here is a photo of the size compared to 1 US dollar coin
 
 ![Photo of PCC Pin and a coin](./assets/pins/pin-coin.jpg)

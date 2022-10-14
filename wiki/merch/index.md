@@ -2,8 +2,8 @@
 title: PCC Merch
 sidebar_label: 👕 Merch
 sidebar_position: 70
-# image: /img/cover/pcc.jpg
-description: "PCC Merch was planned since Roadmap 1.0. Merch Store was launched on May 13, 2022."
+image: /img/cover/pcc.jpg
+description: 'PCC Merch was planned since Roadmap 1.0. Merch Store was launched on May 13, 2022.'
 ---
 
 import DocCardList from '@theme/DocCardList';
@@ -22,11 +22,10 @@ PCC Merch Store ([store.purrnelopescountryclub.com](https://store.purrnelopescou
 ## Merch Directory
 
 <DocCardList items={useCurrentSidebarCategory().items}/>
+
 ## Redeemable Physicals
 
 The following merches can only be redeemed with [KittyVault Purrks](../collections/kittyvault-purrks/index.md).
-
-## Redeemables
 
 **Redeem Open Now**:
 
@@ -34,7 +33,7 @@ The following merches can only be redeemed with [KittyVault Purrks](../collectio
 
 Redeem will open soon:
 
-- Flex Hoodies
+- [Flex Hoodies](./hoodies.md)
 - Comic Book
 - PCC Music Record
 - PCC Branded Keyboard
