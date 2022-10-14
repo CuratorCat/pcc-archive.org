@@ -25,8 +25,8 @@
 }
 
 .overlay {
-  @apply from-white to-white/0;
+  @apply from-[#F0EDFF] to-[#F0EDFF]/0;
 }
 [data-theme='dark'] .overlay {
-  @apply from-black to-black/0;
+  @apply from-[#170830] to-[#170830]/0;
 }
