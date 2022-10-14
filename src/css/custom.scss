@@ -127,6 +127,7 @@ div[class^='announcementBar_'] {
   background-size: 1000% 1000%;
   animation: announcementBarBg 3s ease infinite;
   font-weight: 500;
+  z-index: 0 !important;
 }
 
 @keyframes announcementBarBg {
