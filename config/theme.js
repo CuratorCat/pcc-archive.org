@@ -117,7 +117,6 @@ module.exports = {
     ],
   },
   footer: {
-    style: 'dark',
     links: [
       {
         title: 'PCC-Archive.org',

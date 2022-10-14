@@ -7,7 +7,7 @@
 @import url(./tailwindcss.base.reset.css);
 @tailwind components;
 @tailwind utilities;
-/* @import "fonts.scss"; */
+/* @import 'fonts.scss'; */
 
 @layer utilities {
   /* Chrome, Safari and Opera */
@@ -32,7 +32,7 @@
   --ifm-color-primary-light: #8767f2;
   --ifm-color-primary-lighter: #8767f2;
   --ifm-color-primary-lightest: #8767f2;
-  --ifm-background-color: rgb(255, 255, 255);
+  --ifm-background-color: rgb(240, 237, 254);
   --ifm-navbar-background-color: #ffffff;
   --ifm-background-surface-color: #ffffff;
   --ifm-code-background-color: rgba(15, 23, 42, 0.05);
@@ -66,7 +66,7 @@
   --ifm-color-primary-light: #9b81ef;
   --ifm-color-primary-lighter: #9b81ef;
   --ifm-color-primary-lightest: #9b81ef;
-  --ifm-background-color: rgb(8, 8, 8) !important;
+  --ifm-background-color: rgb(23, 8, 48) !important;
   --ifm-navbar-background-color: rgb(18, 15, 28);
   --ifm-background-surface-color: rgba(15, 23, 42, 1);
   --ifm-dropdown-background-color: rgb(36, 34, 46);
@@ -127,7 +127,6 @@ div[class^='announcementBar_'] {
   background-size: 1000% 1000%;
   animation: announcementBarBg 3s ease infinite;
   font-weight: 500;
-  z-index: 0 !important;
 }
 
 @keyframes announcementBarBg {
@@ -244,12 +243,7 @@ div[itemprop="articleBody"] {
 div.theme-doc-toc-desktop > ul,
 div[class^='tableOfContents_'] > ul {
   border: none;
-  @apply rounded-xl bg-gray-200/30;
-}
-
-[data-theme='dark'] div.theme-doc-toc-desktop > ul,
-[data-theme='dark'] div[class^='tableOfContents_'] > ul {
-  @apply bg-gray-300/10;
+  @apply rounded-xl bg-white/50 hover:bg-white dark:bg-white/10 dark:hover:bg-white/[0.15];
 }
 
 .table-of-contents__link {
@@ -329,7 +323,7 @@ article .markdown {
 
 nav.pagination-nav {
   .pagination-nav__link {
-    @apply border-0 bg-slate-500/[0.05] hover:bg-slate-500/[0.15] rounded-xl;
+    @apply border-0 bg-white/[0.5] hover:bg-white/[1] rounded-xl;
   }
 
   & .pagination-nav__sublabel,
@@ -355,7 +349,7 @@ nav.pagination-nav {
 
 [data-theme='dark'] nav.pagination-nav {
   .pagination-nav__link {
-    @apply bg-slate-500/10 hover:bg-slate-500/20;
+    @apply bg-white/10 hover:bg-white/[0.15];
   }
 }
 
@@ -421,4 +415,25 @@ main[class^='docMainContainer'] {
 
 .hack-safari-overlow {
   -webkit-mask-image: -webkit-radial-gradient(white, black);
+}
+
+main {
+  & .breadcrumbs__link,
+  & .breadcrumbs__item .breadcrumbs__link,
+  & .breadcrumbs__item--active .breadcrumbs__link {
+    @apply bg-white/50 hover:bg-white text-black;
+    @apply dark:bg-white/5 dark:hover:bg-white/[0.15] dark:text-white;
+  }
+  & .breadcrumbs__item a.breadcrumbs__link {
+    @apply text-violet-400;
+    @apply dark:text-violet-400;
+  }
+  /* & .breadcrumbs__item:last-child,
+  & .breadcrumbs__item:nth-last-child(2):after {
+    @apply hidden;
+  } */
+}
+nav[aria-label='Blog recent posts navigation'] {
+  @apply p-4 bg-white/50 hover:bg-white rounded-xl;
+  @apply dark:bg-white/10 dark:hover:bg-white/[0.15];
 }
