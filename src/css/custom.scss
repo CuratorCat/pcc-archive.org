@@ -438,3 +438,16 @@ nav[aria-label='Blog recent posts navigation'] {
   @apply p-4 bg-white/50 hover:bg-white rounded-xl;
   @apply dark:bg-white/10 dark:hover:bg-white/[0.15];
 }
+
+.card,
+[class^='cardContainer_'] {
+  @apply bg-violet-300/20 hover:bg-violet-500/20;
+  @apply dark:bg-violet-900/20 dark:hover:bg-violet-500/20;
+  border: none !important;
+  box-shadow: none !important;
+
+  /* hide  */
+  h2::first-letter {
+    @apply hidden opacity-0 -ml-[1em];
+  }
+}
