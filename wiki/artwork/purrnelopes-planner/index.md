@@ -9,6 +9,16 @@ PCC Team started using Purrnelope's Planner each week since Feb 7, 2022.
 
 ## 2022 Q4 Archive
 
+### 2022 Week 42
+
+![](./assets/2022w42.jpg)
+
+- Source: [Tweet](https://twitter.com/PurrnelopesCC/status/1582114227707203585)
+- Sticky Notes:
+  - Timeshares
+  - Subdomains
+  - The Future of Purrnelope's
+
 ### 2022 Week 41
 
 ![](./assets/2022w41.jpg)
