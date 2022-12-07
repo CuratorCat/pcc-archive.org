@@ -3,7 +3,7 @@ sidebar_position: 35
 title: 🛩 Purrnelope's Exclusives
 sidebar_label: 🛩 Exclusives
 image: /img/cover/pcc-exclusives.jpg
-description: Purrnelope's Exclusives are $TOKEN Yielding NFTs and may receive extra perks in PCC Universe.
+description: Purrnelope's Exclusives are $YARN Yielding NFTs and may receive extra perks in PCC Universe.
 ---
 
 🛩
@@ -15,19 +15,19 @@ description: Purrnelope's Exclusives are $TOKEN Yielding NFTs and may receive ex
 
 ## What are PCC Exclusives
 
-Purrnelope's Exclusives are $TOKEN Yielding NFTs and may receive extra perks in PCC Universe.
+Purrnelope's Exclusives are $YARN Yielding NFTs and may receive extra perks in PCC Universe.
 
-### $Token Yield
+### $YARN Yield
 
-There are 5 categories in Exclusives, the higher the rarity, different categories yield different $TOKEN amount.
+There are 5 categories in Exclusives, the higher the rarity, different categories yield different $YARN amount.
 
-| Category | Type        | Daily $TOKEN Yield |
-| :------- | :---------- | :----------------- |
-| CAT I    | Float       | 5                  |
-| CAT II   | Golf Cart   | 10                 |
-| CAT III  | Jeep        | 25                 |
-| CAT IV   | Super Car   | 50                 |
-| CAT V    | Private Jet | 100                |
+| Category | Type        | Daily $YARN Yield |
+| :------- | :---------- | :---------------- |
+| CAT I    | Float       | 5                 |
+| CAT II   | Golf Cart   | 10                |
+| CAT III  | Jeep        | 25                |
+| CAT IV   | Super Car   | 50                |
+| CAT V    | Private Jet | 100               |
 
 ### Exclusive Airdrops
 

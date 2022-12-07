@@ -37,7 +37,7 @@ Redeem for [KittyVault](../../kittyvault/index.md) Fractions will open in the fu
 ## Learn more
 
 - Video: [3D Model: Explained!](/posts/explained/202112-3d-model)
-- PurrCast: [PurrCast: 3D Models, ENS subdomains, $Token, The Future](/posts/2022/01/19/purrcast/)
+- PurrCast: [PurrCast: 3D Models, ENS subdomains, $YARN, The Future](/posts/2022/01/19/purrcast/)
 - Merch: [PCC Model Cat](../../merch/pcc-model-cat.md)
 
 ## Events
@@ -97,4 +97,4 @@ Redeem for [KittyVault](../../kittyvault/index.md) Fractions will open in the fu
 
   </details>
 
-[^1]: From [PurrCast: 3D Models, ENS subdomains, $Token, The Future](/posts/2022/01/19/purrcast/)
+[^1]: From [PurrCast: 3D Models, ENS subdomains, $YARN, The Future](/posts/2022/01/19/purrcast/)

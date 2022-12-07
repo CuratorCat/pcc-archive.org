@@ -21,7 +21,7 @@ Purrnelope's Kittens is the 2nd collection in PCC Universe with 10,000 randomly 
 
 ![](./assets/claim-kittens.jpg)
 
-Kittens are claimed with [Kitten Basket](../kittyvault-purrks/2-kitten-basket.md), 1 Kitten Basket for 1 Kitten. Public Kittens Claim opened on Nov 15, 2021. Unredeemed Kitten Baskets were pulled back on Dec 20, 2021. 
+Kittens are claimed with [Kitten Basket](../kittyvault-purrks/2-kitten-basket.md), 1 Kitten Basket for 1 Kitten. Public Kittens Claim opened on Nov 15, 2021. Unredeemed Kitten Baskets were pulled back on Dec 20, 2021.
 
 All unclaimed Kittens will be minted by the team. And will be used in giveaways. [^1]
 
@@ -33,15 +33,9 @@ Kittens `#1 - #20` are not revealed. They are reserved for The Team for mysterio
 
 Kittens owners can access **Clubhouse** channel in [PCC Discord](http://discord.gg/purrnelopescountryclub).
 
-### Earn $Token
+### Earn $YARN
 
-Kittens are Tier 3 NFTs, will earn 1 $TOKEN per day per Kitten.
-
-:::info
-
-Details for Tiers & $TOKEN has not been released yet.
-
-:::
+Kittens are Tier 3 NFTs, will earn 1 $YARN per day per Kitten.
 
 ### Redeem for KittyVault Fractions
 
@@ -131,12 +125,12 @@ function internalMint(address _to, uint256 _quantity) private {
 function getRandomNumber(uint256 maxValue, uint256 salt) private view returns(uint256) {
     if (maxValue == 0)
         return 0;
-        
+
     uint256 seed =
         uint256(
             keccak256(
                 abi.encodePacked(
-                        block.difficulty +	
+                        block.difficulty +
                         ((uint256(keccak256(abi.encodePacked(tx.origin, msg.sig)))) / (block.timestamp)) +
                         block.number +
                         salt
@@ -156,7 +150,6 @@ This function only accepts Kittens mint by the [KittyVault Purrks](../kittyvault
 This was used for mint Kittens using the Kitten Basket Purrks.
 
 > This function is the same as the [Grandmas Contract](../grandmas/index.md#contract)
-
 
 <details><summary>See Code</summary>
 

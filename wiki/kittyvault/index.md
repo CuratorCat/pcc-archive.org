@@ -29,7 +29,7 @@ The KittyVault is 100,000 fractions, 10,000 held by the team for liquidity, and 
 
 ### KittyBank Token {#token}
 
-**The KittyBank Token**, aka KittyVault Token, is different from the $TOKEN.
+**The KittyBank Token**, aka KittyVault Token, is different from $YARN.
 
 [PCC Cats](../collections/cats/index.md), [Kittens](../collections/kittens/index.md), Cat Grandmas and other 6 [KittyVault Purrks](../collections/kittyvault-purrks/index.md) will be able to be redeemed for KittyBank Token that represent shares of the KittyVault. That KittyBank Token will be tradable for 1/100,000 of the Vault's value.
 

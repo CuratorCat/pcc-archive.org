@@ -21,17 +21,17 @@ import KVPurrks from '../collections/\_kittyvault-purrks.md';
 
 [^1]: Quoted from PCC first blog post: [Welcome to Purrnelope’s Country Club](/posts/2021/07/14/post/welcome-to-pcc)
 
-Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in the UK registered back in June 2021 for paying the team's salary and taxes[^3]. Another company in BVI registered in December 2021 for PCC to launch its $TOKEN legally in the coming future[^4]. **[The PCC Team](./team.md)** currently consists of 8 full-time members of staff and 2 part-time members of staff.
+Carlini8 is the founder of PCC. PCC has 3 companies[^2]. One original company in the UK registered back in June 2021 for paying the team's salary and taxes[^3]. Another company in BVI registered in December 2021 for PCC to launch its $YARN legally[^4]. **[The PCC Team](./team.md)** currently consists of 8 full-time members of staff and 2 part-time members of staff.
 
 [^2]: 3 companies were mentioned in Carlini8's [interview by Lucky Trader](/posts/2022/02/25/3rd-party/lucky-trader).
 [^3]: The first company was mentioned many times in Carlini8's [interviews](/posts/tags/interview).
-[^4]: BVI company was mentioned in [interview by Lucky Trader](/posts/2022/02/25/3rd-party/lucky-trader), and time was mentioned in [interview by Talkenized](/posts/2022/04/27/3rd-party/talkenized). The $TOKEN has not released yet, "$TOKEN" here is a placeholder for it's to be launched token.
+[^4]: BVI company was mentioned in [interview by Lucky Trader](/posts/2022/02/25/3rd-party/lucky-trader), and time was mentioned in [interview by Talkenized](/posts/2022/04/27/3rd-party/talkenized).
 
 ## Collections 😺 {#collections}
 
 **PCC Universe has 4 main [Collections](../collections/index.md): Cats, Kittens, Grandmas, and Tier 2 (TBA). And 3 other [Collections](../collections/index.md): Purrnelope's Exslusives, KittyVault Purrks and Purrnelope's Gift.**
 
-The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day. Exclusives collection also yield $TOKEN.
+The 4 main collections are classified into 3 tiers, which will yield different amounts of $YARN per day. Exclusives collection also yield $YARN.
 
 <span className="wikiPostListImgR">
 
@@ -75,7 +75,7 @@ The 4 main collections are classified into 3 tiers, which will yield different a
 
 ### Exclusives <sup>YIELD</sup>
 
-**[Purrnelope's Exclusives](../collections/exclusives/index.md)** are $TOKEN yielding NFTs. There are 5 categories in Exclusives, the higher the rarity, different categories yield different $TOKEN amount.
+**[Purrnelope's Exclusives](../collections/exclusives/index.md)** are $YARN yielding NFTs. There are 5 categories in Exclusives, the higher the rarity, different categories yield different $YARN amount.
 
 Exclusives may receive extra perks in PCC Universe.
 
@@ -119,11 +119,11 @@ The new PCC Ambassadors role requires to have a .pcc.eth subdomain.
 
 </span>
 
-## $TOKEN 💰 {#token}
+## $YARN 💰 {#token}
 
-**Purrnelope's Token has not been released yet, "$TOKEN" here is a placeholder.**
+**$YARN is the official Purrnelope's Token.**
 
-NFTs from main [collections](../collections/index.md) will be able to yield $TOKEN. $TOKEN will be used for purchasing packs, community governance, etc. $TOKEN was mentioned a lot during [Carlini8's interview by Overpriced JPEGs](/posts/2022/03/30/3rd-party/overpriced-jpegs).
+NFTs from main [collections](../collections/index.md) will be able to yield $YARN. $YARN will be used for purchasing packs, community governance, etc. $YARN was mentioned a lot during [Carlini8's interview by Overpriced JPEGs](/posts/2022/03/30/3rd-party/overpriced-jpegs).
 
 ## Merch 🛍 {#merch}
 
@@ -185,9 +185,9 @@ Displate and Anime Short are still in progress, and these are mentioned in [Road
 
 ### Roadmap 1.0 Plus
 
-**KittyVault**, **KittyVault Purrks** Airdrops, 1st companions: **Kittens**, 2nd companions: **TBA**, **Tier 2 Collection**, **$TOKEN**, **.pcc.eth ENS subdomains** were not on the original roadmap 1.0 but added to the project later.
+**KittyVault**, **KittyVault Purrks** Airdrops, 1st companions: **Kittens**, 2nd companions: **TBA**, **Tier 2 Collection**, **$YARN**, **.pcc.eth ENS subdomains** were not on the original roadmap 1.0 but added to the project later.
 
-The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks airdrops, 2nd companion, Tier 2 Collection, and $TOKEN are mentioned in [Roadmap 2.0](#roadmap-20), and will be tracked in the next Roadmap 2.0 section.
+The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks airdrops, 2nd companion, Tier 2 Collection, and $YARN are mentioned in [Roadmap 2.0](#roadmap-20), and will be tracked in the next Roadmap 2.0 section.
 
 - 😼 KittyVault
 - ✅ Kittens: [2021-Q4](#2021-q4)
@@ -203,7 +203,7 @@ The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks
 - ✅ Merch [2022-Q2](#2022-q2)
 - 🚙 Redeem for Physicals Completed: 1/6
 - 🛠 Tier 2 Collection
-- 🛠 $TOKEN
+- 🛠 $YARN
 
 Other items from Roadmap 2.0 will be added to the list upon completion or new updates from the team. Here's a map of Roadmap 2.0:
 

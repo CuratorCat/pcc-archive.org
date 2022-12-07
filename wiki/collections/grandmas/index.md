@@ -33,13 +33,13 @@ All unclaimed Grandmas will be minted by the team.
 
 Grandmas owners can access **Clubhouse** channel in [PCC Discord](http://discord.gg/purrnelopescountryclub).
 
-### Earn $Token
+### Earn $YARN
 
-Grandmas are Tier 3 NFTs, will earn 1 $TOKEN per day per Grandma.
+Grandmas are Tier 3 NFTs, will earn 1 $YARN per day per Grandma.
 
 :::info
 
-Details for Tiers & $TOKEN has not been released yet.
+Details for Tiers & $YARN has not been released yet.
 
 :::
 
