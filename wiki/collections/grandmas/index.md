@@ -37,12 +37,6 @@ Grandmas owners can access **Clubhouse** channel in [PCC Discord](http://discord
 
 Grandmas are Tier 3 NFTs, will earn 1 $YARN per day per Grandma.
 
-:::info
-
-Details for Tiers & $YARN has not been released yet.
-
-:::
-
 ### Redeem for KittyVault Fractions
 
 Once the [KittyVault](../../kittyvault/index.md) is fractionalized, Grandmas can be redeemed(burned) for [KittyBank Token](../../kittyvault/index.md#kittybank-token-token).

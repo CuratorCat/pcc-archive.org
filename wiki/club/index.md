@@ -119,7 +119,7 @@ The new PCC Ambassadors role requires to have a .pcc.eth subdomain.
 
 </span>
 
-## $YARN 💰 {#token}
+## $YARN 🧶 {#token}
 
 **$YARN is the official Purrnelope's Token.**
 
@@ -203,7 +203,7 @@ The KittyVault is waiting to be fractionlized once it's ready. KittyVault Purrks
 - ✅ Merch [2022-Q2](#2022-q2)
 - 🚙 Redeem for Physicals Completed: 1/6
 - 🛠 Tier 2 Collection
-- 🛠 $YARN
+- ✅ $YARN Token
 
 Other items from Roadmap 2.0 will be added to the list upon completion or new updates from the team. Here's a map of Roadmap 2.0:
 
