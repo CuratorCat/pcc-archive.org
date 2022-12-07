@@ -44,3 +44,4 @@ List of contributors with identity, sorted by the time of first contribution add
 
 - curatorcat.pcc.eth [GitHub](https://github.com/CuratorCat) [Twitter](https://twitter.com/CuratorCatPCC)
 - dodo.pcc.eth [GitHub](https://github.com/dodo-pcc) [Twitter](https://twitter.com/tzh90)
+- hoanh.pcc.eth [GitHub](https://github.com/hoanhan101) [Twitter](https://twitter.com/hoanhan101)

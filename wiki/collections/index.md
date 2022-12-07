@@ -3,7 +3,7 @@ title: PCC Collections
 sidebar_label: 😺 Collections
 sidebar_position: 20
 image: /img/cover/pcc-collections.jpg
-description: "Cats, Kittens, Grandmas, Exclusives, KittyVault Purrks, Gifts and more collections coming to PCC Universe."
+description: 'Cats, Kittens, Grandmas, Exclusives, KittyVault Purrks, Gifts and more collections coming to PCC Universe.'
 ---
 
 import Cats from './\_cats.md';
@@ -17,7 +17,7 @@ import KVPurrks from './\_kittyvault-purrks.md';
 
 **PCC Universe has 4 main collections: Cats, Kittens, Grandmas, and Tier 2 (TBA) that are cat members of the country club. And 3 other Collections: Purrnelope's Exslusives, KittyVault Purrks and Purrnelope's Gift.**
 
-The 4 main collections are classified into 3 tiers, which will yield different amounts of $TOKEN per day. Exclusives collection also yield $TOKEN.
+The 4 main collections are classified into 3 tiers, which will yield different amounts of $YARN per day. Exclusives collection also yield $YARN.
 
 ## Main Collections
 
@@ -27,15 +27,15 @@ Cats, Kittens, Grandmas, Tier 2s (TBA) are 4 main collections in PCC Universe.
 
 ### Tiers
 
-Main collections are classified into 3 tiers, which will yield different amounts of $TOKEN perday.
+Main collections are classified into 3 tiers, which will yield different amounts of $YARN perday.
 
-- Tier 1: will yield 10 $TOKENs per day.
-- Tier 2: will yield 5 $TOKENs per day.
-- Tier 3: will yield 1 $TOKEN per day.
+- Tier 1: will yield 10 $YARN per day.
+- Tier 2: will yield 5 $YARN per day.
+- Tier 3: will yield 1 $YARN per day.
 
 :::info
 
-Details for Tiers & $TOKEN has not been released yet.
+Details for Tiers & $YARN will be documented and updated accordingly following the team's updates.
 
 :::
 
@@ -79,7 +79,7 @@ Details for Tiers & $TOKEN has not been released yet.
 
 [![](./exclusives/assets/pcc-exclusives.jpg)](./exclusives/index.md)
 
-[Purrnelope's Exclusives](./exclusives/index.md) are $TOKEN Yielding NFTs. There are 5 categories in Exclusives, the higher the rarity, different categories yield different $TOKEN amount.
+[Purrnelope's Exclusives](./exclusives/index.md) are $YARN Yielding NFTs. There are 5 categories in Exclusives, the higher the rarity, different categories yield different $YARN amount.
 
 Exclusives may receive extra perks in PCC Universe.
 

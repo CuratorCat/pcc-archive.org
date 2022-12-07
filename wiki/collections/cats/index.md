@@ -33,11 +33,11 @@ Cats owners can access **Clubhouse** channel in [PCC Discord](http://discord.gg/
 
 Cats owners can claim their [.pcc.eth ENS Subdomains](../../ens/index.md) at [Claim Page](https://www.purrnelopescountryclub.com/claim/ens) of PCC Website.
 
-Cats owner using .pcc.eth subdomain names as Twitter & Discord display names will received **Ambassador** role in [PCC Discord](http://discord.gg/purrnelopescountryclub). 
+Cats owner using .pcc.eth subdomain names as Twitter & Discord display names will received **Ambassador** role in [PCC Discord](http://discord.gg/purrnelopescountryclub).
 
-### Earn $Token
+### Earn $YARN
 
-Cats are Tier 1 NFTs, will yield 10 $TOKENs per day per Cat.
+Cats are Tier 1 NFTs, will yield 10 $YARN per day per Cat.
 
 ### Redeem for KittlyVault Fractions
 
