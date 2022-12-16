@@ -1,9 +1,9 @@
 ---
-title: "Physical PCC Model Cat"
+title: 'Physical PCC Model Cat'
 sidebar_label: 😼 Model Cat
 sidebar_position: 801
 image: /img/cover/pcc-model-cat.jpg
-description: "Redeemable: Physical PCC Model Cat"
+description: 'Redeemable: Physical PCC Model Cat'
 ---
 
 import { EmbedTweet } from '@site/src/components/Social'
@@ -41,7 +41,7 @@ Please read claim description on https://store.purrnelopescountryclub.com/produc
 ### 1. Redeem for Merch Coupon
 
 - 5 [Model Cat NFTs](../collections/kittyvault-purrks/3-model-cat.md) will be required to redeem 1 coupon for 1 Physical Cat Model.
-- Burn your Model Cat NFTs for Merch Coupon: https://www.purrnelopescountryclub.com/claim/model
+- Burn your Model Cat NFTs for Merch Coupon: https://www.purrnelopescountryclub.com/purrks
 
   ![](assets/pcc-model-cat/pcc-model-cat-burn.jpg)
 

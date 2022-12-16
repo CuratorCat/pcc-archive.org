@@ -73,10 +73,10 @@ export const Resources: Resource[] = [
     tags: ['official', 'ens'],
   },
   {
-    title: 'Physical PCC Model Cat Claim',
-    description: 'Official PCC Physical Model Cat Claim Link',
+    title: 'PCC Physicals Redeem Link',
+    description: 'Official PCC Physicals Redeem Link',
     image: 'model-claim.jpg',
-    website: 'https://www.purrnelopescountryclub.com/claim/model',
+    website: 'https://www.purrnelopescountryclub.com/purrks',
     tags: ['official'],
   },
   {
