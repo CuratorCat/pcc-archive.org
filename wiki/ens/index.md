@@ -10,7 +10,7 @@ description: .pcc.eth ENS subdomains can be claimed with a PCC cat, the ENS is t
 
 You can only have a **.pcc.eth** if you own a Purrnelopes Country Club [Cat](../collections/cats/index.md). The ENS is tied to the cat, not an additional NFT, not your wallet, the cat itself. If you sell your PCC Cat, the **.pcc.eth** goes with it.
 
-It's free for PCC Cats holders to claim on the [PCC website](https://www.purrnelopescountryclub.com/claim/ens) beside the gas. As long as you hold the cat tied to it, you will have your **.pcc.eth** ENS, the PCC Team pays the annual fees for the primary **pcc.eth** ENS.
+It's free for PCC Cats holders to claim on the [PCC website](https://www.purrnelopescountryclub.com/ens) beside the gas. As long as you hold the cat tied to it, you will have your **.pcc.eth** ENS, the PCC Team pays the annual fees for the primary **pcc.eth** ENS.
 
 ENS domains are booming, and PCC's wizard `hodl.pcc.eth` created a custom [ENS resolver contract](https://etherscan.io/address/0x9b6d20f524367d7e98ed849d37fc662402dca7fb#code) that made PCC the first project that links ERC-721 NFTs to ENS subdomains possible. The contract itself says _feel free to reuse_ it for other projects to use!
 
@@ -86,7 +86,7 @@ See [FAQ Page](faq.md) for all FAQ for .pcc.eth ENS Subdomains.
 
 ## Learn more
 
-- Claim Page: [purrnelopescountryclub.com/claim/ens](https://www.purrnelopescountryclub.com/claim/ens)
+- Claim Page: [purrnelopescountryclub.com/ens](https://www.purrnelopescountryclub.com/ens)
 - Team Post: [PCC — ENS subdomains](/posts/2021/12/14/post/pcc-ens-subdomains)
 - PurrCast: [ENS subdomains with hodl.pcc.eth](/posts/2022/04/20/purrcast/)
 - Video: [PCC Sub Domains: Explained](/posts/explained/202112-ens-subdomains)

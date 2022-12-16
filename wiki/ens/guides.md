@@ -13,7 +13,7 @@ Guides for .pcc.eth ENS Subdomains
 ### Claim .pcc.eth ENS (name your Cat)
 
 - To claim your .pcc.eth subdomain, you have to own a [PCC Cat](../collections/cats/index.md) without a name.
-- Connect your wallet at [purrnelopescountryclub.com/claim/ens](https://www.purrnelopescountryclub.com/claim/ens):
+- Connect your wallet at [purrnelopescountryclub.com/ens](https://www.purrnelopescountryclub.com/ens):
 
 1. Choose a Cat you would like to name;
 2. Type a name, 0-1, a-z are allowed;
@@ -26,7 +26,7 @@ Guides for .pcc.eth ENS Subdomains
 ### Set Primary ENS Record
 
 - Once you have a cat with a name, you can link your wallet to use that .pcc.eth subdomain.
-- Connect your wallet at [purrnelopescountryclub.com/claim/ens](https://www.purrnelopescountryclub.com/claim/ens):
+- Connect your wallet at [purrnelopescountryclub.com/ens](https://www.purrnelopescountryclub.com/ens):
 
 1. Choose a pcc.eth subdomain name;
 2. Click Apply, and confirm with your wallet.

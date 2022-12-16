@@ -69,7 +69,7 @@ export const Resources: Resource[] = [
     title: 'PCC ENS Subdomain Claim',
     description: 'Official PCC ENS Subdomains Claim Link',
     image: 'ens-claim.jpg',
-    website: 'https://www.purrnelopescountryclub.com/claim/ens/',
+    website: 'https://www.purrnelopescountryclub.com/ens/',
     tags: ['official', 'ens'],
   },
   {

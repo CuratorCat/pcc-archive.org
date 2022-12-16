@@ -10,7 +10,7 @@ description: FAQ for .pcc.eth ENS Subdomains
 
 - **You have to own a PCC Cat**, and the cat must not be tied to a .pcc.eth subdomain.
 
-- Official PCC ENS Claim Page: [purrnelopescountryclub.com/claim/ens](https://www.purrnelopescountryclub.com/claim/ens).
+- Official PCC ENS Claim Page: [purrnelopescountryclub.com/ens](https://www.purrnelopescountryclub.com/ens).
 
 ### Do I own that .pcc.eth ENS?
 
@@ -64,7 +64,7 @@ description: FAQ for .pcc.eth ENS Subdomains
 
 - **You have to set your subdomain.pcc.eth as the primary name.**
 
-  This can be done on the [claim page](https://www.purrnelopescountryclub.com/claim/ens) once you have a cat owns a name:
+  This can be done on the [claim page](https://www.purrnelopescountryclub.com/ens) once you have a cat owns a name:
 
 ![](./assets/set-primary.png)
 

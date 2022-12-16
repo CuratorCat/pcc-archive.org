@@ -31,7 +31,7 @@ Cats owners can access **Clubhouse** channel in [PCC Discord](http://discord.gg/
 
 ### .pcc.eth ENS Subdomains
 
-Cats owners can claim their [.pcc.eth ENS Subdomains](../../ens/index.md) at [Claim Page](https://www.purrnelopescountryclub.com/claim/ens) of PCC Website.
+Cats owners can claim their [.pcc.eth ENS Subdomains](../../ens/index.md) at [Claim Page](https://www.purrnelopescountryclub.com/ens) of PCC Website.
 
 Cats owner using .pcc.eth subdomain names as Twitter & Discord display names will received **Ambassador** role in [PCC Discord](http://discord.gg/purrnelopescountryclub).
 

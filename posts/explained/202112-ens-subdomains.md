@@ -1,6 +1,6 @@
 ---
-title: "PCC Sub Domains: Explained"
-description: "Learn more about .pcc.eth ENS Sub domains"
+title: 'PCC Sub Domains: Explained'
+description: 'Learn more about .pcc.eth ENS Sub domains'
 authors: [katie]
 tags: [Explained]
 date: 2021-12-14
@@ -12,10 +12,10 @@ og_url: https://youtu.be/4h76jAVk8Ek
 
 <!--truncate-->
 
-Happy Holidays Purrs! 
+Happy Holidays Purrs!
 
-Get cosy by the fire as katie.pcc.eth explains all about our ENS sub domains! With a little help from Grandma... 
+Get cosy by the fire as katie.pcc.eth explains all about our ENS sub domains! With a little help from Grandma...
 
-Head to our website here to check your eligibility and claim your sub domain! 
+Head to our website here to check your eligibility and claim your sub domain!
 
-https://www.purrnelopescountryclub.com/claim/ens
+https://www.purrnelopescountryclub.com/ens
