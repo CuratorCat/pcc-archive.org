@@ -3,14 +3,14 @@ import Layout from '@theme/Layout'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
 import LayoutTw from '@site/src/theme/LayoutTw'
 
-import Hero from '../components/Homapage/Hero'
-import Club from '../components/Homapage/Club'
-import Collections from '../components/Homapage/Collections'
-import Ens from '../components/Homapage/Ens'
-import KittyVault from '../components/Homapage/KittyVault'
-import Posts from '../components/Homapage/Posts'
-// import ActiveEvents from '../components/Homapage/ActiveEvents'
-import RecentPosts from '../components/Homapage/RecentPosts'
+import Hero from '../components/Homepage/Hero'
+import Club from '../components/Homepage/Club'
+import Collections from '../components/Homepage/Collections'
+import Ens from '../components/Homepage/Ens'
+import KittyVault from '../components/Homepage/KittyVault'
+import Posts from '../components/Homepage/Posts'
+// import ActiveEvents from '../components/Homepage/ActiveEvents'
+import RecentPosts from '../components/Homepage/RecentPosts'
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext()

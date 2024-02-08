@@ -25,14 +25,14 @@
 :root {
   /* --ifm-font-family-base: como-pcc, ui-sans-serif, system-ui, -apple-system,
     BlinkMacSystemFont, Roboto, sans; */
-  --ifm-color-primary: #8767f2;
-  --ifm-color-primary-dark: #8767f2;
-  --ifm-color-primary-darker: #8767f2;
-  --ifm-color-primary-darkest: #8767f2;
-  --ifm-color-primary-light: #8767f2;
-  --ifm-color-primary-lighter: #8767f2;
-  --ifm-color-primary-lightest: #8767f2;
-  --ifm-background-color: rgb(240, 237, 254);
+  --ifm-color-primary: #000000;
+  --ifm-color-primary-dark: #000000;
+  --ifm-color-primary-darker: #000000;
+  --ifm-color-primary-darkest: #000000;
+  --ifm-color-primary-light: #000000;
+  --ifm-color-primary-lighter: #000000;
+  --ifm-color-primary-lightest: #000000;
+  --ifm-background-color: rgb(255, 255, 255);
   --ifm-navbar-background-color: #ffffff;
   --ifm-background-surface-color: #ffffff;
   --ifm-code-background-color: rgba(15, 23, 42, 0.05);
@@ -40,6 +40,7 @@
   --ifm-toc-border-color: rgba(0, 0, 0, 0.1);
   // --ifm-navbar-height: 64px;
   --ifm-navbar-sidebar-width: 90vw;
+  --ifm-footer-background-color: #ffffff;
 }
 
 .navbar__logo {
@@ -59,19 +60,20 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #9b81ef;
-  --ifm-color-primary-dark: #9b81ef;
-  --ifm-color-primary-darker: #9b81ef;
-  --ifm-color-primary-darkest: #9b81ef;
-  --ifm-color-primary-light: #9b81ef;
-  --ifm-color-primary-lighter: #9b81ef;
-  --ifm-color-primary-lightest: #9b81ef;
-  --ifm-background-color: rgb(23, 8, 48) !important;
-  --ifm-navbar-background-color: rgb(18, 15, 28);
-  --ifm-background-surface-color: rgba(15, 23, 42, 1);
-  --ifm-dropdown-background-color: rgb(36, 34, 46);
+  --ifm-color-primary: #ffffff;
+  --ifm-color-primary-dark: #ffffff;
+  --ifm-color-primary-darker: #ffffff;
+  --ifm-color-primary-darkest: #ffffff;
+  --ifm-color-primary-light: #ffffff;
+  --ifm-color-primary-lighter: #ffffff;
+  --ifm-color-primary-lightest: #ffffff; 
+  --ifm-background-color: #101010 !important;
+  --ifm-navbar-background-color: #101010;
+  --ifm-background-surface-color: #101010;
+  --ifm-dropdown-background-color: #101010;
   --ifm-code-background-color: rgba(255, 255, 255, 0.15);
   --ifm-toc-border-color: rgba(255, 255, 255, 0.1);
+  --ifm-footer-background-color: #101010;
 }
 
 .docusaurus-highlight-code-line {
@@ -143,8 +145,8 @@ div[class^='announcementBar_'] {
 }
 
 :root .navbar {
-  backdrop-filter: blur(8px);
-  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.9);
   border-bottom: var(--ifm-toc-border-color) solid 0;
   box-shadow: none;
   @apply shadow-md shadow-slate-300/30;
@@ -158,8 +160,8 @@ div[class^='announcementBar_'] {
 // }
 
 [data-theme='dark'] .navbar {
-  backdrop-filter: blur(8px);
-  background-color: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(10px);
+  background-color: rgba(16, 16, 16, 0.9);
   @apply shadow shadow-slate-500/30;
 }
 @-moz-document url-prefix() {
@@ -177,6 +179,7 @@ div[class^='announcementBar_'] {
   border: none !important;
   background: none !important;
   cursor: pointer !important;
+  color: #000000 important;
 }
 .aa-DetachedSearchButtonPlaceholder {
   display: none;

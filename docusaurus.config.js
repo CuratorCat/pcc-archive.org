@@ -3,15 +3,15 @@
 
 /** @type {import('@docusaurus/types')} */
 const config = {
-  title: 'PCC Archive',
+  title: 'Tejvir S. Mann',
   tagline: '#WeLoveThePurrs',
-  url: 'https://pcc-archive.org',
+  url: 'https://tejvirmann.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'CuratorCat', // Usually your GitHub org/user name.
-  projectName: 'pcc-archive.org', // Usually your repo name.
+  organizationName: 'tejvirmann', // Usually your GitHub org/user name.
+  projectName: 'my-website', // Usually your repo name.
   titleDelimiter: ' 😺 ', // Defaults to `|`
 
   presets: require('./config/presets'),

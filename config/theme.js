@@ -5,22 +5,22 @@ module.exports = {
   navbar: {
     // title: "PCC Archive",
     logo: {
-      alt: 'PCC Archive Logo',
+      alt: 'Tejvir S. Mann',
       src: 'img/logo-pcca.svg',
     },
     items: [
-      { to: '/club', label: '⛳️ Club', position: 'left' },
+      { to: '/club', label: 'Tejvir S. Mann', position: 'right' },
       {
-        label: '😺 Collections',
+        label: 'Collections',
         position: 'left',
         to: '/collections',
         items: [
           {
-            label: '😺 Cats',
+            label: 'Cats',
             to: '/collections/cats',
           },
           {
-            label: '🐈 Kittens',
+            label: 'Kittens',
             to: '/collections/kittens',
           },
           {
@@ -28,15 +28,15 @@ module.exports = {
             to: '/collections/grandmas',
           },
           {
-            label: '🛩 Exclusives',
+            label: 'Exclusives',
             to: '/collections/exclusives',
           },
           {
-            label: '🪂 KittyVault Purrks',
+            label: 'KittyVault Purrks',
             to: '/collections/kittyvault-purrks',
           },
           {
-            label: "🎁 Purrnelope's Gift",
+            label: "Purrnelope's Gift",
             to: '/collections/gift',
           },
           {
@@ -47,9 +47,9 @@ module.exports = {
       },
       { to: '/ens', label: '🆔 ENS', position: 'left' },
       { to: '/kittyvault', label: '🏦 KittyVault', position: 'left' },
-      { to: '/merch', label: '👕 Merch', position: 'left' },
+      { to: '/merch', label: 'Merch', position: 'left' },
       {
-        label: '📰 Posts',
+        label: 'Posts',
         position: 'left',
         to: '/posts',
         items: [
@@ -136,7 +136,7 @@ module.exports = {
         ],
       },
       {
-        title: 'PCC Official',
+        title: 'Tejvir S. Mann',
         items: [
           {
             label: 'Website',
@@ -170,7 +170,7 @@ module.exports = {
         ],
       },
     ],
-    copyright: `${new Date().getFullYear()} pcc-archive.org`,
+    copyright: `© ${new Date().getFullYear()} Tejvir S. Mann`,
   },
   image: 'img/pcc-archive-soc.jpg',
   metadata: [{ name: 'twitter:card', content: 'summary_large_image' }],
@@ -183,7 +183,7 @@ module.exports = {
     disableSwitch: false,
     respectPrefersColorScheme: true,
   },
-  announcementBar: require('./announcementBar'),
+  // announcementBar: require('./announcementBar'),
   metadata: [
     {
       name: 'viewport',

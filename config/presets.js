@@ -23,7 +23,7 @@ module.exports = [
         postsPerPage: 15,
         blogSidebarCount: 10,
         // Please change this to your repo.
-        editUrl: 'https://github.com/CuratorCat/pcc-archive.org/tree/main/',
+        editUrl: 'https://github.com/tejvirmann/my-website/tree/main',
       },
       theme: {
         customCss: require.resolve('../src/css/custom.scss'),
