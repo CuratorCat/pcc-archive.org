@@ -79,7 +79,7 @@ export default function Collections() {
             to="/collections"
             className="snap snap-end shrink-0 w-40 grid place-items-center text-center rounded-xl md:rounded-2xl bg-slate-500/20 hover:bg-violet-500/40 group transition-all duration-300"
           >
-            <p className="uppercase font-medium">Brwose All Collections</p>
+            <p className="uppercase font-medium">View All Work</p>
           </Link>
 
           {/* Hack for full-width */}

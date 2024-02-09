@@ -115,7 +115,7 @@ Add the correct font weight in Edge and Safari.
 
 b,
 strong {
-  font-weight: bolder;
+  font-weight: 500;
 }
 
 /*

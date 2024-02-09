@@ -79,7 +79,7 @@ function filterResources(
   })
 }
 
-function useFilteredResources() {
+export function useFilteredResources() {
   const location = useLocation<ResourceState>()
   const [operator, setOperator] = useState<Operator>('OR')
   // On SSR / first mount (hydration) no tag is selected
@@ -115,14 +115,14 @@ function ShowcaseHeader() {
 }
 
 function ShowcaseFilters() {
-  const filteredResouces = useFilteredResources()
+  const filteredResources = useFilteredResources()
   return (
     <section className="max-w-7xl px-3 sm:px-6 mx-auto ">
       <div className="p-4 bg-white/50 dark:bg-black/20 rounded-2xl">
         <div className={clsx('margin-bottom--sm', styles.filterCheckbox)}>
           <div>
             <h2>Filters</h2>
-            <span>({filteredResouces.length})</span>
+            <span>({filteredResources.length})</span>
           </div>
           <ShowcaseFilterToggle />
         </div>
@@ -146,7 +146,7 @@ function ShowcaseFilters() {
 const favoriteResources = sortedResources.filter(resource => resource.tags.includes('favorite'))
 const otherResources = sortedResources.filter(resource => !resource.tags.includes('favorite'))
 
-function SearchBar() {
+export function SearchBar() {
   const history = useHistory()
   const location = useLocation()
   const [value, setValue] = useState<string | null>(null)
@@ -186,10 +186,10 @@ function SearchBar() {
   )
 }
 
-function ShowcaseCards() {
-  const filteredResouces = useFilteredResources()
+export function ShowcaseCards() {
+  const filteredResources = useFilteredResources()
 
-  if (filteredResouces.length === 0) {
+  if (filteredResources.length === 0) {
     return (
       <section className="py-6">
         <div className="container padding-vert--md text--center">
@@ -202,7 +202,7 @@ function ShowcaseCards() {
 
   return (
     <section className="py-6">
-      {filteredResouces.length === sortedResources.length ? (
+      {filteredResources.length === sortedResources.length ? (
         <>
           <div className="max-w-7xl px-3 sm:px-6 mx-auto">
             <div className={clsx('margin-bottom--md', styles.showcaseFavoriteHeader)}>
@@ -236,7 +236,7 @@ function ShowcaseCards() {
             <SearchBar />
           </div>
           <ul className={clsx('clean-list', styles.showcaseList)}>
-            {filteredResouces.map(resource => (
+            {filteredResources.map(resource => (
               <ShowcaseCard key={resource.title} resource={resource} />
             ))}
           </ul>

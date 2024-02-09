@@ -63,7 +63,7 @@ description: Smart Contract Addresses & Important Accounts of Purrnelope's Count
 
 ## Important Accounts
 
-### 🏦 KittyVault Account
+### KittyVault Account
 
 - **Ethereum / EOA**
 - `0x1d1c9Dad9A24b1E9324605153906d584520b8e93` [Etherscan](https://etherscan.io/address/0x1d1c9Dad9A24b1E9324605153906d584520b8e93)

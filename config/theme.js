@@ -3,16 +3,16 @@ const lightCodeTheme = require('prism-react-renderer/themes/github')
 const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 module.exports = {
   navbar: {
-    // title: "PCC Archive",
+   // title: "Tejvir S. Mann",
     logo: {
       alt: 'Tejvir S. Mann',
       src: 'img/logo-pcca.svg',
     },
     items: [
-      { to: '/club', label: 'Tejvir S. Mann', position: 'right' },
+      { to: '/club', label: 'Chicken', position: 'right' },
       {
         label: 'Collections',
-        position: 'left',
+        position: 'right',
         to: '/collections',
         items: [
           {
@@ -32,7 +32,7 @@ module.exports = {
             to: '/collections/exclusives',
           },
           {
-            label: 'KittyVault Purrks',
+            label: 'Purks',
             to: '/collections/kittyvault-purrks',
           },
           {
@@ -45,12 +45,12 @@ module.exports = {
           },
         ],
       },
-      { to: '/ens', label: '🆔 ENS', position: 'left' },
-      { to: '/kittyvault', label: '🏦 KittyVault', position: 'left' },
-      { to: '/merch', label: 'Merch', position: 'left' },
+      { to: '/ens', label: '🆔 ENS', position: 'right' },
+      { to: '/kittyvault', label: 'Current Project', position: 'right' },
+      { to: '/merch', label: 'Merch', position: 'right' },
       {
         label: 'Posts',
-        position: 'left',
+        position: 'right',
         to: '/posts',
         items: [
           {
@@ -87,10 +87,10 @@ module.exports = {
           },
         ],
       },
-      { to: '/welovethepurrs', label: '💜 Purrs', position: 'left' },
+      { to: '/welovethepurrs', label: '💜 Purrs', position: 'right' },
       {
         label: 'More',
-        position: 'left',
+        position: 'right',
         items: [
           {
             label: '😼 PCC Team',
@@ -117,59 +117,59 @@ module.exports = {
     ],
   },
   footer: {
-    links: [
-      {
-        title: 'PCC-Archive.org',
-        items: [
-          {
-            label: 'About PCC Archive',
-            to: '/about',
-          },
-          {
-            label: 'Contribute',
-            to: '/contribute',
-          },
-          {
-            label: "PCC Archive's GitHub",
-            href: 'https://github.com/CuratorCat/pcc-archive.org',
-          },
-        ],
-      },
-      {
-        title: 'Tejvir S. Mann',
-        items: [
-          {
-            label: 'Website',
-            href: 'https://www.purrnelopescountryclub.com/',
-          },
-          {
-            label: 'Discord',
-            href: 'http://discord.gg/purrnelopescountryclub',
-          },
-          {
-            label: 'Twitter',
-            href: 'https://twitter.com/PurrnelopesCC',
-          },
-          {
-            label: 'Official Links',
-            to: '/official-links',
-          },
-        ],
-      },
-      {
-        title: 'More',
-        items: [
-          {
-            label: 'Posts Archive',
-            to: '/posts/archive',
-          },
-          {
-            label: 'Posts Tags',
-            to: '/posts/tags',
-          },
-        ],
-      },
-    ],
+  //   links: [
+  //     {
+  //       title: 'PCC-Archive.org',
+  //       items: [
+  //         {
+  //           label: 'About PCC Archive',
+  //           to: '/about',
+  //         },
+  //         {
+  //           label: 'Contribute',
+  //           to: '/contribute',
+  //         },
+  //         {
+  //           label: "PCC Archive's GitHub",
+  //           href: 'https://github.com/CuratorCat/pcc-archive.org',
+  //         },
+  //       ],
+  //     },
+  //     {
+  //       title: 'Tejvir S. Mann',
+  //       items: [
+  //         {
+  //           label: 'Website',
+  //           href: 'https://www.purrnelopescountryclub.com/',
+  //         },
+  //         {
+  //           label: 'Discord',
+  //           href: 'http://discord.gg/purrnelopescountryclub',
+  //         },
+  //         {
+  //           label: 'Twitter',
+  //           href: 'https://twitter.com/PurrnelopesCC',
+  //         },
+  //         {
+  //           label: 'Official Links',
+  //           to: '/official-links',
+  //         },
+  //       ],
+  //     },
+  //     {
+  //       title: 'More',
+  //       items: [
+  //         {
+  //           label: 'Posts Archive',
+  //           to: '/posts/archive',
+  //         },
+  //         {
+  //           label: 'Posts Tags',
+  //           to: '/posts/tags',
+  //         },
+  //       ],
+  //     },
+  //   ],
     copyright: `© ${new Date().getFullYear()} Tejvir S. Mann`,
   },
   image: 'img/pcc-archive-soc.jpg',
@@ -183,7 +183,7 @@ module.exports = {
     disableSwitch: false,
     respectPrefersColorScheme: true,
   },
-  // announcementBar: require('./announcementBar'),
+  announcementBar: require('./announcementBar'),
   metadata: [
     {
       name: 'viewport',
