@@ -76,7 +76,7 @@
   font-size: smaller;
   padding-bottom: 0.1em;
   line-height: 1.25em;
-  min-height: 2.5em;
+  min-height: 0em;
 }
 
 .cardFooter {
