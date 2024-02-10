@@ -9,7 +9,6 @@ module.exports = {
       src: 'img/logo-pcca.svg',
     },
     items: [
-      { to: '/club', label: 'Chicken', position: 'right' },
       {
         label: 'Collections',
         position: 'right',
@@ -46,8 +45,9 @@ module.exports = {
         ],
       },
       { to: '/ens', label: '🆔 ENS', position: 'right' },
-      { to: '/kittyvault', label: 'Current Project', position: 'right' },
+      { to: '/chat', label: 'Chat', position: 'right' },
       { to: '/merch', label: 'Merch', position: 'right' },
+      { to: '/resources', label: 'Resources', position: 'right' },
       {
         label: 'Logs',
         position: 'right',
@@ -57,10 +57,10 @@ module.exports = {
             label: 'Tags',
             to: '/logs/tags/',
           },
-          // {
-          //   label: 'Projects',
-          //   to: '/logs/tags/projects',
-          // },
+          {
+            label: 'Projects',
+            to: '/logs/projects/project2',
+          },
           {
             label: 'All Logs',
             to: '/logs/',
@@ -71,33 +71,17 @@ module.exports = {
           // },
         ],
       },
-      // { to: '/welovethepurrs', label: '💜 Purrs', position: 'right' },
-      // {
-      //   label: 'More',
-      //   position: 'right',
-      //   items: [
-      //     {
-      //       label: '😼 PCC Team',
-      //       to: '/club/team',
-      //     },
-      //     {
-      //       label: '🔗 PCC Official Links',
-      //       to: '/official-links',
-      //     },
-      //     {
-      //       label: '🎨 Artwork',
-      //       to: '/artwork',
-      //     },
-      //     {
-      //       label: '🛠 Contracts & EOA Addresses',
-      //       to: '/addresses',
-      //     },
-      //     {
-      //       label: '🛰 Resources',
-      //       to: '/resources',
-      //     },
-      //   ],
-      // },
+      { to: '/projects', label: 'Projects', position: 'right' },
+      {
+        label: 'projects',
+        position: 'right',
+        items: [
+          {
+            label: 'Project 1',
+            to: 'projects/Project-1',
+          },
+        ],
+      },
     ],
   },
   footer: {

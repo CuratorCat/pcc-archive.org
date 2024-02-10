@@ -1,5 +1,5 @@
 ---
-title: Purrs showing their Physical PCC Model Cats
+title: Project 2
 description: "First batch of Physical PCC Model Cat started shipping to holders in July 2022."
 date: 2022-07-18
 authors: purrnelope

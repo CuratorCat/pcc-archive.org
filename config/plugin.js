@@ -21,15 +21,15 @@ module.exports = [
       },
     },
   ],
-  // [
-  //   '@docusaurus/plugin-content-blog',
-  //   {
-  //     id: 'welovethepurrs',
-  //     routeBasePath: 'welovethepurrs',
-  //     path: './welovethepurrs',
-  //     blogTitle: '#WeLoveThePurrs (made by purrs)',
-  //   },
-  // ],
+  [
+    '@docusaurus/plugin-content-blog',
+    {
+      id: 'projects',
+      routeBasePath: 'projects',
+      path: './projects',
+      blogTitle: 'Here are Tejvirs Projects',
+    },
+  ],
   async function myPlugin(context, options) {
     return {
       name: 'docusaurus-tailwindcss',

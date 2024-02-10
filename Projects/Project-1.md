@@ -1,10 +1,10 @@
 ---
-title: Purrs showing their Lucky Cat Tees from PCC Merch
+title: Project 1
 description: ""
 date: 2022-07-06
 # authors: purrnelope
-image: ./assets/luckycat-tee.jpg
-tags: [Merch]
+# image: ./assets/luckycat-tee.jpg
+tags: [ProjectTag]
 ---
 
 import {EmbedTweet} from '@site/src/components/Social'
