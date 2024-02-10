@@ -85,7 +85,7 @@ Unboxing Video by katie.pcc.eth
 
 ### Photos
 
-- First Batch started to shipping to holders in July 2022. [See photos](/welovethepurrs/2022/model-cat-batch-1)
+
 
 ### Alpha for Series 2
 

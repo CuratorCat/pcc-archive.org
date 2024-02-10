@@ -32,5 +32,3 @@ description: "PCC Tees: pcc.eth Tee, Logo Tee, MiniMEOW Tee etc."
 ![](./assets/t-shirts/luckycat-tee.jpg)
 
 - Release: July 2022
-- Limited: 100 Editions
-- See Purrs showing their Tees [Photos](/welovethepurrs/2022/luckycat-tee)

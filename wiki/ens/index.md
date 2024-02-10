@@ -51,7 +51,7 @@ There are some services currently support display web3 profile:
 
 ### And more
 
-**.pcc.eth** is more than a name and avatar, it's **Proof of Ownership**, **Your Wallet Address**, **Searchable Profile Picture**, **Your Community**, **Proof of Flex, Marketing for your Community**, **Integrates your Brand**, **Bot Integratable**. Read more on [Carlini8's Tweet Thread On .pcc.eth](/posts/2022/04/14/post/carlini8-tweet-pcc-eth)
+**.pcc.eth** is more than a name and avatar, it's **Proof of Ownership**, **Your Wallet Address**, **Searchable Profile Picture**, **Your Community**, **Proof of Flex, Marketing for your Community**, **Integrates your Brand**, **Bot Integratable**. 
 
 ## Guides {#guides}
 
@@ -87,9 +87,6 @@ See [FAQ Page](faq.md) for all FAQ for .pcc.eth ENS Subdomains.
 ## Learn more
 
 - Claim Page: [purrnelopescountryclub.com/ens](https://www.purrnelopescountryclub.com/ens)
-- Team Post: [PCC — ENS subdomains](/posts/2021/12/14/post/pcc-ens-subdomains)
-- PurrCast: [ENS subdomains with hodl.pcc.eth](/posts/2022/04/20/purrcast/)
-- Video: [PCC Sub Domains: Explained](/posts/explained/202112-ens-subdomains)
 
 ## Stats
 
