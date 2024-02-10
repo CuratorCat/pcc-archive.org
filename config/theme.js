@@ -57,47 +57,47 @@ module.exports = {
             label: 'Tags',
             to: '/logs/tags/',
           },
-          {
-            label: 'Projects',
-            to: '/logs/tags/projects',
-          },
+          // {
+          //   label: 'Projects',
+          //   to: '/logs/tags/projects',
+          // },
           {
             label: 'All Logs',
             to: '/logs/',
           },
-          {
-            label: 'Archive',
-            to: '/logs/tags/archive',
-          },
+          // {
+          //   label: 'Archive',
+          //   to: '/logs/tags/archive',
+          // },
         ],
       },
-      { to: '/welovethepurrs', label: '💜 Purrs', position: 'right' },
-      {
-        label: 'More',
-        position: 'right',
-        items: [
-          {
-            label: '😼 PCC Team',
-            to: '/club/team',
-          },
-          {
-            label: '🔗 PCC Official Links',
-            to: '/official-links',
-          },
-          {
-            label: '🎨 Artwork',
-            to: '/artwork',
-          },
-          {
-            label: '🛠 Contracts & EOA Addresses',
-            to: '/addresses',
-          },
-          {
-            label: '🛰 Resources',
-            to: '/resources',
-          },
-        ],
-      },
+      // { to: '/welovethepurrs', label: '💜 Purrs', position: 'right' },
+      // {
+      //   label: 'More',
+      //   position: 'right',
+      //   items: [
+      //     {
+      //       label: '😼 PCC Team',
+      //       to: '/club/team',
+      //     },
+      //     {
+      //       label: '🔗 PCC Official Links',
+      //       to: '/official-links',
+      //     },
+      //     {
+      //       label: '🎨 Artwork',
+      //       to: '/artwork',
+      //     },
+      //     {
+      //       label: '🛠 Contracts & EOA Addresses',
+      //       to: '/addresses',
+      //     },
+      //     {
+      //       label: '🛰 Resources',
+      //       to: '/resources',
+      //     },
+      //   ],
+      // },
     ],
   },
   footer: {
