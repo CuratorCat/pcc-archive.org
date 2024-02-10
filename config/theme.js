@@ -31,10 +31,6 @@ module.exports = {
             to: '/collections/exclusives',
           },
           {
-            label: 'Purks',
-            to: '/collections/kittyvault-purrks',
-          },
-          {
             label: "Purrnelope's Gift",
             to: '/collections/gift',
           },
@@ -71,17 +67,17 @@ module.exports = {
           // },
         ],
       },
-      { to: '/projects', label: 'Projects', position: 'right' },
-      {
-        label: 'projects',
-        position: 'right',
-        items: [
-          {
-            label: 'Project 1',
-            to: 'projects/Project-1',
-          },
-        ],
-      },
+      // {
+      //   label: 'projects',
+      //   position: 'right',
+      //   to: '/projects',
+      //   items: [
+      //     {
+      //       label: 'Project 1',
+      //       to: 'projects/Project-1',
+      //     },
+      //   ],
+      // },
     ],
   },
   footer: {

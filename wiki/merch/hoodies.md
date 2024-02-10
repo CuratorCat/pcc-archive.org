@@ -6,7 +6,7 @@ image: ./assets/hoodies/hoodie.jpg
 # description: 'PCC Hoodie'
 ---
 
-PCC Hoodie can be redeemed with [Hoodie Cat NFT](../collections/kittyvault-purrks/1-hoodie-cat.md).
+<!-- PCC Hoodie can be redeemed with [Hoodie Cat NFT](../collections/kittyvault-purrks/1-hoodie-cat.md). -->
 
 10 Hoodie Cat NFTs will be required to redeem 1 Physical Hoodie.
 

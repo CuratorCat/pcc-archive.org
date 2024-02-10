@@ -27,12 +27,5 @@
     "description": "2nd Cat Companion",
     "tier": 3,
     "imageUrl": "/img/collection-grandmas.jpg"
-  },
-  {
-    "title": "Kitty Vault Purrks",
-    "href": "/collections/kittyvault-purrks",
-    "description": "8 Airdrops",
-    "tier": null,
-    "imageUrl": "/img/collection-purrks.jpg"
   }
 ]

@@ -25,7 +25,7 @@ PCC Merch Store ([store.purrnelopescountryclub.com](https://store.purrnelopescou
 
 ## Redeemable Physicals
 
-The following merches can only be redeemed with [KittyVault Purrks](../collections/kittyvault-purrks/index.md).
+<!-- The following merches can only be redeemed with [KittyVault Purrks](../collections/kittyvault-purrks/index.md). -->
 
 **Redeem Open Now**:
 
