@@ -2,11 +2,11 @@
 sidebar_position: 2
 title: 😺 Purrnelope's Cats
 sidebar_label: 😺 Cats
-image: /img/cover/pcc-cats.jpg
+# image: /img/cover/pcc-cats.jpg
 description: Cats of Purrnelope's Country Club are the first NFT collection in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. Cats are Tier 1 NFTs.
 ---
 
-😺
+<!-- 😺
 [Contract](https://etherscan.io/address/0x9759226b2f8ddeff81583e244ef3bd13aaa7e4a1) ·
 [OpenSea](https://opensea.io/collection/purrnelopes-country-club) ·
 [LooksRare](https://looksrare.org/collections/0x9759226B2F8ddEFF81583e244Ef3bd13AAA7e4A1) ·
@@ -111,4 +111,4 @@ The team updated token base URI during the mint to reveal token metadata and the
 ### Tools
 
 - [Flip.Finance](https://www.flips.finance/collection/purrnelopes-country-club)
-- [NFT Bag Check](https://nftbagcheck.com/collection/purrnelopes-country-club)
+- [NFT Bag Check](https://nftbagcheck.com/collection/purrnelopes-country-club) -->

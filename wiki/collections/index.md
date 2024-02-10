@@ -11,7 +11,6 @@ import Kittens from './\_kittens.md';
 import Grandma from './\_grandma.md';
 import Tier2 from './\_tier2.md';
 import Gift from './\_gift.md';
-import KVPurrks from './\_kittyvault-purrks.md';
 
 ![](./assets/pcc-collections.jpg)
 
@@ -87,7 +86,7 @@ Exclusives may receive extra perks in PCC Universe.
 
 <span className="wikiPostListImgR">
 
-[![](../collections/kittyvault-purrks/assets/purrks-s.jpg)](../collections/kittyvault-purrks/index.md)
+<!-- [![](../collections/kittyvault-purrks/assets/purrks-s.jpg)](../collections/kittyvault-purrks/index.md) -->
 
 </span>
 

@@ -2,12 +2,12 @@
 sidebar_position: 20
 title: 🐈 Purrnelope's Kittens
 sidebar_label: 🐈 Kittens
-image: /img/cover/pcc-kittens.jpg
+# image: /img/cover/pcc-kittens.jpg
 description: Purrnelope's Kittens is the 2nd collection in PCC Universe with 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. And Kittens are the 1st companion to the Cats. Kittens are Tier 3 NFTs.
 ---
 
 🐈
-[Contract](https://etherscan.io/address/0x0c6218d95735d3e12ae7c4703106e4b8e0b61010) ·
+<!-- [Contract](https://etherscan.io/address/0x0c6218d95735d3e12ae7c4703106e4b8e0b61010) ·
 [OpenSea](https://opensea.io/collection/purrnelopes-kittens) ·
 [LooksRare](https://looksrare.org/collections/0x0c6218D95735d3E12AE7C4703106E4b8e0b61010)
 🐈
@@ -248,4 +248,4 @@ function redeemKittyBankFractions(uint256[] calldata ids) public {
 - [OpenSea](https://opensea.io/collection/purrnelopes-kittens)
 - [LooksRare](https://looksrare.org/collections/0x0c6218D95735d3E12AE7C4703106E4b8e0b61010)
 
-[^1]: Kittens giveaway was mentioned in [PurrCast 2020-04-13](/posts/2022/04/20/purrcast)
+[^1]: Kittens giveaway was mentioned in [PurrCast 2020-04-13](/posts/2022/04/20/purrcast) -->

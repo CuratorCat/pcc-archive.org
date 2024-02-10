@@ -1,13 +1,13 @@
 ---
 sidebar_position: 50
 title: 🎁 Purrnelope's Gift
-image: /img/cover/pcc-gift.jpg
+# image: /img/cover/pcc-gift.jpg
 description: Purrnelope's Gifts are a long term plan to reward PCC's loyal fans.
 ---
 
 🎁
 [Contract](https://etherscan.io/address/0x0d4790d7dce2c3474f4f6b6d7bf37bdeab651bba) ·
-[OpenSea](https://opensea.io/collection/purrnelopes-gift) ·
+<!-- [OpenSea](https://opensea.io/collection/purrnelopes-gift) ·
 [LooksRare](https://looksrare.org/collections/0x0d4790d7dce2c3474f4f6b6d7bf37bdeab651bba)
 🎁 
 ![Purrnelope's Gift](./assets/pcc-gift.jpg)
@@ -40,4 +40,4 @@ The Diamond Claws Gift is a thank you for believing in PCC project. The willingn
 
 ### Claim
 
-Can be claimed on PCC's website for eligible users: [purrnelopescountryclub.com/claim/diamond-claws](https://www.purrnelopescountryclub.com/claim/diamond-claws)
+Can be claimed on PCC's website for eligible users: [purrnelopescountryclub.com/claim/diamond-claws](https://www.purrnelopescountryclub.com/claim/diamond-claws) -->
