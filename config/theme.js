@@ -49,41 +49,25 @@ module.exports = {
       { to: '/kittyvault', label: 'Current Project', position: 'right' },
       { to: '/merch', label: 'Merch', position: 'right' },
       {
-        label: 'Posts',
+        label: 'Logs',
         position: 'right',
-        to: '/posts',
+        to: '/logs',
         items: [
           {
-            label: '📅 Weekly Update',
-            to: '/posts/tags/weekly-update',
+            label: 'Tags',
+            to: '/logs/tags/',
           },
           {
-            label: '📔 Team Blog',
-            to: '/posts/tags/blog',
+            label: 'Projects',
+            to: '/logs/tags/projects',
           },
           {
-            label: '🎙 PurrCast',
-            to: '/posts/tags/purr-cast',
+            label: 'All Logs',
+            to: '/logs/',
           },
           {
-            label: '💬 Interview',
-            to: '/posts/tags/interview',
-          },
-          {
-            label: '🧐 Explained',
-            to: '/posts/tags/explained',
-          },
-          {
-            label: '👨‍🏫 Learn',
-            to: '/posts/tags/learn',
-          },
-          {
-            label: '🏷 All Tags',
-            to: '/posts/tags',
-          },
-          {
-            label: 'All Posts',
-            to: '/posts',
+            label: 'Archive',
+            to: '/logs/tags/archive',
           },
         ],
       },

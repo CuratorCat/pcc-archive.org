@@ -24,10 +24,10 @@ module.exports = [
   [
     '@docusaurus/plugin-content-blog',
     {
-      id: 'blog',
-      routeBasePath: 'blog',
-      path: './blog',
-      blogTitle: 'Tejvirs Blogs',
+      id: 'welovethepurrs',
+      routeBasePath: 'welovethepurrs',
+      path: './welovethepurrs',
+      blogTitle: '#WeLoveThePurrs (made by purrs)',
     },
   ],
   async function myPlugin(context, options) {
